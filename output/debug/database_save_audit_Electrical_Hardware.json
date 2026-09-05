@@ -1,0 +1,48 @@
+{
+  "category": "Electrical Hardware",
+  "records_before_save": 6,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1326,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917174142663",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GLOBALSALE",
+      "database_id": 1327,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "globalsalegroup@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "BELLOX ENTERPRISE",
+      "database_id": 1328,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "24DSLPM4462G1ZK",
+      "pan": "DSLPM4462G",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

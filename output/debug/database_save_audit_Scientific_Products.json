@@ -1,0 +1,48 @@
+{
+  "category": "Scientific Products",
+  "records_before_save": 9,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1381,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919022676540",
+      "email": "care@cocoblu.in",
+      "gst": "33AAJCC8517E1ZS",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DecorTwist Private Limited",
+      "database_id": 1412,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919528289030",
+      "email": "info@cbinsights.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "FRYIO",
+      "database_id": 1383,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919498794987",
+      "email": "davidmoore@thefryecompany.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.fryio.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

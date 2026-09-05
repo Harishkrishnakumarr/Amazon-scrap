@@ -1,0 +1,407 @@
+[
+  {
+    "business": "Basic Build",
+    "field": "Business Name",
+    "value": "Basic Build",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A365WMODQQF85I&asin=B0FT7PQ7X9&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T17:54:40.282025"
+  },
+  {
+    "seller": "Basic Build",
+    "field": "Website",
+    "query": "Basic Build official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://sourceforge.net/projects/kidbasic/",
+      "https://onecompiler.com/basic"
+    ],
+    "timestamp": "2026-09-01T17:54:42.916182",
+    "status": "results_found"
+  },
+  {
+    "seller": "Basic Build",
+    "field": "Legal Entity Name",
+    "query": "Basic Build company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sourceforge.net/projects/kidbasic/",
+      "https://onecompiler.com/basic",
+      "https://www.merriam-webster.com/dictionary/basic",
+      "https://en.wikibooks.org/wiki/BASIC_Programming"
+    ],
+    "timestamp": "2026-09-01T17:54:54.211031",
+    "status": "results_found"
+  },
+  {
+    "seller": "Basic Build",
+    "field": "PAN",
+    "query": "Basic Build PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sourceforge.net/projects/kidbasic/",
+      "https://onecompiler.com/basic",
+      "https://www.merriam-webster.com/dictionary/basic",
+      "https://en.wikibooks.org/wiki/BASIC_Programming"
+    ],
+    "timestamp": "2026-09-01T17:55:09.406050",
+    "status": "results_found"
+  },
+  {
+    "business": "Basic Build",
+    "field": "Email Address",
+    "value": "uglymike@users.sourceforge.net",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sourceforge.net/projects/kidbasic/",
+    "timestamp": "2026-09-01T17:55:11.161130"
+  },
+  {
+    "seller": "Basic Build",
+    "field": "GST",
+    "query": "Basic Build GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T17:55:42.716252",
+    "status": "no_results"
+  },
+  {
+    "seller": "Basic Build",
+    "field": "GST",
+    "query": "Basic Build GST number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T17:55:54.152203",
+    "status": "no_results"
+  },
+  {
+    "seller": "Basic Build",
+    "field": "Owner",
+    "query": "Basic Build director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T17:56:07.839006",
+    "status": "no_results"
+  },
+  {
+    "seller": "Basic Build",
+    "field": "Owner",
+    "query": "Basic Build founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T17:56:20.166441",
+    "status": "no_results"
+  },
+  {
+    "seller": "Basic Build",
+    "field": "Address",
+    "query": "Basic Build registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T17:56:27.461042",
+    "status": "no_results"
+  },
+  {
+    "seller": "Basic Build",
+    "field": "Address",
+    "query": "Basic Build registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sourceforge.net/projects/kidbasic/",
+      "https://onecompiler.com/basic",
+      "https://www.merriam-webster.com/dictionary/basic",
+      "https://en.wikibooks.org/wiki/BASIC_Programming"
+    ],
+    "timestamp": "2026-09-01T17:56:30.091325",
+    "status": "results_found"
+  },
+  {
+    "seller": "Basic Build",
+    "field": "Phone",
+    "query": "Basic Build phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sourceforge.net/projects/kidbasic/",
+      "https://onecompiler.com/basic",
+      "https://www.merriam-webster.com/dictionary/basic",
+      "https://en.wikibooks.org/wiki/BASIC_Programming"
+    ],
+    "timestamp": "2026-09-01T17:56:40.397033",
+    "status": "results_found"
+  },
+  {
+    "business": "eazyshoppe",
+    "field": "Business Name",
+    "value": "eazyshoppe",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K2Y1AXGFB0N4&asin=B0B3T6HFH8&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T17:56:41.998013"
+  },
+  {
+    "seller": "eazyshoppe",
+    "field": "Website",
+    "query": "eazyshoppe official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.chess.com/login",
+      "https://www.chess.com/"
+    ],
+    "timestamp": "2026-09-01T17:56:44.622065",
+    "status": "results_found"
+  },
+  {
+    "seller": "eazyshoppe",
+    "field": "Legal Entity Name",
+    "query": "eazyshoppe company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=d31e409e41c81d2945dc2a0885561af6&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://eazyshopee.cloudpub.in/CompanySetUp/Index",
+      "https://www.eazyshopee.com/",
+      "https://eazyshopee.com/Customer/register.aspx"
+    ],
+    "timestamp": "2026-09-01T17:56:59.743580",
+    "status": "results_found"
+  },
+  {
+    "business": "eazyshoppe",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=d31e409e41c81d2945dc2a0885561af6&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-09-01T17:57:01.978483"
+  },
+  {
+    "seller": "eazyshoppe",
+    "field": "PAN",
+    "query": "eazyshoppe PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.msdmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/delusional-disorder",
+      "https://my.clevelandclinic.org/health/diseases/9599-delusional-disorder",
+      "https://www.health.harvard.edu/a_to_z/delusional-disorder-a-to-z",
+      "https://www.psychologytoday.com/us/conditions/delusional-disorder?msockid=27b801281377634c1aa016ef124162e0"
+    ],
+    "timestamp": "2026-09-01T17:57:20.560033",
+    "status": "results_found"
+  },
+  {
+    "seller": "eazyshoppe",
+    "field": "GST",
+    "query": "eazyshoppe GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/2691-open-control-panel-windows-10-a.html",
+      "https://www.tenforums.com/tutorials/86339-list-commands-open-control-panel-items-windows-10-a.html",
+      "https://superuser.com/questions/111036/how-to-change-the-printer-icon-displayed-in-the-control-panel",
+      "https://superuser.com/questions/191284/how-can-changes-to-java-control-panel-settings-be-saved"
+    ],
+    "timestamp": "2026-09-01T17:57:35.628498",
+    "status": "results_found"
+  },
+  {
+    "seller": "eazyshoppe",
+    "field": "Owner",
+    "query": "eazyshoppe director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/84119-adjust-volume-level-individual-devices-apps-windows-10-a.html",
+      "https://www.tenforums.com/general-support/92658-volume-slider-background-color.html",
+      "https://www.eightforums.com/threads/volume-mixer.12449/",
+      "https://www.eightforums.com/threads/free-soundmixer-windows-volume-mixer-open-autoclose.66199/"
+    ],
+    "timestamp": "2026-09-01T17:57:49.464817",
+    "status": "results_found"
+  },
+  {
+    "seller": "eazyshoppe",
+    "field": "Address",
+    "query": "eazyshoppe registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.eazyshoppe.3f3b79466bcd7eacc20780a407a3a019.html",
+      "https://piceapp.com/gst-number-search/eazyshoppe-27ahapa2230m1zs/",
+      "https://www.eazyshopee.com/",
+      "https://www.mastersindia.co/gst-search/?name=master-bharat-amee&gstin=27AHAPA2230M1ZS"
+    ],
+    "timestamp": "2026-09-01T17:58:08.466749",
+    "status": "results_found"
+  },
+  {
+    "seller": "eazyshoppe",
+    "field": "Email",
+    "query": "eazyshoppe email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.eazyshopee.com/",
+      "https://www.eazyshopee.com/Customer/user_login.aspx",
+      "https://www.eazyshopee.com/Customer/register.aspx",
+      "https://www.eazyshopee.com/terms.aspx"
+    ],
+    "timestamp": "2026-09-01T17:58:23.810921",
+    "status": "results_found"
+  },
+  {
+    "business": "eazyshoppe",
+    "field": "Email Address",
+    "value": "info@eazyshopee.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.eazyshopee.com/terms.aspx",
+    "timestamp": "2026-09-01T17:58:34.728053"
+  },
+  {
+    "business": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Business Name",
+    "value": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A213Z8B661B9J3&asin=B0D44YSY5F&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T17:58:38.648932"
+  },
+  {
+    "seller": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Website",
+    "query": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.onthisday.com/",
+      "https://www.onthisday.com/today/events.php"
+    ],
+    "timestamp": "2026-09-01T17:58:45.226994",
+    "status": "results_found"
+  },
+  {
+    "seller": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Legal Entity Name",
+    "query": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50 company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5573643",
+      "https://forum.lowyat.net/topic/5556449"
+    ],
+    "timestamp": "2026-09-01T17:58:54.325304",
+    "status": "results_found"
+  },
+  {
+    "seller": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Legal Entity Name",
+    "query": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50 Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mcqstestprep.com/biryani-quiz/",
+      "https://www.idiva.com/lifestyle/food/the-ultimate-biryani-trivia-quiz-every-biryani-lover-should-take/quiz/18003848",
+      "https://quizzly.ai/play/biryani",
+      "https://resources.quizalize.com/view/quiz/food-biriyani-2bc2ddc9-c3f7-4e9d-980d-aed36fbd5e78"
+    ],
+    "timestamp": "2026-09-01T17:59:09.260249",
+    "status": "results_found"
+  },
+  {
+    "seller": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "PAN",
+    "query": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50 PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/alexisvalentino/Chatgpt-DAN",
+      "https://github.com/rasbt/LLMs-from-scratch",
+      "https://github.com/f/prompts.chat"
+    ],
+    "timestamp": "2026-09-01T17:59:12.766206",
+    "status": "results_found"
+  },
+  {
+    "seller": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "GST",
+    "query": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50 GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.raginpagin.com/",
+      "https://www.raginpagin.com/promotions/raggio-glen/2004-louisiana-football-schedule.csv",
+      "https://www.allpar.com/threads/tavares-issues-stark-warning-on-ev-prices.245592/page-5",
+      "https://www.allpar.com/threads/desoto.155196/"
+    ],
+    "timestamp": "2026-09-01T17:59:28.384676",
+    "status": "results_found"
+  },
+  {
+    "seller": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Owner",
+    "query": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50 director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T17:59:57.011690",
+    "status": "no_results"
+  },
+  {
+    "seller": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Address",
+    "query": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50 registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.snapchat.com/@manitakumar8792"
+    ],
+    "timestamp": "2026-09-01T18:00:07.864322",
+    "status": "results_found"
+  },
+  {
+    "seller": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Phone",
+    "query": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50 phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://docs.github.com/pages",
+      "https://github.com/karpathy/nanochat"
+    ],
+    "timestamp": "2026-09-01T18:00:18.324244",
+    "status": "results_found"
+  },
+  {
+    "seller": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Email",
+    "query": "veer teja enterprise \u2b50\u2b50\u2b50\u2b50\u2b50 email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/karpathy/nanochat",
+      "https://github.com/rasbt/LLMs-from-scratch"
+    ],
+    "timestamp": "2026-09-01T18:00:35.713265",
+    "status": "results_found"
+  }
+]

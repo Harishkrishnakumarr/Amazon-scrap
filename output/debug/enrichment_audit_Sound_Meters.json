@@ -1,0 +1,830 @@
+[
+  {
+    "business": "Overseas_shop",
+    "field": "Business Name",
+    "value": "Overseas_shop",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/details/?seller=A2N740TWTU8O1W&sshmPath=shipping-rates",
+    "timestamp": "2026-08-31T12:41:00.525228"
+  },
+  {
+    "seller": "Overseas_shop",
+    "field": "Website",
+    "query": "Overseas_shop official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://overseaslogistic.com/",
+      "https://dictionary.cambridge.org/dictionary/english/overseas"
+    ],
+    "timestamp": "2026-08-31T12:41:02.416793",
+    "status": "results_found"
+  },
+  {
+    "seller": "Overseas_shop",
+    "field": "Legal Entity Name",
+    "query": "Overseas_shop company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://overseaslogistic.com/",
+      "https://track.overseaslogistic.com/tracking.aspx",
+      "https://dictionary.cambridge.org/dictionary/english/overseas",
+      "https://www.iob.bank.in/"
+    ],
+    "timestamp": "2026-08-31T12:41:06.272116",
+    "status": "results_found"
+  },
+  {
+    "business": "Overseas_shop",
+    "field": "Phone Number",
+    "value": "+919818367444",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://overseaslogistic.com/",
+    "timestamp": "2026-08-31T12:41:10.071016"
+  },
+  {
+    "business": "Overseas_shop",
+    "field": "Email Address",
+    "value": "info@overseaslogistic.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://overseaslogistic.com/",
+    "timestamp": "2026-08-31T12:41:10.071178"
+  },
+  {
+    "seller": "Overseas_shop",
+    "field": "Legal Entity Name",
+    "query": "Overseas_shop Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://overseaslogistic.com/",
+      "https://track.overseaslogistic.com/tracking.aspx",
+      "https://dictionary.cambridge.org/dictionary/english/overseas",
+      "https://www.iob.bank.in/"
+    ],
+    "timestamp": "2026-08-31T12:41:20.825682",
+    "status": "results_found"
+  },
+  {
+    "seller": "Overseas_shop",
+    "field": "PAN",
+    "query": "Overseas_shop PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://overseaslogistic.com/",
+      "https://track.overseaslogistic.com/tracking.aspx",
+      "https://dictionary.cambridge.org/dictionary/english/overseas",
+      "https://www.iob.bank.in/"
+    ],
+    "timestamp": "2026-08-31T12:41:22.021887",
+    "status": "results_found"
+  },
+  {
+    "seller": "Overseas_shop",
+    "field": "PAN",
+    "query": "Overseas_shop PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://overseaslogistic.com/",
+      "https://track.overseaslogistic.com/tracking.aspx",
+      "https://dictionary.cambridge.org/dictionary/english/overseas",
+      "https://www.iob.bank.in/"
+    ],
+    "timestamp": "2026-08-31T12:41:34.936957",
+    "status": "results_found"
+  },
+  {
+    "seller": "Overseas_shop",
+    "field": "GST",
+    "query": "Overseas_shop GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://overseaslogistic.com/",
+      "https://track.overseaslogistic.com/tracking.aspx",
+      "https://dictionary.cambridge.org/dictionary/english/overseas",
+      "https://www.iob.bank.in/"
+    ],
+    "timestamp": "2026-08-31T12:41:39.913695",
+    "status": "results_found"
+  },
+  {
+    "seller": "Overseas_shop",
+    "field": "GST",
+    "query": "Overseas_shop GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://overseaslogistic.com/",
+      "https://track.overseaslogistic.com/tracking.aspx",
+      "https://dictionary.cambridge.org/dictionary/english/overseas",
+      "https://www.iob.bank.in/"
+    ],
+    "timestamp": "2026-08-31T12:41:50.927294",
+    "status": "results_found"
+  },
+  {
+    "seller": "Overseas_shop",
+    "field": "Owner",
+    "query": "Overseas_shop director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://overseaslogistic.com/",
+      "https://track.overseaslogistic.com/tracking.aspx",
+      "https://dictionary.cambridge.org/dictionary/english/overseas",
+      "https://www.iob.bank.in/"
+    ],
+    "timestamp": "2026-08-31T12:41:55.562014",
+    "status": "results_found"
+  },
+  {
+    "seller": "Overseas_shop",
+    "field": "Owner",
+    "query": "Overseas_shop founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://overseaslogistic.com/",
+      "https://track.overseaslogistic.com/tracking.aspx",
+      "https://dictionary.cambridge.org/dictionary/english/overseas",
+      "https://www.iob.bank.in/"
+    ],
+    "timestamp": "2026-08-31T12:42:06.645269",
+    "status": "results_found"
+  },
+  {
+    "seller": "Overseas_shop",
+    "field": "Address",
+    "query": "Overseas_shop registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://overseaslogistic.com/",
+      "https://track.overseaslogistic.com/tracking.aspx",
+      "https://dictionary.cambridge.org/dictionary/english/overseas",
+      "https://www.iob.bank.in/"
+    ],
+    "timestamp": "2026-08-31T12:42:12.721366",
+    "status": "results_found"
+  },
+  {
+    "seller": "Overseas_shop",
+    "field": "Address",
+    "query": "Overseas_shop registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://overseaslogistic.com/",
+      "https://track.overseaslogistic.com/tracking.aspx",
+      "https://dictionary.cambridge.org/dictionary/english/overseas",
+      "https://www.iob.bank.in/"
+    ],
+    "timestamp": "2026-08-31T12:42:24.706422",
+    "status": "results_found"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Business Name",
+    "value": "STS Shop",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1ZJ9VB2OVIKVD&isAmazonFulfilled=0&asin=B07ZHG76D8&ref_=olp_merch_name_4",
+    "timestamp": "2026-08-31T12:42:28.259588"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Website",
+    "query": "STS Shop official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php"
+    ],
+    "timestamp": "2026-08-31T12:42:29.747275",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Legal Entity Name",
+    "query": "STS Shop company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php"
+    ],
+    "timestamp": "2026-08-31T12:42:37.083327",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Legal Entity Name",
+    "query": "STS Shop Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:42:38.545606",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "PAN",
+    "query": "STS Shop PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:42:41.656770",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "PAN",
+    "query": "STS Shop PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:42:44.362960",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "GST",
+    "query": "STS Shop GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:42:47.655302",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "GST",
+    "query": "STS Shop GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:42:50.171878",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Owner",
+    "query": "STS Shop director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:42:52.879103",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Owner",
+    "query": "STS Shop founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:42:55.723015",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Address",
+    "query": "STS Shop registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:42:58.396102",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Address",
+    "query": "STS Shop registered address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:43:01.782720",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Phone",
+    "query": "STS Shop phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:43:04.255232",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Phone",
+    "query": "STS Shop contact phone",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:43:13.109546",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Email",
+    "query": "STS Shop email contact address customer care",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:43:15.976419",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Email",
+    "query": "STS Shop contact email",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://online.stseducation.in/index1.php",
+      "https://stseducation.in/index1.php",
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-08-31T12:43:19.360533",
+    "status": "results_found"
+  },
+  {
+    "business": "XTECH LAB SUPPLIES",
+    "field": "Business Name",
+    "value": "XTECH LAB SUPPLIES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ATVRR8HHADK3Q&asin=B0B724WY3B&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T12:43:21.181875"
+  },
+  {
+    "seller": "XTECH LAB SUPPLIES",
+    "field": "Website",
+    "query": "XTECH LAB SUPPLIES official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.xtechlabsupplies.com/",
+      "https://www.xtechlabsupplies.com/laboratory-equipment.html"
+    ],
+    "timestamp": "2026-08-31T12:43:24.960242",
+    "status": "results_found"
+  },
+  {
+    "business": "XTECH LAB SUPPLIES",
+    "field": "Website URL",
+    "value": "https://www.xtechlabsupplies.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.xtechlabsupplies.com/",
+    "timestamp": "2026-08-31T12:43:26.528716"
+  },
+  {
+    "business": "XTECH LAB SUPPLIES",
+    "field": "Phone Number",
+    "value": "+918047788442",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.xtechlabsupplies.com/",
+    "timestamp": "2026-08-31T12:43:26.916530"
+  },
+  {
+    "business": "XTECH LAB SUPPLIES",
+    "field": "GST Number",
+    "value": "07HCLPS9492G1ZN",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.xtechlabsupplies.com/",
+    "timestamp": "2026-08-31T12:43:26.916763"
+  },
+  {
+    "business": "XTECH LAB SUPPLIES",
+    "field": "PAN Number",
+    "value": "HCLPS9492G",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.xtechlabsupplies.com/",
+    "timestamp": "2026-08-31T12:43:26.916772"
+  },
+  {
+    "seller": "XTECH LAB SUPPLIES",
+    "field": "Legal Entity Name",
+    "query": "XTECH LAB SUPPLIES company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.xtechlabsupplies.com/",
+      "https://www.xtechlabsupplies.com/laboratory-equipment.html",
+      "https://www.xtechlabsupplies.com/crucibles-and-labware.html",
+      "https://www.xtechlabsupplies.com/profile.html"
+    ],
+    "timestamp": "2026-08-31T12:43:32.725097",
+    "status": "results_found"
+  },
+  {
+    "seller": "XTECH LAB SUPPLIES",
+    "field": "Legal Entity Name",
+    "query": "XTECH LAB SUPPLIES Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://speedtest.mybroadband.co.za/",
+      "https://mybroadband.co.za/news/broadcasting/278003-what-internet-speed-you-need-for-watching-netflix-in-south-africa.html",
+      "https://mybroadband.co.za/news/internet/655751-huge-update-to-mybroadband-speed-test-app-check-your-connection-now.html",
+      "https://companies.mybroadband.co.za/"
+    ],
+    "timestamp": "2026-08-31T12:43:37.740786",
+    "status": "results_found"
+  },
+  {
+    "seller": "XTECH LAB SUPPLIES",
+    "field": "Owner",
+    "query": "XTECH LAB SUPPLIES director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.xtechlabsupplies.com/about-us.html",
+      "https://www.dnb.com/business-directory/company-profiles.xtech_lab_supplies.7d6ff2ebbdbbeb1afb3605fcf545494d.html",
+      "https://rocketreach.co/xtech-lab-supplies-profile_b738c5f2c7da6bce",
+      "https://us.metoree.com/companies/196324/"
+    ],
+    "timestamp": "2026-08-31T12:43:46.910601",
+    "status": "results_found"
+  },
+  {
+    "seller": "XTECH LAB SUPPLIES",
+    "field": "Owner",
+    "query": "XTECH LAB SUPPLIES founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/",
+      "https://desktop.github.com/download/",
+      "https://docs.github.com/pages"
+    ],
+    "timestamp": "2026-08-31T12:43:54.332699",
+    "status": "results_found"
+  },
+  {
+    "seller": "XTECH LAB SUPPLIES",
+    "field": "Address",
+    "query": "XTECH LAB SUPPLIES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://chrome.en.softonic.com/download",
+      "https://google-chrome.en.uptodown.com/windows",
+      "https://www.techspot.com/downloads/4718-google-chrome.html"
+    ],
+    "timestamp": "2026-08-31T12:44:05.042579",
+    "status": "results_found"
+  },
+  {
+    "seller": "XTECH LAB SUPPLIES",
+    "field": "Email",
+    "query": "XTECH LAB SUPPLIES email contact address customer care",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.unicharm.co.in/en/home.html",
+      "https://www.unicharm.co.in/en/company/office.html",
+      "https://www.thecompanycheck.com/company/unicharm-india-private-limited/U51391HR2008FTC038151"
+    ],
+    "timestamp": "2026-08-31T12:44:23.876480",
+    "status": "results_found"
+  },
+  {
+    "business": "BUY CRAVINGS",
+    "field": "Business Name",
+    "value": "BUY CRAVINGS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AQIOHNVMNCJGN&isAmazonFulfilled=0&asin=B07ZHG76D8&ref_=olp_merch_name_2",
+    "timestamp": "2026-08-31T12:44:34.381189"
+  },
+  {
+    "seller": "BUY CRAVINGS",
+    "field": "Website",
+    "query": "BUY CRAVINGS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://buyhatke.com/",
+      "https://www.bestbuy.com/"
+    ],
+    "timestamp": "2026-08-31T12:44:37.227466",
+    "status": "results_found"
+  },
+  {
+    "seller": "BUY CRAVINGS",
+    "field": "Legal Entity Name",
+    "query": "BUY CRAVINGS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://buyhatke.com/",
+      "https://www.bestbuy.com/",
+      "https://www.croma.com/",
+      "https://www.cashify.in/"
+    ],
+    "timestamp": "2026-08-31T12:44:48.027207",
+    "status": "results_found"
+  },
+  {
+    "business": "BUY CRAVINGS",
+    "field": "Phone Number",
+    "value": "+917290068900",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cashify.in/",
+    "timestamp": "2026-08-31T12:44:55.540351"
+  },
+  {
+    "business": "BUY CRAVINGS",
+    "field": "Email Address",
+    "value": "support@cashify.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cashify.in/",
+    "timestamp": "2026-08-31T12:44:55.541006"
+  },
+  {
+    "business": "BUY CRAVINGS",
+    "field": "Billing Address",
+    "value": "cashify limited (formerly known as cashify pvt. ltd. and manak waste management pvt. ltd.) | 55, 2nd floor, lane-2, westend marg, saidullajab, near sa",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cashify.in/",
+    "timestamp": "2026-08-31T12:44:55.546140"
+  },
+  {
+    "business": "BUY CRAVINGS",
+    "field": "City",
+    "value": "near sa",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cashify.in/",
+    "timestamp": "2026-08-31T12:44:55.546156"
+  },
+  {
+    "seller": "BUY CRAVINGS",
+    "field": "Legal Entity Name",
+    "query": "BUY CRAVINGS Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T12:44:56.331211",
+    "status": "no_results"
+  },
+  {
+    "seller": "BUY CRAVINGS",
+    "field": "PAN",
+    "query": "BUY CRAVINGS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://buyhatke.com/",
+      "https://www.bestbuy.com/",
+      "https://www.croma.com/",
+      "https://www.cashify.in/"
+    ],
+    "timestamp": "2026-08-31T12:44:59.462045",
+    "status": "results_found"
+  },
+  {
+    "seller": "BUY CRAVINGS",
+    "field": "GST",
+    "query": "BUY CRAVINGS GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://buyhatke.com/",
+      "https://www.bestbuy.com/",
+      "https://www.croma.com/",
+      "https://www.cashify.in/"
+    ],
+    "timestamp": "2026-08-31T12:45:18.739291",
+    "status": "results_found"
+  },
+  {
+    "seller": "BUY CRAVINGS",
+    "field": "Owner",
+    "query": "BUY CRAVINGS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://buyhatke.com/",
+      "https://www.bestbuy.com/",
+      "https://www.croma.com/",
+      "https://www.cashify.in/"
+    ],
+    "timestamp": "2026-08-31T12:45:33.376179",
+    "status": "results_found"
+  },
+  {
+    "seller": "BUY CRAVINGS",
+    "field": "Owner",
+    "query": "BUY CRAVINGS founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://buyhatke.com/",
+      "https://www.bestbuy.com/",
+      "https://www.croma.com/",
+      "https://www.cashify.in/"
+    ],
+    "timestamp": "2026-08-31T12:45:41.362131",
+    "status": "results_found"
+  },
+  {
+    "business": "SV Global Retails",
+    "field": "Business Name",
+    "value": "SV Global Retails",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AHR68G8C54OVP&isAmazonFulfilled=0&asin=B07ZHG76D8&ref_=olp_merch_name_6",
+    "timestamp": "2026-08-31T12:45:46.297111"
+  },
+  {
+    "seller": "SV Global Retails",
+    "field": "Website",
+    "query": "SV Global Retails official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://svuniversity.edu.in/",
+      "https://svuniversity.ac.in/"
+    ],
+    "timestamp": "2026-08-31T12:45:47.881716",
+    "status": "results_found"
+  },
+  {
+    "business": "SV Global Retails",
+    "field": "Website URL",
+    "value": "https://svuniversity.edu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://svuniversity.edu.in/",
+    "timestamp": "2026-08-31T12:45:53.258465"
+  },
+  {
+    "business": "SV Global Retails",
+    "field": "Email Address",
+    "value": "registrarsvu@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://svuniversity.edu.in/",
+    "timestamp": "2026-08-31T12:45:56.893271"
+  },
+  {
+    "seller": "SV Global Retails",
+    "field": "Legal Entity Name",
+    "query": "SV Global Retails company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://svuniversity.edu.in/",
+      "https://svuniversity.ac.in/",
+      "https://www.rangerover.com/en-in/range-rover-sport/sv.html",
+      "https://www.rangerover.com/en-in/range-rover/sv.html"
+    ],
+    "timestamp": "2026-08-31T12:46:05.145840",
+    "status": "results_found"
+  },
+  {
+    "business": "SV Global Retails",
+    "field": "Billing Address",
+    "value": "abbey road, whitley, coventry cv3 4lf. registered in england no: 1672070",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.rangerover.com/en-in/range-rover-sport/sv.html",
+    "timestamp": "2026-08-31T12:46:19.564858"
+  },
+  {
+    "business": "SV Global Retails",
+    "field": "City",
+    "value": "whitley",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.rangerover.com/en-in/range-rover-sport/sv.html",
+    "timestamp": "2026-08-31T12:46:19.564880"
+  },
+  {
+    "seller": "SV Global Retails",
+    "field": "PAN",
+    "query": "SV Global Retails PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://svuniversity.edu.in/",
+      "https://svuniversity.ac.in/",
+      "https://www.rangerover.com/en-in/range-rover-sport/sv.html",
+      "https://www.rangerover.com/en-in/range-rover/sv.html"
+    ],
+    "timestamp": "2026-08-31T12:46:23.670669",
+    "status": "results_found"
+  },
+  {
+    "seller": "SV Global Retails",
+    "field": "GST",
+    "query": "SV Global Retails GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://svuniversity.edu.in/",
+      "https://svuniversity.ac.in/",
+      "https://www.rangerover.com/en-in/range-rover-sport/sv.html",
+      "https://www.rangerover.com/en-in/range-rover/sv.html"
+    ],
+    "timestamp": "2026-08-31T12:46:41.993915",
+    "status": "results_found"
+  },
+  {
+    "seller": "SV Global Retails",
+    "field": "Owner",
+    "query": "SV Global Retails director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://svuniversity.edu.in/",
+      "https://svuniversity.ac.in/",
+      "https://www.rangerover.com/en-in/range-rover-sport/sv.html",
+      "https://www.rangerover.com/en-in/range-rover/sv.html"
+    ],
+    "timestamp": "2026-08-31T12:46:59.901955",
+    "status": "results_found"
+  },
+  {
+    "seller": "SV Global Retails",
+    "field": "Phone",
+    "query": "SV Global Retails phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://svuniversity.edu.in/",
+      "https://svuniversity.ac.in/",
+      "https://www.rangerover.com/en-in/range-rover-sport/sv.html",
+      "https://www.rangerover.com/en-in/range-rover/sv.html"
+    ],
+    "timestamp": "2026-08-31T12:47:16.856376",
+    "status": "results_found"
+  }
+]

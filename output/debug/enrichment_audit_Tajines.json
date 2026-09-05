@@ -1,0 +1,551 @@
+[
+  {
+    "business": "Savoy Impex",
+    "field": "Business Name",
+    "value": "Savoy Impex",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A111CL3JIG7BTA&isAmazonFulfilled=1&asin=B0000GL6RK&ref_=olp_merch_name_7",
+    "timestamp": "2026-09-01T14:06:23.046372"
+  },
+  {
+    "business": "Savoy Impex",
+    "field": "Phone Number",
+    "value": "+919892981351",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A111CL3JIG7BTA&isAmazonFulfilled=1&asin=B0000GL6RK&ref_=olp_merch_name_7",
+    "timestamp": "2026-09-01T14:06:23.048290"
+  },
+  {
+    "seller": "Savoy Impex",
+    "field": "Website",
+    "query": "Savoy Impex official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://impexstore.com/",
+      "https://eorders.savex.in/"
+    ],
+    "timestamp": "2026-09-01T14:06:25.161673",
+    "status": "results_found"
+  },
+  {
+    "seller": "Savoy Impex",
+    "field": "Legal Entity Name",
+    "query": "Savoy Impex company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://tradegoai.app/tools/company-registry-finder/",
+      "https://legalsuvidha.com/blog/how-to-check-company-registration-status-in-india-2"
+    ],
+    "timestamp": "2026-09-01T14:06:47.498183",
+    "status": "results_found"
+  },
+  {
+    "business": "Savoy Impex",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T14:06:48.651913"
+  },
+  {
+    "seller": "Savoy Impex",
+    "field": "Legal Entity Name",
+    "query": "Savoy Impex Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://www.legalxindia.com/tools/cin-llpin-lookup",
+      "https://www.indiafilings.com/check-company-name-availability"
+    ],
+    "timestamp": "2026-09-01T14:07:00.736652",
+    "status": "results_found"
+  },
+  {
+    "seller": "Savoy Impex",
+    "field": "PAN",
+    "query": "Savoy Impex PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstpan.com/",
+      "https://www.caclubindia.com/articles/know-your-pan-41909.asp",
+      "https://www.scamdb.in/"
+    ],
+    "timestamp": "2026-09-01T14:07:03.971706",
+    "status": "results_found"
+  },
+  {
+    "business": "Savoy Impex",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:07:06.517762"
+  },
+  {
+    "business": "Savoy Impex",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:07:06.518073"
+  },
+  {
+    "seller": "Savoy Impex",
+    "field": "Owner",
+    "query": "Savoy Impex director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/syensqo-specialties-india-private-limited/U74130GJ2005PTC062544",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.signalhire.com/profiles/riaan-botha%27s-email/186934873",
+      "https://qorpiq.com/company/anvay-impex-private-limited/U46201PB2026PTC069589"
+    ],
+    "timestamp": "2026-09-01T14:07:12.126846",
+    "status": "results_found"
+  },
+  {
+    "seller": "Savoy Impex",
+    "field": "Address",
+    "query": "Savoy Impex registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/savoy-piping-inc-27adefs1055j1z0/#:~:text=The%20registered%20address%20is%3A%20GROUND%20FLOOR%2CAHMED%20BUILDING%2COPP%20ISLAMPURA,Type%3A%20Partnership.%20Nature%20of%20Business%3A%20Wholesale%20Business%2C%20Others.",
+      "https://www.onlinecouriertracking.com/savex-technologies-tracking/",
+      "https://gstverify.co.in/gst/savoy-piping-inc-27adefs1055j1z0/",
+      "https://mycorporateinfo.com/"
+    ],
+    "timestamp": "2026-09-01T14:07:30.414511",
+    "status": "results_found"
+  },
+  {
+    "business": "FAB INN SUPER MARKET",
+    "field": "Business Name",
+    "value": "FAB INN SUPER MARKET",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1W6VST40NDQIX&asin=B0000GL6RK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T14:07:44.936907"
+  },
+  {
+    "seller": "FAB INN SUPER MARKET",
+    "field": "Website",
+    "query": "FAB INN SUPER MARKET official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://fabsupermart.com/",
+      "https://www.fabindia.com/"
+    ],
+    "timestamp": "2026-09-01T14:07:47.869563",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAB INN SUPER MARKET",
+    "field": "Legal Entity Name",
+    "query": "FAB INN SUPER MARKET company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/fab-inn-super-market-27aacps5476j1z6/#:~:text=Under%20the%20GST%20Act%202017%2C%20FAB%20INN%20SUPER,generated%20from%20publicly%20available%20data%20and%20automated%20systems.",
+      "https://gst.iadv.io/FAB-INN-SUPER-MARKET-27AACPS5476J1Z6/",
+      "https://piceapp.com/gst-number-search/fab-inn-super-market-27aacps5476j1z6/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-01T14:07:55.049132",
+    "status": "results_found"
+  },
+  {
+    "business": "FAB INN SUPER MARKET",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/fab-inn-super-market-27aacps5476j1z6/#:~:text=Under%20the%20GST%20Act%202017%2C%20FAB%20INN%20SUPER,generated%20from%20publicly%20available%20data%20and%20automated%20systems.",
+    "timestamp": "2026-09-01T14:07:58.287041"
+  },
+  {
+    "business": "FAB INN SUPER MARKET",
+    "field": "Email Address",
+    "value": "hello@pice.one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/fab-inn-super-market-27aacps5476j1z6/#:~:text=Under%20the%20GST%20Act%202017%2C%20FAB%20INN%20SUPER,generated%20from%20publicly%20available%20data%20and%20automated%20systems.",
+    "timestamp": "2026-09-01T14:07:58.300936"
+  },
+  {
+    "business": "FAB INN SUPER MARKET",
+    "field": "GST Number",
+    "value": "27AACPS5476J1Z6",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/fab-inn-super-market-27aacps5476j1z6/#:~:text=Under%20the%20GST%20Act%202017%2C%20FAB%20INN%20SUPER,generated%20from%20publicly%20available%20data%20and%20automated%20systems.",
+    "timestamp": "2026-09-01T14:07:58.313238"
+  },
+  {
+    "business": "FAB INN SUPER MARKET",
+    "field": "PAN Number",
+    "value": "AACPS5476J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/fab-inn-super-market-27aacps5476j1z6/#:~:text=Under%20the%20GST%20Act%202017%2C%20FAB%20INN%20SUPER,generated%20from%20publicly%20available%20data%20and%20automated%20systems.",
+    "timestamp": "2026-09-01T14:07:58.313262"
+  },
+  {
+    "business": "FAB INN SUPER MARKET",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/fab-inn-super-market-27aacps5476j1z6/#:~:text=Under%20the%20GST%20Act%202017%2C%20FAB%20INN%20SUPER,generated%20from%20publicly%20available%20data%20and%20automated%20systems.",
+    "timestamp": "2026-09-01T14:07:58.342649"
+  },
+  {
+    "business": "FAB INN SUPER MARKET",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/fab-inn-super-market-27aacps5476j1z6/#:~:text=Under%20the%20GST%20Act%202017%2C%20FAB%20INN%20SUPER,generated%20from%20publicly%20available%20data%20and%20automated%20systems.",
+    "timestamp": "2026-09-01T14:07:58.342668"
+  },
+  {
+    "business": "FAB INN SUPER MARKET",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/fab-inn-super-market-27aacps5476j1z6/#:~:text=Under%20the%20GST%20Act%202017%2C%20FAB%20INN%20SUPER,generated%20from%20publicly%20available%20data%20and%20automated%20systems.",
+    "timestamp": "2026-09-01T14:07:58.342674"
+  },
+  {
+    "business": "FAB INN SUPER MARKET",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/fab-inn-super-market-27aacps5476j1z6/#:~:text=Under%20the%20GST%20Act%202017%2C%20FAB%20INN%20SUPER,generated%20from%20publicly%20available%20data%20and%20automated%20systems.",
+    "timestamp": "2026-09-01T14:07:58.342679"
+  },
+  {
+    "seller": "FAB INN SUPER MARKET",
+    "field": "Owner",
+    "query": "FAB INN SUPER MARKET director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.fab_inn_super_market.bb33a312d0635f8cde99f1bf61b037e7.html",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.fabindia.com/ir/board-of-directors",
+      "https://piceapp.com/gst-number-search/fab-inn-super-market-27aacps5476j1z6/"
+    ],
+    "timestamp": "2026-09-01T14:08:15.938417",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAB INN SUPER MARKET",
+    "field": "Owner",
+    "query": "FAB INN SUPER MARKET founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.dnb.com/business-directory/company-profiles.fab_inn_super_market.bb33a312d0635f8cde99f1bf61b037e7.html",
+      "https://tracxn.com/d/companies/fabhotels/__yuCW9Plf5jd24EoUBE2-JUK1gvv5zSp2bz2sA0CLvBU",
+      "https://www.helloindia.co/Mumbai/Fab-Inn-Super-Market/Haji-Ali/AboutUs"
+    ],
+    "timestamp": "2026-09-01T14:08:29.202126",
+    "status": "results_found"
+  },
+  {
+    "business": "Quality Desk",
+    "field": "Business Name",
+    "value": "Quality Desk",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A268G2T4ODMSX2&isAmazonFulfilled=1&asin=B0000GL6RK&ref_=olp_merch_name_3",
+    "timestamp": "2026-09-01T14:08:30.797121"
+  },
+  {
+    "seller": "Quality Desk",
+    "field": "Website",
+    "query": "Quality Desk official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://qualitydesk.com/en/",
+      "https://qualitydesk.com/en/benefits-for-telemarketing/"
+    ],
+    "timestamp": "2026-09-01T14:08:33.142515",
+    "status": "results_found"
+  },
+  {
+    "seller": "Quality Desk",
+    "field": "Legal Entity Name",
+    "query": "Quality Desk company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T14:08:46.637457",
+    "status": "no_results"
+  },
+  {
+    "seller": "Quality Desk",
+    "field": "Legal Entity Name",
+    "query": "Quality Desk Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.udyam.ltd/blog/udyam-search-by-name#:~:text=Free%20official%20registration%20available%20at%20udyamregistration.gov.in.%20For%20help%2C,process%20it%20on%20priority%20once%20the%20portal%20resumes.",
+      "https://cadeskindia.com/service/private-limited-registration/",
+      "https://www.startbusiness.co.in/",
+      "https://www.indiafilings.com/company-registration"
+    ],
+    "timestamp": "2026-09-01T14:08:48.853242",
+    "status": "results_found"
+  },
+  {
+    "business": "Quality Desk",
+    "field": "Phone Number",
+    "value": "+919122340775",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.udyam.ltd/blog/udyam-search-by-name#:~:text=Free%20official%20registration%20available%20at%20udyamregistration.gov.in.%20For%20help%2C,process%20it%20on%20priority%20once%20the%20portal%20resumes.",
+    "timestamp": "2026-09-01T14:08:52.678046"
+  },
+  {
+    "business": "Quality Desk",
+    "field": "Email Address",
+    "value": "contact@cadeskindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://cadeskindia.com/service/private-limited-registration/",
+    "timestamp": "2026-09-01T14:08:58.064558"
+  },
+  {
+    "seller": "Quality Desk",
+    "field": "PAN",
+    "query": "Quality Desk PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tinpan.proteantech.in/customer-care.html",
+      "https://www.bajajfinservmarkets.in/discover/pan-card-customer-care"
+    ],
+    "timestamp": "2026-09-01T14:09:05.148442",
+    "status": "results_found"
+  },
+  {
+    "business": "Quality Desk",
+    "field": "Billing Address",
+    "value": "bajaj auto limited complex, mumbai \u2013 pune road, akurdi, pune \u2013 411 035 cin: u65923pn2014plc150522 corporate agency (composite) registration no.ca0551",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.bajajfinservmarkets.in/discover/pan-card-customer-care",
+    "timestamp": "2026-09-01T14:09:09.545973"
+  },
+  {
+    "business": "Quality Desk",
+    "field": "City",
+    "value": "akurdi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.bajajfinservmarkets.in/discover/pan-card-customer-care",
+    "timestamp": "2026-09-01T14:09:09.546002"
+  },
+  {
+    "seller": "Quality Desk",
+    "field": "PAN",
+    "query": "Quality Desk PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tinpan.proteantech.in/customer-care.html",
+      "https://tracxn.com/d/legal-entities/india/qualitykiosk-technologies-private-limited/__Q0VZxlrqwMmyMYneWTS4sW0tlwt0QA790nXyyQM-iG8",
+      "https://gstverify.co.in/search/",
+      "https://qualitykiosk.com/contact/"
+    ],
+    "timestamp": "2026-09-01T14:09:13.343842",
+    "status": "results_found"
+  },
+  {
+    "business": "Quality Desk",
+    "field": "GST Number",
+    "value": "29AAACQ0609C1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/qualitykiosk-technologies-private-limited/__Q0VZxlrqwMmyMYneWTS4sW0tlwt0QA790nXyyQM-iG8",
+    "timestamp": "2026-09-01T14:09:16.535234"
+  },
+  {
+    "business": "Quality Desk",
+    "field": "PAN Number",
+    "value": "AAACQ0609C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/qualitykiosk-technologies-private-limited/__Q0VZxlrqwMmyMYneWTS4sW0tlwt0QA790nXyyQM-iG8",
+    "timestamp": "2026-09-01T14:09:16.535253"
+  },
+  {
+    "seller": "Quality Desk",
+    "field": "Owner",
+    "query": "Quality Desk director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cbinsights.com/company/qualitydesk/people#:~:text=QualityDesk%27s%20current%20Founder%2C%20Chief%20Operating%20Officer%2C%20Owner%20is,within%20the%20customer%20service%20and%20contact%20center%20industry.",
+      "https://qualitykiosk.com/leadership/",
+      "https://www.cbinsights.com/company/qualitydesk/people",
+      "https://qualitykiosk.com/awards/maneesh-jhawar-founder-ceo-qualitykiosk-technologies-gets-recognized-as-the-qa-leader-of-the-year-2021/"
+    ],
+    "timestamp": "2026-09-01T14:09:18.502066",
+    "status": "results_found"
+  },
+  {
+    "business": "Cougar International",
+    "field": "Business Name",
+    "value": "Cougar International",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2645GR3MO93PY&isAmazonFulfilled=1&asin=B0000GL6RK&ref_=olp_merch_name_11",
+    "timestamp": "2026-09-01T14:09:33.166632"
+  },
+  {
+    "seller": "Cougar International",
+    "field": "Website",
+    "query": "Cougar International official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cougarint.com/",
+      "https://www.cougarint.com/affiliates/"
+    ],
+    "timestamp": "2026-09-01T14:09:35.018013",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cougar International",
+    "field": "Legal Entity Name",
+    "query": "Cougar International company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/cougar-international-03aaafc5870e1zw/#:~:text=This%20PAN%20has%201%20GST%20registration%20%E2%80%94%20view,Entity%20Type%3A%20Partnership.%20Nature%20of%20Business%3A%20Retail%20Business.",
+      "https://indialei.in/detailed-information/10984202/cougar-international-pvt-ltd/",
+      "https://www.falconebiz.com/company/COUGAR-INTERNATIONAL-PRIVATE-LIMITED-U99999DL2000PTC901268",
+      "https://www.dnb.com/business-directory/company-profiles.cougar_international.ffcbc5f4b2c2622ca302b55d776909a6.html"
+    ],
+    "timestamp": "2026-09-01T14:10:23.966540",
+    "status": "results_found"
+  },
+  {
+    "business": "Cougar International",
+    "field": "GST Number",
+    "value": "03AAAFC5870E1ZW",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/gst/cougar-international-03aaafc5870e1zw/#:~:text=This%20PAN%20has%201%20GST%20registration%20%E2%80%94%20view,Entity%20Type%3A%20Partnership.%20Nature%20of%20Business%3A%20Retail%20Business.",
+    "timestamp": "2026-09-01T14:10:30.021396"
+  },
+  {
+    "business": "Cougar International",
+    "field": "PAN Number",
+    "value": "AAAFC5870E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/gst/cougar-international-03aaafc5870e1zw/#:~:text=This%20PAN%20has%201%20GST%20registration%20%E2%80%94%20view,Entity%20Type%3A%20Partnership.%20Nature%20of%20Business%3A%20Retail%20Business.",
+    "timestamp": "2026-09-01T14:10:30.021421"
+  },
+  {
+    "business": "Cougar International",
+    "field": "Phone Number",
+    "value": "+918800973322",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://indialei.in/detailed-information/10984202/cougar-international-pvt-ltd/",
+    "timestamp": "2026-09-01T14:10:33.477637"
+  },
+  {
+    "business": "Cougar International",
+    "field": "Email Address",
+    "value": "info@indialei.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://indialei.in/detailed-information/10984202/cougar-international-pvt-ltd/",
+    "timestamp": "2026-09-01T14:10:33.477780"
+  },
+  {
+    "seller": "Cougar International",
+    "field": "Legal Entity Name",
+    "query": "Cougar International Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/COUGAR-INTERNATIONAL-PRIVATE-LIMITED-U99999DL2000PTC901268",
+      "https://indialei.in/detailed-information/10984202/cougar-international-pvt-ltd/",
+      "https://www.wintro.in/company/COUGAR-INTERNATIONAL-PVTLTD",
+      "https://www.dnb.com/business-directory/company-profiles.cougar_international.ffcbc5f4b2c2622ca302b55d776909a6.html"
+    ],
+    "timestamp": "2026-09-01T14:10:45.170723",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cougar International",
+    "field": "Owner",
+    "query": "Cougar International director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://licencetodrive.in/2014/03/ashish-gupta-founder-director-cougar-motorsport-in-conversation-with-raghav-sarma.html#:~:text=Investment%20banker%20turned%20motor%20sport%20enthusiast%2C%20Ashish%20Gupta,is%20the%20Founder%20%26%20Director%20of%20Cougar%20Motorsport.",
+      "https://www.dnb.com/business-directory/company-profiles.cougar_international.ffcbc5f4b2c2622ca302b55d776909a6.html",
+      "https://www.datanyze.com/companies/cougar-international/425112063",
+      "https://licencetodrive.in/2014/03/ashish-gupta-founder-director-cougar-motorsport-in-conversation-with-raghav-sarma.html"
+    ],
+    "timestamp": "2026-09-01T14:10:47.699765",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cougar International",
+    "field": "Owner",
+    "query": "Cougar International founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.datanyze.com/companies/cougar-international/425112063",
+      "https://www.wintro.in/company/COUGAR-INTERNATIONAL-PVTLTD",
+      "https://www.dnb.com/business-directory/company-profiles.cougar_international.ffcbc5f4b2c2622ca302b55d776909a6.html",
+      "https://www.zoominfo.com/c/cougar-international-ltd/425112063"
+    ],
+    "timestamp": "2026-09-01T14:10:59.053797",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cougar International",
+    "field": "Address",
+    "query": "Cougar International registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wintro.in/company/COUGAR-INTERNATIONAL-PVTLTD#:~:text=The%20registered%20address%20of%20COUGAR%20INTERNATIONAL%20PVT.LTD%20is,Wintro.In%20for%20full%20company%20details%20and%20updates%20today.",
+      "https://www.dnb.com/business-directory/company-profiles.cougar_international.ffcbc5f4b2c2622ca302b55d776909a6.html",
+      "https://www.dnb.com/business-directory/company-profiles.cougar_international.49129f6e149ac94f93b774f7a9f1db07.html",
+      "https://www.infobel.com/en/india/cougar_international/mumbai/IN119476545/businessdetails.aspx"
+    ],
+    "timestamp": "2026-09-01T14:11:10.882497",
+    "status": "results_found"
+  }
+]

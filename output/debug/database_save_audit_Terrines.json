@@ -1,0 +1,113 @@
+{
+  "category": "Terrines",
+  "records_before_save": 17,
+  "records_saved": 8,
+  "records_verified_after_save": 8,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cart2Globe",
+      "database_id": 1448,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "lokesh@cart2india.com",
+      "gst": "27AAECC4477E1ZN",
+      "pan": "AAECC4477E",
+      "website": "https://www.cart2india.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BENIE STORE",
+      "database_id": 1449,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@benir.in",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Global Klamp",
+      "database_id": 1449,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919505663850",
+      "email": "mantrivip@mantrivip.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://consumercomplaintscourt.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "STS Shop",
+      "database_id": 1449,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918333024179",
+      "email": "info@stsshop.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.stsshop.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "shop_worldwide",
+      "database_id": 1449,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917500668555",
+      "email": "info@shopworldwide.in",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://shopworldwide.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AtoZ Bazzaar",
+      "database_id": 1449,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918001801961",
+      "email": "gsd@utiitsl.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://shopworldwide.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BENEDICTIONS IN",
+      "database_id": 1450,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "kapoorca@yahoo.com",
+      "gst": "07AHWPG8771F1ZR",
+      "pan": "AHWPG8771F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Trendora Global",
+      "database_id": 1449,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918001801961",
+      "email": "ceosaadakhtar@trendoraglobal.us",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.trendoraglobal.com/",
+      "status": "Verified"
+    }
+  ]
+}

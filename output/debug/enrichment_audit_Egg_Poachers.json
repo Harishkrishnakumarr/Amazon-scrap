@@ -1,0 +1,708 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0B257ZYVB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T13:18:15.879223"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-09-01T13:18:17.846208",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-01T13:18:25.565084",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T13:18:29.147764"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T13:18:29.147788"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T13:18:29.147794"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T13:18:29.147798"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "ant.agarwal@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+    "timestamp": "2026-09-01T13:18:31.687045"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://udyamsearch.com/"
+    ],
+    "timestamp": "2026-09-01T13:18:39.379517",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://tenderkart.in/gst-number-search/36AALCR3173P1ZO"
+    ],
+    "timestamp": "2026-09-01T13:18:41.167826",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "18AALCR3173P1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-01T13:18:45.046017"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-01T13:18:45.046034"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://gst.jamku.app/gstin/36AALCR3173P1ZO"
+    ],
+    "timestamp": "2026-09-01T13:18:49.200464",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://in.fashionnetwork.com/news/Rupa-and-company-s-promoters-launch-retailez-on-amazon-india,1427124.html#:~:text=Clothing%20manufacturing%20business%20Rupa%20and%20Company%E2%80%99s%20promoters%20Siddhant,India%20to%20take%20over%20part%20of%20Cloudtail%E2%80%99s%20business.",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://www.moneycontrol.com/news/business/markets/qimat-rai-gupta-havells-story-school-teacher-who-built-rs-80000-crore-electrical-products-busines-14002008.html"
+    ],
+    "timestamp": "2026-09-01T13:18:58.618272",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM"
+    ],
+    "timestamp": "2026-09-01T13:19:03.197619",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/careers/",
+      "https://retailez.co.in/partner/"
+    ],
+    "timestamp": "2026-09-01T13:19:10.401408",
+    "status": "results_found"
+  },
+  {
+    "business": "SOFLIN\u00ae",
+    "field": "Business Name",
+    "value": "SOFLIN\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A18I9EJO9EVC64&asin=B07GMFY9QM&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T13:19:16.240550"
+  },
+  {
+    "seller": "SOFLIN\u00ae",
+    "field": "Website",
+    "query": "SOFLIN\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.soflinpharma.se/",
+      "https://www.solfin.co.in/"
+    ],
+    "timestamp": "2026-09-01T13:19:17.985569",
+    "status": "results_found"
+  },
+  {
+    "business": "SOFLIN\u00ae",
+    "field": "Website URL",
+    "value": "https://www.soflinpharma.se/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.soflinpharma.se/",
+    "timestamp": "2026-09-01T13:20:05.382219"
+  },
+  {
+    "business": "SOFLIN\u00ae",
+    "field": "Email Address",
+    "value": "info@soflinpharma.se",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.soflinpharma.se/",
+    "timestamp": "2026-09-01T13:20:06.550532"
+  },
+  {
+    "seller": "SOFLIN\u00ae",
+    "field": "Legal Entity Name",
+    "query": "SOFLIN\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://yra.no/en/company/932228432#:~:text=SOFLIN%20PHARMA%20AB%20NUF%20is%20a%20Norwegian%20norwegian-registered,NO.%20SOFLIN%20PHARMA%20AB%20NUF%20is%20VAT%20registered.",
+      "https://www.lei-lookup.com/record/984500ADN11B3CV2K515/",
+      "https://www.solfin.co.in/",
+      "https://lei-register.co.uk/trusted-lei/lei-directory/984500ADN11B3CV2K515"
+    ],
+    "timestamp": "2026-09-01T13:20:18.440378",
+    "status": "results_found"
+  },
+  {
+    "business": "SOFLIN\u00ae",
+    "field": "Phone Number",
+    "value": "+919599446877",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.solfin.co.in/",
+    "timestamp": "2026-09-01T13:20:22.892939"
+  },
+  {
+    "seller": "SOFLIN\u00ae",
+    "field": "Legal Entity Name",
+    "query": "SOFLIN\u00ae Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.solfin.co.in/",
+      "https://www.solfin.co.in/about-us",
+      "https://www.solfin.co.in/solar-calculator",
+      "https://www.solfin.co.in/policies/grievance-redressal-policy"
+    ],
+    "timestamp": "2026-09-01T13:20:30.295939",
+    "status": "results_found"
+  },
+  {
+    "seller": "SOFLIN\u00ae",
+    "field": "PAN",
+    "query": "SOFLIN\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-09-01T13:20:33.903429",
+    "status": "results_found"
+  },
+  {
+    "business": "SOFLIN\u00ae",
+    "field": "Billing Address",
+    "value": "idfc first bank tower, (the square), c-61, g block, bandra-kurla complex, bandra (east), mumbai - 400 051, maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-01T13:20:36.732515"
+  },
+  {
+    "business": "SOFLIN\u00ae",
+    "field": "City",
+    "value": "maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-01T13:20:36.732536"
+  },
+  {
+    "business": "SOFLIN\u00ae",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-01T13:20:36.732543"
+  },
+  {
+    "seller": "SOFLIN\u00ae",
+    "field": "PAN",
+    "query": "SOFLIN\u00ae PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-01T13:20:38.816137",
+    "status": "results_found"
+  },
+  {
+    "seller": "SOFLIN\u00ae",
+    "field": "GST",
+    "query": "SOFLIN\u00ae GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://smartgst.in/tools/gst-registration-status",
+      "https://taxguru.in/goods-and-service-tax/gst-registration-complete-guide-rules-procedure-revocation.html",
+      "https://www.indiafilings.com/learn/gst-registration-procedure"
+    ],
+    "timestamp": "2026-09-01T13:20:43.000301",
+    "status": "results_found"
+  },
+  {
+    "seller": "SOFLIN\u00ae",
+    "field": "GST",
+    "query": "SOFLIN\u00ae GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/SOFLIN-SELECTION-24AAFFS9409J1ZX/#:~:text=View%20GST%20details%20of%20SOFLIN%20SELECTION%20%28GST%3A,24AAFFS9409J1ZX%29%2C%20including%20address%20and%20business%20nature%20in%20Gujarat.",
+      "https://gst.iadv.io/SOFLIN-SELECTION-24AAFFS9409J1ZX/",
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/gst-number-search"
+    ],
+    "timestamp": "2026-09-01T13:20:51.476080",
+    "status": "results_found"
+  },
+  {
+    "business": "SOFLIN\u00ae",
+    "field": "GST Number",
+    "value": "24AAFFS9409J1ZX",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/SOFLIN-SELECTION-24AAFFS9409J1ZX/#:~:text=View%20GST%20details%20of%20SOFLIN%20SELECTION%20%28GST%3A,24AAFFS9409J1ZX%29%2C%20including%20address%20and%20business%20nature%20in%20Gujarat.",
+    "timestamp": "2026-09-01T13:20:53.001694"
+  },
+  {
+    "business": "SOFLIN\u00ae",
+    "field": "PAN Number",
+    "value": "AAFFS9409J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/SOFLIN-SELECTION-24AAFFS9409J1ZX/#:~:text=View%20GST%20details%20of%20SOFLIN%20SELECTION%20%28GST%3A,24AAFFS9409J1ZX%29%2C%20including%20address%20and%20business%20nature%20in%20Gujarat.",
+    "timestamp": "2026-09-01T13:20:53.001712"
+  },
+  {
+    "seller": "SOFLIN\u00ae",
+    "field": "Owner",
+    "query": "SOFLIN\u00ae director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companyvakil.com/trademarksearch/SOFLIN/1211665",
+      "https://me.sh/profile/zach-soflin",
+      "https://layer.team/authors/zach-soflin",
+      "https://e-verse.com/learn/better-decision-making-through-real-world-construction-data/"
+    ],
+    "timestamp": "2026-09-01T13:20:55.033395",
+    "status": "results_found"
+  },
+  {
+    "seller": "SOFLIN\u00ae",
+    "field": "Owner",
+    "query": "SOFLIN\u00ae founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://layer.team/authors/zach-soflin",
+      "https://me.sh/profile/zach-soflin",
+      "https://tracxn.com/d/companies/layer/__3BVOC-h-j4UMWdPZ6u7keYV5wfJP83FzHbBNb0lTYaM",
+      "https://www.zoominfo.com/p/Zach-Soflin/1818221699"
+    ],
+    "timestamp": "2026-09-01T13:21:09.714797",
+    "status": "results_found"
+  },
+  {
+    "business": "TREAT ZONE",
+    "field": "Business Name",
+    "value": "TREAT ZONE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANPGU3TKS7C7M&asin=B0GTZ7ZM77&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T13:21:10.551693"
+  },
+  {
+    "seller": "TREAT ZONE",
+    "field": "Website",
+    "query": "TREAT ZONE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://treatzone.co.in/",
+      "https://treatzone.co.in/index.html"
+    ],
+    "timestamp": "2026-09-01T13:21:12.950334",
+    "status": "results_found"
+  },
+  {
+    "business": "TREAT ZONE",
+    "field": "Website URL",
+    "value": "https://treatzone.co.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://treatzone.co.in/index.html",
+    "timestamp": "2026-09-01T13:21:19.995932"
+  },
+  {
+    "business": "TREAT ZONE",
+    "field": "Phone Number",
+    "value": "+918707277265",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://treatzone.co.in/",
+    "timestamp": "2026-09-01T13:21:20.900627"
+  },
+  {
+    "business": "TREAT ZONE",
+    "field": "Email Address",
+    "value": "info@treatzone.co.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://treatzone.co.in/",
+    "timestamp": "2026-09-01T13:21:20.900853"
+  },
+  {
+    "seller": "TREAT ZONE",
+    "field": "Legal Entity Name",
+    "query": "TREAT ZONE company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://b2bhint.com/en/company/za/treat-zone--B2001033522",
+      "https://www.treatzone.com/login",
+      "https://www.srtipacc.ae/",
+      "https://www.treatzone.com/"
+    ],
+    "timestamp": "2026-09-01T13:21:32.636325",
+    "status": "results_found"
+  },
+  {
+    "seller": "TREAT ZONE",
+    "field": "PAN",
+    "query": "TREAT ZONE PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://tinpan.proteantech.in/services/pan/pan-index.html",
+      "https://sezonline-ndml.co.in/",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html"
+    ],
+    "timestamp": "2026-09-01T13:21:47.952306",
+    "status": "results_found"
+  },
+  {
+    "seller": "TREAT ZONE",
+    "field": "GST",
+    "query": "TREAT ZONE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://consultzone.in/gstreg.html",
+      "https://taxguru.in/goods-and-service-tax/gst-registration-complete-guide-rules-procedure-revocation.html",
+      "https://targolegal.com/gst-registration/"
+    ],
+    "timestamp": "2026-09-01T13:22:05.760200",
+    "status": "results_found"
+  },
+  {
+    "seller": "TREAT ZONE",
+    "field": "Owner",
+    "query": "TREAT ZONE director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.datanyze.com/companies/treatzone/350912722#:~:text=Treatzone%20is%20brought%20to%20you%20by%20Matthew%20and,lists%2C%20weekly%20links%2C%20monthly%20quotes%2C%20and%20much%20more%21",
+      "https://treatzone.co.in/team.html",
+      "https://www.datanyze.com/companies/treatzone/350912722",
+      "https://www.zoominfo.com/c/treatzone/350912722"
+    ],
+    "timestamp": "2026-09-01T13:22:29.199582",
+    "status": "results_found"
+  },
+  {
+    "seller": "TREAT ZONE",
+    "field": "Address",
+    "query": "TREAT ZONE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://treatzone.co.in/",
+      "https://treatzone.co.in/index.html",
+      "https://treatzone.co.in/team.html",
+      "https://treatzone.co.in/menu-cakes.html"
+    ],
+    "timestamp": "2026-09-01T13:22:41.743355",
+    "status": "results_found"
+  },
+  {
+    "seller": "TREAT ZONE",
+    "field": "Address",
+    "query": "TREAT ZONE registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://treatzone.co.in/",
+      "https://treatzone.co.in/index.html",
+      "https://treatzone.co.in/team.html",
+      "https://treatzone.co.in/menu-cakes.html"
+    ],
+    "timestamp": "2026-09-01T13:22:52.076512",
+    "status": "results_found"
+  },
+  {
+    "business": "VIVITO",
+    "field": "Business Name",
+    "value": "VIVITO",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AWFVLAJO6LFI6&asin=B0F7XRRWCP&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T13:22:56.037076"
+  },
+  {
+    "seller": "VIVITO",
+    "field": "Website",
+    "query": "VIVITO official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://app.vivito.cc/auth",
+      "https://vivostore.in/"
+    ],
+    "timestamp": "2026-09-01T13:22:58.233149",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIVITO",
+    "field": "Legal Entity Name",
+    "query": "VIVITO company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hkcorporationsearch.com/companies/2021034/#:~:text=VIVITO%20LIMITED%20was%20incorporated%20on%2003-JAN-2014%20as%20a,and%20Feb%2013%20upon%20the%20anniversary%20of%20incorporation.",
+      "https://www.hkcorporationsearch.com/companies/2839556/",
+      "https://www.zolvit.com/company-registration",
+      "https://www.zolvit.com/producer-company-registration"
+    ],
+    "timestamp": "2026-09-01T13:23:11.832530",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIVITO",
+    "field": "PAN",
+    "query": "VIVITO PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html"
+    ],
+    "timestamp": "2026-09-01T13:23:29.562550",
+    "status": "results_found"
+  },
+  {
+    "business": "VIVITO",
+    "field": "Phone Number",
+    "value": "+918001801961",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+    "timestamp": "2026-09-01T13:23:37.684376"
+  },
+  {
+    "business": "VIVITO",
+    "field": "Email Address",
+    "value": "contact@jaagrukbharat.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+    "timestamp": "2026-09-01T13:23:37.685096"
+  },
+  {
+    "seller": "VIVITO",
+    "field": "GST",
+    "query": "VIVITO GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://www.indiafilings.com/learn/gst-registration-procedure",
+      "https://www.indiafilings.com/gst-registration/track"
+    ],
+    "timestamp": "2026-09-01T13:23:48.712266",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIVITO",
+    "field": "Owner",
+    "query": "VIVITO director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cbinsights.com/company/vivito/people",
+      "https://www.crunchbase.com/person/tsuji-keitaro",
+      "https://tracxn.com/d/companies/vivito/___4N63zxvKhtekjafhddCovecTuMiWYGCpy9kqc953Jg/founders-and-board-of-directors",
+      "https://vi-vito.com/about/"
+    ],
+    "timestamp": "2026-09-01T13:24:18.719865",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIVITO",
+    "field": "Address",
+    "query": "VIVITO registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/vivo-mobile-india-private-limited/__z7Sq3IRP4Mq29NAY2zGrhF4DOvwhi2vR4J_4IhANwFc#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,Village%20Wazirabad%2C%20Sector-54%2C%20Gurgaon%2C%20Gurugram%2C%20Haryana%2C%20India%2C%20122003.",
+      "https://pitchbook.com/profiles/company/463515-49",
+      "https://www.companydetails.in/company/vivo-mobile-india-private-limited",
+      "https://www.vivo.com/in/content/about-us"
+    ],
+    "timestamp": "2026-09-01T13:24:32.748637",
+    "status": "results_found"
+  },
+  {
+    "business": "VIVITO",
+    "field": "GST Number",
+    "value": "37AAECV8538M1ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vivo-mobile-india-private-limited/__z7Sq3IRP4Mq29NAY2zGrhF4DOvwhi2vR4J_4IhANwFc#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,Village%20Wazirabad%2C%20Sector-54%2C%20Gurgaon%2C%20Gurugram%2C%20Haryana%2C%20India%2C%20122003.",
+    "timestamp": "2026-09-01T13:24:34.515246"
+  },
+  {
+    "business": "VIVITO",
+    "field": "PAN Number",
+    "value": "AAECV8538M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vivo-mobile-india-private-limited/__z7Sq3IRP4Mq29NAY2zGrhF4DOvwhi2vR4J_4IhANwFc#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,Village%20Wazirabad%2C%20Sector-54%2C%20Gurgaon%2C%20Gurugram%2C%20Haryana%2C%20India%2C%20122003.",
+    "timestamp": "2026-09-01T13:24:34.515289"
+  },
+  {
+    "business": "VIVITO",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vivo-mobile-india-private-limited/__z7Sq3IRP4Mq29NAY2zGrhF4DOvwhi2vR4J_4IhANwFc#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,Village%20Wazirabad%2C%20Sector-54%2C%20Gurgaon%2C%20Gurugram%2C%20Haryana%2C%20India%2C%20122003.",
+    "timestamp": "2026-09-01T13:24:34.552989"
+  },
+  {
+    "business": "VIVITO",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vivo-mobile-india-private-limited/__z7Sq3IRP4Mq29NAY2zGrhF4DOvwhi2vR4J_4IhANwFc#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,Village%20Wazirabad%2C%20Sector-54%2C%20Gurgaon%2C%20Gurugram%2C%20Haryana%2C%20India%2C%20122003.",
+    "timestamp": "2026-09-01T13:24:34.553005"
+  },
+  {
+    "business": "VIVITO",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vivo-mobile-india-private-limited/__z7Sq3IRP4Mq29NAY2zGrhF4DOvwhi2vR4J_4IhANwFc#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,Village%20Wazirabad%2C%20Sector-54%2C%20Gurgaon%2C%20Gurugram%2C%20Haryana%2C%20India%2C%20122003.",
+    "timestamp": "2026-09-01T13:24:34.553012"
+  },
+  {
+    "business": "VIVITO",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vivo-mobile-india-private-limited/__z7Sq3IRP4Mq29NAY2zGrhF4DOvwhi2vR4J_4IhANwFc#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,Village%20Wazirabad%2C%20Sector-54%2C%20Gurgaon%2C%20Gurugram%2C%20Haryana%2C%20India%2C%20122003.",
+    "timestamp": "2026-09-01T13:24:34.553018"
+  }
+]

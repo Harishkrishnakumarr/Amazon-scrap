@@ -1,0 +1,61 @@
+{
+  "category": "Door Fittings",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Endeavar : Authorised Godrej Partner",
+      "database_id": 1344,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "partnerconnect@godrejproperties.com",
+      "gst": "29AAJFE0145P1Z2",
+      "pan": "AAJFE0145P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Shiv Sarika India",
+      "database_id": 1345,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918619958822",
+      "email": "contact@shivbabas.org",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.shivbabas.org/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Plantex India",
+      "database_id": 1346,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918043890273",
+      "email": "cs@plantex.in",
+      "gst": "24AALCP2951M1Z1",
+      "pan": "AALCP2951M",
+      "website": "https://www.plantex.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Shiv Craft",
+      "database_id": 1345,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918619958822",
+      "email": "charters@lih.travel",
+      "gst": "08CFKPS8788A2ZR",
+      "pan": "CFKPS8788A",
+      "website": "https://www.shivcraft.com/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+[
+  {
+    "business": "INDIKONB STORE",
+    "field": "Business Name",
+    "value": "INDIKONB STORE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A4GH1GQOBSBA9&asin=B09KNPD4NP&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T17:33:39.414569"
+  },
+  {
+    "seller": "INDIKONB STORE",
+    "field": "Website",
+    "query": "INDIKONB STORE official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://shop.indikonb.com/collections/all",
+      "https://shop.indikonb.com/collections/all-products"
+    ],
+    "timestamp": "2026-08-29T17:33:47.983693",
+    "status": "results_found"
+  },
+  {
+    "seller": "INDIKONB STORE",
+    "field": "Legal Entity Name",
+    "query": "INDIKONB STORE company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shop.indikonb.com/",
+      "https://shop.indikonb.com/collections/all",
+      "https://indikonshop.com/",
+      "https://www.indianconstructionindustry.com/amazon_store/paints/INDIKONB-Craft-Crafts-Supplies-Materials-B0917CTCSP.html"
+    ],
+    "timestamp": "2026-08-29T17:33:55.859695",
+    "status": "results_found"
+  },
+  {
+    "business": "INDIKONB STORE",
+    "field": "Phone Number",
+    "value": "+919811969594",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://shop.indikonb.com/",
+    "timestamp": "2026-08-29T17:33:57.644780"
+  },
+  {
+    "business": "INDIKONB STORE",
+    "field": "Email Address",
+    "value": "indikonb@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://shop.indikonb.com/",
+    "timestamp": "2026-08-29T17:33:57.645099"
+  },
+  {
+    "seller": "INDIKONB STORE",
+    "field": "Legal Entity Name",
+    "query": "INDIKONB STORE Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T17:34:18.161999",
+    "status": "no_results"
+  },
+  {
+    "seller": "INDIKONB STORE",
+    "field": "PAN",
+    "query": "INDIKONB STORE PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T17:34:31.067630",
+    "status": "no_results"
+  },
+  {
+    "seller": "INDIKONB STORE",
+    "field": "PAN",
+    "query": "INDIKONB STORE PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T17:34:55.251539",
+    "status": "no_results"
+  },
+  {
+    "seller": "INDIKONB STORE",
+    "field": "GST",
+    "query": "INDIKONB STORE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shop.indikonb.com/",
+      "https://shop.indikonb.com/collections/all",
+      "https://indikonshop.com/",
+      "https://www.indianconstructionindustry.com/amazon_store/paints/INDIKONB-Craft-Crafts-Supplies-Materials-B0917CTCSP.html"
+    ],
+    "timestamp": "2026-08-29T17:35:09.530713",
+    "status": "results_found"
+  },
+  {
+    "seller": "INDIKONB STORE",
+    "field": "Owner",
+    "query": "INDIKONB STORE director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trademarkia.in/indikonb-4585894",
+      "https://shop.indikonb.com/pages/about-us",
+      "https://www.storesdata.com/store/shop.indikonb.com",
+      "https://indikonshop.com/"
+    ],
+    "timestamp": "2026-08-29T17:35:28.468023",
+    "status": "results_found"
+  },
+  {
+    "seller": "INDIKONB STORE",
+    "field": "Address",
+    "query": "INDIKONB STORE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shop.indikonb.com/",
+      "https://shop.indikonb.com/collections/all",
+      "https://indikonshop.com/",
+      "https://www.indianconstructionindustry.com/amazon_store/paints/INDIKONB-Craft-Crafts-Supplies-Materials-B0917CTCSP.html"
+    ],
+    "timestamp": "2026-08-29T17:35:47.531658",
+    "status": "results_found"
+  },
+  {
+    "business": "WRIGHT WOOD ENTERPRISES",
+    "field": "Business Name",
+    "value": "WRIGHT WOOD ENTERPRISES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3AYMRFTAMCA7C&asin=B0GVSQHJRT&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T17:35:53.777744"
+  },
+  {
+    "seller": "WRIGHT WOOD ENTERPRISES",
+    "field": "Website",
+    "query": "WRIGHT WOOD ENTERPRISES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.wrightresearch.in/",
+      "https://www.wrightresearch.in/landing/"
+    ],
+    "timestamp": "2026-08-29T17:35:59.047803",
+    "status": "results_found"
+  },
+  {
+    "seller": "WRIGHT WOOD ENTERPRISES",
+    "field": "Legal Entity Name",
+    "query": "WRIGHT WOOD ENTERPRISES company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://entitysearch.us/",
+      "https://www.bizapedia.com/tx/wrightwood-enterprises-llc.html",
+      "https://www.bizapedia.com/mi/wrightwood-enterprises-inc.html",
+      "https://bisprofiles.com/fl/wrightwood-enterprises-f13817"
+    ],
+    "timestamp": "2026-08-29T17:36:23.257717",
+    "status": "results_found"
+  },
+  {
+    "seller": "WRIGHT WOOD ENTERPRISES",
+    "field": "PAN",
+    "query": "WRIGHT WOOD ENTERPRISES PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wrightresearch.in/",
+      "https://www.wrightresearch.in/landing/",
+      "https://www.wrighttool.com/",
+      "https://www.britannica.com/biography/Frank-Lloyd-Wright"
+    ],
+    "timestamp": "2026-08-29T17:36:30.481994",
+    "status": "results_found"
+  },
+  {
+    "business": "WRIGHT WOOD ENTERPRISES",
+    "field": "Phone Number",
+    "value": "+916360127635",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.wrightresearch.in/",
+    "timestamp": "2026-08-29T17:36:31.786650"
+  },
+  {
+    "business": "WRIGHT WOOD ENTERPRISES",
+    "field": "Email Address",
+    "value": "info@wrightresearch.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.wrightresearch.in/",
+    "timestamp": "2026-08-29T17:36:31.786898"
+  },
+  {
+    "seller": "WRIGHT WOOD ENTERPRISES",
+    "field": "PAN",
+    "query": "WRIGHT WOOD ENTERPRISES PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wrightresearch.in/",
+      "https://www.wrightresearch.in/landing/",
+      "https://www.wrighttool.com/",
+      "https://www.britannica.com/biography/Frank-Lloyd-Wright"
+    ],
+    "timestamp": "2026-08-29T17:36:46.053104",
+    "status": "results_found"
+  },
+  {
+    "seller": "WRIGHT WOOD ENTERPRISES",
+    "field": "GST",
+    "query": "WRIGHT WOOD ENTERPRISES GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wrightresearch.in/",
+      "https://www.wrightresearch.in/landing/",
+      "https://www.wrighttool.com/",
+      "https://www.britannica.com/biography/Frank-Lloyd-Wright"
+    ],
+    "timestamp": "2026-08-29T17:36:49.853803",
+    "status": "results_found"
+  },
+  {
+    "seller": "WRIGHT WOOD ENTERPRISES",
+    "field": "Owner",
+    "query": "WRIGHT WOOD ENTERPRISES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wrightresearch.in/",
+      "https://www.wrightresearch.in/landing/",
+      "https://www.wrighttool.com/",
+      "https://www.britannica.com/biography/Frank-Lloyd-Wright"
+    ],
+    "timestamp": "2026-08-29T17:37:06.114349",
+    "status": "results_found"
+  },
+  {
+    "seller": "WRIGHT WOOD ENTERPRISES",
+    "field": "Address",
+    "query": "WRIGHT WOOD ENTERPRISES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wrightresearch.in/",
+      "https://www.wrightresearch.in/landing/",
+      "https://www.wrighttool.com/",
+      "https://www.britannica.com/biography/Frank-Lloyd-Wright"
+    ],
+    "timestamp": "2026-08-29T17:37:20.287837",
+    "status": "results_found"
+  },
+  {
+    "business": "AccuPrints Gurgaon",
+    "field": "Business Name",
+    "value": "AccuPrints Gurgaon",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1TSZZP0EGZBYH&asin=B0FSWLNX9Q&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T17:37:34.290409"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Website",
+    "query": "AccuPrints Gurgaon official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5538738"
+    ],
+    "timestamp": "2026-08-29T17:37:36.566426",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Legal Entity Name",
+    "query": "AccuPrints Gurgaon company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.vivaldi.net/topic/113545/whatsapp.com-web-use-another-browser-browser-unsupported-for-whatsapp-web",
+      "https://forum.vivaldi.net/topic/78815/whatsapp-web-on-web-panel-became-extremely-slow",
+      "https://forum.vivaldi.net/topic/112404/whatsapp-web-logging-out-constantly",
+      "https://forum.vivaldi.net/topic/78284/web-whatsapp-keeps-crashing-after-the-last-update"
+    ],
+    "timestamp": "2026-08-29T17:37:46.184052",
+    "status": "results_found"
+  },
+  {
+    "business": "AccuPrints Gurgaon",
+    "field": "Phone Number",
+    "value": "+917533244482",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://forum.vivaldi.net/topic/78815/whatsapp-web-on-web-panel-became-extremely-slow",
+    "timestamp": "2026-08-29T17:37:53.527502"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Legal Entity Name",
+    "query": "AccuPrints Gurgaon Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://accuprints.in/",
+      "https://piceapp.com/gst-number-search/accuprints-06aurps1867j1zv/",
+      "https://www.inspex.in/",
+      "https://gst.jamku.app/gstin/06AURPS1867J1ZV"
+    ],
+    "timestamp": "2026-08-29T17:38:06.257410",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "PAN",
+    "query": "AccuPrints Gurgaon PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/kurozenzen/r34-react",
+      "https://github.com/mjosaarinen/gost-r34.11-94",
+      "https://github.com/dusty-nv/jetson-containers",
+      "https://github.com/kurozenzen/r34-react/actions"
+    ],
+    "timestamp": "2026-08-29T17:38:11.147439",
+    "status": "results_found"
+  },
+  {
+    "business": "AccuPrints Gurgaon",
+    "field": "Email Address",
+    "value": "mjos@iki.fi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://github.com/mjosaarinen/gost-r34.11-94",
+    "timestamp": "2026-08-29T17:38:19.044607"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "GST",
+    "query": "AccuPrints Gurgaon GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/06AURPS1867J1ZV",
+      "https://piceapp.com/gst-number-search/accuprints-06aurps1867j1zv/",
+      "https://accuprints.in/",
+      "https://gst.jamku.app/gstin/33AURPS1867J1ZY"
+    ],
+    "timestamp": "2026-08-29T17:38:30.311744",
+    "status": "results_found"
+  },
+  {
+    "business": "AccuPrints Gurgaon",
+    "field": "GST Number",
+    "value": "06AURPS1867J1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/06AURPS1867J1ZV",
+    "timestamp": "2026-08-29T17:38:33.571111"
+  },
+  {
+    "business": "AccuPrints Gurgaon",
+    "field": "PAN Number",
+    "value": "AURPS1867J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/06AURPS1867J1ZV",
+    "timestamp": "2026-08-29T17:38:33.571133"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Owner",
+    "query": "AccuPrints Gurgaon director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://accuprints.in/",
+      "https://rocketreach.co/bharat-sindhwani-email_123817331",
+      "https://piceapp.com/gst-number-search/accuprints-06aurps1867j1zv/",
+      "https://rocketreach.co/bharat-sindhwani-email_318758220"
+    ],
+    "timestamp": "2026-08-29T17:38:39.273663",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Owner",
+    "query": "AccuPrints Gurgaon founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://excel.cloud.microsoft/ja-jp/",
+      "https://biz.kddi.com/content/column/smb/excel-explanation-tact/",
+      "https://apps.apple.com/jp/app/microsoft-excel/id586683407",
+      "https://excel.cloud.microsoft/en-gb/"
+    ],
+    "timestamp": "2026-08-29T17:38:47.114271",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Address",
+    "query": "AccuPrints Gurgaon registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gurgaon.idbf.in/gurgaon/105510/accuprints",
+      "https://accuprints.in/",
+      "https://accuprints.in/pages/contact",
+      "https://piceapp.com/gst-number-search/accuprints-06aurps1867j1zv/"
+    ],
+    "timestamp": "2026-08-29T17:38:59.881869",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Address",
+    "query": "AccuPrints Gurgaon registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/92433-enable-disable-remote-desktop-connections-windows-10-pc.html",
+      "https://www.tenforums.com/tutorials/3982-rdc-connect-remotely-your-windows-10-pc.html",
+      "https://www.tenforums.com/tutorials/92715-remove-computer-entries-remote-desktop-connection-windows-10-a.html",
+      "https://www.tenforums.com/tutorials/110540-add-remote-desktop-connection-remote-desktop-app-windows-10-pc.html"
+    ],
+    "timestamp": "2026-08-29T17:39:10.921591",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "category": "Solar Charge Controllers",
+  "records_before_save": 11,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Skypearll Store",
+      "database_id": 1295,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "tore3@gmail.com",
+      "gst": "29AAHCB4521D1ZY",
+      "pan": "AAHCB4521D",
+      "website": "https://www.videolan.org/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "prabhaglobal (prabhaglobal.in)",
+      "database_id": 1319,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917174142663",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

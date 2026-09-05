@@ -1,0 +1,74 @@
+{
+  "category": "Industrial Testing Devices",
+  "records_before_save": 10,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "AtmanirbharBharat",
+      "database_id": 1416,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1403,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Basto",
+      "database_id": 1417,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919654977966",
+      "email": "programming@kvvu.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.basto.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Radio Technical House",
+      "database_id": 1418,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916360857892",
+      "email": "info@radiotechnicalhouse.com",
+      "gst": "29PZSPS3027R1ZT",
+      "pan": "PZSPS3027R",
+      "website": "https://www.radiotechnicalhouse.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "XPR3SS",
+      "database_id": 1419,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917415715403",
+      "email": "nagpur0101@gmail.com",
+      "gst": "29AUUPR1428F1Z5",
+      "pan": "AUUPR1428F",
+      "website": "https://www.xpr3ss.com/",
+      "status": "Verified"
+    }
+  ]
+}

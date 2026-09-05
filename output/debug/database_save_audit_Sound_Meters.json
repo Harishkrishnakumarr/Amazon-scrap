@@ -1,0 +1,74 @@
+{
+  "category": "Sound Meters",
+  "records_before_save": 30,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Overseas_shop",
+      "database_id": 1376,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919818367444",
+      "email": "info@overseaslogistic.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "STS Shop",
+      "database_id": 1377,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Needs Review"
+    },
+    {
+      "business_name": "XTECH LAB SUPPLIES",
+      "database_id": 1378,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918047788442",
+      "email": "Not Found",
+      "gst": "07HCLPS9492G1ZN",
+      "pan": "HCLPS9492G",
+      "website": "https://www.xtechlabsupplies.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BUY CRAVINGS",
+      "database_id": 1379,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917290068900",
+      "email": "support@cashify.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SV Global Retails",
+      "database_id": 1380,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "registrarsvu@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://svuniversity.edu.in/",
+      "status": "Verified"
+    }
+  ]
+}

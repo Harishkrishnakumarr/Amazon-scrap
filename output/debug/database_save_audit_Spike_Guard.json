@@ -1,0 +1,22 @@
+{
+  "category": "Spike Guard",
+  "records_before_save": 5,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1338,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919210579250",
+      "email": "popcorn@oneindia.co.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+[
+  {
+    "business": "Sunrise Book store",
+    "field": "Business Name",
+    "value": "Sunrise Book store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AAEHXJUTUR97E&isAmazonFulfilled=0&asin=1906860327&ref_=olp_merch_name_1",
+    "timestamp": "2026-08-29T17:54:48.078410"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Website",
+    "query": "Sunrise Book store official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://sunrisebookstore.com/",
+      "https://sunrisebookstore.com/collections/all"
+    ],
+    "timestamp": "2026-08-29T17:54:57.555583",
+    "status": "results_found"
+  },
+  {
+    "business": "Sunrise Book store",
+    "field": "Website URL",
+    "value": "https://sunrisebookstore.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://sunrisebookstore.com/",
+    "timestamp": "2026-08-29T17:55:07.053342"
+  },
+  {
+    "business": "Sunrise Book store",
+    "field": "Email Address",
+    "value": "sunrisebooks.shine@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://sunrisebookstore.com/",
+    "timestamp": "2026-08-29T17:55:09.117575"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Legal Entity Name",
+    "query": "Sunrise Book store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise.am/countries/india/",
+      "https://sunrise-sunset.org/in/himayatnagar"
+    ],
+    "timestamp": "2026-08-29T17:55:20.837726",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Legal Entity Name",
+    "query": "Sunrise Book store Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise.am/countries/india/",
+      "https://sunrise-sunset.org/in/himayatnagar"
+    ],
+    "timestamp": "2026-08-29T17:55:33.741138",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "PAN",
+    "query": "Sunrise Book store PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise.am/countries/india/",
+      "https://sunrise-sunset.org/in/himayatnagar"
+    ],
+    "timestamp": "2026-08-29T17:55:36.049758",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "PAN",
+    "query": "Sunrise Book store PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/sunrise-book-house-33ARYPB4586B1ZP/",
+      "https://piceapp.com/gst-number-search/sunrise-book-house-33arypb4586b1zp/",
+      "https://www.scribd.com/document/819545651/invoice-1",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-29T17:55:49.800976",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "GST",
+    "query": "Sunrise Book store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise.am/countries/india/",
+      "https://sunrise-sunset.org/in/himayatnagar"
+    ],
+    "timestamp": "2026-08-29T17:55:53.538070",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "GST",
+    "query": "Sunrise Book store GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise.am/countries/india/",
+      "https://sunrise-sunset.org/in/himayatnagar"
+    ],
+    "timestamp": "2026-08-29T17:56:03.257515",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Owner",
+    "query": "Sunrise Book store director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise.am/countries/india/",
+      "https://sunrise-sunset.org/in/himayatnagar"
+    ],
+    "timestamp": "2026-08-29T17:56:09.683143",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Owner",
+    "query": "Sunrise Book store founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise.am/countries/india/",
+      "https://sunrise-sunset.org/in/himayatnagar"
+    ],
+    "timestamp": "2026-08-29T17:56:20.068311",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Address",
+    "query": "Sunrise Book store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise.am/countries/india/",
+      "https://sunrise-sunset.org/in/himayatnagar"
+    ],
+    "timestamp": "2026-08-29T17:56:25.047168",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Address",
+    "query": "Sunrise Book store registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise.am/countries/india/",
+      "https://sunrise-sunset.org/in/himayatnagar"
+    ],
+    "timestamp": "2026-08-29T17:56:32.270656",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Phone",
+    "query": "Sunrise Book store phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise.am/countries/india/",
+      "https://sunrise-sunset.org/in/himayatnagar"
+    ],
+    "timestamp": "2026-08-29T17:56:45.286258",
+    "status": "results_found"
+  },
+  {
+    "business": "Repro Books-On-Demand",
+    "field": "Business Name",
+    "value": "Repro Books-On-Demand",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15DBATYR506U3&asin=B0BWXXP6WH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T17:56:49.222956"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Website",
+    "query": "Repro Books-On-Demand official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.skyscanner.co.in/",
+      "https://www.skyscanner.co.in/routes/bom/blr/mumbai-to-bengaluru.html"
+    ],
+    "timestamp": "2026-08-29T17:56:50.954032",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Legal Entity Name",
+    "query": "Repro Books-On-Demand company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.reprobooks.in/",
+      "https://www.reprobooks.in/about-us/",
+      "https://www.reprobooks.in/our-business/",
+      "https://www.reprobooks.in/publishers/"
+    ],
+    "timestamp": "2026-08-29T17:57:07.403586",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "PAN",
+    "query": "Repro Books-On-Demand PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstpan.com/gst/06AAECR4557N2ZV-repro-books-limited",
+      "https://www.reprobooks.in/",
+      "https://www.scribd.com/document/743199297/1138503916-Amazon-Invoice-books-pdf-May",
+      "https://gst.unifers.ai/gst/06AAECR4557N3ZU/repro-books-limited"
+    ],
+    "timestamp": "2026-08-29T17:57:34.686695",
+    "status": "results_found"
+  },
+  {
+    "business": "Repro Books-On-Demand",
+    "field": "GST Number",
+    "value": "06AAECR4557N2ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/gst/06AAECR4557N2ZV-repro-books-limited",
+    "timestamp": "2026-08-29T17:57:36.579512"
+  },
+  {
+    "business": "Repro Books-On-Demand",
+    "field": "PAN Number",
+    "value": "AAECR4557N",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/gst/06AAECR4557N2ZV-repro-books-limited",
+    "timestamp": "2026-08-29T17:57:36.579768"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Owner",
+    "query": "Repro Books-On-Demand director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://es.cybo.com/CL-biz/benjamin-pizza",
+      "https://firmania.cl/santiago/papa-johns-pizza-54014",
+      "https://www.yelp.com/search?find_desc=Pizza&find_loc=RM+8050000+San+Bernardo&msockid=1bbb98202bc46a5f2b828fe42a1d6b3a",
+      "https://www.yelp.com/search?find_desc=Pizza&find_loc=Av.+Portales+Ote.+1004%2C+RM+8050000+San+Bernardo&msockid=1bbb98202bc46a5f2b828fe42a1d6b3a"
+    ],
+    "timestamp": "2026-08-29T17:57:39.369802",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Owner",
+    "query": "Repro Books-On-Demand founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://communities.apple.com/pt/thread/250042693",
+      "https://communities.apple.com/es/thread/255963849"
+    ],
+    "timestamp": "2026-08-29T17:57:45.906673",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Address",
+    "query": "Repro Books-On-Demand registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.almanac.com/plant/honeysuckle",
+      "https://ownyardlife.com/30-types-of-honeysuckle-plants-with-pictures-and-identification/",
+      "https://www.rhs.org.uk/plants/honeysuckle",
+      "https://www.britannica.com/plant/honeysuckle"
+    ],
+    "timestamp": "2026-08-29T17:58:00.705205",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Phone",
+    "query": "Repro Books-On-Demand phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://post.smzdm.com/p/arl9gm8g/",
+      "https://home.meishichina.com/recipe/huoguo/",
+      "https://www.kuibaike.com/changshi/y5rlN1m3de.html"
+    ],
+    "timestamp": "2026-08-29T17:58:14.664411",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Email",
+    "query": "Repro Books-On-Demand email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.reprobooks.in/contact-us/",
+      "https://www.reprobooks.in/publishers/",
+      "https://www.reprobooks.in/our-business/",
+      "https://www.reprobooks.in/educators/"
+    ],
+    "timestamp": "2026-08-29T17:58:38.380579",
+    "status": "results_found"
+  },
+  {
+    "business": "Peacockbooks",
+    "field": "Business Name",
+    "value": "Peacockbooks",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2ILJE07BPEH0H&isAmazonFulfilled=0&asin=1906860327&ref_=olp_merch_name_3",
+    "timestamp": "2026-08-29T17:58:49.907023"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Website",
+    "query": "Peacockbooks official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.crank-in.net/drama/autumn2026",
+      "https://natalie.mu/eiga/drama/season/2026-autumn"
+    ],
+    "timestamp": "2026-08-29T17:58:53.500339",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Legal Entity Name",
+    "query": "Peacockbooks company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.canva.com/ko_kr/draw/?msockid=1bbb98202bc46a5f2b828fe42a1d6b3a",
+      "https://ko.wikihow.com/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-%EA%B7%B8%EB%A6%BC%ED%8C%90-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95"
+    ],
+    "timestamp": "2026-08-29T17:59:08.383350",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Legal Entity Name",
+    "query": "Peacockbooks Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://peacockbooks.com/",
+      "https://peacockbooks.com/pages/about-us-peacock-books",
+      "https://peacockbooks.com/pages/catalog",
+      "https://peacockbooks.com/pages/contact"
+    ],
+    "timestamp": "2026-08-29T17:59:17.718520",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "PAN",
+    "query": "Peacockbooks PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T17:59:31.073207",
+    "status": "no_results"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "PAN",
+    "query": "Peacockbooks PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://es.ccm.net/descargas/entretenimiento/7152-youtube-vanced-para-android-apk/"
+    ],
+    "timestamp": "2026-08-29T17:59:32.916070",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "GST",
+    "query": "Peacockbooks GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wikihow.com/Start-Learning-Guitar",
+      "https://www.wikihow.com/Play-Guitar",
+      "https://www.ultimate-guitar.com/articles/official-lessons/how-to-play-guitar",
+      "https://breakthroughguitar.com/how-to-play-guitar/"
+    ],
+    "timestamp": "2026-08-29T17:59:36.969457",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Owner",
+    "query": "Peacockbooks director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.yanagawa-ayu.com/",
+      "https://www.yanagawa-ayu.com/menu/",
+      "https://www.yanagawa-ayu.com/news/",
+      "https://www.yanagawa-ayu.com/archives/47"
+    ],
+    "timestamp": "2026-08-29T17:59:55.019590",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Owner",
+    "query": "Peacockbooks founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://peacockbooks.com/pages/about-us-peacock-books",
+      "https://peacockbookswildlifeart.com/pages/peacock-books-site",
+      "https://peacockbookswildlifeart.com/pages/peacock-books-wildlife-art",
+      "https://peacockbooks.com/"
+    ],
+    "timestamp": "2026-08-29T18:00:12.114669",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Address",
+    "query": "Peacockbooks registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://k2pic.com/",
+      "https://k2pic.com/en/",
+      "https://note.com/tokuriki/n/n56b5baba9304"
+    ],
+    "timestamp": "2026-08-29T18:00:15.534752",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Phone",
+    "query": "Peacockbooks phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/",
+      "https://www.elevenforum.com/t/find-all-installed-apps-and-programs-in-windows-11.44535/"
+    ],
+    "timestamp": "2026-08-29T18:00:31.566108",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Phone",
+    "query": "Peacockbooks contact phone",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://sprp.prod.netflix.net/"
+    ],
+    "timestamp": "2026-08-29T18:00:39.906522",
+    "status": "results_found"
+  },
+  {
+    "business": "Atlantic Publishers and Distributors",
+    "field": "Business Name",
+    "value": "Atlantic Publishers and Distributors",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1S46CEHK621UY&isAmazonFulfilled=0&asin=1906860327&ref_=olp_merch_name_6",
+    "timestamp": "2026-08-29T18:00:51.831281"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "Website",
+    "query": "Atlantic Publishers and Distributors official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://atlanticbooks.com/",
+      "https://atlanticbooks.com/collections/browse-routledge-classics"
+    ],
+    "timestamp": "2026-08-29T18:01:01.567436",
+    "status": "results_found"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "Legal Entity Name",
+    "query": "Atlantic Publishers and Distributors company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/ATLANTIC-PUBLISHERS-DISTRIBUTORS-PRIVATE-LIMITED-U22110DL2005PTC140791",
+      "https://www.companydetails.in/company/atlantic-publishers-distributorsprivate-limited",
+      "https://www.indiafilings.com/search/atlantic-publishers-distributors-private-limited-cin-U22110DL2005PTC140791",
+      "https://www.instafinancials.com/company/atlantic-publishers-distributors-private-limited-U22110DL2005PTC140791"
+    ],
+    "timestamp": "2026-08-29T18:01:21.835835",
+    "status": "results_found"
+  },
+  {
+    "business": "Atlantic Publishers and Distributors",
+    "field": "Email Address",
+    "value": "h@atlanticbooks.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/ATLANTIC-PUBLISHERS-DISTRIBUTORS-PRIVATE-LIMITED-U22110DL2005PTC140791",
+    "timestamp": "2026-08-29T18:01:25.872983"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "PAN",
+    "query": "Atlantic Publishers and Distributors PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstserver.com/gst/07AAFCA7265H1ZK/",
+      "https://www.knowyourgst.com/gst-number-search/atlantic-publishers-distributors-private-limited-07AAFCA7265H1ZK/",
+      "https://fnshiftsolutions.com/gstin-search/atlantic-publishers-distributors-private-limited-07AAFCA7265H1ZK",
+      "https://fnshiftsolutions.com/gstin-search/atlantic-publishers-distributors-private-limited-09AAFCA7265H1ZG"
+    ],
+    "timestamp": "2026-08-29T18:01:54.951925",
+    "status": "results_found"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "GST",
+    "query": "Atlantic Publishers and Distributors GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/atlantic-publishers-distributors-private-limited-07AAFCA7265H2ZJ/",
+      "https://fnshiftsolutions.com/gstin-search/atlantic-publishers-distributors-private-limited-07AAFCA7265H2ZJ",
+      "https://www.mastersindia.co/gst-search/?name=atlantic-publishers--distributors-private-limited&gstin=07AAFCA7265H1ZK",
+      "https://findgst.in/gst/07AAFCA7265H1ZK"
+    ],
+    "timestamp": "2026-08-29T18:02:01.986175",
+    "status": "results_found"
+  },
+  {
+    "business": "Atlantic Publishers and Distributors",
+    "field": "GST Number",
+    "value": "07AAFCA7265H2ZJ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/atlantic-publishers-distributors-private-limited-07AAFCA7265H2ZJ/",
+    "timestamp": "2026-08-29T18:02:03.222710"
+  },
+  {
+    "business": "Atlantic Publishers and Distributors",
+    "field": "PAN Number",
+    "value": "AAFCA7265H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/atlantic-publishers-distributors-private-limited-07AAFCA7265H2ZJ/",
+    "timestamp": "2026-08-29T18:02:03.222726"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "Owner",
+    "query": "Atlantic Publishers and Distributors director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://files.minecraftforge.net/",
+      "https://www.curseforge.com/",
+      "https://files.minecraftforge.net/net/minecraftforge/forge/index_1.21.1.html",
+      "https://www.curseforge.com/minecraft"
+    ],
+    "timestamp": "2026-08-29T18:02:09.130815",
+    "status": "results_found"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "Address",
+    "query": "Atlantic Publishers and Distributors registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T18:02:38.677546",
+    "status": "no_results"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "Address",
+    "query": "Atlantic Publishers and Distributors registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/atlantic-publishers-distributors-private-limited./__IBlUfHNn9FIwhHvgZubF7WJnuVI8qECMfG9Rj0_wAYI",
+      "https://atlanticpublishing.com/pages/contact",
+      "https://www.indiafilings.com/search/atlantic-publishers-distributors-private-limited-cin-U22110DL2005PTC140791",
+      "https://www.companydetails.in/company/atlantic-publishers-distributorsprivate-limited"
+    ],
+    "timestamp": "2026-08-29T18:02:49.840093",
+    "status": "results_found"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "Phone",
+    "query": "Atlantic Publishers and Distributors phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://builtin.com/drones",
+      "https://builtin.com/articles/drone-swarm",
+      "https://builtin.com/articles/drone-delivery",
+      "https://builtin.com/articles/types-of-drones"
+    ],
+    "timestamp": "2026-08-29T18:02:54.907294",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "category": "Solar Energy",
+  "records_before_save": 24,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1320,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "37AAJCC8517E1ZK",
+      "pan": "AAJCC8517E",
+      "website": "https://www.brother.in/",
+      "status": "Verified"
+    }
+  ]
+}

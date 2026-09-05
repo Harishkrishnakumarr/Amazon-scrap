@@ -1,0 +1,377 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0FLQB8Z97&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T12:09:59.914987"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-31T12:10:02.382630",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-31T12:10:06.508540"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-31T12:10:07.831716"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:10:13.548197",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:10:24.896002",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:10:30.647470",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:10:43.981845",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:10:45.347343",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T12:10:52.866073",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:10:56.464762",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:11:04.443077",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:11:10.262501",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:11:17.805564",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:11:29.107188",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:11:40.297355",
+    "status": "results_found"
+  },
+  {
+    "business": "Corvids India",
+    "field": "Business Name",
+    "value": "Corvids India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2284EQ3AY4HPK&asin=B0DGSYVWTF&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T12:11:42.929128"
+  },
+  {
+    "seller": "Corvids India",
+    "field": "Website",
+    "query": "Corvids India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.corvidsindia.com/",
+      "https://www.corvidsindia.com/collections/telescopic-ladder"
+    ],
+    "timestamp": "2026-08-31T12:11:44.645627",
+    "status": "results_found"
+  },
+  {
+    "business": "Corvids India",
+    "field": "Website URL",
+    "value": "https://www.corvidsindia.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.corvidsindia.in/",
+    "timestamp": "2026-08-31T12:11:50.583238"
+  },
+  {
+    "business": "Corvids India",
+    "field": "Phone Number",
+    "value": "+918047632514",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.corvidsindia.in/",
+    "timestamp": "2026-08-31T12:11:51.264670"
+  },
+  {
+    "business": "Corvids India",
+    "field": "GST Number",
+    "value": "08FTWPS3652C1Z3",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.corvidsindia.in/",
+    "timestamp": "2026-08-31T12:11:51.266965"
+  },
+  {
+    "business": "Corvids India",
+    "field": "PAN Number",
+    "value": "FTWPS3652C",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.corvidsindia.in/",
+    "timestamp": "2026-08-31T12:11:51.266989"
+  },
+  {
+    "seller": "Corvids India",
+    "field": "Legal Entity Name",
+    "query": "Corvids India company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.corvidsindia.com/"
+    ],
+    "timestamp": "2026-08-31T12:11:56.677853",
+    "status": "results_found"
+  },
+  {
+    "business": "Corvids India",
+    "field": "Email Address",
+    "value": "care@corvidsindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.corvidsindia.com/",
+    "timestamp": "2026-08-31T12:12:02.813279"
+  },
+  {
+    "seller": "Corvids India",
+    "field": "Legal Entity Name",
+    "query": "Corvids India Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.corvidsindia.com/pages/warranty",
+      "https://www.corvidsindia.in/about-us.html",
+      "https://www.corvidsindia.com/",
+      "https://www.datanyze.com/companies/corvids/1319054381"
+    ],
+    "timestamp": "2026-08-31T12:12:08.696664",
+    "status": "results_found"
+  },
+  {
+    "seller": "Corvids India",
+    "field": "Owner",
+    "query": "Corvids India director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.corvidsindia.com/",
+      "https://www.corvidsindia.com/collections/telescopic-ladder",
+      "https://www.birdful.org/what-are-all-the-corvids/",
+      "https://www.britannica.com/animal/Corvidae"
+    ],
+    "timestamp": "2026-08-31T12:12:17.990637",
+    "status": "results_found"
+  },
+  {
+    "seller": "Corvids India",
+    "field": "Address",
+    "query": "Corvids India registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.corvidsindia.com/pages/contact-us",
+      "https://www.datanyze.com/companies/corvids/1319054381",
+      "https://www.corvidsindia.in/profile.html",
+      "https://www.knowyourgst.com/gst-number-search/corvids-india-19FTWPS3652C1Z0/"
+    ],
+    "timestamp": "2026-08-31T12:12:34.129087",
+    "status": "results_found"
+  },
+  {
+    "business": "Corvids India",
+    "field": "Billing Address",
+    "value": "second\u00a0floor, plot no. 135, kesar\u00a0nagar, gram sukhiya, sanganer, jaipur, rajasthan, 302039",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.corvidsindia.com/pages/contact-us",
+    "timestamp": "2026-08-31T12:12:39.067471"
+  },
+  {
+    "business": "Corvids India",
+    "field": "City",
+    "value": "jaipur",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.corvidsindia.com/pages/contact-us",
+    "timestamp": "2026-08-31T12:12:39.067494"
+  },
+  {
+    "business": "Corvids India",
+    "field": "State",
+    "value": "Rajasthan",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.corvidsindia.com/pages/contact-us",
+    "timestamp": "2026-08-31T12:12:39.067500"
+  },
+  {
+    "business": "Corvids India",
+    "field": "Pincode",
+    "value": "302039",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.corvidsindia.com/pages/contact-us",
+    "timestamp": "2026-08-31T12:12:39.067505"
+  }
+]

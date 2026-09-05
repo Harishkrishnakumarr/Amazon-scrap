@@ -1,0 +1,947 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B015Z1IOG0&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T13:51:35.032814"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-09-01T13:51:37.180622",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-01T13:51:42.187479",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T13:51:43.300305"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T13:51:43.300325"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T13:51:43.300330"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T13:51:43.300334"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "ant.agarwal@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+    "timestamp": "2026-09-01T13:51:45.380046"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20limited%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=3cbf4aaf6b931c9392ef2039e0a55e31&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20limited%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.registerkaro.in/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20limited%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=9f109934ed691b16120af3a2665fb202&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20limited%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=%2Bprivate%20%2Blimited%20company%20%2Bregistration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=%2Bprivate%20%2Blimited%20company%20%2Bregistration&target_name=kwd-83769913535100:loc-90&placement=&keyword_id=%2Bprivate%20%2Blimited%20company%20%2Bregistration&msclkid=5732c40843d11bd7df0dae9ec8e7cc6d",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM"
+    ],
+    "timestamp": "2026-09-01T13:52:04.180938",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://retailez.co.in/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-01T13:52:06.363621",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "18AALCR3173P1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-01T13:52:08.450361"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-01T13:52:08.450380"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://www.dnb.com/business-directory/company-profiles/retailez-private-limited.cd20d34cbf7a0afc000a10c6eedb462d",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM"
+    ],
+    "timestamp": "2026-09-01T13:52:10.513358",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://in.fashionnetwork.com/news/Rupa-and-company-s-promoters-launch-retailez-on-amazon-india,1427124.html#:~:text=Clothing%20manufacturing%20business%20Rupa%20and%20Company%E2%80%99s%20promoters%20Siddhant,India%20to%20take%20over%20part%20of%20Cloudtail%E2%80%99s%20business.",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://in.fashionnetwork.com/news/Rupa-and-company-s-promoters-launch-retailez-on-amazon-india,1427124.html"
+    ],
+    "timestamp": "2026-09-01T13:52:17.751115",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/careers/",
+      "https://retailez.co.in/partner/"
+    ],
+    "timestamp": "2026-09-01T13:52:25.681884",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/careers/",
+      "https://retailez.co.in/partner/"
+    ],
+    "timestamp": "2026-09-01T13:52:30.237027",
+    "status": "results_found"
+  },
+  {
+    "business": "Opptra",
+    "field": "Business Name",
+    "value": "Opptra",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ZDBOC32VH7BO&asin=B0GD6WJPP9&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T13:52:33.782820"
+  },
+  {
+    "seller": "Opptra",
+    "field": "Website",
+    "query": "Opptra official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.opptra.com/",
+      "https://www.opptra.com/category/homepage"
+    ],
+    "timestamp": "2026-09-01T13:52:35.428558",
+    "status": "results_found"
+  },
+  {
+    "business": "Opptra",
+    "field": "Website URL",
+    "value": "https://www.opptra.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.opptra.com/",
+    "timestamp": "2026-09-01T13:52:36.884291"
+  },
+  {
+    "business": "Opptra",
+    "field": "Email Address",
+    "value": "contactus@opptra.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.opptra.com/",
+    "timestamp": "2026-09-01T13:52:37.696125"
+  },
+  {
+    "seller": "Opptra",
+    "field": "Legal Entity Name",
+    "query": "Opptra company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companies.sg/business/202612742R/OPPTRA-HOLDINGS-PTE-LTD-#:~:text=The%20company%20UEN%20is%20202612742R%2C%20registered%20with%20ACRA,and%20public%20status%20based%20on%20Singapore%20company%20records.",
+      "https://tracxn.com/d/companies/opptra/__80yITy34sIp7ravBCnDkDF7H3sy-S_3uS42VDvBdzI4",
+      "https://www.opptra.com/",
+      "https://www.falconebiz.com/company/OPTRA-INTERCOM-OPC-PRIVATE-LIMITED-U62010WB2025OPC278000"
+    ],
+    "timestamp": "2026-09-01T13:52:42.948197",
+    "status": "results_found"
+  },
+  {
+    "business": "Opptra",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/opptra/__80yITy34sIp7ravBCnDkDF7H3sy-S_3uS42VDvBdzI4",
+    "timestamp": "2026-09-01T13:52:47.103697"
+  },
+  {
+    "business": "Opptra",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/opptra/__80yITy34sIp7ravBCnDkDF7H3sy-S_3uS42VDvBdzI4",
+    "timestamp": "2026-09-01T13:52:47.103713"
+  },
+  {
+    "business": "Opptra",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/opptra/__80yITy34sIp7ravBCnDkDF7H3sy-S_3uS42VDvBdzI4",
+    "timestamp": "2026-09-01T13:52:47.103720"
+  },
+  {
+    "business": "Opptra",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/opptra/__80yITy34sIp7ravBCnDkDF7H3sy-S_3uS42VDvBdzI4",
+    "timestamp": "2026-09-01T13:52:47.103725"
+  },
+  {
+    "seller": "Opptra",
+    "field": "Legal Entity Name",
+    "query": "Opptra Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.opptra.com/",
+      "https://tracxn.com/d/companies/opptra/__80yITy34sIp7ravBCnDkDF7H3sy-S_3uS42VDvBdzI4",
+      "https://www.indiafilings.com/search/optra-intercom-opc-private-limited-cin-U62010WB2025OPC278000",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-09-01T13:52:51.613374",
+    "status": "results_found"
+  },
+  {
+    "business": "Opptra",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T13:52:56.745819"
+  },
+  {
+    "seller": "Opptra",
+    "field": "PAN",
+    "query": "Opptra PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://tin.tin.proteantech.in/pantan/StatusTrack.html",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://tinpan.proteantech.in/services/pan/pan-index.html"
+    ],
+    "timestamp": "2026-09-01T13:52:59.204234",
+    "status": "results_found"
+  },
+  {
+    "seller": "Opptra",
+    "field": "PAN",
+    "query": "Opptra PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tin.tin.proteantech.in/pantan/StatusTrack.html",
+      "https://www.falconebiz.com/company/OPTRA-IMPEX-PRIVATE-LIMITED-U47190HR2023PTC117217"
+    ],
+    "timestamp": "2026-09-01T13:53:03.914113",
+    "status": "results_found"
+  },
+  {
+    "seller": "Opptra",
+    "field": "GST",
+    "query": "Opptra GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://www.knowyourgst.com/gst-number-search/optra-technologies-private-limited-27AABCO9859P2ZE/",
+      "https://www.knowyourgst.com/gst-number-search/optra-systems-private-limited-27AAACO8805C1ZN/",
+      "https://piceapp.com/gst-number-search/optra-marketing-37aijpg1818p1zv/"
+    ],
+    "timestamp": "2026-09-01T13:53:07.615346",
+    "status": "results_found"
+  },
+  {
+    "business": "Opptra",
+    "field": "GST Number",
+    "value": "27AABCO9859P2ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/optra-technologies-private-limited-27AABCO9859P2ZE/",
+    "timestamp": "2026-09-01T13:53:14.329492"
+  },
+  {
+    "business": "Opptra",
+    "field": "PAN Number",
+    "value": "AABCO9859P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/optra-technologies-private-limited-27AABCO9859P2ZE/",
+    "timestamp": "2026-09-01T13:53:14.329520"
+  },
+  {
+    "seller": "Opptra",
+    "field": "Owner",
+    "query": "Opptra director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/opptra/__80yITy34sIp7ravBCnDkDF7H3sy-S_3uS42VDvBdzI4",
+      "https://inc42.com/company/opptra/people/",
+      "https://www.moneycontrol.com/news/business/startup/binny-bansal-launches-opptra-to-help-consumer-brands-expand-operations-in-asia-12962900.html",
+      "https://inc42.com/person/binny-bansal/"
+    ],
+    "timestamp": "2026-09-01T13:53:15.850637",
+    "status": "results_found"
+  },
+  {
+    "business": "Sarang-Sales",
+    "field": "Business Name",
+    "value": "Sarang-Sales",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AO4I0DHL7AGHI&asin=B0F6JXMLYT&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T13:53:30.037320"
+  },
+  {
+    "seller": "Sarang-Sales",
+    "field": "Website",
+    "query": "Sarang-Sales official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://sales.saarang.org/",
+      "https://sarang.com/"
+    ],
+    "timestamp": "2026-09-01T13:53:33.734270",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sarang-Sales",
+    "field": "Legal Entity Name",
+    "query": "Sarang-Sales company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/sarang-flavour-sales-private-limited/__9bah6vn3dtZWTOVsuow7VHIihvJSh2R-EwJRbJwjZhQ#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U16009WB1999PTC089138%20and%20its%20current%20status%20is%20Active.",
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://www.indiafilings.com/search/sarang-flavoursales-private-limited-cin-U16009WB1999PTC089138"
+    ],
+    "timestamp": "2026-09-01T13:53:49.186387",
+    "status": "results_found"
+  },
+  {
+    "business": "Sarang-Sales",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/sarang-flavour-sales-private-limited/__9bah6vn3dtZWTOVsuow7VHIihvJSh2R-EwJRbJwjZhQ#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U16009WB1999PTC089138%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-01T13:53:50.680108"
+  },
+  {
+    "business": "Sarang-Sales",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/sarang-flavour-sales-private-limited/__9bah6vn3dtZWTOVsuow7VHIihvJSh2R-EwJRbJwjZhQ#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U16009WB1999PTC089138%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-01T13:53:50.680124"
+  },
+  {
+    "business": "Sarang-Sales",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/sarang-flavour-sales-private-limited/__9bah6vn3dtZWTOVsuow7VHIihvJSh2R-EwJRbJwjZhQ#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U16009WB1999PTC089138%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-01T13:53:50.680130"
+  },
+  {
+    "business": "Sarang-Sales",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/sarang-flavour-sales-private-limited/__9bah6vn3dtZWTOVsuow7VHIihvJSh2R-EwJRbJwjZhQ#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U16009WB1999PTC089138%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-01T13:53:50.680133"
+  },
+  {
+    "business": "Sarang-Sales",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T13:53:53.363740"
+  },
+  {
+    "business": "Sarang-Sales",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T13:53:53.363974"
+  },
+  {
+    "seller": "Sarang-Sales",
+    "field": "Legal Entity Name",
+    "query": "Sarang-Sales Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://gstverify.co.in/search/",
+      "https://www.easytax.live/s/gst-number-search",
+      "https://www.udyam.ltd/blog/udyam-search-by-name"
+    ],
+    "timestamp": "2026-09-01T13:54:02.861362",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sarang-Sales",
+    "field": "PAN",
+    "query": "Sarang-Sales PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=The%20most%20direct%20method%20is%20to%20extract%20the,its%20details%20through%20the%20Income%20Tax%20e-Filing%20portal.",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://tinpan.proteantech.in/",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-01T13:54:05.901741",
+    "status": "results_found"
+  },
+  {
+    "business": "Sarang-Sales",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=The%20most%20direct%20method%20is%20to%20extract%20the,its%20details%20through%20the%20Income%20Tax%20e-Filing%20portal.",
+    "timestamp": "2026-09-01T13:54:11.306738"
+  },
+  {
+    "business": "Sarang-Sales",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=The%20most%20direct%20method%20is%20to%20extract%20the,its%20details%20through%20the%20Income%20Tax%20e-Filing%20portal.",
+    "timestamp": "2026-09-01T13:54:11.306759"
+  },
+  {
+    "seller": "Sarang-Sales",
+    "field": "Owner",
+    "query": "Sarang-Sales director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/people-profile/sarang-nitin-gadkari/01956871#:~:text=Sarang%20Nitin%20Gadkari%20has%2017%20years%20in%20corporate,Private%20Limited%20and%20Manas%20Power%20Ventures%20Private%20Limited.",
+      "https://www.dnb.com/business-directory/company-profiles.sarang_sales.fd86c142c315c66a9f995e5907f2cc62.html",
+      "https://starsunfolded.com/sarang-lakhanee/",
+      "https://www.wikibiostar.com/biography/sarang-lakhanee/"
+    ],
+    "timestamp": "2026-09-01T13:54:21.581642",
+    "status": "results_found"
+  },
+  {
+    "business": "Snevad Sales",
+    "field": "Business Name",
+    "value": "Snevad Sales",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A262RX3MAR0C74&asin=B0GYNK3FNC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T13:54:31.239663"
+  },
+  {
+    "seller": "Snevad Sales",
+    "field": "Website",
+    "query": "Snevad Sales official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/snevad-sales",
+      "https://www.gascare.in/brand/snevad/"
+    ],
+    "timestamp": "2026-09-01T13:54:38.936257",
+    "status": "results_found"
+  },
+  {
+    "seller": "Snevad Sales",
+    "field": "Legal Entity Name",
+    "query": "Snevad Sales company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T13:55:13.495933",
+    "status": "no_results"
+  },
+  {
+    "seller": "Snevad Sales",
+    "field": "Legal Entity Name",
+    "query": "Snevad Sales Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T13:55:30.582863",
+    "status": "no_results"
+  },
+  {
+    "seller": "Snevad Sales",
+    "field": "PAN",
+    "query": "Snevad Sales PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://gstverify.co.in/search/",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://gstpan.com/"
+    ],
+    "timestamp": "2026-09-01T13:55:51.354505",
+    "status": "results_found"
+  },
+  {
+    "seller": "Snevad Sales",
+    "field": "GST",
+    "query": "Snevad Sales GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/snevad-sales-24dizpg8481h1zj/",
+      "https://www.knowyourgst.com/gst-number-search/snevad-sales-24DIZPG8481H1ZJ/",
+      "https://gstverify.co.in/search/",
+      "https://smartgst.in/tools/gst-registration-status"
+    ],
+    "timestamp": "2026-09-01T13:56:04.184619",
+    "status": "results_found"
+  },
+  {
+    "business": "Snevad Sales",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/snevad-sales-24dizpg8481h1zj/",
+    "timestamp": "2026-09-01T13:56:11.019196"
+  },
+  {
+    "business": "Snevad Sales",
+    "field": "Email Address",
+    "value": "hello@pice.one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/snevad-sales-24dizpg8481h1zj/",
+    "timestamp": "2026-09-01T13:56:11.152273"
+  },
+  {
+    "business": "Snevad Sales",
+    "field": "GST Number",
+    "value": "24DIZPG8481H1ZJ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/snevad-sales-24dizpg8481h1zj/",
+    "timestamp": "2026-09-01T13:56:11.169579"
+  },
+  {
+    "business": "Snevad Sales",
+    "field": "PAN Number",
+    "value": "DIZPG8481H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/snevad-sales-24dizpg8481h1zj/",
+    "timestamp": "2026-09-01T13:56:11.169599"
+  },
+  {
+    "business": "Snevad Sales",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/snevad-sales-24dizpg8481h1zj/",
+    "timestamp": "2026-09-01T13:56:12.711781"
+  },
+  {
+    "business": "Snevad Sales",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/snevad-sales-24dizpg8481h1zj/",
+    "timestamp": "2026-09-01T13:56:12.713022"
+  },
+  {
+    "business": "Snevad Sales",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/snevad-sales-24dizpg8481h1zj/",
+    "timestamp": "2026-09-01T13:56:12.713034"
+  },
+  {
+    "business": "Snevad Sales",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/snevad-sales-24dizpg8481h1zj/",
+    "timestamp": "2026-09-01T13:56:12.713040"
+  },
+  {
+    "seller": "Snevad Sales",
+    "field": "Owner",
+    "query": "Snevad Sales director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kalkinemedia.com/au/news/announcements/sierra-nevada-gold-founder-peter-moore-steps-down-from-board-adam-oehlman-named-ceo#:~:text=Moore%20founded%20Sierra%20Nevada%20Gold%20over%2015%20years,before%20transitioning%20to%20Executive%20Director%20in%20September%202025.",
+      "https://www.sncorp.com/company/leadership/",
+      "https://piceapp.com/gst-number-search/snevad-sales-24dizpg8481h1zj/",
+      "https://kalkinemedia.com/au/news/announcements/sierra-nevada-gold-founder-peter-moore-steps-down-from-board-adam-oehlman-named-ceo"
+    ],
+    "timestamp": "2026-09-01T13:56:24.900081",
+    "status": "results_found"
+  },
+  {
+    "business": "Aric Retail India Company",
+    "field": "Business Name",
+    "value": "Aric Retail India Company",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ATFITF2FJPTS7&asin=B00SCORWJ8&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T13:56:42.276646"
+  },
+  {
+    "seller": "Aric Retail India Company",
+    "field": "Website",
+    "query": "Aric Retail India Company official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "http://relianceretail.com/",
+      "http://www.relianceretail.com/our-business.html"
+    ],
+    "timestamp": "2026-09-01T13:56:50.118311",
+    "status": "results_found"
+  },
+  {
+    "business": "Aric Retail India Company",
+    "field": "Website URL",
+    "value": "http://relianceretail.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "http://relianceretail.com/",
+    "timestamp": "2026-09-01T13:56:54.920171"
+  },
+  {
+    "business": "Aric Retail India Company",
+    "field": "Email Address",
+    "value": "customerservice@ril.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "http://relianceretail.com/",
+    "timestamp": "2026-09-01T13:56:56.754376"
+  },
+  {
+    "seller": "Aric Retail India Company",
+    "field": "Legal Entity Name",
+    "query": "Aric Retail India Company company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company-registration",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.indiafilings.com/learn/how-to-register-a-company-in-india-checklist",
+      "https://www.companyregistration.net.in/"
+    ],
+    "timestamp": "2026-09-01T13:57:00.386610",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aric Retail India Company",
+    "field": "PAN",
+    "query": "Aric Retail India Company PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=To%20check%20a%20company%E2%80%99s%20PAN%20number%20online%20in,characters%203%20to%2012%20represent%20the%2010-character%20PAN.",
+      "https://gst.iadv.io/ARIC-RETAIL-INDIA-COMPANY-07DBNPS9023N1ZT/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-01T13:57:22.884081",
+    "status": "results_found"
+  },
+  {
+    "business": "Aric Retail India Company",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=To%20check%20a%20company%E2%80%99s%20PAN%20number%20online%20in,characters%203%20to%2012%20represent%20the%2010-character%20PAN.",
+    "timestamp": "2026-09-01T13:57:24.966893"
+  },
+  {
+    "business": "Aric Retail India Company",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=To%20check%20a%20company%E2%80%99s%20PAN%20number%20online%20in,characters%203%20to%2012%20represent%20the%2010-character%20PAN.",
+    "timestamp": "2026-09-01T13:57:24.967413"
+  },
+  {
+    "business": "Aric Retail India Company",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=To%20check%20a%20company%E2%80%99s%20PAN%20number%20online%20in,characters%203%20to%2012%20represent%20the%2010-character%20PAN.",
+    "timestamp": "2026-09-01T13:57:24.967422"
+  },
+  {
+    "seller": "Aric Retail India Company",
+    "field": "Owner",
+    "query": "Aric Retail India Company director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://zauba.company/",
+      "https://www.inspex.in/",
+      "https://www.companyseekers.com/",
+      "https://www.companydetails.in/"
+    ],
+    "timestamp": "2026-09-01T13:57:27.513677",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aric Retail India Company",
+    "field": "Address",
+    "query": "Aric Retail India Company registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moner.in/isin/INE272I01010/#:~:text=MR.%20PRAVIN%20JAIN%20PLOT%20NO%2031,SECTOR%2018%20ELECTRONIC%20CITY%20GURGAON%20HARYANA%20INDIA-110001CO-09072011",
+      "https://www.tatanexarc.com/company/aric-retail-india-utn9235ari32jxa/",
+      "https://www.justdial.com/Delhi/Aric-Retail-India-Near-Krishna-Mandir-Samaipur/011PXX11-XX11-140318163849-Y1K2_BZDET",
+      "https://www.arclimited.com/contact.php/pdf/pdf/pdf/pdf/"
+    ],
+    "timestamp": "2026-09-01T13:57:59.301815",
+    "status": "results_found"
+  },
+  {
+    "business": "Kruvad & co",
+    "field": "Business Name",
+    "value": "Kruvad & co",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2RWULAAL7AX77&asin=B0F5MYLJRQ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T13:58:04.201431"
+  },
+  {
+    "seller": "Kruvad & co",
+    "field": "Website",
+    "query": "Kruvad & co official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kruvand.com/locations",
+      "https://www.gascare.in/brand/kruvad/"
+    ],
+    "timestamp": "2026-09-01T13:58:07.231973",
+    "status": "results_found"
+  },
+  {
+    "business": "Kruvad & co",
+    "field": "Website URL",
+    "value": "https://www.gascare.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.gascare.in/brand/kruvad/",
+    "timestamp": "2026-09-01T13:58:17.633505"
+  },
+  {
+    "business": "Kruvad & co",
+    "field": "Phone Number",
+    "value": "+919562344923",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.gascare.in/",
+    "timestamp": "2026-09-01T13:58:22.988691"
+  },
+  {
+    "business": "Kruvad & co",
+    "field": "Email Address",
+    "value": "sales@gascare.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.gascare.in/",
+    "timestamp": "2026-09-01T13:58:22.990799"
+  },
+  {
+    "seller": "Kruvad & co",
+    "field": "Legal Entity Name",
+    "query": "Kruvad & co company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/kruvad-co-24AWHPK6499A1ZG/",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-09-01T13:58:37.485986",
+    "status": "results_found"
+  },
+  {
+    "business": "Kruvad & co",
+    "field": "GST Number",
+    "value": "24AWHPK6499A1ZG",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/kruvad-co-24AWHPK6499A1ZG/",
+    "timestamp": "2026-09-01T13:58:38.660293"
+  },
+  {
+    "business": "Kruvad & co",
+    "field": "PAN Number",
+    "value": "AWHPK6499A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/kruvad-co-24AWHPK6499A1ZG/",
+    "timestamp": "2026-09-01T13:58:38.660323"
+  },
+  {
+    "seller": "Kruvad & co",
+    "field": "Legal Entity Name",
+    "query": "Kruvad & co Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamsearch.com/",
+      "https://www.instafinancials.com/products/instabasic.html",
+      "https://mcalookup.in/",
+      "https://www.registerkaro.in/company-name-check"
+    ],
+    "timestamp": "2026-09-01T13:58:44.353396",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kruvad & co",
+    "field": "Owner",
+    "query": "Kruvad & co director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://zauba.company/",
+      "https://rocketreach.co/kruvand-associates-inc-management_b5feb9d2f9a1b467",
+      "https://www.inspex.in/",
+      "https://www.companyseekers.com/"
+    ],
+    "timestamp": "2026-09-01T13:58:53.866948",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kruvad & co",
+    "field": "Address",
+    "query": "Kruvad & co registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/kruvad-co-24AWHPK6499A1ZG/",
+      "https://www.kruvand.com/locations",
+      "https://www.inspex.in/",
+      "https://www.elisaindustriq.com/calcuquote/directory/kruvand"
+    ],
+    "timestamp": "2026-09-01T13:59:14.977769",
+    "status": "results_found"
+  }
+]

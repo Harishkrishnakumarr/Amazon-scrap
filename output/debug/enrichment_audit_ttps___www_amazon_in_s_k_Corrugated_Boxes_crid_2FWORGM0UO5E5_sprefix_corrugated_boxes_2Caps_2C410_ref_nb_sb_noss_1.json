@@ -1,0 +1,405 @@
+[
+  {
+    "business": "JIA INDUSTRIES",
+    "field": "Business Name",
+    "value": "JIA INDUSTRIES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2LUZEYI3RHW51&asin=B0CK4J96KJ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T15:15:15.818757"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "Website",
+    "query": "JIA INDUSTRIES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis",
+      "https://www.sciencedirect.com/journal/journal-of-integrative-agriculture"
+    ],
+    "timestamp": "2026-08-31T15:15:17.636772",
+    "status": "results_found"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "Legal Entity Name",
+    "query": "JIA INDUSTRIES company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis",
+      "https://www.sciencedirect.com/journal/journal-of-integrative-agriculture",
+      "https://jia.in/about-us/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMra2402073"
+    ],
+    "timestamp": "2026-08-31T15:15:21.940356",
+    "status": "results_found"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "Legal Entity Name",
+    "query": "JIA INDUSTRIES Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis",
+      "https://www.sciencedirect.com/journal/journal-of-integrative-agriculture",
+      "https://jia.in/about-us/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMra2402073"
+    ],
+    "timestamp": "2026-08-31T15:15:31.208691",
+    "status": "results_found"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "PAN",
+    "query": "JIA INDUSTRIES PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis",
+      "https://www.sciencedirect.com/journal/journal-of-integrative-agriculture",
+      "https://jia.in/about-us/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMra2402073"
+    ],
+    "timestamp": "2026-08-31T15:15:38.541880",
+    "status": "results_found"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "PAN",
+    "query": "JIA INDUSTRIES PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis",
+      "https://www.sciencedirect.com/journal/journal-of-integrative-agriculture",
+      "https://jia.in/about-us/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMra2402073"
+    ],
+    "timestamp": "2026-08-31T15:15:45.810409",
+    "status": "results_found"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "GST",
+    "query": "JIA INDUSTRIES GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis",
+      "https://www.sciencedirect.com/journal/journal-of-integrative-agriculture",
+      "https://jia.in/about-us/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMra2402073"
+    ],
+    "timestamp": "2026-08-31T15:15:53.850182",
+    "status": "results_found"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "GST",
+    "query": "JIA INDUSTRIES GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis",
+      "https://www.sciencedirect.com/journal/journal-of-integrative-agriculture",
+      "https://jia.in/about-us/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMra2402073"
+    ],
+    "timestamp": "2026-08-31T15:16:01.355878",
+    "status": "results_found"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "Owner",
+    "query": "JIA INDUSTRIES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis",
+      "https://www.sciencedirect.com/journal/journal-of-integrative-agriculture",
+      "https://jia.in/about-us/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMra2402073"
+    ],
+    "timestamp": "2026-08-31T15:16:08.774787",
+    "status": "results_found"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "Owner",
+    "query": "JIA INDUSTRIES founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis"
+    ],
+    "timestamp": "2026-08-31T15:16:17.988569",
+    "status": "results_found"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "Address",
+    "query": "JIA INDUSTRIES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis",
+      "https://www.sciencedirect.com/journal/journal-of-integrative-agriculture",
+      "https://jia.in/about-us/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMra2402073"
+    ],
+    "timestamp": "2026-08-31T15:16:21.544797",
+    "status": "results_found"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "Address",
+    "query": "JIA INDUSTRIES registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis",
+      "https://www.sciencedirect.com/journal/journal-of-integrative-agriculture",
+      "https://jia.in/about-us/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMra2402073"
+    ],
+    "timestamp": "2026-08-31T15:16:28.556469",
+    "status": "results_found"
+  },
+  {
+    "business": "JIA INDUSTRIES",
+    "field": "Email Address",
+    "value": "sandborg@stanford.edu",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.nejm.org/doi/full/10.1056/NEJMra2402073",
+    "timestamp": "2026-08-31T15:16:35.041330"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "Phone",
+    "query": "JIA INDUSTRIES phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis",
+      "https://www.sciencedirect.com/journal/journal-of-integrative-agriculture",
+      "https://jia.in/about-us/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMra2402073"
+    ],
+    "timestamp": "2026-08-31T15:16:37.154698",
+    "status": "results_found"
+  },
+  {
+    "seller": "JIA INDUSTRIES",
+    "field": "Phone",
+    "query": "JIA INDUSTRIES contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arthritis.org/diseases/juvenile-idiopathic-arthritis",
+      "https://www.sciencedirect.com/journal/journal-of-integrative-agriculture",
+      "https://jia.in/about-us/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMra2402073"
+    ],
+    "timestamp": "2026-08-31T15:16:47.328201",
+    "status": "results_found"
+  },
+  {
+    "business": "ARUSHI TRADINGS",
+    "field": "Business Name",
+    "value": "ARUSHI TRADINGS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AW0AN3EX0RC5M&asin=B09PG6L9RK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T15:16:51.848984"
+  },
+  {
+    "seller": "ARUSHI TRADINGS",
+    "field": "Website",
+    "query": "ARUSHI TRADINGS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://allthatsinteresting.com/aarushi-talwar",
+      "https://arushi-india.org/"
+    ],
+    "timestamp": "2026-08-31T15:16:53.354503",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARUSHI TRADINGS",
+    "field": "Legal Entity Name",
+    "query": "ARUSHI TRADINGS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allthatsinteresting.com/aarushi-talwar",
+      "https://arushi-india.org/",
+      "https://starsunfolded.com/arushi-sharma/",
+      "https://www.thelallantop.com/lallankhas/post/aarushi-murder-case-forensic-doctor-tells-who-killed-arushi-talwar"
+    ],
+    "timestamp": "2026-08-31T15:17:00.024496",
+    "status": "results_found"
+  },
+  {
+    "business": "ARUSHI TRADINGS",
+    "field": "Email Address",
+    "value": "admin@starsunfolded.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://starsunfolded.com/arushi-sharma/",
+    "timestamp": "2026-08-31T15:17:04.123512"
+  },
+  {
+    "seller": "ARUSHI TRADINGS",
+    "field": "Legal Entity Name",
+    "query": "ARUSHI TRADINGS Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allthatsinteresting.com/aarushi-talwar",
+      "https://arushi-india.org/",
+      "https://starsunfolded.com/arushi-sharma/",
+      "https://www.thelallantop.com/lallankhas/post/aarushi-murder-case-forensic-doctor-tells-who-killed-arushi-talwar"
+    ],
+    "timestamp": "2026-08-31T15:17:09.099988",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARUSHI TRADINGS",
+    "field": "PAN",
+    "query": "ARUSHI TRADINGS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allthatsinteresting.com/aarushi-talwar",
+      "https://arushi-india.org/",
+      "https://starsunfolded.com/arushi-sharma/",
+      "https://www.thelallantop.com/lallankhas/post/aarushi-murder-case-forensic-doctor-tells-who-killed-arushi-talwar"
+    ],
+    "timestamp": "2026-08-31T15:17:16.055936",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARUSHI TRADINGS",
+    "field": "PAN",
+    "query": "ARUSHI TRADINGS PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allthatsinteresting.com/aarushi-talwar",
+      "https://arushi-india.org/",
+      "https://starsunfolded.com/arushi-sharma/",
+      "https://www.thelallantop.com/lallankhas/post/aarushi-murder-case-forensic-doctor-tells-who-killed-arushi-talwar"
+    ],
+    "timestamp": "2026-08-31T15:17:21.743896",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARUSHI TRADINGS",
+    "field": "GST",
+    "query": "ARUSHI TRADINGS GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allthatsinteresting.com/aarushi-talwar",
+      "https://arushi-india.org/",
+      "https://starsunfolded.com/arushi-sharma/",
+      "https://www.thelallantop.com/lallankhas/post/aarushi-murder-case-forensic-doctor-tells-who-killed-arushi-talwar"
+    ],
+    "timestamp": "2026-08-31T15:17:26.699909",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARUSHI TRADINGS",
+    "field": "GST",
+    "query": "ARUSHI TRADINGS GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allthatsinteresting.com/aarushi-talwar",
+      "https://arushi-india.org/",
+      "https://starsunfolded.com/arushi-sharma/",
+      "https://www.thelallantop.com/lallankhas/post/aarushi-murder-case-forensic-doctor-tells-who-killed-arushi-talwar"
+    ],
+    "timestamp": "2026-08-31T15:17:31.856957",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARUSHI TRADINGS",
+    "field": "Owner",
+    "query": "ARUSHI TRADINGS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allthatsinteresting.com/aarushi-talwar",
+      "https://arushi-india.org/",
+      "https://starsunfolded.com/arushi-sharma/",
+      "https://www.thelallantop.com/lallankhas/post/aarushi-murder-case-forensic-doctor-tells-who-killed-arushi-talwar"
+    ],
+    "timestamp": "2026-08-31T15:17:37.750672",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARUSHI TRADINGS",
+    "field": "Owner",
+    "query": "ARUSHI TRADINGS founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allthatsinteresting.com/aarushi-talwar",
+      "https://arushi-india.org/",
+      "https://starsunfolded.com/arushi-sharma/",
+      "https://www.thelallantop.com/lallankhas/post/aarushi-murder-case-forensic-doctor-tells-who-killed-arushi-talwar"
+    ],
+    "timestamp": "2026-08-31T15:17:42.866751",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARUSHI TRADINGS",
+    "field": "Address",
+    "query": "ARUSHI TRADINGS registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allthatsinteresting.com/aarushi-talwar",
+      "https://arushi-india.org/",
+      "https://starsunfolded.com/arushi-sharma/",
+      "https://www.thelallantop.com/lallankhas/post/aarushi-murder-case-forensic-doctor-tells-who-killed-arushi-talwar"
+    ],
+    "timestamp": "2026-08-31T15:17:47.886149",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARUSHI TRADINGS",
+    "field": "Address",
+    "query": "ARUSHI TRADINGS registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allthatsinteresting.com/aarushi-talwar",
+      "https://arushi-india.org/",
+      "https://starsunfolded.com/arushi-sharma/",
+      "https://www.thelallantop.com/lallankhas/post/aarushi-murder-case-forensic-doctor-tells-who-killed-arushi-talwar"
+    ],
+    "timestamp": "2026-08-31T15:17:53.161555",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARUSHI TRADINGS",
+    "field": "Phone",
+    "query": "ARUSHI TRADINGS phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://allthatsinteresting.com/aarushi-talwar",
+      "https://arushi-india.org/",
+      "https://starsunfolded.com/arushi-sharma/"
+    ],
+    "timestamp": "2026-08-31T15:18:15.311817",
+    "status": "results_found"
+  }
+]

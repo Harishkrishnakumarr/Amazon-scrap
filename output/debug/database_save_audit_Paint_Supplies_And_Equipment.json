@@ -1,0 +1,35 @@
+{
+  "category": "Paint Supplies And Equipment",
+  "records_before_save": 8,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1336,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Craft House_",
+      "database_id": 1337,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918882232418",
+      "email": "press@craft.do",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.craft.do/",
+      "status": "Partially Verified"
+    }
+  ]
+}

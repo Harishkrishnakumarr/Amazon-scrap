@@ -1,0 +1,61 @@
+{
+  "category": "Tajines",
+  "records_before_save": 21,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Savoy Impex",
+      "database_id": 1444,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919892981351",
+      "email": "support@inspex.in",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "FAB INN SUPER MARKET",
+      "database_id": 1445,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "27AACPS5476J1Z6",
+      "pan": "AACPS5476J",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Quality Desk",
+      "database_id": 1446,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919122340775",
+      "email": "contact@cadeskindia.com",
+      "gst": "29AAACQ0609C1ZV",
+      "pan": "AAACQ0609C",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cougar International",
+      "database_id": 1447,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918800973322",
+      "email": "info@indialei.in",
+      "gst": "03AAAFC5870E1ZW",
+      "pan": "AAAFC5870E",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0CGVF4LQY&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T13:09:47.501101"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-09-01T13:09:51.797661",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-01T13:10:00.401499",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T13:10:02.952816"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T13:10:02.952843"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T13:10:02.952849"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T13:10:02.952860"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "ant.agarwal@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+    "timestamp": "2026-09-01T13:10:05.217889"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM"
+    ],
+    "timestamp": "2026-09-01T13:10:19.902877",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T13:11:04.702020",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T13:11:07.886719",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI",
+      "https://retailez.co.in/",
+      "https://theorg.com/org/retailez-private-limited/org-chart/aparesh-agarwal"
+    ],
+    "timestamp": "2026-09-01T13:11:13.089564",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/careers/",
+      "https://retailez.co.in/partner/"
+    ],
+    "timestamp": "2026-09-01T13:11:33.567462",
+    "status": "results_found"
+  },
+  {
+    "business": "Fortuna Global Impex",
+    "field": "Business Name",
+    "value": "Fortuna Global Impex",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A26LBMCBAN7U7G&isAmazonFulfilled=0&asin=B0FH72MQF7&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-01T13:11:44.792303"
+  },
+  {
+    "seller": "Fortuna Global Impex",
+    "field": "Website",
+    "query": "Fortuna Global Impex official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://fortunaglobals.com/",
+      "https://fortunaglobals.com/about-us/"
+    ],
+    "timestamp": "2026-09-01T13:11:48.836771",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fortuna Global Impex",
+    "field": "Legal Entity Name",
+    "query": "Fortuna Global Impex company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://gstverify.co.in/gst/fortuna-impex-pvtltd-19aaacf3870a1zy/",
+      "https://www.fortunaglobal.com/",
+      "https://tracxn.com/d/legal-entities/india/fortuna-impex-pvt-ltd/__-pW9QdLZK-Pzvx8C8A9pcFnbC8eXkB_elL7Tmqk0YFw"
+    ],
+    "timestamp": "2026-09-01T13:12:11.101545",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fortuna Global Impex",
+    "field": "PAN",
+    "query": "Fortuna Global Impex PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/fortuna-impex-pvtltd-19aaacf3870a1zy/#:~:text=This%20GST%20number%20is%20linked%20to%20a%20Private,PAN%20number%20associated%20with%20this%20GSTIN%20is%20AAACF3870A.",
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://fortunaglobals.com/contact-us/"
+    ],
+    "timestamp": "2026-09-01T13:12:31.981553",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fortuna Global Impex",
+    "field": "GST",
+    "query": "Fortuna Global Impex GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T13:13:18.902208",
+    "status": "no_results"
+  },
+  {
+    "seller": "Fortuna Global Impex",
+    "field": "Owner",
+    "query": "Fortuna Global Impex director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.crunchbase.com/person/anand-sheth-7ce1",
+      "https://theorg.com/org/fortunaglobal/org-chart/suren-kohombange",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-09-01T13:13:24.034852",
+    "status": "results_found"
+  },
+  {
+    "business": "Fortuna Global Impex",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T13:13:31.935256"
+  },
+  {
+    "business": "Fortuna Global Impex",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T13:13:31.935624"
+  },
+  {
+    "seller": "Fortuna Global Impex",
+    "field": "Owner",
+    "query": "Fortuna Global Impex founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://en.everybodywiki.com/Fortuna_Impex",
+      "https://www.zoominfo.com/p/Udit-Khaitan/8470812052",
+      "https://fortunaglobals.com/about-us/",
+      "https://tracxn.com/d/legal-entities/india/fortuna-impex-pvt-ltd/__-pW9QdLZK-Pzvx8C8A9pcFnbC8eXkB_elL7Tmqk0YFw"
+    ],
+    "timestamp": "2026-09-01T13:13:38.686069",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fortuna Global Impex",
+    "field": "Address",
+    "query": "Fortuna Global Impex registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bingplaces.com/DashBoard/Edit?Id=YN2FB8CB329E54CA2&market=en-IN&src=SERPIC",
+      "https://fortunaglobals.com/contact-us/",
+      "https://fortunaglobals.com/",
+      "https://www.insiderbiz.in/company-map/FORTUNA-IMPEX-PVT-LTD"
+    ],
+    "timestamp": "2026-09-01T13:13:40.636808",
+    "status": "results_found"
+  },
+  {
+    "business": "Fortuna Global Impex",
+    "field": "Billing Address",
+    "value": "p-73 kasba industrial estates, phase-ii, kolkata-700107",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fortunaglobals.com/contact-us/",
+    "timestamp": "2026-09-01T13:13:45.301827"
+  },
+  {
+    "business": "Fortuna Global Impex",
+    "field": "City",
+    "value": "kolkata",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fortunaglobals.com/contact-us/",
+    "timestamp": "2026-09-01T13:13:45.301862"
+  },
+  {
+    "business": "Fortuna Global Impex",
+    "field": "Pincode",
+    "value": "700107",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fortunaglobals.com/contact-us/",
+    "timestamp": "2026-09-01T13:13:45.301874"
+  }
+]

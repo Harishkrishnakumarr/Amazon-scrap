@@ -1,0 +1,87 @@
+{
+  "category": "Spice Dispensers",
+  "records_before_save": 7,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1459,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "ant.agarwal@retailez.co.in",
+      "gst": "18AALCR3173P1ZM",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DHADUK SMITABEN MAYURBHAI",
+      "database_id": 1460,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DeoDap\u00ae",
+      "database_id": 1461,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919638666607",
+      "email": "care@deodap.com",
+      "gst": "24AAHCD5265C1ZX",
+      "pan": "AAHCD5265C",
+      "website": "https://www.deodap.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Shanbuyers",
+      "database_id": 1462,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918047670828",
+      "email": "hello@pice.one",
+      "gst": "27BNMPS4442L1ZC",
+      "pan": "BNMPS4442L",
+      "website": "https://www.shanbuyers.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GAMBIT PRODUCTS PRIVATE LIMITED",
+      "database_id": 1463,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919624666631",
+      "email": "gambitproductgppl@gmail.com",
+      "gst": "24AAJCG8457F1ZE",
+      "pan": "AAJCG8457F",
+      "website": "https://gambitproduct.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DIPL INDIA",
+      "database_id": 1464,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919911779151",
+      "email": "support@digitalindiaportals.com",
+      "gst": "33ABPCS3807G1Z9",
+      "pan": "ABPCS3807G",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

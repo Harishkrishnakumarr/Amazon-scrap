@@ -1,0 +1,61 @@
+{
+  "category": "Cookie Jars",
+  "records_before_save": 13,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1455,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "ant.agarwal@retailez.co.in",
+      "gst": "18AALCR3173P1ZM",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "STAR WORK",
+      "database_id": 1456,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919316774841",
+      "email": "support@starwork.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.starwork.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Shanbuyers",
+      "database_id": 1457,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918047670828",
+      "email": "hello@pice.one",
+      "gst": "27BNMPS4442L1ZC",
+      "pan": "BNMPS4442L",
+      "website": "https://www.shanbuyers.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Vasukie",
+      "database_id": 1458,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "vishnu_bhosale507@yahoo.com",
+      "gst": "33AAKFV3268M1ZN",
+      "pan": "AAKFV3268M",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

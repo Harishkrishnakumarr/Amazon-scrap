@@ -1,0 +1,87 @@
+{
+  "category": "Column Caps",
+  "records_before_save": 14,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cart2Globe",
+      "database_id": 1358,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "lokesh@cart2india.com",
+      "gst": "27AAECC4477E1ZN",
+      "pan": "AAECC4477E",
+      "website": "https://www.cart2india.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Flizon Mart",
+      "database_id": 1359,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919361926329",
+      "email": "referrals.nmedss@health.wa.gov.au",
+      "gst": "08AAFFF5597A1ZE",
+      "pan": "AAFFF5597A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Taher & Brothers",
+      "database_id": 1360,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916312860336",
+      "email": "jubao@eastmoney.com",
+      "gst": "33AAAFT0297Q1ZS",
+      "pan": "AAAFT0297Q",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AJI COMPANY",
+      "database_id": 1361,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918444058640",
+      "email": "contactus@ajipackaging.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "CURE MEDICAL ONLINE",
+      "database_id": 1362,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918800020501",
+      "email": "info@cure.org.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "STS Shop",
+      "database_id": 1363,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@stsshop.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.stsshop.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

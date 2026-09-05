@@ -1,0 +1,100 @@
+{
+  "category": "Building Supplies Add-Ons",
+  "records_before_save": 7,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Elyssion",
+      "database_id": 1351,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917588040052",
+      "email": "contact@elyssion.in",
+      "gst": "07AAFCE1472L1ZI",
+      "pan": "AAFCE1472L",
+      "website": "https://www.elyssion.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "PETCATALOGUE E-SHOP",
+      "database_id": 1352,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919355858988",
+      "email": "hello@pice.one",
+      "gst": "06ABCFP4468J1ZY",
+      "pan": "ABCFP4468J",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Crenova Mint",
+      "database_id": 1353,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916666666666",
+      "email": "orders1@nice.co.kr",
+      "gst": "27AAECC8207A1Z3",
+      "pan": "AAECC8207A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Salesio Prime",
+      "database_id": 1354,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Kosliya Hub",
+      "database_id": 1355,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "06AAZFK3136G1Z2",
+      "pan": "AAZFK3136G",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Salesio Edge",
+      "database_id": 1356,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919362687439",
+      "email": "sinangagexpressfoodcorp@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://microsoft-edge.en.softonic.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "NALINISHUBHRA RETAIL",
+      "database_id": 1357,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "ffice07@gmail.com",
+      "gst": "06AAUFN3641A1ZE",
+      "pan": "AAUFN3641A",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

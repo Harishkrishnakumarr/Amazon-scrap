@@ -1,0 +1,61 @@
+{
+  "category": "Solar And Alternate Energy",
+  "records_before_save": 16,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Sunrise Book store",
+      "database_id": 1315,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919341955558",
+      "email": "sunrisebooks.shine@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://sunrisebookstore.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Repro Books-On-Demand",
+      "database_id": 1291,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@reproindialtd.com",
+      "gst": "06AAECR4557N2ZV",
+      "pan": "AAECR4557N",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Peacockbooks",
+      "database_id": 1318,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919717670228",
+      "email": "orders@peacockbooks.com",
+      "gst": "07BLBPP0649B1ZG",
+      "pan": "BLBPP0649B",
+      "website": "https://www.peacockbooks.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Atlantic Publishers and Distributors",
+      "database_id": 1317,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919355505734",
+      "email": "h@atlanticbooks.com",
+      "gst": "07AAFCA7265H2ZJ",
+      "pan": "AAFCA7265H",
+      "website": "https://atlanticbooks.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

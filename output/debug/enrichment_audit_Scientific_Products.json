@@ -1,0 +1,415 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0BLVCFK8D&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T16:45:30.433173"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-31T16:45:32.504850",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/about-us/",
+    "timestamp": "2026-08-31T16:45:35.546671"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-31T16:45:36.268055"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-31T16:45:36.269153"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://smflooring.co.in/thane/",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.kajariaceramics.com/"
+    ],
+    "timestamp": "2026-08-31T16:45:41.253787",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919022676540",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://smflooring.co.in/thane/",
+    "timestamp": "2026-08-31T16:45:45.855961"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Floor Cocoblu Retail Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://smflooring.co.in/thane/",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.kajariaceramics.com/"
+    ],
+    "timestamp": "2026-08-31T16:46:03.933703",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://smflooring.co.in/thane/",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.kajariaceramics.com/"
+    ],
+    "timestamp": "2026-08-31T16:46:19.639520",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Floor Cocoblu Retail Limited registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://smflooring.co.in/thane/",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.kajariaceramics.com/"
+    ],
+    "timestamp": "2026-08-31T16:46:44.539039",
+    "status": "results_found"
+  },
+  {
+    "business": "DecorTwist Private Limited",
+    "field": "Business Name",
+    "value": "DecorTwist Private Limited",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2BPIISBGKB9SI&asin=B0BY8Y2X5Y&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T16:47:02.104668"
+  },
+  {
+    "seller": "DecorTwist Private Limited",
+    "field": "Website",
+    "query": "DecorTwist Private Limited official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://oip.manual.canon/USRMA-3633-zz-DR-enUV/contents/dwi-inst-updt_uninst-updt.html",
+      "https://support.usa.canon.com/kb/s/article/ART116480"
+    ],
+    "timestamp": "2026-08-31T16:47:06.319157",
+    "status": "results_found"
+  },
+  {
+    "seller": "DecorTwist Private Limited",
+    "field": "Legal Entity Name",
+    "query": "DecorTwist Private Limited company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://steamcommunity.com/app/282800/discussions/0/690870129357140993/",
+      "https://steamcommunity.com/discussions/forum/1/598198356164074692/",
+      "https://steamcommunity.com/app/1675200/discussions/0/4844274022644178210/",
+      "https://steamcommunity.com/discussions/forum/1/3821910883991368999/"
+    ],
+    "timestamp": "2026-08-31T16:47:19.889058",
+    "status": "results_found"
+  },
+  {
+    "business": "DecorTwist Private Limited",
+    "field": "Phone Number",
+    "value": "+919528289030",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://steamcommunity.com/discussions/forum/1/3821910883991368999/",
+    "timestamp": "2026-08-31T16:47:34.681070"
+  },
+  {
+    "seller": "DecorTwist Private Limited",
+    "field": "PAN",
+    "query": "DecorTwist Private Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise-sunset.org/calendar",
+      "https://sunrise-sunset.org/in/himayatnagar"
+    ],
+    "timestamp": "2026-08-31T16:47:39.220653",
+    "status": "results_found"
+  },
+  {
+    "seller": "DecorTwist Private Limited",
+    "field": "GST",
+    "query": "DecorTwist Private Limited GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/09AAJCD8707F1ZG/decortwist-private-limited",
+      "https://www.knowyourgst.com/gst-number-search/decortwist-private-limited-27AAJCD8707F1ZI/",
+      "https://www.knowyourgst.com/gst-number-search/decortwist-private-limited-36AAJCD8707F1ZJ/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-31T16:48:01.881347",
+    "status": "results_found"
+  },
+  {
+    "seller": "DecorTwist Private Limited",
+    "field": "Owner",
+    "query": "DecorTwist Private Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tuxpaint.org/download/",
+      "https://tuxpaint.org/download/windows/",
+      "https://tuxpaint.org/",
+      "https://tuxpaint.org/download/?lang=es_ES"
+    ],
+    "timestamp": "2026-08-31T16:48:25.151174",
+    "status": "results_found"
+  },
+  {
+    "seller": "DecorTwist Private Limited",
+    "field": "Address",
+    "query": "DecorTwist Private Limited registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://map.idemitsu.com/b/a/info/0000003559/",
+      "https://gogo.gs/shop/2008000109",
+      "https://gogo.gs/shop/2008000109/?device=sp",
+      "https://map.idemitsu.com/b/a/info/20092/"
+    ],
+    "timestamp": "2026-08-31T16:48:27.873958",
+    "status": "results_found"
+  },
+  {
+    "seller": "DecorTwist Private Limited",
+    "field": "Address",
+    "query": "DecorTwist Private Limited registered address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://eziro.com/info/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0"
+    ],
+    "timestamp": "2026-08-31T16:48:38.102443",
+    "status": "results_found"
+  },
+  {
+    "seller": "DecorTwist Private Limited",
+    "field": "Email",
+    "query": "DecorTwist Private Limited email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T16:48:46.872525",
+    "status": "no_results"
+  },
+  {
+    "seller": "DecorTwist Private Limited",
+    "field": "Email",
+    "query": "DecorTwist Private Limited contact email",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.2345.com/baidu/baidusearch.html"
+    ],
+    "timestamp": "2026-08-31T16:48:52.311658",
+    "status": "results_found"
+  },
+  {
+    "business": "FRYIO",
+    "field": "Business Name",
+    "value": "FRYIO",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1W1Q3EWHGACIA&asin=B0CWTXB71N&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T16:49:02.030771"
+  },
+  {
+    "seller": "FRYIO",
+    "field": "Website",
+    "query": "FRYIO official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.meta.com/ko-kr/instagram/"
+    ],
+    "timestamp": "2026-08-31T16:49:06.923041",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRYIO",
+    "field": "Legal Entity Name",
+    "query": "FRYIO company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://entitysearch.us/",
+      "https://www.atom.com/name/Fryio",
+      "https://registry-lookup.com/",
+      "https://library.doc.gov/company/incorporation"
+    ],
+    "timestamp": "2026-08-31T16:49:22.433973",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRYIO",
+    "field": "PAN",
+    "query": "FRYIO PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-08-31T16:49:45.079685",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRYIO",
+    "field": "PAN",
+    "query": "FRYIO PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tripadvisor.in/Restaurants-g304554-c8-zfn15621348-Mumbai_Maharashtra.html",
+      "https://www.justdial.com/Mumbai/Coffee-Shops-in-Maharashtra-Nagar-Borivali-West/nct-10104727",
+      "https://trip101.com/article/cafes-in-borivali",
+      "https://www.justdial.com/Mumbai/Cafe-in-Borivali/nct-10104727"
+    ],
+    "timestamp": "2026-08-31T16:49:59.873009",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRYIO",
+    "field": "GST",
+    "query": "FRYIO GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://manaui.com/how-to-make-simple-cook-island-style-ika-mata/",
+      "https://www.196flavors.com/cook-islands-ika-mata/",
+      "https://pacificislandrecipe.com/ika-mata/",
+      "https://recipebuster.com/recipe/how-to-prepare-the-cook-islands-famous-ika-mata-dish/"
+    ],
+    "timestamp": "2026-08-31T16:50:03.388284",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRYIO",
+    "field": "Owner",
+    "query": "FRYIO director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T16:50:31.411606",
+    "status": "no_results"
+  },
+  {
+    "seller": "FRYIO",
+    "field": "Owner",
+    "query": "FRYIO founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T16:50:41.288768",
+    "status": "no_results"
+  },
+  {
+    "seller": "FRYIO",
+    "field": "Address",
+    "query": "FRYIO registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zoominfo.com/pic/the-frye-co/346705380",
+      "https://www.complaintsboard.com/the-frye-company-b126397/contacts",
+      "https://rocketreach.co/the-frye-company-profile_b5d26801f42e4478",
+      "https://www.mapquest.com/us/new-york/the-frye-company-headquarters-434079452"
+    ],
+    "timestamp": "2026-08-31T16:50:52.322213",
+    "status": "results_found"
+  },
+  {
+    "business": "FRYIO",
+    "field": "Email Address",
+    "value": "davidmoore@thefryecompany.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.complaintsboard.com/the-frye-company-b126397/contacts",
+    "timestamp": "2026-08-31T16:50:57.617226"
+  },
+  {
+    "business": "FRYIO",
+    "field": "Billing Address",
+    "value": "350 fifth ave., 9th floor, new york, ny 10118, usa",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.complaintsboard.com/the-frye-company-b126397/contacts",
+    "timestamp": "2026-08-31T16:50:57.736797"
+  },
+  {
+    "business": "FRYIO",
+    "field": "City",
+    "value": "usa",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.complaintsboard.com/the-frye-company-b126397/contacts",
+    "timestamp": "2026-08-31T16:50:57.736825"
+  },
+  {
+    "seller": "FRYIO",
+    "field": "Phone",
+    "query": "FRYIO phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.complaintsboard.com/the-frye-company-b126397/contacts",
+      "https://www.thefryecompany.com/pages/contact",
+      "https://support.thefryecompany.com/en-US",
+      "https://thefryeandco.com/pages/contact"
+    ],
+    "timestamp": "2026-08-31T16:51:06.465833",
+    "status": "results_found"
+  }
+]

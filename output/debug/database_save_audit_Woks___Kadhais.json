@@ -1,0 +1,74 @@
+{
+  "category": "Woks & Kadhais",
+  "records_before_save": 14,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Kuber Creation",
+      "database_id": 1422,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919784062111",
+      "email": "hello@kubera.com",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "https://www.kubera.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "equipments gold",
+      "database_id": 1423,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917208048100",
+      "email": "support@inspex.in",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1424,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@retailez.co.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DIAMOND TRADERS Gallery",
+      "database_id": 1423,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "The Indus Valley",
+      "database_id": 1425,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "madandhawan@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

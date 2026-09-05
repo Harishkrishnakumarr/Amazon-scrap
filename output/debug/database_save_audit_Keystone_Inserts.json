@@ -1,0 +1,48 @@
+{
+  "category": "Keystone Inserts",
+  "records_before_save": 11,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "MX-MDR TECHNOLOGIES LIMITED",
+      "database_id": 1333,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "CPU Tech",
+      "database_id": 1334,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.geeksforgeeks.org/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cart2Globe",
+      "database_id": 1335,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customer-service@uniquephoto.com",
+      "gst": "27AAECC4477E1ZN",
+      "pan": "AAECC4477E",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

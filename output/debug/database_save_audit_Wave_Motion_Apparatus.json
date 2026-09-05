@@ -1,0 +1,35 @@
+{
+  "category": "Wave Motion Apparatus",
+  "records_before_save": 8,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "KSM GN TeCH",
+      "database_id": 1392,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919916996777",
+      "email": "ksm.roadway@gmail.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AD Internationals",
+      "database_id": 1390,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

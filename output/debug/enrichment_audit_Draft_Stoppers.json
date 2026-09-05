@@ -1,0 +1,774 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0983PRR2Z&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T12:17:53.014486"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-31T12:17:57.567105",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-31T12:18:02.982313"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-31T12:18:05.430996"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:18:14.900236",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:18:33.763037",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:18:44.350344",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:18:45.987937",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:18:55.421357",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:19:01.972845",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:19:10.788211",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:19:16.932393",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:19:25.380132",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:19:31.176788",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:19:36.594579",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0FNN6YCBR&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T12:19:41.423450"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://m.me/www.facebook.com",
+      "https://m.me/r.php?locale=zh_HK"
+    ],
+    "timestamp": "2026-08-31T12:19:43.340227",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-31T12:19:54.066518",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-31T12:19:55.534069"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-31T12:19:55.534091"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-31T12:19:55.534097"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-31T12:19:55.534102"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://gst.unifers.ai/gst/36AALCR3173P1ZO/retailez-private-limited",
+      "https://www.scribd.com/document/811814713/PAN-CARD-OF-RETAILEZ-PRIVATE-LIMITED"
+    ],
+    "timestamp": "2026-08-31T12:20:09.732965",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+    "timestamp": "2026-08-31T12:20:10.786758"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+    "timestamp": "2026-08-31T12:20:10.786787"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134",
+      "https://www.affluense.ai/profile/aparesh-agarwal-retailez-private-limited-16c092"
+    ],
+    "timestamp": "2026-08-31T12:20:15.262244",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI",
+      "https://retailez.co.in/",
+      "https://theorg.com/org/retailez-private-limited/org-chart/aparesh-agarwal"
+    ],
+    "timestamp": "2026-08-31T12:20:26.809239",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://m.baike.com/wikiid/7164591506686787599",
+      "https://baike.sogou.com/m/v72186720.htm?g_ut=3"
+    ],
+    "timestamp": "2026-08-31T12:20:30.525526",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tripadvisor.com.ph/Hotels-g2152313-Calabarzon_Region_Luzon-Hotels.html",
+      "https://www.tripadvisor.com/Hotels-g2152313-Calabarzon_Region_Luzon-Hotels.html",
+      "https://ph.hotels.com/re12455487/hotels-in-calabarzon-philippines/",
+      "https://www.tripadvisor.com.ph/HotelsList-Calabarzon_Region-Beach-Resorts-zfp12145403.html"
+    ],
+    "timestamp": "2026-08-31T12:20:44.043634",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/5016-change-lock-screen-background-windows-10-a.html",
+      "https://www.tenforums.com/tutorials/90172-enable-disable-changing-lock-screen-background-windows-10-a.html",
+      "https://www.tenforums.com/customization/59696-lock-screen-background-image-does-not-appear-anniversary-update.html",
+      "https://www.tenforums.com/tutorials/4966-change-desktop-background-windows-10-a.html"
+    ],
+    "timestamp": "2026-08-31T12:20:45.470563",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+      "https://www.wikihow.com/Get-Help-in-Windows-11",
+      "https://thetechgorilla.com/how-to-get-help-in-windows-11/",
+      "https://mspoweruser.com/how-to-get-help-in-windows-11/"
+    ],
+    "timestamp": "2026-08-31T12:20:51.392936",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "raj@how2shout.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+    "timestamp": "2026-08-31T12:20:53.867726"
+  },
+  {
+    "business": "KNEELISA",
+    "field": "Business Name",
+    "value": "KNEELISA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3DBRZJ50XGFVR&asin=B0F383QHLK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T12:20:54.880568"
+  },
+  {
+    "seller": "KNEELISA",
+    "field": "Website",
+    "query": "KNEELISA official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.nikkei.com/nkd/company/?scode=7203&msockid=0d839adc0eed6ba807cc8d1a0f6b6a7a",
+      "https://www.nikkei.com/nkd/company/chart/?scode=7203&msockid=0d839adc0eed6ba807cc8d1a0f6b6a7a"
+    ],
+    "timestamp": "2026-08-31T12:20:57.362140",
+    "status": "results_found"
+  },
+  {
+    "seller": "KNEELISA",
+    "field": "Legal Entity Name",
+    "query": "KNEELISA company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.weforum.org/about/world-economic-forum/",
+      "https://www.weforum.org/stories/equity-diversity-and-inclusion/asia-garment-sector-gender-equality/",
+      "https://www.weforum.org/stories/2016/06/generalists-or-specialists-who-gets-hired/"
+    ],
+    "timestamp": "2026-08-31T12:21:15.123368",
+    "status": "results_found"
+  },
+  {
+    "seller": "KNEELISA",
+    "field": "PAN",
+    "query": "KNEELISA PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T12:21:31.317780",
+    "status": "no_results"
+  },
+  {
+    "seller": "KNEELISA",
+    "field": "PAN",
+    "query": "KNEELISA PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://uspto.report/TM/98612927",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/",
+      "https://gstpan.com/",
+      "https://trademarks.justia.com/986/12/kneelisa-98612927.html"
+    ],
+    "timestamp": "2026-08-31T12:21:39.204388",
+    "status": "results_found"
+  },
+  {
+    "business": "KNEELISA",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-08-31T12:21:42.176969"
+  },
+  {
+    "business": "KNEELISA",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-08-31T12:21:42.176988"
+  },
+  {
+    "seller": "KNEELISA",
+    "field": "Owner",
+    "query": "KNEELISA director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.resig.com/lisa-knee",
+      "https://uspto.report/TM/98612927",
+      "https://trademarks.justia.com/986/12/kneelisa-98612927.html",
+      "https://companydata.com/business-owner-search/"
+    ],
+    "timestamp": "2026-08-31T12:21:45.511976",
+    "status": "results_found"
+  },
+  {
+    "seller": "KNEELISA",
+    "field": "Owner",
+    "query": "KNEELISA founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://forum.vivaldi.net/topic/113545/whatsapp.com-web-use-another-browser-browser-unsupported-for-whatsapp-web"
+    ],
+    "timestamp": "2026-08-31T12:21:52.763131",
+    "status": "results_found"
+  },
+  {
+    "seller": "KNEELISA",
+    "field": "Address",
+    "query": "KNEELISA registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/140422-install-uninstall-microsoft-wordpad-windows-10-a.html",
+      "https://www.tenforums.com/general-support/86427-word-doc-docx-files-open-minimized-will-not-maximize.html",
+      "https://www.answers.com/computers/How_do_you_make_gold_color_text_in_Microsoft_word",
+      "https://www.answers.com/computers/What_are_MS_Word_PowerPoint_Excel_etc_called"
+    ],
+    "timestamp": "2026-08-31T12:21:58.499794",
+    "status": "results_found"
+  },
+  {
+    "seller": "KNEELISA",
+    "field": "Address",
+    "query": "KNEELISA registered address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://race.netkeiba.com/top/payback_list.html",
+      "https://race.netkeiba.com/top/",
+      "https://figureskatejapan.com/"
+    ],
+    "timestamp": "2026-08-31T12:22:05.900160",
+    "status": "results_found"
+  },
+  {
+    "seller": "KNEELISA",
+    "field": "Phone",
+    "query": "KNEELISA phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-31T12:22:14.941740",
+    "status": "results_found"
+  },
+  {
+    "seller": "KNEELISA",
+    "field": "Phone",
+    "query": "KNEELISA contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://uspto.report/TM/98612927",
+      "https://www.findthisbest.com/brand/881072-kneelisa",
+      "https://www.buildingsupplystore.org/kneelisa-164ft5m-flexible-peel-and-stick-quarter-round-molding-trim/",
+      "https://www.whitepages.com/"
+    ],
+    "timestamp": "2026-08-31T12:22:23.264675",
+    "status": "results_found"
+  },
+  {
+    "seller": "KNEELISA",
+    "field": "Email",
+    "query": "KNEELISA email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://uspto.report/TM/98612927",
+      "https://www.findthisbest.com/brand/881072-kneelisa",
+      "https://www.buildingsupplystore.org/kneelisa-164ft5m-flexible-peel-and-stick-quarter-round-molding-trim/",
+      "https://trademarks.justia.com/986/12/kneelisa-98612927.html"
+    ],
+    "timestamp": "2026-08-31T12:22:35.476658",
+    "status": "results_found"
+  },
+  {
+    "seller": "KNEELISA",
+    "field": "Email",
+    "query": "KNEELISA contact email",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/t/change-name-of-user-profile-folder-in-windows-11.2133/",
+      "https://www.elevenforum.com/t/download-official-windows-11-iso-file-from-microsoft.1009/"
+    ],
+    "timestamp": "2026-08-31T12:22:44.380626",
+    "status": "results_found"
+  },
+  {
+    "business": "TAGAS ENTERPRISE",
+    "field": "Business Name",
+    "value": "TAGAS ENTERPRISE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ELS0VBSUSVB0&asin=B0GZWQKD2Y&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T12:22:50.131692"
+  },
+  {
+    "seller": "TAGAS ENTERPRISE",
+    "field": "Website",
+    "query": "TAGAS ENTERPRISE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://bbs.kakaku.com/bbs/K0001677524/",
+      "https://kakaku.com/item/J0000047333/?msockid=0d839adc0eed6ba807cc8d1a0f6b6a7a"
+    ],
+    "timestamp": "2026-08-31T12:22:52.457308",
+    "status": "results_found"
+  },
+  {
+    "seller": "TAGAS ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "TAGAS ENTERPRISE company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-37910805-probleme-etrange-avec-les-groupes-instagram",
+      "https://forums.commentcamarche.net/forum/affich-37319755-compte-instagram-verrouille-et-irrecuperable",
+      "https://it.ccm.net/download/scaricare-3393-instagram-per-pc",
+      "https://it.ccm.net/download/scaricare-2522-instagram-per-android"
+    ],
+    "timestamp": "2026-08-31T12:23:04.416332",
+    "status": "results_found"
+  },
+  {
+    "seller": "TAGAS ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "TAGAS ENTERPRISE Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mysbusiness.com/company/Tagas-Enterprise-Sdn-Bhd",
+      "https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/0081911T/TAGAS-ENTERPRISE-SDN-BHD-",
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/company-registration"
+    ],
+    "timestamp": "2026-08-31T12:23:12.732589",
+    "status": "results_found"
+  },
+  {
+    "business": "TAGAS ENTERPRISE",
+    "field": "Phone Number",
+    "value": "+918201002166",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/0081911T/TAGAS-ENTERPRISE-SDN-BHD-",
+    "timestamp": "2026-08-31T12:23:14.438628"
+  },
+  {
+    "business": "TAGAS ENTERPRISE",
+    "field": "Email Address",
+    "value": "contact@ctosbasis.com.my",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/0081911T/TAGAS-ENTERPRISE-SDN-BHD-",
+    "timestamp": "2026-08-31T12:23:14.438798"
+  },
+  {
+    "seller": "TAGAS ENTERPRISE",
+    "field": "PAN",
+    "query": "TAGAS ENTERPRISE PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.worldwildlife.org/species/sea-turtle/leatherback-turtle/",
+      "https://www.fisheries.noaa.gov/species/leatherback-turtle",
+      "https://www.britannica.com/animal/leatherback-sea-turtle",
+      "https://www.leatherbackproject.org/our-story/leatherback-sea-turtles"
+    ],
+    "timestamp": "2026-08-31T12:23:23.016764",
+    "status": "results_found"
+  },
+  {
+    "seller": "TAGAS ENTERPRISE",
+    "field": "GST",
+    "query": "TAGAS ENTERPRISE GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://fnshiftsolutions.com/gstin-search/tagas-process-technologies-24AAMFT8627J1ZN",
+      "https://piceapp.com/gst-number-search/tagas-process-technologies-24aamft8627j1zn/",
+      "https://www.mastersindia.co/gst-search/?name=tagas-process-technologies&gstin=24AAMFT8627J1ZN",
+      "https://piceapp.com/gst-number-search/tagas-process-technology-24ayzpd3886c1z4/"
+    ],
+    "timestamp": "2026-08-31T12:23:41.209510",
+    "status": "results_found"
+  },
+  {
+    "business": "TAGAS ENTERPRISE",
+    "field": "GST Number",
+    "value": "24AAMFT8627J1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/tagas-process-technologies-24AAMFT8627J1ZN",
+    "timestamp": "2026-08-31T12:23:43.973973"
+  },
+  {
+    "business": "TAGAS ENTERPRISE",
+    "field": "PAN Number",
+    "value": "AAMFT8627J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/tagas-process-technologies-24AAMFT8627J1ZN",
+    "timestamp": "2026-08-31T12:23:43.973992"
+  },
+  {
+    "seller": "TAGAS ENTERPRISE",
+    "field": "Owner",
+    "query": "TAGAS ENTERPRISE director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zybang.com/",
+      "https://www.zybang.com/question/index/homejobs"
+    ],
+    "timestamp": "2026-08-31T12:23:46.306815",
+    "status": "results_found"
+  },
+  {
+    "seller": "TAGAS ENTERPRISE",
+    "field": "Owner",
+    "query": "TAGAS ENTERPRISE founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ptt.cc/bbs/",
+      "https://www.ptt.cc/bbs/NBA/index.html",
+      "https://www.ptt.cc/bbs/Stock/index.html",
+      "https://www.ptt.cc/bbs/BaseballXXXX/index.html"
+    ],
+    "timestamp": "2026-08-31T12:23:58.725691",
+    "status": "results_found"
+  },
+  {
+    "seller": "TAGAS ENTERPRISE",
+    "field": "Address",
+    "query": "TAGAS ENTERPRISE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.community.samsung.com/t5/LED-and-OLED-TVs/Help-configuring-TV-to-automatically-turn-on-to-YouTube-TV/td-p/2925427",
+      "https://us.community.samsung.com/t5/LED-and-OLED-TVs/YouTube-TV-stopped-working/td-p/2926021"
+    ],
+    "timestamp": "2026-08-31T12:24:04.229469",
+    "status": "results_found"
+  },
+  {
+    "seller": "TAGAS ENTERPRISE",
+    "field": "Address",
+    "query": "TAGAS ENTERPRISE registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://pdf.pi7.org/compress-pdf-to-200kb",
+      "https://www.adobe.com/in/acrobat/online/compress-pdf-200kb.html?msockid=0d839adc0eed6ba807cc8d1a0f6b6a7a",
+      "https://www.ilovepdf.com/compress_pdf",
+      "https://www.hipdf.com/compress-pdf-to-200kb"
+    ],
+    "timestamp": "2026-08-31T12:24:16.813400",
+    "status": "results_found"
+  }
+]

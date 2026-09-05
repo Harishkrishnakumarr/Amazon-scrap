@@ -1,0 +1,61 @@
+{
+  "category": "Egg Poachers",
+  "records_before_save": 8,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1429,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "ant.agarwal@retailez.co.in",
+      "gst": "18AALCR3173P1ZM",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SOFLIN\u00ae",
+      "database_id": 1430,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919599446877",
+      "email": "info@soflinpharma.se",
+      "gst": "24AAFFS9409J1ZX",
+      "pan": "AAFFS9409J",
+      "website": "https://www.soflinpharma.se/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "TREAT ZONE",
+      "database_id": 1431,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918707277265",
+      "email": "info@treatzone.co.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://treatzone.co.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VIVITO",
+      "database_id": 1432,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918001801961",
+      "email": "contact@jaagrukbharat.com",
+      "gst": "37AAECV8538M1ZK",
+      "pan": "AAECV8538M",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

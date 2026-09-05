@@ -1,0 +1,35 @@
+{
+  "category": "ttps://www.amazon.in/s?k=Corrugated+Boxes&crid=2FWORGM0UO5E5&sprefix=corrugated+boxes%2Caps%2C410&ref=nb_sb_noss_1",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "JIA INDUSTRIES",
+      "database_id": 1410,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "sandborg@stanford.edu",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ARUSHI TRADINGS",
+      "database_id": 1411,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "admin@starsunfolded.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "category": "Fondue Sets",
+  "records_before_save": 10,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "KunhaR India",
+      "database_id": 1437,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917878993453",
+      "email": "help@kunharindia.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.kunharindia.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 1438,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@creativecommons.org",
+      "gst": "27AADCV4254H1Z8",
+      "pan": "AADCV4254H",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Pure Source India",
+      "database_id": 1439,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918333024179",
+      "email": "tininfo@proteantech.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Portible Sales",
+      "database_id": 1437,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918333024179",
+      "email": "pspodcast@sony.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.playstation.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

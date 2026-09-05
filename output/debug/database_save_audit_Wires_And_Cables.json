@@ -1,0 +1,61 @@
+{
+  "category": "Wires And Cables",
+  "records_before_save": 6,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1329,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Tawish",
+      "database_id": 1330,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919210579250",
+      "email": "info@auraarchitecturestudio.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Triveni Wire and Cable",
+      "database_id": 1331,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919810083888",
+      "email": "info@triveniwireandcable.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.triveniwireandcable.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "The Wire Hub",
+      "database_id": 1332,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "privacy@wire.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://wire.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

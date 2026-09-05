@@ -1,0 +1,131 @@
+[
+  {
+    "business": "KC KITCHENWARE",
+    "field": "Business Name",
+    "value": "KC KITCHENWARE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ3V6GWF3FVIB&asin=B0B1MSR797&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T13:00:05.820519"
+  },
+  {
+    "seller": "KC KITCHENWARE",
+    "field": "Website",
+    "query": "KC KITCHENWARE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kc-emier.com/",
+      "https://kcstore.net/en/product-category/kitchenware/"
+    ],
+    "timestamp": "2026-09-01T13:00:08.664751",
+    "status": "results_found"
+  },
+  {
+    "seller": "KC KITCHENWARE",
+    "field": "Legal Entity Name",
+    "query": "KC KITCHENWARE company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://find-and-update.company-information.service.gov.uk/",
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-09-01T13:00:25.069931",
+    "status": "results_found"
+  },
+  {
+    "seller": "KC KITCHENWARE",
+    "field": "PAN",
+    "query": "KC KITCHENWARE PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://gstverify.co.in/search/",
+      "https://pancards.org/pan-card-number-check/"
+    ],
+    "timestamp": "2026-09-01T13:00:52.951681",
+    "status": "results_found"
+  },
+  {
+    "seller": "KC KITCHENWARE",
+    "field": "GST",
+    "query": "KC KITCHENWARE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/k-c-kitchenware-33ATWPG4100E1Z2/",
+      "https://www.knowyourgst.com/gst-number-search/k-c-kitchenware-27ATWPG4100E1ZV/",
+      "https://gst.jamku.app/gstin/29ATWPG4100E1ZR",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-01T13:01:05.418514",
+    "status": "results_found"
+  },
+  {
+    "business": "KC KITCHENWARE",
+    "field": "GST Number",
+    "value": "33ATWPG4100E1Z2",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/k-c-kitchenware-33ATWPG4100E1Z2/",
+    "timestamp": "2026-09-01T13:01:13.535376"
+  },
+  {
+    "business": "KC KITCHENWARE",
+    "field": "PAN Number",
+    "value": "ATWPG4100E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/k-c-kitchenware-33ATWPG4100E1Z2/",
+    "timestamp": "2026-09-01T13:01:13.535408"
+  },
+  {
+    "seller": "KC KITCHENWARE",
+    "field": "Owner",
+    "query": "KC KITCHENWARE director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://craft.co/kc-group/executives#:~:text=KC%20Group%27s%20Chairman%20is%20Prakash%20Kc.%20Other%20executives,others.%20See%20the%20full%20leadership%20team%20at%20Craft.",
+      "https://kcdasonline.com/pages/about-us",
+      "https://tracxn.com/d/companies/kitchen-essentials/__92VsxdWLOFgZGNET0-ibpUTsMHIV8PTcVd0PxJTn7fw",
+      "https://www.trademo.com/companies/kc-kitchenware/41555990"
+    ],
+    "timestamp": "2026-09-01T13:01:24.441719",
+    "status": "results_found"
+  },
+  {
+    "seller": "KC KITCHENWARE",
+    "field": "Address",
+    "query": "KC KITCHENWARE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://kcclindia.com/contact.html#:~:text=202%2C%20Sanjay%20Building%20No.%203%2C%20Rahul%20Mittal%20Industrial,V.%20Road%2C%20Andheri%20%28East%29%2C%20Mumbai%20%E2%80%93%20400%20059.",
+      "http://kcclindia.com/contact.html",
+      "https://www.knowyourgst.com/gst-number-search/k-c-kitchenware-27ATWPG4100E1ZV/",
+      "https://www.knowyourgst.com/gst-number-search/k-c-kitchenware-36ATWPG4100E1ZW/"
+    ],
+    "timestamp": "2026-09-01T13:01:45.158360",
+    "status": "results_found"
+  },
+  {
+    "seller": "KC KITCHENWARE",
+    "field": "Phone",
+    "query": "KC KITCHENWARE phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/kc-kitchenware",
+      "https://online.kfc.co.in/contactus",
+      "https://us.masterchef.com/pages/contact-masterchef",
+      "https://www.tollfreenumbers4u.com/"
+    ],
+    "timestamp": "2026-09-01T13:02:05.978863",
+    "status": "results_found"
+  }
+]

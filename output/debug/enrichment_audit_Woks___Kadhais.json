@@ -1,0 +1,705 @@
+[
+  {
+    "business": "Kuber Creation",
+    "field": "Business Name",
+    "value": "Kuber Creation",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ITVX8DRKX17R&asin=B0CQT793K3&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T12:42:11.216886"
+  },
+  {
+    "business": "Kuber Creation",
+    "field": "Phone Number",
+    "value": "+919784062111",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ITVX8DRKX17R&asin=B0CQT793K3&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T12:42:11.219126"
+  },
+  {
+    "seller": "Kuber Creation",
+    "field": "Website",
+    "query": "Kuber Creation official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kubera.com/",
+      "https://kuber-grow.com/"
+    ],
+    "timestamp": "2026-09-01T12:42:13.495687",
+    "status": "results_found"
+  },
+  {
+    "business": "Kuber Creation",
+    "field": "Website URL",
+    "value": "https://www.kubera.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.kubera.com/",
+    "timestamp": "2026-09-01T12:42:15.476937"
+  },
+  {
+    "business": "Kuber Creation",
+    "field": "Email Address",
+    "value": "hello@kubera.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.kubera.com/legal",
+    "timestamp": "2026-09-01T12:42:19.097068"
+  },
+  {
+    "seller": "Kuber Creation",
+    "field": "Legal Entity Name",
+    "query": "Kuber Creation company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.startbusiness.co.in/",
+      "https://legalsuvidha.com/blog/how-to-check-company-registration-status-in-india-2"
+    ],
+    "timestamp": "2026-09-01T12:42:20.842086",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kuber Creation",
+    "field": "Legal Entity Name",
+    "query": "Kuber Creation Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://qorpiq.com/company/fly-kuber-private-limited/U51102KA2026PTC217233",
+      "https://npifund.com/article/steps-to-check-company-registration-status-on-mca"
+    ],
+    "timestamp": "2026-09-01T12:42:26.136127",
+    "status": "results_found"
+  },
+  {
+    "business": "Kuber Creation",
+    "field": "Billing Address",
+    "value": "booth no. 202, 38, 1st floor, ashwini layout, 2nd main, egipura, bangalore, viveknagar (bangalore), bangalore south, bangalore, karnataka, 560047, ind",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/fly-kuber-private-limited/U51102KA2026PTC217233",
+    "timestamp": "2026-09-01T12:42:29.456047"
+  },
+  {
+    "business": "Kuber Creation",
+    "field": "City",
+    "value": "ind",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/fly-kuber-private-limited/U51102KA2026PTC217233",
+    "timestamp": "2026-09-01T12:42:29.456111"
+  },
+  {
+    "business": "Kuber Creation",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/fly-kuber-private-limited/U51102KA2026PTC217233",
+    "timestamp": "2026-09-01T12:42:29.456118"
+  },
+  {
+    "business": "Kuber Creation",
+    "field": "Pincode",
+    "value": "560047",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/fly-kuber-private-limited/U51102KA2026PTC217233",
+    "timestamp": "2026-09-01T12:42:29.456122"
+  },
+  {
+    "seller": "Kuber Creation",
+    "field": "PAN",
+    "query": "Kuber Creation PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://savetaxs.com/blog/how-to-know-pan-card-number",
+      "https://governmentjobonline.in/pan-card-service-registration-correction-2026/",
+      "https://nsdlkyc.in/"
+    ],
+    "timestamp": "2026-09-01T12:42:32.230919",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kuber Creation",
+    "field": "PAN",
+    "query": "Kuber Creation PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://gstpan.com/"
+    ],
+    "timestamp": "2026-09-01T12:42:37.893323",
+    "status": "results_found"
+  },
+  {
+    "business": "Kuber Creation",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-01T12:42:39.396027"
+  },
+  {
+    "business": "Kuber Creation",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-01T12:42:39.396045"
+  },
+  {
+    "seller": "Kuber Creation",
+    "field": "Owner",
+    "query": "Kuber Creation director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://businessconnectindia.in/kuber-group-in-2025-vikas-malus-vision/#:~:text=Q1%3A%20Who%20is%20the%20founder%20of%20Kuber%20Group%3F,current%20Chairman%20%26%20Managing%20Director%20of%20Kuber%20Group.",
+      "https://wikibio.in/vikas-malu/",
+      "https://starsunfolded.com/vikas-malu/",
+      "https://www.dnb.com/business-directory/company-profiles.kuber_creation.eb5d321df2be1fc4592d7cd5e927613f.html"
+    ],
+    "timestamp": "2026-09-01T12:42:41.216593",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kuber Creation",
+    "field": "Owner",
+    "query": "Kuber Creation founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://newsdive.net/2026/07/17/son-of-kuber-group-founder-detained-in-8-7-crore-luxury-watch-smuggling-scandal-released-on-bail/",
+      "https://www.business-standard.com/content/press-releases-ani/40-under-40-india-leaders-2026-shaping-the-future-126060101095_1.html",
+      "https://www.forbes.com/profile/eduard-kucera/",
+      "https://www.moneycontrol.com/news/business/startup/innovist-loreal-deal-to-give-founders-rs-1800-crore-payout-falguni-nayar-sauce-vc-icici-venture-set-for-outsized-returns-13953815.html"
+    ],
+    "timestamp": "2026-09-01T12:42:53.059675",
+    "status": "results_found"
+  },
+  {
+    "business": "equipments gold",
+    "field": "Business Name",
+    "value": "equipments gold",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1A87OTUXLC5GC&asin=B0GYZ71YDF&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T12:42:57.791926"
+  },
+  {
+    "seller": "equipments gold",
+    "field": "Website",
+    "query": "equipments gold official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://gjepc.org/gold-rates.php",
+      "https://www.goldmedalindia.com/"
+    ],
+    "timestamp": "2026-09-01T12:42:59.400856",
+    "status": "results_found"
+  },
+  {
+    "seller": "equipments gold",
+    "field": "Legal Entity Name",
+    "query": "equipments gold company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gjepc.org/udhyam-registration.php#:~:text=To%20register%20%26%20for%20further%20details%20%2C%20you,Registration%20process%20is%20effective%20from%201st%20July%202020",
+      "https://www.registerkaro.in/guides/how-to-start-a-gold-business-in-india",
+      "https://www.godrejcapital.com/media-blog/knowledge-centre/how-to-start-gold-business-in-india",
+      "https://gjepc.org/udhyam-registration.php"
+    ],
+    "timestamp": "2026-09-01T12:43:08.349683",
+    "status": "results_found"
+  },
+  {
+    "business": "equipments gold",
+    "field": "Phone Number",
+    "value": "+917208048100",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gjepc.org/udhyam-registration.php#:~:text=To%20register%20%26%20for%20further%20details%20%2C%20you,Registration%20process%20is%20effective%20from%201st%20July%202020",
+    "timestamp": "2026-09-01T12:43:10.018896"
+  },
+  {
+    "seller": "equipments gold",
+    "field": "Legal Entity Name",
+    "query": "equipments gold Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://www.udyam.ltd/blog/udyam-search-by-name",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-01T12:43:16.860944",
+    "status": "results_found"
+  },
+  {
+    "business": "equipments gold",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T12:43:17.496149"
+  },
+  {
+    "business": "equipments gold",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T12:43:21.139559"
+  },
+  {
+    "business": "equipments gold",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T12:43:21.139576"
+  },
+  {
+    "seller": "equipments gold",
+    "field": "Owner",
+    "query": "equipments gold director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnaindia.com/business/report-meet-man-who-ran-small-business-then-turned-idea-into-rs-27000-crore-company-he-is-from-3100950",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://zauba.company/",
+      "https://www.dnaindia.com/business/report-meet-mp-ahammed-who-used-to-sell-spices-now-owns-rs-41000-crore-turnover-jewellery-brand-3068228"
+    ],
+    "timestamp": "2026-09-01T12:43:23.005475",
+    "status": "results_found"
+  },
+  {
+    "seller": "equipments gold",
+    "field": "Owner",
+    "query": "equipments gold founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.exportersindia.com/ae/gold-founder-dubai/",
+      "https://www.thecompanycheck.com/company/goldmedal-electricals-private-limited/U31401MH2007PTC171667",
+      "https://thebetterindia.com/137794/farm-equipment-rental-service-gold-farm/",
+      "https://thebetterindia.com/137361/gold-farm-equipment-aggregator-startup-raises-capital/"
+    ],
+    "timestamp": "2026-09-01T12:43:31.512194",
+    "status": "results_found"
+  },
+  {
+    "seller": "equipments gold",
+    "field": "Address",
+    "query": "equipments gold registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.epfguide.com/epfo-establishment-search/",
+      "https://www.inspex.in/",
+      "https://www.thecompanycheck.com/company/goldmedal-electricals-private-limited/U31401MH2007PTC171667",
+      "https://www.goldbharat.com/"
+    ],
+    "timestamp": "2026-09-01T12:43:43.459015",
+    "status": "results_found"
+  },
+  {
+    "business": "equipments gold",
+    "field": "Billing Address",
+    "value": "many companies are registered at their head office address rather than your local branch. look for the main hq if your local search fails",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.epfguide.com/epfo-establishment-search/",
+    "timestamp": "2026-09-01T12:43:49.084726"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0DVGYJHRY&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T12:43:55.146739"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-09-01T12:43:59.200121",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-01T12:44:22.591511",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T12:44:28.086139"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T12:44:28.086156"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T12:44:28.086161"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T12:44:28.086165"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://tenderkart.in/gst-number-search/36AALCR3173P1ZO"
+    ],
+    "timestamp": "2026-09-01T12:44:40.851740",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://gst.jamku.app/gstin/36AALCR3173P1ZO",
+      "https://tenderkart.in/gst-number-search/36AALCR3173P1ZO",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM"
+    ],
+    "timestamp": "2026-09-01T12:45:02.030084",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://gst.jamku.app/gstin/36AALCR3173P1ZO"
+    ],
+    "timestamp": "2026-09-01T12:45:17.130377",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM"
+    ],
+    "timestamp": "2026-09-01T12:45:39.208757",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://retailez.co.in/about-us/",
+    "timestamp": "2026-09-01T12:45:44.604896"
+  },
+  {
+    "business": "DIAMOND TRADERS Gallery",
+    "field": "Business Name",
+    "value": "DIAMOND TRADERS Gallery",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2NWHI4GSUJDGS&asin=B0G6LD5TC4&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T12:45:48.288454"
+  },
+  {
+    "seller": "DIAMOND TRADERS Gallery",
+    "field": "Website",
+    "query": "DIAMOND TRADERS Gallery official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.thejewellersassociation.org/",
+      "https://www.dticloseouts.com/"
+    ],
+    "timestamp": "2026-09-01T12:45:51.902010",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIAMOND TRADERS Gallery",
+    "field": "Legal Entity Name",
+    "query": "DIAMOND TRADERS Gallery company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://www.indiafilings.com/check-company-name-availability",
+      "https://company.vakilsearch.com/"
+    ],
+    "timestamp": "2026-09-01T12:46:12.042075",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIAMOND TRADERS Gallery",
+    "field": "PAN",
+    "query": "DIAMOND TRADERS Gallery PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://savetaxs.com/blog/how-to-know-pan-card-number#:~:text=Use%20the%20PAN%20mobile%20app%2C%20select%20%22Know%20Your,to%20get%20your%20Permanent%20Account%20Number%20after%20verification.",
+      "https://gstverify.co.in/search/",
+      "https://savetaxs.com/blog/how-to-know-pan-card-number",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg=="
+    ],
+    "timestamp": "2026-09-01T12:46:35.249658",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIAMOND TRADERS Gallery",
+    "field": "GST",
+    "query": "DIAMOND TRADERS Gallery GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://smartgst.in/tools/gst-registration-status",
+      "https://www.invoizzy.in/gst-number-search",
+      "https://indiapost.org/tools/gst-number-search"
+    ],
+    "timestamp": "2026-09-01T12:46:50.825393",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIAMOND TRADERS Gallery",
+    "field": "Owner",
+    "query": "DIAMOND TRADERS Gallery director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://diarough.com/",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://livepeppy.com/the-diamond-factory/",
+      "http://diamondtraders.com/"
+    ],
+    "timestamp": "2026-09-01T12:47:06.181947",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIAMOND TRADERS Gallery",
+    "field": "Address",
+    "query": "DIAMOND TRADERS Gallery registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.ddpl.com/",
+      "https://www.falconebiz.com/company/RRM-MARBLES-GRANITES-OPC-PRIVATE-LIMITED-U32900TN2025OPC176131",
+      "https://maps.apple.com/"
+    ],
+    "timestamp": "2026-09-01T12:47:26.547270",
+    "status": "results_found"
+  },
+  {
+    "business": "DIAMOND TRADERS Gallery",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T12:47:30.014891"
+  },
+  {
+    "business": "DIAMOND TRADERS Gallery",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T12:47:30.015140"
+  },
+  {
+    "business": "The Indus Valley",
+    "field": "Business Name",
+    "value": "The Indus Valley",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJH9DTH9YPQEI&asin=B09XR5LY4W&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T12:47:41.128121"
+  },
+  {
+    "seller": "The Indus Valley",
+    "field": "Website",
+    "query": "The Indus Valley official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.theindusvalley.in/",
+      "https://www.theindusvalley.in/collections/kadai"
+    ],
+    "timestamp": "2026-09-01T12:47:44.624834",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Indus Valley",
+    "field": "Legal Entity Name",
+    "query": "The Indus Valley company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/indus-valley-private-limited/__hB_JMC_ugaXvQ-VdtAbNjJ1jZVP68hJMwK_i-ow_8TM#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U34300DL1982PTC013441%20and%20its%20current%20status%20is%20Active.",
+      "https://www.indiafilings.com/search/indus-valley-private-limited-cin-U34300DL1982PTC013441",
+      "https://qorpiq.com/company/indus-valley-integrated-projects-private-limited/U68100UW2026PTC257808",
+      "https://tracxn.com/d/legal-entities/india/indus-valley-private-limited/__hB_JMC_ugaXvQ-VdtAbNjJ1jZVP68hJMwK_i-ow_8TM"
+    ],
+    "timestamp": "2026-09-01T12:48:18.578983",
+    "status": "results_found"
+  },
+  {
+    "business": "The Indus Valley",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/indus-valley-private-limited/__hB_JMC_ugaXvQ-VdtAbNjJ1jZVP68hJMwK_i-ow_8TM#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U34300DL1982PTC013441%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-01T12:48:21.547041"
+  },
+  {
+    "business": "The Indus Valley",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/indus-valley-private-limited/__hB_JMC_ugaXvQ-VdtAbNjJ1jZVP68hJMwK_i-ow_8TM#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U34300DL1982PTC013441%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-01T12:48:21.551343"
+  },
+  {
+    "business": "The Indus Valley",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/indus-valley-private-limited/__hB_JMC_ugaXvQ-VdtAbNjJ1jZVP68hJMwK_i-ow_8TM#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U34300DL1982PTC013441%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-01T12:48:21.551355"
+  },
+  {
+    "business": "The Indus Valley",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/indus-valley-private-limited/__hB_JMC_ugaXvQ-VdtAbNjJ1jZVP68hJMwK_i-ow_8TM#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U34300DL1982PTC013441%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-01T12:48:21.551361"
+  },
+  {
+    "business": "The Indus Valley",
+    "field": "Email Address",
+    "value": "madandhawan@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/indus-valley-private-limited-cin-U34300DL1982PTC013441",
+    "timestamp": "2026-09-01T12:48:23.501043"
+  },
+  {
+    "seller": "The Indus Valley",
+    "field": "PAN",
+    "query": "The Indus Valley PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.theindusvalley.in/",
+      "https://www.theindusvalley.in/collections/kadai",
+      "https://www.theindusvalley.in/collections/tawa",
+      "https://www.theindusvalley.in/collections/cast-iron-fry-pan"
+    ],
+    "timestamp": "2026-09-01T12:48:36.228983",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Indus Valley",
+    "field": "GST",
+    "query": "The Indus Valley GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T12:49:32.766429",
+    "status": "no_results"
+  },
+  {
+    "seller": "The Indus Valley",
+    "field": "Owner",
+    "query": "The Indus Valley director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T12:49:41.585173",
+    "status": "no_results"
+  }
+]

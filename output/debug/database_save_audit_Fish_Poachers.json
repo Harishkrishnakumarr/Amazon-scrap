@@ -1,0 +1,74 @@
+{
+  "category": "Fish Poachers",
+  "records_before_save": 17,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "SKSB IMPORT",
+      "database_id": 1433,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919773697785",
+      "email": "info@sksb.in",
+      "gst": "27AKQPM9366F1ZH",
+      "pan": "AKQPM9366F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BENIE STORE",
+      "database_id": 1434,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.sellerratings.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Infinitikart",
+      "database_id": 1435,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918001801961",
+      "email": "info@infinikart.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Eternals Traders",
+      "database_id": 1434,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "info@eternal.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.sellerratings.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cart2Globe",
+      "database_id": 1436,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "lokesh@cart2india.com",
+      "gst": "27AAECC4477E1ZN",
+      "pan": "AAECC4477E",
+      "website": "https://www.cart2india.com/",
+      "status": "Verified"
+    }
+  ]
+}

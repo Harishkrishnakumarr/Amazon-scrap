@@ -1,0 +1,61 @@
+{
+  "category": "Draft Stoppers",
+  "records_before_save": 9,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1347,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1348,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "raj@how2shout.com",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KNEELISA",
+      "database_id": 1371,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "TAGAS ENTERPRISE",
+      "database_id": 1349,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918201002166",
+      "email": "contact@ctosbasis.com.my",
+      "gst": "24AAMFT8627J1ZN",
+      "pan": "AAMFT8627J",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

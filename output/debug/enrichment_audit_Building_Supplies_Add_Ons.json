@@ -1,0 +1,1089 @@
+[
+  {
+    "business": "Elyssion",
+    "field": "Business Name",
+    "value": "Elyssion",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A12545U5G7L1I4&asin=B0D37MNX1R&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T10:19:52.915490"
+  },
+  {
+    "business": "Elyssion",
+    "field": "Phone Number",
+    "value": "+917588040052",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A12545U5G7L1I4&asin=B0D37MNX1R&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T10:19:52.916423"
+  },
+  {
+    "seller": "Elyssion",
+    "field": "Website",
+    "query": "Elyssion official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stackoverflow.com/questions/387942/google-street-view-url",
+      "https://stackoverflow.com/questions/9394190/leaflet-map-api-with-google-satellite-layer"
+    ],
+    "timestamp": "2026-08-31T10:19:54.977494",
+    "status": "results_found"
+  },
+  {
+    "business": "Elyssion",
+    "field": "Website URL",
+    "value": "https://www.elyssion.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.elyssion.in/",
+    "timestamp": "2026-08-31T10:19:57.629559"
+  },
+  {
+    "business": "Elyssion",
+    "field": "Email Address",
+    "value": "contact@elyssion.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.elyssion.in/",
+    "timestamp": "2026-08-31T10:19:58.175780"
+  },
+  {
+    "seller": "Elyssion",
+    "field": "Legal Entity Name",
+    "query": "Elyssion company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/03456122",
+      "https://www.falconebiz.com/company/ELYSSION-DESIGNS-PRIVATE-LIMITED-U74999DL2018PTC337803",
+      "https://www.thecompanycheck.com/company/elyssion-ecom-private-limited/U74999DL2018PTC337803",
+      "https://tracxn.com/d/legal-entities/india/elyssion-ecom-private-limited/__4Tt_BvwXhAb5eEHpFvx_caUSgeJgvccfNG_iWn2hSpM"
+    ],
+    "timestamp": "2026-08-31T10:20:06.909066",
+    "status": "results_found"
+  },
+  {
+    "business": "Elyssion",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/elyssion-ecom-private-limited/__4Tt_BvwXhAb5eEHpFvx_caUSgeJgvccfNG_iWn2hSpM",
+    "timestamp": "2026-08-31T10:20:11.699338"
+  },
+  {
+    "business": "Elyssion",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/elyssion-ecom-private-limited/__4Tt_BvwXhAb5eEHpFvx_caUSgeJgvccfNG_iWn2hSpM",
+    "timestamp": "2026-08-31T10:20:11.699352"
+  },
+  {
+    "business": "Elyssion",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/elyssion-ecom-private-limited/__4Tt_BvwXhAb5eEHpFvx_caUSgeJgvccfNG_iWn2hSpM",
+    "timestamp": "2026-08-31T10:20:11.699355"
+  },
+  {
+    "business": "Elyssion",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/elyssion-ecom-private-limited/__4Tt_BvwXhAb5eEHpFvx_caUSgeJgvccfNG_iWn2hSpM",
+    "timestamp": "2026-08-31T10:20:11.699358"
+  },
+  {
+    "seller": "Elyssion",
+    "field": "Legal Entity Name",
+    "query": "Elyssion Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cbp.gov/border-security/along-us-borders/smart-wall-map",
+      "https://time.com/article/2026/08/06/trump-border-wall-immigration/",
+      "https://thehill.com/opinion/white-house/5486806-unfinished-wall-trump-presidency/",
+      "https://apnews.com/article/border-security-smart-wall-immigration-trump-e0ec5fd754a25d345dfb1e5f24a49b80"
+    ],
+    "timestamp": "2026-08-31T10:20:13.284980",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion",
+    "field": "PAN",
+    "query": "Elyssion PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-07AAFCE1472L1ZI/",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-31T10:20:26.024303",
+    "status": "results_found"
+  },
+  {
+    "business": "Elyssion",
+    "field": "GST Number",
+    "value": "07AAFCE1472L1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-07AAFCE1472L1ZI/",
+    "timestamp": "2026-08-31T10:20:26.453117"
+  },
+  {
+    "business": "Elyssion",
+    "field": "PAN Number",
+    "value": "AAFCE1472L",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-07AAFCE1472L1ZI/",
+    "timestamp": "2026-08-31T10:20:26.453128"
+  },
+  {
+    "seller": "Elyssion",
+    "field": "Owner",
+    "query": "Elyssion director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://scooterdojo.com/different-types-of-scooters/"
+    ],
+    "timestamp": "2026-08-31T10:20:27.881823",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion",
+    "field": "Owner",
+    "query": "Elyssion founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://english.stackexchange.com/questions/19739/do-i-use-italics-for-hotel-and-restaurant-names",
+      "https://english.stackexchange.com/questions/93402/the-is-in-my-business-name-capitalize-it-or-not",
+      "https://english.stackexchange.com/questions/400974/are-in-accordance-with-and-according-to-interchangeable",
+      "https://english.stackexchange.com/questions/200215/holidays-or-holiday"
+    ],
+    "timestamp": "2026-08-31T10:20:31.512919",
+    "status": "results_found"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "Business Name",
+    "value": "PETCATALOGUE E-SHOP",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AMRSQ28X924YX&asin=B0DNQGKZF3&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T10:20:32.754668"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "Phone Number",
+    "value": "+919355858988",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AMRSQ28X924YX&asin=B0DNQGKZF3&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T10:20:32.754685"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "Website",
+    "query": "PETCATALOGUE E-SHOP official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.onlinedoctranslator.com/id/",
+      "https://www.onlinedoctranslator.com/id/translationform"
+    ],
+    "timestamp": "2026-08-31T10:20:34.338147",
+    "status": "results_found"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "Legal Entity Name",
+    "query": "PETCATALOGUE E-SHOP company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+      "https://forums.commentcamarche.net/forum/affich-38299350-impossible-de-me-connecter-a-canva-avec-mail-outlook",
+      "https://forums.commentcamarche.net/forum/affich-38299352-impossible-de-recevoir-le-code-verif-canva",
+      "https://forums.commentcamarche.net/forum/affich-37536445-canva-document-termine-et-apres"
+    ],
+    "timestamp": "2026-08-31T10:20:45.953566",
+    "status": "results_found"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "Legal Entity Name",
+    "query": "PETCATALOGUE E-SHOP Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.petcatalogue_llp.50c9dd531ec2fa6e7b288ecb961eaaab.html",
+      "https://registry-lookup.com/",
+      "https://piceapp.com/gst-number-search/petcatalogue-llp-06abcfp4468j1zy/",
+      "https://www.sellerratings.com/amazon/india/petcatalogue-e-shop"
+    ],
+    "timestamp": "2026-08-31T10:20:54.859042",
+    "status": "results_found"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "Email Address",
+    "value": "hello@pice.one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/petcatalogue-llp-06abcfp4468j1zy/",
+    "timestamp": "2026-08-31T10:20:58.941114"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "GST Number",
+    "value": "06ABCFP4468J1ZY",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/petcatalogue-llp-06abcfp4468j1zy/",
+    "timestamp": "2026-08-31T10:20:58.942196"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "PAN Number",
+    "value": "ABCFP4468J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/petcatalogue-llp-06abcfp4468j1zy/",
+    "timestamp": "2026-08-31T10:20:58.942215"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/petcatalogue-llp-06abcfp4468j1zy/",
+    "timestamp": "2026-08-31T10:20:58.947679"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/petcatalogue-llp-06abcfp4468j1zy/",
+    "timestamp": "2026-08-31T10:20:58.947695"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/petcatalogue-llp-06abcfp4468j1zy/",
+    "timestamp": "2026-08-31T10:20:58.947699"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/petcatalogue-llp-06abcfp4468j1zy/",
+    "timestamp": "2026-08-31T10:20:58.947703"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "Owner",
+    "query": "PETCATALOGUE E-SHOP director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bingquiz.com/bing-homepage-quiz/",
+      "https://bing.weeklyquiz.net/bing-homepage-quiz/",
+      "https://bingquizzes.com/bing-homepage-quiz-today/",
+      "https://weeklyquiz.net/bing-homepage-quiz/"
+    ],
+    "timestamp": "2026-08-31T10:21:00.597656",
+    "status": "results_found"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "Owner",
+    "query": "PETCATALOGUE E-SHOP founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.poetryfoundation.org/poems/45718/paradise-lost-book-1-1674-version",
+      "https://www.gutenberg.org/ebooks/26?msg=welcome_stranger",
+      "https://ia800509.us.archive.org/31/items/ParadiseLostByJohnMilton_201607/Paradise%20Lost%20by%20John%20%20Milton.pdf",
+      "https://americanliterature.com/author/john-milton/book/paradise-lost"
+    ],
+    "timestamp": "2026-08-31T10:21:11.427495",
+    "status": "results_found"
+  },
+  {
+    "business": "Crenova Mint",
+    "field": "Business Name",
+    "value": "Crenova Mint",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1FL5L612JORXN&asin=B0FJLS856Q&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T10:21:18.034664"
+  },
+  {
+    "seller": "Crenova Mint",
+    "field": "Website",
+    "query": "Crenova Mint official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.spark.co.nz/online/benefits/xtra-mail",
+      "https://www.spark.co.nz/xtramail/accountsettings"
+    ],
+    "timestamp": "2026-08-31T10:21:19.574300",
+    "status": "results_found"
+  },
+  {
+    "seller": "Crenova Mint",
+    "field": "Legal Entity Name",
+    "query": "Crenova Mint company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T10:21:29.693712",
+    "status": "no_results"
+  },
+  {
+    "seller": "Crenova Mint",
+    "field": "Legal Entity Name",
+    "query": "Crenova Mint Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/CRENOVA-PLATING-PRIVATE-LIMITED-U74900PN2012PTC142887",
+      "https://www.instafinancials.com/company/crenova-plating-private-limited-U74900PN2012PTC142887",
+      "https://www.indiafilings.com/search/crenova-plating-private-limited-cin-U74900PN2012PTC142887",
+      "https://fnshiftsolutions.com/gstin-search/crenova-plating-private-limited-27AAECC8207A1Z3"
+    ],
+    "timestamp": "2026-08-31T10:21:33.904037",
+    "status": "results_found"
+  },
+  {
+    "business": "Crenova Mint",
+    "field": "GST Number",
+    "value": "27AAECC8207A1Z3",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/crenova-plating-private-limited-27AAECC8207A1Z3",
+    "timestamp": "2026-08-31T10:22:15.488762"
+  },
+  {
+    "business": "Crenova Mint",
+    "field": "PAN Number",
+    "value": "AAECC8207A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/crenova-plating-private-limited-27AAECC8207A1Z3",
+    "timestamp": "2026-08-31T10:22:15.488780"
+  },
+  {
+    "seller": "Crenova Mint",
+    "field": "Owner",
+    "query": "Crenova Mint director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bbs.3dmgame.com/thread-5005625-1-1.html",
+      "https://bbs.3dmgame.com/thread-6527675-1-1.html",
+      "https://bbs.3dmgame.com/thread-5557767-1-1.html",
+      "https://bbs.3dmgame.com/thread-5991343-1-1.html"
+    ],
+    "timestamp": "2026-08-31T10:22:16.867959",
+    "status": "results_found"
+  },
+  {
+    "business": "Crenova Mint",
+    "field": "Phone Number",
+    "value": "+916666666666",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://bbs.3dmgame.com/thread-6527675-1-1.html",
+    "timestamp": "2026-08-31T10:22:28.447486"
+  },
+  {
+    "seller": "Crenova Mint",
+    "field": "Address",
+    "query": "Crenova Mint registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://en.nicebizinfo.com/p01/A0101M002.nice?kiscode=E78511",
+      "https://find-and-update.company-information.service.gov.uk/company/09555610",
+      "https://www.crenova.net/contact-us",
+      "https://www.crenova.net/warranty"
+    ],
+    "timestamp": "2026-08-31T10:22:40.537192",
+    "status": "results_found"
+  },
+  {
+    "business": "Crenova Mint",
+    "field": "Email Address",
+    "value": "orders1@nice.co.kr",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://en.nicebizinfo.com/p01/A0101M002.nice?kiscode=E78511",
+    "timestamp": "2026-08-31T10:22:44.391123"
+  },
+  {
+    "business": "Crenova Mint",
+    "field": "Billing Address",
+    "value": "17, eunhaeng-ro, yeongdeungpo-gu, seoul, republic of korea",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://en.nicebizinfo.com/p01/A0101M002.nice?kiscode=E78511",
+    "timestamp": "2026-08-31T10:22:44.396965"
+  },
+  {
+    "business": "Crenova Mint",
+    "field": "City",
+    "value": "republic of korea",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://en.nicebizinfo.com/p01/A0101M002.nice?kiscode=E78511",
+    "timestamp": "2026-08-31T10:22:44.396985"
+  },
+  {
+    "business": "Salesio Prime",
+    "field": "Business Name",
+    "value": "Salesio Prime",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A36CW4XSN2YG6K&asin=B0HDT2SMR2&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T10:22:45.103435"
+  },
+  {
+    "seller": "Salesio Prime",
+    "field": "Website",
+    "query": "Salesio Prime official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T10:22:47.268913",
+    "status": "no_results"
+  },
+  {
+    "seller": "Salesio Prime",
+    "field": "Legal Entity Name",
+    "query": "Salesio Prime company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T10:22:54.520492",
+    "status": "no_results"
+  },
+  {
+    "seller": "Salesio Prime",
+    "field": "Legal Entity Name",
+    "query": "Salesio Prime Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/company-registration",
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india",
+      "https://www.inspex.in/",
+      "https://razorpay.com/rize/company-registration/private-limited/"
+    ],
+    "timestamp": "2026-08-31T10:22:57.984557",
+    "status": "results_found"
+  },
+  {
+    "business": "Salesio Prime",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-08-31T10:23:01.414117"
+  },
+  {
+    "business": "Salesio Prime",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-08-31T10:23:01.414365"
+  },
+  {
+    "seller": "Salesio Prime",
+    "field": "PAN",
+    "query": "Salesio Prime PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T10:23:06.020032",
+    "status": "no_results"
+  },
+  {
+    "seller": "Salesio Prime",
+    "field": "PAN",
+    "query": "Salesio Prime PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tallyschool.com/printing-pan-and-cin-on-invoices-in-tally/",
+      "https://gstverify.co.in/search/",
+      "https://tallysolutions.com/business-tools-templates/company-cin-by-pan/",
+      "https://gstpan.com/"
+    ],
+    "timestamp": "2026-08-31T10:23:13.978637",
+    "status": "results_found"
+  },
+  {
+    "business": "Salesio Prime",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-31T10:23:17.449590"
+  },
+  {
+    "business": "Salesio Prime",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-31T10:23:17.449601"
+  },
+  {
+    "seller": "Salesio Prime",
+    "field": "Owner",
+    "query": "Salesio Prime director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://salesio.co/",
+      "https://www.zoominfo.com/p/Nicholas-Dimatteo/2579565308",
+      "https://www.dnb.com/business-directory/company-profiles.salesio_oy.296e9e8541160b8653d12ea0d485e526.html",
+      "https://www.visualvisitor.com/companies/3009059/salesio"
+    ],
+    "timestamp": "2026-08-31T10:23:21.050300",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Prime",
+    "field": "Address",
+    "query": "Salesio Prime registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://rengoku.work/jumbokuji/"
+    ],
+    "timestamp": "2026-08-31T10:23:38.266210",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Prime",
+    "field": "Address",
+    "query": "Salesio Prime registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.donanimhaber.com/adolescence-2025-netflix--160804556",
+      "https://forum.donanimhaber.com/netflix-3d--136910569",
+      "https://forum.donanimhaber.com/samsung-smart-tv-netflix-uygulamasi-baglanti-problemi-ve-cozumu--121113154",
+      "https://forum.donanimhaber.com/netflix-exxen-blutv-diger-dizi-film-canli-tv-mac-uygulamasi--148030808"
+    ],
+    "timestamp": "2026-08-31T10:23:53.394989",
+    "status": "results_found"
+  },
+  {
+    "business": "Kosliya Hub",
+    "field": "Business Name",
+    "value": "Kosliya Hub",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3CGVNF0AP69X8&asin=B0H3HYV8KR&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T10:23:55.833315"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Website",
+    "query": "Kosliya Hub official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.minecraft.net/",
+      "https://www.minecraft.net/en-us/download"
+    ],
+    "timestamp": "2026-08-31T10:23:58.516637",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Legal Entity Name",
+    "query": "Kosliya Hub company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/kosliya-enterprise-llp-06AAZFK3136G1Z2/",
+      "https://piceapp.com/gst-number-search/kosliya-enterprise-llp-06aazfk3136g1z2/",
+      "https://fnshiftsolutions.com/gstin-search/kosliya-enterprise-llp-06AAZFK3136G1Z2",
+      "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM"
+    ],
+    "timestamp": "2026-08-31T10:24:23.953979",
+    "status": "results_found"
+  },
+  {
+    "business": "Kosliya Hub",
+    "field": "GST Number",
+    "value": "06AAZFK3136G1Z2",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/kosliya-enterprise-llp-06AAZFK3136G1Z2/",
+    "timestamp": "2026-08-31T10:24:27.366550"
+  },
+  {
+    "business": "Kosliya Hub",
+    "field": "PAN Number",
+    "value": "AAZFK3136G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/kosliya-enterprise-llp-06AAZFK3136G1Z2/",
+    "timestamp": "2026-08-31T10:24:27.366583"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Owner",
+    "query": "Kosliya Hub director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mercedes-benz.com.mx/es/passengercars.html",
+      "https://www.mercedes-benz.com.mx/es/passengercars/models.html",
+      "https://store.mercedes-benz.com.mx/Tapon-del-deposito-de-combustible-AMG/A0004703201",
+      "https://store.mercedes-benz.com.mx/Accesorios/"
+    ],
+    "timestamp": "2026-08-31T10:24:32.678334",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Address",
+    "query": "Kosliya Hub registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.kosliya_enterprise_llp.3497fd8b13ee6a3c8f426f7707e4b5c6.html",
+      "https://www.thecompanycheck.com/company/kosliya-enterprise-llp/ABC-2877",
+      "https://www.falconebiz.com/LLP/KOSLIYA-ENTERPRISE-LLP-ABC-2877",
+      "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM"
+    ],
+    "timestamp": "2026-08-31T10:24:59.869103",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Phone",
+    "query": "Kosliya Hub phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/kosliya-e-shop",
+      "https://www.kollia.com/customer-service",
+      "https://www.thecompanycheck.com/company/kosliya-enterprise-llp/ABC-2877",
+      "https://www.contacthelp.com/"
+    ],
+    "timestamp": "2026-08-31T10:25:17.815964",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Email",
+    "query": "Kosliya Hub email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://prospeo.io/c/koslita",
+      "https://www.thecompanycheck.com/company/kosliya-enterprise-llp/ABC-2877",
+      "https://www.sellerratings.com/amazon/india/kosliya-e-shop",
+      "https://customercare.optum.com/public/home.html"
+    ],
+    "timestamp": "2026-08-31T10:25:50.779858",
+    "status": "results_found"
+  },
+  {
+    "business": "Salesio Edge",
+    "field": "Business Name",
+    "value": "Salesio Edge",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A180B5LHA53U7H&asin=B0H85MVVP4&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T10:25:51.831070"
+  },
+  {
+    "seller": "Salesio Edge",
+    "field": "Website",
+    "query": "Salesio Edge official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://salesio.co/",
+      "https://microsoft-edge.en.softonic.com/"
+    ],
+    "timestamp": "2026-08-31T10:25:56.675946",
+    "status": "results_found"
+  },
+  {
+    "business": "Salesio Edge",
+    "field": "Website URL",
+    "value": "https://microsoft-edge.en.softonic.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://microsoft-edge.en.softonic.com/",
+    "timestamp": "2026-08-31T10:26:01.064793"
+  },
+  {
+    "business": "Salesio Edge",
+    "field": "Owner Name",
+    "value": "Microsoft Edge",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://microsoft-edge.en.softonic.com/",
+    "timestamp": "2026-08-31T10:26:01.559621"
+  },
+  {
+    "seller": "Salesio Edge",
+    "field": "Legal Entity Name",
+    "query": "Salesio Edge company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T10:26:03.660334",
+    "status": "no_results"
+  },
+  {
+    "seller": "Salesio Edge",
+    "field": "Legal Entity Name",
+    "query": "Salesio Edge Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://www.corpseed.com/service/private-limited-company-registration"
+    ],
+    "timestamp": "2026-08-31T10:26:11.865178",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Edge",
+    "field": "PAN",
+    "query": "Salesio Edge PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sinangagexpress.com/",
+      "https://www.sinangagexpress.com/menu",
+      "https://sinangagexpress.com/branches",
+      "https://www.sinangagexpress.com/contact-us"
+    ],
+    "timestamp": "2026-08-31T10:26:25.126618",
+    "status": "results_found"
+  },
+  {
+    "business": "Salesio Edge",
+    "field": "Email Address",
+    "value": "sinangagexpressfoodcorp@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.sinangagexpress.com/",
+    "timestamp": "2026-08-31T10:26:26.367125"
+  },
+  {
+    "business": "Salesio Edge",
+    "field": "Phone Number",
+    "value": "+919362687439",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sinangagexpress.com/branches",
+    "timestamp": "2026-08-31T10:26:28.029098"
+  },
+  {
+    "seller": "Salesio Edge",
+    "field": "PAN",
+    "query": "Salesio Edge PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://apnews.com/hub/donald-trump",
+      "https://www.reuters.com/world/us/donald-trump/",
+      "https://www.whitehouse.gov/",
+      "https://www.washingtonpost.com/donald-trump/"
+    ],
+    "timestamp": "2026-08-31T10:26:30.495664",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Edge",
+    "field": "GST",
+    "query": "Salesio Edge GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sportsmansmotorinn.com.au/",
+      "https://www.sportsmansmotorinn.com.au/accommodation",
+      "https://www.sportsmansmotorinn.com.au/attractions/entertainment",
+      "https://www.sportsmansmotorinn.com.au/contact"
+    ],
+    "timestamp": "2026-08-31T10:26:42.840248",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Edge",
+    "field": "GST",
+    "query": "Salesio Edge GST number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://finance.discuss.com.hk/attachment.php?aid=1487206",
+      "https://finance.discuss.com.hk/viewthread.php?action=printable&tid=30766014"
+    ],
+    "timestamp": "2026-08-31T10:26:51.328643",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Edge",
+    "field": "Address",
+    "query": "Salesio Edge registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://soundcloud.com/",
+      "https://soundcloud.com/signin",
+      "https://m.soundcloud.com/activate",
+      "https://soundcouch.soundcloud.com/"
+    ],
+    "timestamp": "2026-08-31T10:26:54.328537",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Edge",
+    "field": "Address",
+    "query": "Salesio Edge registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/14871032",
+      "https://lei-register.co.uk/trusted-lei/lei-directory/743700I3V3JEBIF1XL48",
+      "https://find-and-update.company-information.service.gov.uk/company/14871032/officers",
+      "https://woorati.com/en/companies/3126483-4/salesio-oy"
+    ],
+    "timestamp": "2026-08-31T10:27:05.729150",
+    "status": "results_found"
+  },
+  {
+    "business": "NALINISHUBHRA RETAIL",
+    "field": "Business Name",
+    "value": "NALINISHUBHRA RETAIL",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3ODAPTEVH8GYN&asin=B0H9YDFSC9&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T10:27:11.482844"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Website",
+    "query": "NALINISHUBHRA RETAIL official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5538738"
+    ],
+    "timestamp": "2026-08-31T10:27:12.737038",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Legal Entity Name",
+    "query": "NALINISHUBHRA RETAIL company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fortnite.com/",
+      "https://www.fortnite.com/download",
+      "https://store.epicgames.com/p/fortnite?lang=en-US",
+      "https://www.playstation.com/en-au/games/fortnite/"
+    ],
+    "timestamp": "2026-08-31T10:27:17.660949",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "PAN",
+    "query": "NALINISHUBHRA RETAIL PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://desktop.telegram.org/",
+      "https://desktop.telegram.org/?setln=fr",
+      "https://desktop.telegram.org/?setln=ar",
+      "https://desktop.telegram.org/?setln=es"
+    ],
+    "timestamp": "2026-08-31T10:27:36.404168",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "PAN",
+    "query": "NALINISHUBHRA RETAIL PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.nalinishubhra_enterprise_llp.244d8e4f9fc0680151ef7852fa6d4c6d.html",
+      "https://www.thecompanycheck.com/company/nalinishubhra-enterprise-llp/ABC-2408",
+      "https://www.filesure.in/company/nalinishubhra-enterprise-llp/ABC-2408?tab=about",
+      "https://www.planetexim.net/indian-company/nalinishubhra-enterprise-llp/llpin/ABC-2408.html"
+    ],
+    "timestamp": "2026-08-31T10:27:42.669666",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "GST",
+    "query": "NALINISHUBHRA RETAIL GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/nalinishubhra-enterprise-llp-06AAUFN3641A1ZE/"
+    ],
+    "timestamp": "2026-08-31T10:27:51.037614",
+    "status": "results_found"
+  },
+  {
+    "business": "NALINISHUBHRA RETAIL",
+    "field": "GST Number",
+    "value": "06AAUFN3641A1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/nalinishubhra-enterprise-llp-06AAUFN3641A1ZE/",
+    "timestamp": "2026-08-31T10:27:51.530413"
+  },
+  {
+    "business": "NALINISHUBHRA RETAIL",
+    "field": "PAN Number",
+    "value": "AAUFN3641A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/nalinishubhra-enterprise-llp-06AAUFN3641A1ZE/",
+    "timestamp": "2026-08-31T10:27:51.530430"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Owner",
+    "query": "NALINISHUBHRA RETAIL director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.filesure.in/company/nalinishubhra-enterprise-llp/ABC-2408?tab=about",
+      "https://www.thecompanycheck.com/company/nalinishubhra-enterprise-llp/ABC-2408",
+      "https://www.dnb.com/business-directory/company-profiles.nalinishubhra_enterprise_llp.244d8e4f9fc0680151ef7852fa6d4c6d.html",
+      "https://www.falconebiz.com/LLP/NALINISHUBHRA-ENTERPRISE-LLP-ABC-2408"
+    ],
+    "timestamp": "2026-08-31T10:27:55.043913",
+    "status": "results_found"
+  },
+  {
+    "business": "NALINISHUBHRA RETAIL",
+    "field": "Email Address",
+    "value": "ffice07@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/LLP/NALINISHUBHRA-ENTERPRISE-LLP-ABC-2408",
+    "timestamp": "2026-08-31T10:27:57.947673"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Owner",
+    "query": "NALINISHUBHRA RETAIL founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/nalinishubhra-enterprise-llp/ABC-2408",
+      "https://www.filesure.in/company/nalinishubhra-enterprise-llp/ABC-2408?tab=about",
+      "https://www.falconebiz.com/LLP/NALINISHUBHRA-ENTERPRISE-LLP-ABC-2408",
+      "https://www.dnb.com/business-directory/company-profiles.nalinishubhra_enterprise_llp.244d8e4f9fc0680151ef7852fa6d4c6d.html"
+    ],
+    "timestamp": "2026-08-31T10:28:01.440840",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Address",
+    "query": "NALINISHUBHRA RETAIL registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://poki.com/?msockid=14817589f09069e105ab624ff17068b6",
+      "https://poki.com/en/g/subway-surfers?msockid=14817589f09069e105ab624ff17068b6",
+      "https://about.poki.com/",
+      "https://poki.com/en/shooting?msockid=14817589f09069e105ab624ff17068b6"
+    ],
+    "timestamp": "2026-08-31T10:28:05.431601",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Address",
+    "query": "NALINISHUBHRA RETAIL registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://stackoverflow.com/questions/59250653/how-to-decode-a-percent-encoding-url-that-contains-arabic-characters",
+      "https://stackoverflow.com/questions/62486925/the-webpage-at-file-android-asset-file-html-could-not-be-loaded-because-net",
+      "https://stackoverflow.com/questions/45179968/how-to-open-file-private-var-mobile-containers-shared-appgroup-folder-on-mac",
+      "https://stackoverflow.com/questions/59249928/how-to-get-the-same-utf-8-encoding-as-google-for-arabic-urls"
+    ],
+    "timestamp": "2026-08-31T10:28:09.731120",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Phone",
+    "query": "NALINISHUBHRA RETAIL phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.nalinishubhra_enterprise_llp.244d8e4f9fc0680151ef7852fa6d4c6d.html",
+      "https://www.retailmarket.net/contact/",
+      "https://www.tollfreenumbers4u.com/",
+      "https://www.contacthelp.com/companies"
+    ],
+    "timestamp": "2026-08-31T10:28:19.735063",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Phone",
+    "query": "NALINISHUBHRA RETAIL contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.nalinishubhra_enterprise_llp.244d8e4f9fc0680151ef7852fa6d4c6d.html",
+      "https://local.infobel.in/IN125109640/nalinishubhra_enterprise-gurugram.html",
+      "https://www.thecompanycheck.com/company/nalinishubhra-enterprise-llp/ABC-2408",
+      "https://www.filesure.in/company/nalinishubhra-enterprise-llp/ABC-2408?tab=about"
+    ],
+    "timestamp": "2026-08-31T10:28:28.487614",
+    "status": "results_found"
+  }
+]

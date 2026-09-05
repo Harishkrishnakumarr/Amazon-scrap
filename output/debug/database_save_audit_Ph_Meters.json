@@ -1,0 +1,61 @@
+{
+  "category": "Ph Meters",
+  "records_before_save": 10,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Konvio",
+      "database_id": 1405,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919205352917",
+      "email": "ccsupport@konvio.com",
+      "gst": "09AAHCK2505Q1Z4",
+      "pan": "AAHCK2505Q",
+      "website": "https://konvio.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Livsy Essentials",
+      "database_id": 1406,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916666666667",
+      "email": "contact@livsy.com.au",
+      "gst": "29AACCL5817B1ZO",
+      "pan": "AACCL5817B",
+      "website": "https://livsy.com.au/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "H M Retail",
+      "database_id": 1420,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@libretexts.org",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Global Healthcare Company",
+      "database_id": 1421,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

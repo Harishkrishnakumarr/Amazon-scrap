@@ -1,0 +1,48 @@
+{
+  "category": "Wooden Supplies",
+  "records_before_save": 11,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "INDIKONB STORE",
+      "database_id": 1252,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919811969594",
+      "email": "indikonb@gmail.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "WRIGHT WOOD ENTERPRISES",
+      "database_id": 1253,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916360127635",
+      "email": "info@wrightresearch.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.justdial.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "AccuPrints Gurgaon",
+      "database_id": 1254,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917533244482",
+      "email": "mjos@iki.fi",
+      "gst": "06AURPS1867J1ZV",
+      "pan": "AURPS1867J",
+      "website": "https://accuprints.in/",
+      "status": "Verified"
+    }
+  ]
+}

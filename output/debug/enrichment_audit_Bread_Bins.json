@@ -1,0 +1,653 @@
+[
+  {
+    "business": "SalesMan",
+    "field": "Business Name",
+    "value": "SalesMan",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A135NBRD14O7DS&asin=B0H517C5Q9&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T14:53:10.000585"
+  },
+  {
+    "seller": "SalesMan",
+    "field": "Website",
+    "query": "SalesMan official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://salesman.com/",
+      "https://salesman.com/books/"
+    ],
+    "timestamp": "2026-09-01T14:53:12.964963",
+    "status": "results_found"
+  },
+  {
+    "business": "SalesMan",
+    "field": "Website URL",
+    "value": "https://www.salesman.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.salesman.com/",
+    "timestamp": "2026-09-01T14:53:17.850959"
+  },
+  {
+    "business": "SalesMan",
+    "field": "Email Address",
+    "value": "will@upgradedmedia.org",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.salesman.com/contact-us",
+    "timestamp": "2026-09-01T14:53:29.624140"
+  },
+  {
+    "seller": "SalesMan",
+    "field": "Legal Entity Name",
+    "query": "SalesMan company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company-registration",
+      "https://www.indiafilings.com/learn/how-to-register-a-company-in-india-checklist",
+      "https://www.startbusiness.co.in/",
+      "https://www.businessoutreach.in/how-to-register-company-india/"
+    ],
+    "timestamp": "2026-09-01T14:53:33.044746",
+    "status": "results_found"
+  },
+  {
+    "business": "SalesMan",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-01T14:53:35.511792"
+  },
+  {
+    "business": "SalesMan",
+    "field": "Billing Address",
+    "value": "legal address of the company.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-01T14:53:35.550679"
+  },
+  {
+    "seller": "SalesMan",
+    "field": "Legal Entity Name",
+    "query": "SalesMan Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://vakilsearch.com/private-limited-company-registration",
+      "https://vakilsearch.com/partnership-firm-registration",
+      "https://vakilsearch.com/professional-tax-registration",
+      "https://vakilsearch.com/pf-registration"
+    ],
+    "timestamp": "2026-09-01T14:53:46.424431",
+    "status": "results_found"
+  },
+  {
+    "seller": "SalesMan",
+    "field": "PAN",
+    "query": "SalesMan PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://udyamregistration.grih.in/blog/udyam-search-by-pan",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-09-01T14:53:48.693451",
+    "status": "results_found"
+  },
+  {
+    "seller": "SalesMan",
+    "field": "PAN",
+    "query": "SalesMan PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://udyamregistration.grih.in/blog/udyam-search-by-pan",
+      "https://my.gstzen.in/m/taxpayers/search/"
+    ],
+    "timestamp": "2026-09-01T14:53:56.638409",
+    "status": "results_found"
+  },
+  {
+    "business": "SalesMan",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:53:57.851895"
+  },
+  {
+    "business": "SalesMan",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:53:57.851929"
+  },
+  {
+    "seller": "SalesMan",
+    "field": "Owner",
+    "query": "SalesMan director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://smallbiztrends.com/are-you-the-ceo-owner-or-founder-choosing-the-right-title-for-your-business/",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://phillipsplastics.com/are-you-the-ceo-owner-or-founder-choosing-the-right-title-for-your-business-made-easy/",
+      "https://tapni.com/blogs/digital-business-cards/business-card-titles-for-business-owners"
+    ],
+    "timestamp": "2026-09-01T14:54:00.155371",
+    "status": "results_found"
+  },
+  {
+    "seller": "SalesMan",
+    "field": "Owner",
+    "query": "SalesMan founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.theweekendleader.com/Success/2709/king-of-sales.html",
+      "https://www.forbes.com/profile/nanu-gupta/",
+      "https://www.library.hbs.edu/working-knowledge/birth-of-the-american-salesman"
+    ],
+    "timestamp": "2026-09-01T14:54:13.632838",
+    "status": "results_found"
+  },
+  {
+    "business": "Value Retail",
+    "field": "Business Name",
+    "value": "Value Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A10IRVEYPJKOB6&asin=B09ZHQGBHM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T14:54:15.008710"
+  },
+  {
+    "business": "Value Retail",
+    "field": "Phone Number",
+    "value": "+918828826884",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A10IRVEYPJKOB6&asin=B09ZHQGBHM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T14:54:15.008740"
+  },
+  {
+    "seller": "Value Retail",
+    "field": "Website",
+    "query": "Value Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.valueretail.com/",
+      "https://www.valueretail.com/value-retail/en/villages/"
+    ],
+    "timestamp": "2026-09-01T14:54:16.712729",
+    "status": "results_found"
+  },
+  {
+    "business": "Value Retail",
+    "field": "Website URL",
+    "value": "https://www.valueretail.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.valueretail.com/",
+    "timestamp": "2026-09-01T14:54:19.634567"
+  },
+  {
+    "seller": "Value Retail",
+    "field": "Legal Entity Name",
+    "query": "Value Retail company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/02782532",
+      "https://find-and-update.company-information.service.gov.uk/company/02782532/officers",
+      "https://find-and-update.company-information.service.gov.uk/company/02782532/charges",
+      "https://find-and-update.company-information.service.gov.uk/company/02782532/filing-history"
+    ],
+    "timestamp": "2026-09-01T14:54:30.105763",
+    "status": "results_found"
+  },
+  {
+    "seller": "Value Retail",
+    "field": "Legal Entity Name",
+    "query": "Value Retail Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/value-retail-private-limited-cin-U52100TG2012PTC079200",
+      "https://www.falconebiz.com/company/VALUE-RETAIL-PRIVATE-LIMITED-U52100TG2012PTC079200",
+      "https://tracxn.com/d/legal-entities/india/value-retail-private-limited/__tRFgY9oycCzP0NoT1aUvGHZzKEw57X-1blZkQtCpAF4",
+      "https://find-and-update.company-information.service.gov.uk/company/02782532"
+    ],
+    "timestamp": "2026-09-01T14:54:37.507609",
+    "status": "results_found"
+  },
+  {
+    "business": "Value Retail",
+    "field": "Email Address",
+    "value": "ssr.ala@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/value-retail-private-limited-cin-U52100TG2012PTC079200",
+    "timestamp": "2026-09-01T14:54:39.941886"
+  },
+  {
+    "seller": "Value Retail",
+    "field": "PAN",
+    "query": "Value Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.valueretail.com/",
+      "https://taxastro.in/tools/utilities/pan-validator",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-09-01T14:54:42.288881",
+    "status": "results_found"
+  },
+  {
+    "seller": "Value Retail",
+    "field": "PAN",
+    "query": "Value Retail PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.valueretail.com/",
+      "https://www.knowyourgst.com/gst-number-search/international-value-retail-private-limited-27AADCI0964K2ZC/",
+      "https://v2retail.com/investors/corporate-information/",
+      "https://www.knowyourgst.com/gst-number-search/international-value-retail-private-limited-06AADCI0964K2ZG/"
+    ],
+    "timestamp": "2026-09-01T14:54:58.954641",
+    "status": "results_found"
+  },
+  {
+    "seller": "Value Retail",
+    "field": "GST",
+    "query": "Value Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/international-value-retail-private-limited-29AADCI0964K1Z9/",
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-businesses-india-step-by-step-guide.html",
+      "https://gstverify.co.in/search/",
+      "https://www.indiafilings.com/gst-registration"
+    ],
+    "timestamp": "2026-09-01T14:55:01.584645",
+    "status": "results_found"
+  },
+  {
+    "business": "Value Retail",
+    "field": "GST Number",
+    "value": "29AADCI0964K1Z9",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/international-value-retail-private-limited-29AADCI0964K1Z9/",
+    "timestamp": "2026-09-01T14:55:02.412374"
+  },
+  {
+    "business": "Value Retail",
+    "field": "PAN Number",
+    "value": "AADCI0964K",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/international-value-retail-private-limited-29AADCI0964K1Z9/",
+    "timestamp": "2026-09-01T14:55:02.412394"
+  },
+  {
+    "seller": "Value Retail",
+    "field": "Owner",
+    "query": "Value Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mabumbe.com/people/scott-d-malkin-biography-family-career-net-worth/",
+      "https://www.vmart.co.in/team-leadership/",
+      "https://sdmproperties.com/executive-team/",
+      "http://creativecommons.org/licenses/by-sa/3.0/"
+    ],
+    "timestamp": "2026-09-01T14:55:04.372653",
+    "status": "results_found"
+  },
+  {
+    "seller": "Value Retail",
+    "field": "Address",
+    "query": "Value Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/02782532",
+      "https://find-and-update.company-information.service.gov.uk/company/02782532/officers",
+      "https://find-and-update.company-information.service.gov.uk/company/02782532/charges",
+      "https://find-and-update.company-information.service.gov.uk/company/02782532/filing-history"
+    ],
+    "timestamp": "2026-09-01T14:55:19.845628",
+    "status": "results_found"
+  },
+  {
+    "seller": "Value Retail",
+    "field": "Address",
+    "query": "Value Retail registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/02782532",
+      "https://find-and-update.company-information.service.gov.uk/company/02782532/officers",
+      "https://find-and-update.company-information.service.gov.uk/company/02782532/charges",
+      "https://find-and-update.company-information.service.gov.uk/company/02782532/filing-history"
+    ],
+    "timestamp": "2026-09-01T14:55:28.218496",
+    "status": "results_found"
+  },
+  {
+    "business": "GLUMAN",
+    "field": "Business Name",
+    "value": "GLUMAN",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3NHI3XPNGCXMN&asin=B0D8Y2PZBV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T14:55:34.028948"
+  },
+  {
+    "seller": "GLUMAN",
+    "field": "Website",
+    "query": "GLUMAN official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://gluman.com/",
+      "https://gluman.com/pages/categories"
+    ],
+    "timestamp": "2026-09-01T14:55:36.381151",
+    "status": "results_found"
+  },
+  {
+    "business": "GLUMAN",
+    "field": "Website URL",
+    "value": "https://www.gluman.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.gluman.com/",
+    "timestamp": "2026-09-01T14:55:41.513400"
+  },
+  {
+    "business": "GLUMAN",
+    "field": "Phone Number",
+    "value": "+918800892905",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.gluman.com/",
+    "timestamp": "2026-09-01T14:55:44.869537"
+  },
+  {
+    "business": "GLUMAN",
+    "field": "Email Address",
+    "value": "glumanonline@pmd-india.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.gluman.com/",
+    "timestamp": "2026-09-01T14:55:44.869806"
+  },
+  {
+    "seller": "GLUMAN",
+    "field": "Legal Entity Name",
+    "query": "GLUMAN company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gluman.com/",
+      "https://gluman.com/pages/categories",
+      "https://gluman.com/pages/gluman-toys",
+      "https://gluman.com/pages/about-us"
+    ],
+    "timestamp": "2026-09-01T14:55:54.236748",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLUMAN",
+    "field": "Legal Entity Name",
+    "query": "GLUMAN Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://gstverify.co.in/search/",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.udyam.ltd/blog/udyam-search-by-name"
+    ],
+    "timestamp": "2026-09-01T14:56:08.178580",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLUMAN",
+    "field": "PAN",
+    "query": "GLUMAN PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html"
+    ],
+    "timestamp": "2026-09-01T14:56:10.905061",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLUMAN",
+    "field": "PAN",
+    "query": "GLUMAN PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gluman.com/",
+      "https://gluman.com/pages/contact-us",
+      "https://udyamregistration.grih.in/blog/udyam-search-by-pan"
+    ],
+    "timestamp": "2026-09-01T14:56:17.838451",
+    "status": "results_found"
+  },
+  {
+    "business": "GLUMAN",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:56:22.263600"
+  },
+  {
+    "business": "GLUMAN",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:56:22.263633"
+  },
+  {
+    "seller": "GLUMAN",
+    "field": "Owner",
+    "query": "GLUMAN director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.stocklens.co.in/ceo/anshuman-vikram-jalan",
+      "https://gluman.com/",
+      "https://gluman.com/pages/about-us",
+      "https://lextechsuite.com/TM--GLUMAN--class-17--3196006"
+    ],
+    "timestamp": "2026-09-01T14:56:24.663639",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLUMAN",
+    "field": "Owner",
+    "query": "GLUMAN founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.stocklens.co.in/ceo/anshuman-vikram-jalan",
+      "https://gluman.com/pages/about-us",
+      "https://gluman.com/",
+      "https://gluman.com/pages/about-us-1"
+    ],
+    "timestamp": "2026-09-01T14:56:34.325285",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLUMAN",
+    "field": "Address",
+    "query": "GLUMAN registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gluman.com/pages/contact-us",
+      "https://gluman.com/",
+      "https://deepenrich.com/company/cef2/gluman-0011az4pk",
+      "https://www.dial4trade.com/precision-moulds-and-dies-pvt-ltd/gluman-plastic-oil-dispenser-pdid-10740919.htm"
+    ],
+    "timestamp": "2026-09-01T14:56:43.064738",
+    "status": "results_found"
+  },
+  {
+    "business": "M/S ZOROPIE TRADERS",
+    "field": "Business Name",
+    "value": "M/S ZOROPIE TRADERS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AP5N70H7XR4JI&asin=B0H711KB6T&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T14:56:57.411645"
+  },
+  {
+    "seller": "M/S ZOROPIE TRADERS",
+    "field": "Website",
+    "query": "M/S ZOROPIE TRADERS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://shopee.in/index.html",
+      "https://www.tradejini.com/"
+    ],
+    "timestamp": "2026-09-01T14:56:59.254226",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/S ZOROPIE TRADERS",
+    "field": "Legal Entity Name",
+    "query": "M/S ZOROPIE TRADERS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://gstverify.co.in/search/",
+      "https://corporatedir.com/",
+      "https://company.vakilsearch.com/"
+    ],
+    "timestamp": "2026-09-01T14:57:13.663921",
+    "status": "results_found"
+  },
+  {
+    "business": "M/S ZOROPIE TRADERS",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T14:57:16.003669"
+  },
+  {
+    "business": "M/S ZOROPIE TRADERS",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T14:57:16.003946"
+  },
+  {
+    "business": "M/S ZOROPIE TRADERS",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:57:21.397628"
+  },
+  {
+    "business": "M/S ZOROPIE TRADERS",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:57:21.397656"
+  },
+  {
+    "seller": "M/S ZOROPIE TRADERS",
+    "field": "Owner",
+    "query": "M/S ZOROPIE TRADERS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://corporatedir.com/",
+      "https://www.indianstartuptimes.com/news/the-private-capital-100-indias-most-influential-vc-family-office-leaders/",
+      "https://www.waff.com/"
+    ],
+    "timestamp": "2026-09-01T14:57:27.729011",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/S ZOROPIE TRADERS",
+    "field": "Owner",
+    "query": "M/S ZOROPIE TRADERS founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.tradeindia.com/",
+      "https://www.rbl.bank.in/"
+    ],
+    "timestamp": "2026-09-01T14:57:40.422454",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/S ZOROPIE TRADERS",
+    "field": "Address",
+    "query": "M/S ZOROPIE TRADERS registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://vendors.inetcsc.com/wodoc/WO_770513.pdf",
+      "https://corporatedir.com/",
+      "https://www.mstcindia.co.in/"
+    ],
+    "timestamp": "2026-09-01T14:57:42.279738",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/S ZOROPIE TRADERS",
+    "field": "Address",
+    "query": "M/S ZOROPIE TRADERS registered address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://gstverify.co.in/search/",
+      "https://corporatedir.com/"
+    ],
+    "timestamp": "2026-09-01T14:57:54.470975",
+    "status": "results_found"
+  }
+]

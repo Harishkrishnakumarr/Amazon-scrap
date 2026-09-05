@@ -1,0 +1,355 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0DFYBBTF2&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T19:18:51.100389"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-29T19:19:04.889825",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-29T19:19:13.812669"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-29T19:19:15.565318"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://bbs.ruliweb.com/"
+    ],
+    "timestamp": "2026-08-29T19:19:28.218555",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://english.stackexchange.com/questions/40408/whats-the-origin-of-yo",
+      "https://english.stackexchange.com/questions/434179/can-yo-be-used-to-end-a-conversation",
+      "https://english.stackexchange.com/questions/47235/is-there-a-word-for-a-person-who-hardly-understands-things"
+    ],
+    "timestamp": "2026-08-29T19:19:39.683261",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AAJCC9783E1Z7/clicktech-retail-private-limited",
+      "https://gst.unifers.ai/gst/29AAJCC9783E1Z3/clicktech-retail-private-limited",
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://fnshiftsolutions.com/gstin-search/clicktech-retail-private-limited-03AAJCC9783E1ZH"
+    ],
+    "timestamp": "2026-08-29T19:19:50.673728",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starbritannica.com/maddie-may/",
+      "https://dailymagazin.com/bubble-bratz/",
+      "https://celebsafairs.net/bubble-bratz/",
+      "https://www.gluwee.com/bubble-bratz/"
+    ],
+    "timestamp": "2026-08-29T19:20:14.001648",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.masterdata.in/company/clicktech_retail_private_limited/U52500WB2021PTC250343",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-08-29T19:20:20.908765",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-29T19:20:23.055819"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-29T19:20:23.055855"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-29T19:20:23.055862"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-29T19:20:23.056153"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://clicktechretail.in/about/",
+      "https://www.datanyze.com/companies/clicktech-retail-pvt/1312362907",
+      "https://tracxn.com/d/companies/clicktech-retail/__RcRWQ1ZQtw3jD_s4hQA53_JfiOu1Gx9N5yndQwnUAvQ"
+    ],
+    "timestamp": "2026-08-29T19:20:33.580603",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://about.youtube/",
+      "https://blog.youtube/"
+    ],
+    "timestamp": "2026-08-29T19:20:36.155900",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/contact-us/",
+      "https://contactout.com/company/Clicktech-Retail-Private-Ltd-79151",
+      "https://clicktechindia.com/contact/",
+      "https://clicktechretail.in/about/"
+    ],
+    "timestamp": "2026-08-29T19:20:46.193085",
+    "status": "results_found"
+  },
+  {
+    "business": "Craft House_",
+    "field": "Business Name",
+    "value": "Craft House_",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2W01KFKQ8FC70&asin=B0CKW913SL&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T19:20:55.311025"
+  },
+  {
+    "business": "Craft House_",
+    "field": "Phone Number",
+    "value": "+918882232418",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2W01KFKQ8FC70&asin=B0CKW913SL&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T19:20:55.311053"
+  },
+  {
+    "seller": "Craft House_",
+    "field": "Website",
+    "query": "Craft House_ official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.craft.do/",
+      "https://eaglercraft.com/"
+    ],
+    "timestamp": "2026-08-29T19:20:57.091587",
+    "status": "results_found"
+  },
+  {
+    "business": "Craft House_",
+    "field": "Website URL",
+    "value": "https://www.craft.do/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.craft.do/",
+    "timestamp": "2026-08-29T19:21:43.922650"
+  },
+  {
+    "business": "Craft House_",
+    "field": "Email Address",
+    "value": "press@craft.do",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.craft.do/about",
+    "timestamp": "2026-08-29T19:21:49.588414"
+  },
+  {
+    "seller": "Craft House_",
+    "field": "Legal Entity Name",
+    "query": "Craft House_ company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.craft.do/",
+      "https://eaglercraft.com/",
+      "https://www.craft.do/download",
+      "https://neal.fun/infinite-craft/"
+    ],
+    "timestamp": "2026-08-29T19:21:54.805167",
+    "status": "results_found"
+  },
+  {
+    "seller": "Craft House_",
+    "field": "Legal Entity Name",
+    "query": "Craft House_ Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.craft.do/",
+      "https://eaglercraft.com/",
+      "https://www.craft.do/download",
+      "https://neal.fun/infinite-craft/"
+    ],
+    "timestamp": "2026-08-29T19:22:04.757539",
+    "status": "results_found"
+  },
+  {
+    "seller": "Craft House_",
+    "field": "PAN",
+    "query": "Craft House_ PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.craft.do/",
+      "https://eaglercraft.com/",
+      "https://www.craft.do/download",
+      "https://neal.fun/infinite-craft/"
+    ],
+    "timestamp": "2026-08-29T19:22:12.633377",
+    "status": "results_found"
+  },
+  {
+    "seller": "Craft House_",
+    "field": "PAN",
+    "query": "Craft House_ PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.craft.do/",
+      "https://eaglercraft.com/",
+      "https://www.craft.do/download",
+      "https://neal.fun/infinite-craft/"
+    ],
+    "timestamp": "2026-08-29T19:22:20.352719",
+    "status": "results_found"
+  },
+  {
+    "seller": "Craft House_",
+    "field": "GST",
+    "query": "Craft House_ GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.craft.do/",
+      "https://eaglercraft.com/"
+    ],
+    "timestamp": "2026-08-29T19:22:32.270320",
+    "status": "results_found"
+  },
+  {
+    "seller": "Craft House_",
+    "field": "GST",
+    "query": "Craft House_ GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.craft.do/",
+      "https://eaglercraft.com/",
+      "https://www.craft.do/download",
+      "https://neal.fun/infinite-craft/"
+    ],
+    "timestamp": "2026-08-29T19:22:38.343538",
+    "status": "results_found"
+  },
+  {
+    "seller": "Craft House_",
+    "field": "Owner",
+    "query": "Craft House_ director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.craft.do/",
+      "https://eaglercraft.com/"
+    ],
+    "timestamp": "2026-08-29T19:22:47.334923",
+    "status": "results_found"
+  },
+  {
+    "seller": "Craft House_",
+    "field": "Owner",
+    "query": "Craft House_ founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.craft.do/",
+      "https://eaglercraft.com/"
+    ],
+    "timestamp": "2026-08-29T19:22:52.654680",
+    "status": "results_found"
+  }
+]

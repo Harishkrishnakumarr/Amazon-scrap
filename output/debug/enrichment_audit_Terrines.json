@@ -1,0 +1,1378 @@
+[
+  {
+    "business": "Cart2Globe",
+    "field": "Business Name",
+    "value": "Cart2Globe",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A324FKG9CG7HUT&asin=B07NYV885Z&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T14:14:51.601769"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Website",
+    "query": "Cart2Globe official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.cart2india.com/page/faq"
+    ],
+    "timestamp": "2026-09-01T14:14:53.454342",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Website URL",
+    "value": "https://www.cart2india.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cart2india.com/",
+    "timestamp": "2026-09-01T14:14:55.882395"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Legal Entity Name",
+    "query": "Cart2Globe company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/cart-2-india-online-retail-privatelimited",
+      "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+      "https://www.cart2india.com/",
+      "https://www.thecompanycheck.com/company/cart-2-india-online-retail-private-limited/U74900KA2011PTC058860"
+    ],
+    "timestamp": "2026-09-01T14:14:59.279070",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Email Address",
+    "value": "lokesh@cart2india.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+    "timestamp": "2026-09-01T14:15:21.890040"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Billing Address",
+    "value": "#12, 2nd floor, sanjeevappa layout, 10th e cross nagavarapalya, c v raman nagar bangalore karnataka india 560093 karnataka karnataka india 560093",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+    "timestamp": "2026-09-01T14:15:21.895127"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "City",
+    "value": "sanjeevappa layout",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+    "timestamp": "2026-09-01T14:15:21.895144"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+    "timestamp": "2026-09-01T14:15:21.895153"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Pincode",
+    "value": "560093",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+    "timestamp": "2026-09-01T14:15:21.895156"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "PAN",
+    "query": "Cart2Globe PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.cart2india.com/",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-09-01T14:15:23.683017",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "PAN",
+    "query": "Cart2Globe PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+      "https://www.cart2india.com/page/contact-us",
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe"
+    ],
+    "timestamp": "2026-09-01T14:15:28.342386",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "GST Number",
+    "value": "27AAECC4477E1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+    "timestamp": "2026-09-01T14:15:28.953443"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "PAN Number",
+    "value": "AAECC4477E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+    "timestamp": "2026-09-01T14:15:28.953457"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Owner",
+    "query": "Cart2Globe director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://tracxn.com/d/legal-entities/india/cart-2-india-online-retail-private-limited/__O5PUtNqLEki0HBsItdKVByfEJsAu7TGr4IN6Phz_HcY",
+      "https://www.thecompanycheck.com/company/cart-2-india-online-retail-private-limited/U74900KA2011PTC058860"
+    ],
+    "timestamp": "2026-09-01T14:15:30.319812",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Owner",
+    "query": "Cart2Globe founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://www.sellerratings.com/amazon/india/shree-krishna-enterprise-1",
+      "https://www.sellerratings.com/amazon/india/krishival-nuts",
+      "https://www.sellerratings.com/amazon/india/techezy"
+    ],
+    "timestamp": "2026-09-01T14:15:37.150090",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Phone",
+    "query": "Cart2Globe phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/page/contact-us",
+      "https://www.cart2india.com/page/faq",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "http://test.cart2india.com/cart2gulf/faq/"
+    ],
+    "timestamp": "2026-09-01T14:15:42.711926",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Phone",
+    "query": "Cart2Globe contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/page/contact-us",
+      "http://test.cart2india.com/cart2gulf/faq/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://www.cart2india.com/"
+    ],
+    "timestamp": "2026-09-01T14:15:49.393769",
+    "status": "results_found"
+  },
+  {
+    "business": "BENIE STORE",
+    "field": "Business Name",
+    "value": "BENIE STORE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FAOK208WTEVV&asin=B0012GXMJ2&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T14:15:54.036099"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Website",
+    "query": "BENIE STORE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.binie.in/",
+      "https://www.binie.in/categories/sweets"
+    ],
+    "timestamp": "2026-09-01T14:15:55.987241",
+    "status": "results_found"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Legal Entity Name",
+    "query": "BENIE STORE company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://benir.in/",
+      "https://benir.in/strategic-alliance/",
+      "https://benir.in/features/",
+      "https://benir.in/product/products-all/"
+    ],
+    "timestamp": "2026-09-01T14:16:03.951870",
+    "status": "results_found"
+  },
+  {
+    "business": "BENIE STORE",
+    "field": "Email Address",
+    "value": "support@benir.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://benir.in/product/products-all/",
+    "timestamp": "2026-09-01T14:16:06.657783"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Legal Entity Name",
+    "query": "BENIE STORE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://gstverify.co.in/search/",
+      "https://npifund.com/article/steps-to-check-company-registration-status-on-mca"
+    ],
+    "timestamp": "2026-09-01T14:16:08.145695",
+    "status": "results_found"
+  },
+  {
+    "business": "BENIE STORE",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T14:16:09.019402"
+  },
+  {
+    "business": "BENIE STORE",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:16:10.514080"
+  },
+  {
+    "business": "BENIE STORE",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:16:10.514095"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Owner",
+    "query": "BENIE STORE director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://alchetron.com/Ty-Warner#:~:text=H.%20Ty%20Warner%20%28born%20September%203%2C%201944%29%20is,stuffed%20toys%2C%20including%20Beanie%20Babies%20and%20other%20lines.",
+      "https://www.celebritynetworth.com/articles/entertainment-articles/failed-actor-2-6-billion-tycoon-ty-warner-became-man-behind-must-toy-90s/",
+      "https://www.cbinsights.com/company/benie/people",
+      "https://www.forbes.com/profile/ty-warner/"
+    ],
+    "timestamp": "2026-09-01T14:16:12.245804",
+    "status": "results_found"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Owner",
+    "query": "BENIE STORE founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/benie-store",
+      "https://www.cbinsights.com/company/benie/people",
+      "https://benir.in/about-us/",
+      "https://www.encyclopedia.com/education/economics-magazines/warner-ty"
+    ],
+    "timestamp": "2026-09-01T14:16:21.099092",
+    "status": "results_found"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Address",
+    "query": "BENIE STORE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/BENIE-TRADING-PRIVATE-LIMITED-U46309KA2023PTC178066",
+      "https://mydukaan.io/benie/categories",
+      "https://www.sellerratings.com/amazon/india/benie-store",
+      "https://local.infobel.in/IN122419200/benie_enterprise-vadodara.html"
+    ],
+    "timestamp": "2026-09-01T14:16:27.626461",
+    "status": "results_found"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Address",
+    "query": "BENIE STORE registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/BENIE-TRADING-PRIVATE-LIMITED-U46309KA2023PTC178066#:~:text=BENIE%20TRADING%20PVT%20LTD%27s%20registered%20office%20address%20is,Hebbal%20Kempapura%2C%20Bangalore%2C%20Bangalore%20North%2C%20Karnataka%2C%20India%2C%20560024",
+      "https://www.sellerratings.com/amazon/india/benie-store",
+      "https://www.benir.in/contact-us/",
+      "https://mydukaan.io/benie/categories"
+    ],
+    "timestamp": "2026-09-01T14:16:34.904760",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "Business Name",
+    "value": "Global Klamp",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2ON2B5XK3AL27&asin=B00005QFQU&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T14:16:39.721901"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Website",
+    "query": "Global Klamp official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/global-klamp",
+      "https://consumercomplaintscourt.com/tag/global-klamp/"
+    ],
+    "timestamp": "2026-09-01T14:16:41.211667",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "Website URL",
+    "value": "https://consumercomplaintscourt.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://consumercomplaintscourt.com/tag/global-klamp/",
+    "timestamp": "2026-09-01T14:16:44.500439"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "Email Address",
+    "value": "mantrivip@mantrivip.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://consumercomplaintscourt.com/",
+    "timestamp": "2026-09-01T14:16:44.971176"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "Phone Number",
+    "value": "+919505663850",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://consumercomplaintscourt.com/about",
+    "timestamp": "2026-09-01T14:16:46.418818"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Legal Entity Name",
+    "query": "Global Klamp company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.sellerratings.com/amazon/india/global-klamp",
+      "https://consumercomplaintscourt.com/tag/global-klamp/"
+    ],
+    "timestamp": "2026-09-01T14:16:55.603979",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:16:56.452670"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:16:56.452684"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Legal Entity Name",
+    "query": "Global Klamp Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://gstverify.co.in/search/",
+      "https://www.udyam.ltd/blog/udyam-search-by-name",
+      "https://udyamsearch.com/"
+    ],
+    "timestamp": "2026-09-01T14:17:00.693226",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Owner",
+    "query": "Global Klamp director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/klamp/__Aq4R8rgAuQ8eiWsnhgbGoJFl_l4FZ-6MS5hYAMm275s#:~:text=klamp%20is%20a%20seed%20company%20based%20in%20United,including%2030%20funded%20and%2026%20that%20have%20exited.",
+      "https://www.cbinsights.com/company/klamp/people",
+      "https://www.news18.com/news/india/how-bangalore-sellers-are-making-the-most-of-amazon-great-indian-festival-3076937.html",
+      "https://www.oneindia.com/india/smbs-enjoy-great-success-with-the-e-commerce-opportunity-during-amazon-great-indian-festivals-3175856.html"
+    ],
+    "timestamp": "2026-09-01T14:17:05.247394",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/klamp/__Aq4R8rgAuQ8eiWsnhgbGoJFl_l4FZ-6MS5hYAMm275s#:~:text=klamp%20is%20a%20seed%20company%20based%20in%20United,including%2030%20funded%20and%2026%20that%20have%20exited.",
+    "timestamp": "2026-09-01T14:17:06.046656"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/klamp/__Aq4R8rgAuQ8eiWsnhgbGoJFl_l4FZ-6MS5hYAMm275s#:~:text=klamp%20is%20a%20seed%20company%20based%20in%20United,including%2030%20funded%20and%2026%20that%20have%20exited.",
+    "timestamp": "2026-09-01T14:17:06.046669"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/klamp/__Aq4R8rgAuQ8eiWsnhgbGoJFl_l4FZ-6MS5hYAMm275s#:~:text=klamp%20is%20a%20seed%20company%20based%20in%20United,including%2030%20funded%20and%2026%20that%20have%20exited.",
+    "timestamp": "2026-09-01T14:17:06.046674"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/klamp/__Aq4R8rgAuQ8eiWsnhgbGoJFl_l4FZ-6MS5hYAMm275s#:~:text=klamp%20is%20a%20seed%20company%20based%20in%20United,including%2030%20funded%20and%2026%20that%20have%20exited.",
+    "timestamp": "2026-09-01T14:17:06.046677"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Owner",
+    "query": "Global Klamp founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://consumercomplaintscourt.com/tag/global-klamp/",
+      "https://www.ynos.in/startup/klamp-io-513808",
+      "https://www.news18.com/news/india/how-bangalore-sellers-are-making-the-most-of-amazon-great-indian-festival-3076937.html",
+      "https://www.cbinsights.com/company/klamp/people"
+    ],
+    "timestamp": "2026-09-01T14:17:11.251047",
+    "status": "results_found"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Business Name",
+    "value": "STS Shop",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1ZJ9VB2OVIKVD&isAmazonFulfilled=0&asin=B00005QFQU&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-01T14:17:14.913032"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Website",
+    "query": "STS Shop official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://streetstylestore.com/newarrivals/all",
+      "https://streetstylestore.com/"
+    ],
+    "timestamp": "2026-09-01T14:17:16.420581",
+    "status": "results_found"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Website URL",
+    "value": "https://www.stsshop.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.stsshop.com/",
+    "timestamp": "2026-09-01T14:17:18.153755"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Email Address",
+    "value": "info@stsshop.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.stsshop.com/",
+    "timestamp": "2026-09-01T14:17:18.773790"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Legal Entity Name",
+    "query": "STS Shop company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://www.scsthub.in/",
+      "https://www.praansconsultech.com/shop-and-establishment-certificate-registration-process-in-tamil-nadu",
+      "https://www.registerkaro.in/shop-and-establishment-act-registration"
+    ],
+    "timestamp": "2026-09-01T14:17:22.637670",
+    "status": "results_found"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Phone Number",
+    "value": "+918333024179",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+    "timestamp": "2026-09-01T14:17:24.455893"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Legal Entity Name",
+    "query": "STS Shop Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.setindiabiz.com/company-registration",
+      "https://www.registerkaro.in/private-limited-company-registration"
+    ],
+    "timestamp": "2026-09-01T14:17:36.298677",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "PAN",
+    "query": "STS Shop PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://tin.tin.proteantech.in/pantan/StatusTrack.html",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-09-01T14:17:37.904728",
+    "status": "results_found"
+  },
+  {
+    "business": "STS Shop",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:17:38.574502"
+  },
+  {
+    "business": "STS Shop",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:17:38.574519"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Owner",
+    "query": "STS Shop director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.marketscreener.com/insider/SUNIL-AGRAWAL-A0SC75/",
+      "https://vaibhavglobal.com/leadership",
+      "https://boardstewardship.com/b-s-nagesh/"
+    ],
+    "timestamp": "2026-09-01T14:17:40.180914",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Owner",
+    "query": "STS Shop founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.marketscreener.com/insider/SUNIL-AGRAWAL-A0SC75/",
+      "https://in.marketscreener.com/insider/SUNIL-AGRAWAL-A0SC75/",
+      "https://vaibhavglobal.com/leadership",
+      "https://www.shego.in/biography/santosh-kalivaraprasad/"
+    ],
+    "timestamp": "2026-09-01T14:17:52.826878",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Address",
+    "query": "STS Shop registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/sts-bpo-private-limited-cin-U72900TN2022PTC149269#:~:text=The%20registered%20office%20address%20is%20No%201%2C%201st,Kakkalur-Putlur%20Road%2C%20Putlur%20Thiruvallur%20Tamil%20Nadu%20India%20602003.",
+      "https://www.sellerratings.com/amazon/india/sts-shop",
+      "https://craft.co/sts-390/locations",
+      "https://www.falconebiz.com/company/STS-PRIVATE-LIMITED-U64203KA2009PTC049751"
+    ],
+    "timestamp": "2026-09-01T14:17:55.519406",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Address",
+    "query": "STS Shop registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/sts-shop",
+      "https://piceapp.com/gst-number-search/sts-industries-33adwfs8876r1zi/",
+      "https://gstdetails.com/get-address-using-gst/",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-09-01T14:18:03.342013",
+    "status": "results_found"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sts-industries-33adwfs8876r1zi/",
+    "timestamp": "2026-09-01T14:18:06.303524"
+  },
+  {
+    "business": "STS Shop",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sts-industries-33adwfs8876r1zi/",
+    "timestamp": "2026-09-01T14:18:06.303536"
+  },
+  {
+    "business": "STS Shop",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sts-industries-33adwfs8876r1zi/",
+    "timestamp": "2026-09-01T14:18:06.303541"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sts-industries-33adwfs8876r1zi/",
+    "timestamp": "2026-09-01T14:18:06.303544"
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "Business Name",
+    "value": "shop_worldwide",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AKPH4HW0FR8BT&asin=B07NZZ1SR2&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T14:18:06.598082"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "Website",
+    "query": "shop_worldwide official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://shopworldwide.in/",
+      "https://shoptheworld.in/"
+    ],
+    "timestamp": "2026-09-01T14:18:08.038732",
+    "status": "results_found"
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "Website URL",
+    "value": "https://shopworldwide.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://shopworldwide.in/",
+    "timestamp": "2026-09-01T14:18:23.109785"
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "Phone Number",
+    "value": "+917500668555",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://shopworldwide.in/",
+    "timestamp": "2026-09-01T14:18:26.665701"
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "Email Address",
+    "value": "info@shopworldwide.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://shopworldwide.in/contact",
+    "timestamp": "2026-09-01T14:18:31.242610"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "Legal Entity Name",
+    "query": "shop_worldwide company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://opencorporates.com/registers",
+      "https://opencorporates.com/registers/295",
+      "https://opencorporates.com/registers/58",
+      "https://opencorporates.com/registers/205"
+    ],
+    "timestamp": "2026-09-01T14:18:35.653985",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "Legal Entity Name",
+    "query": "shop_worldwide Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shoplegal.in/private-limited-company-registration.php",
+      "https://www.shoplegal.in/private-limited-company-registration-in-erode.php",
+      "https://www.shoplegal.in/public-limited-company-registration.php",
+      "https://www.shoplegal.in/trademark-registration.php"
+    ],
+    "timestamp": "2026-09-01T14:18:43.881786",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "PAN",
+    "query": "shop_worldwide PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://pancardshop.com/center/login.php",
+      "http://pancard.world/",
+      "https://pancardshop.com/center/register_page.php",
+      "https://shopworldwide.in/"
+    ],
+    "timestamp": "2026-09-01T14:18:51.998391",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "PAN",
+    "query": "shop_worldwide PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/shop-the-world-27AHDPA0805H1ZZ/",
+      "https://www.knowyourgst.com/gst-number-search/shop-world-37BHCPR2623E1ZJ/",
+      "https://www.mastersindia.co/gst-number-search-by-name-and-pan/"
+    ],
+    "timestamp": "2026-09-01T14:18:59.483207",
+    "status": "results_found"
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:19:00.283211"
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:19:00.283236"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "Owner",
+    "query": "shop_worldwide director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shoptheworldonline.com/about",
+      "https://whoistheownerof.com/who-owns-shopify-tobi-lutkes-founder-control/",
+      "https://shopsworld.in/about-us/",
+      "https://find-and-update.company-information.service.gov.uk/company/16640941"
+    ],
+    "timestamp": "2026-09-01T14:19:01.887632",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "Address",
+    "query": "shop_worldwide registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/16640941",
+      "https://open.endole.co.uk/insight/company/16640941-shopworldwide-ltd",
+      "https://opencorporates.com/companies/search",
+      "https://www.gov.uk/get-information-about-a-company"
+    ],
+    "timestamp": "2026-09-01T14:19:18.237500",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "Address",
+    "query": "shop_worldwide registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/16640941",
+      "https://open.endole.co.uk/insight/company/16640941-shopworldwide-ltd",
+      "https://www.ishop-worldwide.com/",
+      "https://www.whois.com/whois/"
+    ],
+    "timestamp": "2026-09-01T14:19:22.664760",
+    "status": "results_found"
+  },
+  {
+    "business": "AtoZ Bazzaar",
+    "field": "Business Name",
+    "value": "AtoZ Bazzaar",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3IBFO5MK7S8T9&isAmazonFulfilled=0&asin=B07NZZ1SR2&ref_=olp_merch_name_2",
+    "timestamp": "2026-09-01T14:19:30.190716"
+  },
+  {
+    "seller": "AtoZ Bazzaar",
+    "field": "Website",
+    "query": "AtoZ Bazzaar official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://atozbazaar.in/collections/all",
+      "https://rratozbazaar.com/"
+    ],
+    "timestamp": "2026-09-01T14:19:31.601451",
+    "status": "results_found"
+  },
+  {
+    "seller": "AtoZ Bazzaar",
+    "field": "Legal Entity Name",
+    "query": "AtoZ Bazzaar company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=262576&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=fa6691242d6f17df4d4efbb2bcded353&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://www.inspex.in/",
+      "https://companybazaar.in/",
+      "https://razorpay.com/rize/company-registration/"
+    ],
+    "timestamp": "2026-09-01T14:19:43.887657",
+    "status": "results_found"
+  },
+  {
+    "seller": "AtoZ Bazzaar",
+    "field": "PAN",
+    "query": "AtoZ Bazzaar PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-01T14:19:53.921663",
+    "status": "results_found"
+  },
+  {
+    "business": "AtoZ Bazzaar",
+    "field": "Phone Number",
+    "value": "+918001801961",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+    "timestamp": "2026-09-01T14:19:58.240437"
+  },
+  {
+    "business": "AtoZ Bazzaar",
+    "field": "Email Address",
+    "value": "gsd@utiitsl.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-01T14:20:00.756185"
+  },
+  {
+    "business": "AtoZ Bazzaar",
+    "field": "Billing Address",
+    "value": "idfc first bank tower, (the square), c-61, g block, bandra-kurla complex, bandra (east), mumbai - 400 051, maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-01T14:20:00.777789"
+  },
+  {
+    "business": "AtoZ Bazzaar",
+    "field": "City",
+    "value": "maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-01T14:20:00.777805"
+  },
+  {
+    "business": "AtoZ Bazzaar",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-01T14:20:00.777811"
+  },
+  {
+    "business": "AtoZ Bazzaar",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:20:01.985692"
+  },
+  {
+    "business": "AtoZ Bazzaar",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:20:01.985711"
+  },
+  {
+    "seller": "AtoZ Bazzaar",
+    "field": "Owner",
+    "query": "AtoZ Bazzaar director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.atoz_big_bazzar.181d3a5f535ffb0df4889f6e1fd70423.html",
+      "https://info.edgeinsights.in/company/team/Atoz-Apka-Bazar-Private-Limited/314877",
+      "https://www.forbes.com/profile/deepinder-goyal/",
+      "https://www.crunchbase.com/person/zubair-abbas"
+    ],
+    "timestamp": "2026-09-01T14:20:03.548672",
+    "status": "results_found"
+  },
+  {
+    "seller": "AtoZ Bazzaar",
+    "field": "Owner",
+    "query": "AtoZ Bazzaar founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.forbes.com/profile/sachin-bansal/",
+      "https://atozonlinebazar.com/",
+      "https://atozbazaar.in/"
+    ],
+    "timestamp": "2026-09-01T14:20:17.758238",
+    "status": "results_found"
+  },
+  {
+    "business": "BENEDICTIONS IN",
+    "field": "Business Name",
+    "value": "BENEDICTIONS IN",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AMNBH6KWS8KOR&isAmazonFulfilled=0&asin=B0012GXMJ2&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-01T14:20:18.216513"
+  },
+  {
+    "seller": "BENEDICTIONS IN",
+    "field": "Website",
+    "query": "BENEDICTIONS IN official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://thepastorsworkshop.com/liturgy/benedictions",
+      "https://thepastorsworkshop.kinsta.cloud/liturgy/benedictions/"
+    ],
+    "timestamp": "2026-09-01T14:20:19.864610",
+    "status": "results_found"
+  },
+  {
+    "seller": "BENEDICTIONS IN",
+    "field": "Legal Entity Name",
+    "query": "BENEDICTIONS IN company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/DIVINE-BENEDICTIONS-PRIVATE-LIMITED-U46596PB2023PTC059636",
+      "https://www.companydetails.in/company/divine-benedictions-private-limited",
+      "https://www.companydetails.in/company/benedictions-international-consultants-opc-pvt-ltd",
+      "https://www.registerkaro.in/company/benediction-healthcare-private-limited-U86100MH2024PTC435268"
+    ],
+    "timestamp": "2026-09-01T14:20:27.930190",
+    "status": "results_found"
+  },
+  {
+    "business": "BENEDICTIONS IN",
+    "field": "Email Address",
+    "value": "kapoorca@yahoo.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/DIVINE-BENEDICTIONS-PRIVATE-LIMITED-U46596PB2023PTC059636",
+    "timestamp": "2026-09-01T14:20:28.627871"
+  },
+  {
+    "business": "BENEDICTIONS IN",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/benediction-healthcare-private-limited-U86100MH2024PTC435268",
+    "timestamp": "2026-09-01T14:20:48.867061"
+  },
+  {
+    "business": "BENEDICTIONS IN",
+    "field": "Billing Address",
+    "value": "flat no 1901 zenith bwing, p.k roadnr kalidas hall, mumbai, mumbai, mumbai, maharashtra, 400080",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/benediction-healthcare-private-limited-U86100MH2024PTC435268",
+    "timestamp": "2026-09-01T14:20:48.871590"
+  },
+  {
+    "business": "BENEDICTIONS IN",
+    "field": "City",
+    "value": "mumbai",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/benediction-healthcare-private-limited-U86100MH2024PTC435268",
+    "timestamp": "2026-09-01T14:20:48.871608"
+  },
+  {
+    "business": "BENEDICTIONS IN",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/benediction-healthcare-private-limited-U86100MH2024PTC435268",
+    "timestamp": "2026-09-01T14:20:48.871615"
+  },
+  {
+    "business": "BENEDICTIONS IN",
+    "field": "Pincode",
+    "value": "400080",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/benediction-healthcare-private-limited-U86100MH2024PTC435268",
+    "timestamp": "2026-09-01T14:20:48.871619"
+  },
+  {
+    "seller": "BENEDICTIONS IN",
+    "field": "PAN",
+    "query": "BENEDICTIONS IN PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/income-tax/understanding-permanent-account-number-pan-structure.html",
+      "https://taxguru.in/income-tax/pan-structure.html",
+      "https://www.indiatvnews.com/business/personal-finance/pan-card-what-is-hidden-in-your-10-digit-permanent-account-number-2026-02-22-1031248",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-details-using-a-pan-card-number"
+    ],
+    "timestamp": "2026-09-01T14:20:51.682462",
+    "status": "results_found"
+  },
+  {
+    "seller": "BENEDICTIONS IN",
+    "field": "PAN",
+    "query": "BENEDICTIONS IN PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://gst.iadv.io/BENEDICTION-07AHWPG8771F1ZR/",
+      "https://blog.pancardonlineindia.com/index.php/how-to-search-information-using-pan-number-a-complete-guide",
+      "https://udyamregistration.grih.in/blog/udyam-search-by-pan"
+    ],
+    "timestamp": "2026-09-01T14:20:59.162866",
+    "status": "results_found"
+  },
+  {
+    "business": "BENEDICTIONS IN",
+    "field": "GST Number",
+    "value": "07AHWPG8771F1ZR",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/BENEDICTION-07AHWPG8771F1ZR/",
+    "timestamp": "2026-09-01T14:20:59.999161"
+  },
+  {
+    "business": "BENEDICTIONS IN",
+    "field": "PAN Number",
+    "value": "AHWPG8771F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/BENEDICTION-07AHWPG8771F1ZR/",
+    "timestamp": "2026-09-01T14:20:59.999178"
+  },
+  {
+    "seller": "BENEDICTIONS IN",
+    "field": "Owner",
+    "query": "BENEDICTIONS IN director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.designhill.com/design-blog/best-owner-and-founder-email-signature-examples/",
+      "https://www.wisestamp.com/examples/founder-and-owner-email-signatures/",
+      "https://smallbiztrends.com/are-you-the-ceo-owner-or-founder-choosing-the-right-title-for-your-business/",
+      "https://northwest.education/insights/careers/ceo-vs-founder-vs-owner-vs-president/"
+    ],
+    "timestamp": "2026-09-01T14:21:01.644120",
+    "status": "results_found"
+  },
+  {
+    "seller": "BENEDICTIONS IN",
+    "field": "Owner",
+    "query": "BENEDICTIONS IN founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.britannica.com/topic/benediction",
+      "https://biblehub.com/topical/b/benediction.htm",
+      "https://jewishencyclopedia.com/articles/2931-benedictions"
+    ],
+    "timestamp": "2026-09-01T14:21:14.152080",
+    "status": "results_found"
+  },
+  {
+    "business": "Trendora Global",
+    "field": "Business Name",
+    "value": "Trendora Global",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/details/?seller=A138MTVEJIKLMA&sshmPath=shipping-rates",
+    "timestamp": "2026-09-01T14:21:17.136757"
+  },
+  {
+    "seller": "Trendora Global",
+    "field": "Website",
+    "query": "Trendora Global official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://trendoraglobal.us/",
+      "https://www.trendoraofficial.com/collections/frontpage"
+    ],
+    "timestamp": "2026-09-01T14:21:18.594364",
+    "status": "results_found"
+  },
+  {
+    "business": "Trendora Global",
+    "field": "Website URL",
+    "value": "https://www.trendoraglobal.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.trendoraglobal.com/",
+    "timestamp": "2026-09-01T14:21:20.366350"
+  },
+  {
+    "seller": "Trendora Global",
+    "field": "Legal Entity Name",
+    "query": "Trendora Global company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://trendoraglobal.us/",
+      "https://find-and-update.company-information.service.gov.uk/company/17328520",
+      "https://open.endole.co.uk/insight/company/17328520-trendora-global-ltd",
+      "https://www.companydetails.in/company/trendia-global-services-private-limited"
+    ],
+    "timestamp": "2026-09-01T14:21:24.418023",
+    "status": "results_found"
+  },
+  {
+    "business": "Trendora Global",
+    "field": "Email Address",
+    "value": "ceosaadakhtar@trendoraglobal.us",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://trendoraglobal.us/",
+    "timestamp": "2026-09-01T14:21:25.549762"
+  },
+  {
+    "seller": "Trendora Global",
+    "field": "Legal Entity Name",
+    "query": "Trendora Global Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=262576&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=e320a2ccc4321c1e4254c85a561eae38&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "http://www.shopperapproved.com/reviews/IncFile.com/?IG=0acea158380a4214ae6a96922bde0806",
+      "https://www.thoughtstopaper.com/trademark-application/trademark-application.php?platform=microsoft&campaign=471281968&campaignname=Trademark%20Test%20Campaign&adgroup=1240250200139550&adgroupname=Ad%20group%201&keywordid=kwd-77516077511301:loc-90&matchtype=b&bidmatchtype=bb&network=o&device=c&adid=77515771528047&keyword=trademark%20your%20business&querystring=Trendora%20Global%20Private%20Limited%20registration&extension=&locationinterest=&locationphysical=262576&msclkid=c8f369e02d6c1106680a0376bf40c2d8&utm_source=bing&utm_medium=cpc&utm_campaign=Trademark%20Test%20Campaign&utm_term=trademark%20your%20business&utm_content=Ad%20group%201",
+      "http://www.sitejabber.com/reviews/www.thoughtstopaper.com?IG=0acea158380a4214ae6a96922bde0806"
+    ],
+    "timestamp": "2026-09-01T14:21:45.625367",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trendora Global",
+    "field": "PAN",
+    "query": "Trendora Global PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://trendoraindia.in/",
+      "https://www.falconebiz.com/company/TRENDORA-CORP-PRIVATE-LIMITED-U58201KL2025PTC096818",
+      "https://tre-india.in/pages/contact"
+    ],
+    "timestamp": "2026-09-01T14:21:47.146897",
+    "status": "results_found"
+  },
+  {
+    "business": "Trendora Global",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:21:47.924174"
+  },
+  {
+    "business": "Trendora Global",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T14:21:47.924193"
+  },
+  {
+    "seller": "Trendora Global",
+    "field": "Owner",
+    "query": "Trendora Global director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://rocketreach.co/ahmad-nazir-email_841771661",
+      "https://open.endole.co.uk/insight/company/17328520-trendora-global-ltd",
+      "https://www.filesure.in/company/trendora-corp-private-limited/U58201KL2025PTC096818"
+    ],
+    "timestamp": "2026-09-01T14:21:49.896612",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trendora Global",
+    "field": "Owner",
+    "query": "Trendora Global founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://trendoraglobal.us/",
+      "https://rocketreach.co/ahmad-nazir-email_841771661",
+      "https://trendoraglobaltrade.com/",
+      "http://creativecommons.org/licenses/by-sa/3.0/"
+    ],
+    "timestamp": "2026-09-01T14:21:53.115782",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trendora Global",
+    "field": "Address",
+    "query": "Trendora Global registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://opengovuk.com/company/16669504#:~:text=Trendora%20Go%20Ltd%20is%20an%20entity%20registered%20with,you%20have%20more%20infomration%20about%20Trendora%20Go%20Ltd%3F",
+      "https://find-and-update.company-information.service.gov.uk/company/17328520",
+      "https://opengovuk.com/company/16669504",
+      "https://open.endole.co.uk/insight/company/17328520-trendora-global-ltd"
+    ],
+    "timestamp": "2026-09-01T14:22:04.730491",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trendora Global",
+    "field": "Address",
+    "query": "Trendora Global registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/17328520",
+      "https://open.endole.co.uk/insight/company/17328520-trendora-global-ltd",
+      "https://trendoraglobal.us/",
+      "https://www.falconebiz.com/company/TRENDORA-CORP-PRIVATE-LIMITED-U58201KL2025PTC096818"
+    ],
+    "timestamp": "2026-09-01T14:22:12.047457",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trendora Global",
+    "field": "Phone",
+    "query": "Trendora Global phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trendora-group.com/en/contact.html",
+      "https://trendorao.com/pages/contact",
+      "https://trendora-hub.com/pages/contact",
+      "https://trendwra.com/en/contact-us/"
+    ],
+    "timestamp": "2026-09-01T14:22:21.151251",
+    "status": "results_found"
+  }
+]

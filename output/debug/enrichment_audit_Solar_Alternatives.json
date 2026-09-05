@@ -1,0 +1,843 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2AL6IVND0I91F&isAmazonFulfilled=1&asin=B0FMRR347W&ref_=olp_merch_name_3",
+    "timestamp": "2026-08-29T18:29:15.133639"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1f48866795e260d10f1391a3943161c6",
+      "https://us.etrade.com/home/welcome-back?msockid=1f48866795e260d10f1391a3943161c6"
+    ],
+    "timestamp": "2026-08-29T18:29:17.284209",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1f48866795e260d10f1391a3943161c6",
+      "https://us.etrade.com/home/welcome-back?msockid=1f48866795e260d10f1391a3943161c6",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-29T18:29:49.918551",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1f48866795e260d10f1391a3943161c6",
+      "https://us.etrade.com/home/welcome-back?msockid=1f48866795e260d10f1391a3943161c6",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-29T18:30:04.677022",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1f48866795e260d10f1391a3943161c6",
+      "https://us.etrade.com/home/welcome-back?msockid=1f48866795e260d10f1391a3943161c6"
+    ],
+    "timestamp": "2026-08-29T18:30:06.161608",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1f48866795e260d10f1391a3943161c6",
+      "https://us.etrade.com/home/welcome-back?msockid=1f48866795e260d10f1391a3943161c6",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-29T18:30:11.745739",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1f48866795e260d10f1391a3943161c6",
+      "https://us.etrade.com/home/welcome-back?msockid=1f48866795e260d10f1391a3943161c6",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-29T18:30:19.204714",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1f48866795e260d10f1391a3943161c6",
+      "https://us.etrade.com/home/welcome-back?msockid=1f48866795e260d10f1391a3943161c6",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-29T18:30:30.099432",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1f48866795e260d10f1391a3943161c6",
+      "https://us.etrade.com/home/welcome-back?msockid=1f48866795e260d10f1391a3943161c6",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-29T18:30:36.176506",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://grokipedia.com/page/William_A._Porter",
+      "https://us.etrade.com/why-etrade",
+      "https://www.company-histories.com/ETrade-Financial-Corporation-Company-History.html",
+      "https://www.zippia.com/e-trade-financial-careers-3640/history/"
+    ],
+    "timestamp": "2026-08-29T18:31:00.746760",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1f48866795e260d10f1391a3943161c6",
+      "https://us.etrade.com/home/welcome-back?msockid=1f48866795e260d10f1391a3943161c6",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-29T18:31:03.866267",
+    "status": "results_found"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "Business Name",
+    "value": "PETCATALOGUE E-SHOP",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AMRSQ28X924YX&asin=B0CZL8HJQ4&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T18:31:23.933510"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "Phone Number",
+    "value": "+919355858988",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AMRSQ28X924YX&asin=B0CZL8HJQ4&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T18:31:23.933533"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "Website",
+    "query": "PETCATALOGUE E-SHOP official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T18:31:37.122009",
+    "status": "no_results"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "Legal Entity Name",
+    "query": "PETCATALOGUE E-SHOP company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://janaushadhistore.in/home/",
+      "https://janaushadhistore.online/",
+      "https://janaushadhistore.in/shop/",
+      "https://www.janaushadhi.shop/"
+    ],
+    "timestamp": "2026-08-29T18:31:42.317348",
+    "status": "results_found"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "Email Address",
+    "value": "contact@janaushadhistore.online",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://janaushadhistore.online/",
+    "timestamp": "2026-08-29T18:31:47.369849"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "Legal Entity Name",
+    "query": "PETCATALOGUE E-SHOP Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://www.dnb.com/business-directory/company-profiles.petcatalogue_llp.50c9dd531ec2fa6e7b288ecb961eaaab.html",
+      "https://vakilsearch.com/private-limited-company-registration",
+      "https://razorpay.com/rize/company-registration/private-limited/"
+    ],
+    "timestamp": "2026-08-29T18:31:57.584990",
+    "status": "results_found"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "PAN",
+    "query": "PETCATALOGUE E-SHOP PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg=="
+    ],
+    "timestamp": "2026-08-29T18:32:03.264005",
+    "status": "results_found"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "PAN",
+    "query": "PETCATALOGUE E-SHOP PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T18:32:15.555193",
+    "status": "no_results"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "GST",
+    "query": "PETCATALOGUE E-SHOP GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/petcatalogue-llp-06abcfp4468j1zy/",
+      "https://www.knowyourgst.com/gst-number-search/petcatalogue-llp-06ABCFP4468J1ZY/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-29T18:32:23.935221",
+    "status": "results_found"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "GST Number",
+    "value": "06ABCFP4468J1ZY",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/petcatalogue-llp-06ABCFP4468J1ZY/",
+    "timestamp": "2026-08-29T18:32:28.114607"
+  },
+  {
+    "business": "PETCATALOGUE E-SHOP",
+    "field": "PAN Number",
+    "value": "ABCFP4468J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/petcatalogue-llp-06ABCFP4468J1ZY/",
+    "timestamp": "2026-08-29T18:32:28.114635"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "Owner",
+    "query": "PETCATALOGUE E-SHOP director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/karpathy/nanochat",
+      "https://github.com/rasbt/LLMs-from-scratch"
+    ],
+    "timestamp": "2026-08-29T18:32:31.418842",
+    "status": "results_found"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "Address",
+    "query": "PETCATALOGUE E-SHOP registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://wildlifeinformer.com/facts-about-flying-squirrels/",
+      "https://facts.net/nature/animals/30-facts-about-flying-squirrel/",
+      "https://factanimal.com/flying-squirrel/"
+    ],
+    "timestamp": "2026-08-29T18:32:45.250798",
+    "status": "results_found"
+  },
+  {
+    "seller": "PETCATALOGUE E-SHOP",
+    "field": "Address",
+    "query": "PETCATALOGUE E-SHOP registered address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://outlook.office.com/mail/"
+    ],
+    "timestamp": "2026-08-29T18:33:00.166372",
+    "status": "results_found"
+  },
+  {
+    "business": "LRD Hub",
+    "field": "Business Name",
+    "value": "LRD Hub",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2B9XQMJ2ULYNS&asin=B0FMRR347W&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T18:33:01.835474"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Website",
+    "query": "LRD Hub official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.marugujarat.in/category/lrd/",
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html"
+    ],
+    "timestamp": "2026-08-29T18:33:04.399831",
+    "status": "results_found"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Legal Entity Name",
+    "query": "LRD Hub company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.marugujarat.in/category/lrd/",
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html",
+      "https://www.adda247.com/exams/gujarat/gujarat-lokrakshak-result-2025/",
+      "https://updates.rijadeja.com/2026/08/gujarat-police-lrd-dv-list-2026.html"
+    ],
+    "timestamp": "2026-08-29T18:33:10.800656",
+    "status": "results_found"
+  },
+  {
+    "business": "LRD Hub",
+    "field": "Email Address",
+    "value": "marugujarat.in@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.marugujarat.in/category/lrd/",
+    "timestamp": "2026-08-29T18:33:11.755385"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Legal Entity Name",
+    "query": "LRD Hub Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.marugujarat.in/category/lrd/",
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html",
+      "https://www.adda247.com/exams/gujarat/gujarat-lokrakshak-result-2025/",
+      "https://updates.rijadeja.com/2026/08/gujarat-police-lrd-dv-list-2026.html"
+    ],
+    "timestamp": "2026-08-29T18:33:18.471379",
+    "status": "results_found"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "PAN",
+    "query": "LRD Hub PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.marugujarat.in/category/lrd/",
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html",
+      "https://www.adda247.com/exams/gujarat/gujarat-lokrakshak-result-2025/",
+      "https://updates.rijadeja.com/2026/08/gujarat-police-lrd-dv-list-2026.html"
+    ],
+    "timestamp": "2026-08-29T18:33:27.187211",
+    "status": "results_found"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "PAN",
+    "query": "LRD Hub PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://lrdhub.com/",
+      "https://ird.gov.np/pan-search/",
+      "https://lrdhub.com/login.php"
+    ],
+    "timestamp": "2026-08-29T18:33:34.045960",
+    "status": "results_found"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "GST",
+    "query": "LRD Hub GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T18:33:39.917540",
+    "status": "no_results"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "GST",
+    "query": "LRD Hub GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.marugujarat.in/category/lrd/",
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html",
+      "https://www.adda247.com/exams/gujarat/gujarat-lokrakshak-result-2025/",
+      "https://updates.rijadeja.com/2026/08/gujarat-police-lrd-dv-list-2026.html"
+    ],
+    "timestamp": "2026-08-29T18:33:41.387863",
+    "status": "results_found"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Owner",
+    "query": "LRD Hub director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://rocketreach.co/lrd-management_b5d8fa0af42e5cd0",
+      "https://www.zoominfo.com/p/Gaspar-Hinojosa/-1509316213"
+    ],
+    "timestamp": "2026-08-29T18:33:48.196142",
+    "status": "results_found"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Owner",
+    "query": "LRD Hub founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.marugujarat.in/category/lrd/",
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html",
+      "https://www.adda247.com/exams/gujarat/gujarat-lokrakshak-result-2025/",
+      "https://updates.rijadeja.com/2026/08/gujarat-police-lrd-dv-list-2026.html"
+    ],
+    "timestamp": "2026-08-29T18:33:50.322035",
+    "status": "results_found"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Address",
+    "query": "LRD Hub registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.marugujarat.in/category/lrd/",
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html",
+      "https://www.adda247.com/exams/gujarat/gujarat-lokrakshak-result-2025/"
+    ],
+    "timestamp": "2026-08-29T18:33:54.952010",
+    "status": "results_found"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Address",
+    "query": "LRD Hub registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.marugujarat.in/category/lrd/",
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html",
+      "https://www.adda247.com/exams/gujarat/gujarat-lokrakshak-result-2025/",
+      "https://updates.rijadeja.com/2026/08/gujarat-police-lrd-dv-list-2026.html"
+    ],
+    "timestamp": "2026-08-29T18:33:59.281222",
+    "status": "results_found"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Phone",
+    "query": "LRD Hub phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.marugujarat.in/category/lrd/",
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html"
+    ],
+    "timestamp": "2026-08-29T18:34:06.163890",
+    "status": "results_found"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Phone",
+    "query": "LRD Hub contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.marugujarat.in/category/lrd/",
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html",
+      "https://www.adda247.com/exams/gujarat/gujarat-lokrakshak-result-2025/",
+      "https://updates.rijadeja.com/2026/08/gujarat-police-lrd-dv-list-2026.html"
+    ],
+    "timestamp": "2026-08-29T18:34:10.598603",
+    "status": "results_found"
+  },
+  {
+    "business": "Elyssion Designs",
+    "field": "Business Name",
+    "value": "Elyssion Designs",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AH0KEO6T9U8SH&asin=B0GTQPMQC3&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T18:34:14.640135"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Website",
+    "query": "Elyssion Designs official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://note.com/ndn_zzz/n/nb0416b06fd38",
+      "https://chigai-hikaku.com/?p=61771"
+    ],
+    "timestamp": "2026-08-29T18:34:16.003261",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Legal Entity Name",
+    "query": "Elyssion Designs company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/?query=london%2C%20england",
+      "https://sunrise.am/sunrise/united-kingdom/",
+      "https://sunrise-sunset.org/gb/london",
+      "https://sunrisesunset.io/gb/england/london/"
+    ],
+    "timestamp": "2026-08-29T18:34:22.280823",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Legal Entity Name",
+    "query": "Elyssion Designs Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://colorful-peach.com/",
+      "https://colorful-peach.com/member/",
+      "https://colorful-peach.com/topics/",
+      "https://colorful-peach.com/category/news/feed/"
+    ],
+    "timestamp": "2026-08-29T18:34:33.869904",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "PAN",
+    "query": "Elyssion Designs PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-06AAFCE1472L1ZK/",
+      "https://www.companydetails.in/company/elyssion-designs-private-limited",
+      "https://www.volza.com/company-profile/elyssion-designs-pvt-ltd-17136565/",
+      "https://fnshiftsolutions.com/gstin-search/elyssion-designs-private-limited-07AAFCE1472L1ZI"
+    ],
+    "timestamp": "2026-08-29T18:34:47.500123",
+    "status": "results_found"
+  },
+  {
+    "business": "Elyssion Designs",
+    "field": "GST Number",
+    "value": "06AAFCE1472L1ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-06AAFCE1472L1ZK/",
+    "timestamp": "2026-08-29T18:34:48.158994"
+  },
+  {
+    "business": "Elyssion Designs",
+    "field": "PAN Number",
+    "value": "AAFCE1472L",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-06AAFCE1472L1ZK/",
+    "timestamp": "2026-08-29T18:34:48.159034"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Owner",
+    "query": "Elyssion Designs director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bokeplot.com/category/bokep-indo/",
+      "https://xhamster.com/videos/enak-sayang-genjot-terus-bokep-terbaru-video-bokep-indonesia-abg-susu-gedek-lagi-ngentot-2025-xhJ9tYe",
+      "https://probokep.work/",
+      "https://pasarbokep.co/"
+    ],
+    "timestamp": "2026-08-29T18:34:51.700998",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Owner",
+    "query": "Elyssion Designs founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-37910805-probleme-etrange-avec-les-groupes-instagram",
+      "https://forums.commentcamarche.net/forum/affich-36452377-instagram-je-ne-peux-plus-voir-qui-a-vu-mes-story-instants",
+      "https://it.ccm.net/faq/27293-come-riattivare-un-account-instagram-disabilitato",
+      "https://it.ccm.net/download/scaricare-3393-instagram-per-pc"
+    ],
+    "timestamp": "2026-08-29T18:35:03.202202",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Address",
+    "query": "Elyssion Designs registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T18:35:10.469431",
+    "status": "no_results"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Address",
+    "query": "Elyssion Designs registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/elyssion-designs-private-limited",
+      "https://testing.instafinancials.com/company/elyssion-designs-private-limited-U74999DL2018PTC337803",
+      "https://www.indiafilings.com/search/elyssion-designs-private-limited-cin-U74999DL2018PTC337803",
+      "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-06AAFCE1472L1ZK/"
+    ],
+    "timestamp": "2026-08-29T18:35:14.790122",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Phone",
+    "query": "Elyssion Designs phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://elysiandesigns.in/contact.html",
+      "https://www.elysiandesigns.in/",
+      "https://www.companydetails.in/company/elyssion-designs-private-limited",
+      "https://www.volza.com/company-profile/elyssion-designs-pvt-ltd-17136565/"
+    ],
+    "timestamp": "2026-08-29T18:35:33.495030",
+    "status": "results_found"
+  },
+  {
+    "business": "Elyssion Designs",
+    "field": "Phone Number",
+    "value": "+918178251017",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://elysiandesigns.in/contact.html",
+    "timestamp": "2026-08-29T18:35:36.338657"
+  },
+  {
+    "business": "Elyssion Designs",
+    "field": "Email Address",
+    "value": "elysiandesigns@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://elysiandesigns.in/contact.html",
+    "timestamp": "2026-08-29T18:35:36.338705"
+  },
+  {
+    "business": "LR_DECOR",
+    "field": "Business Name",
+    "value": "LR_DECOR",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A32B6RM02BXSJP&asin=B0GLYBPZGS&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T18:35:36.953367"
+  },
+  {
+    "seller": "LR_DECOR",
+    "field": "Website",
+    "query": "LR_DECOR official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://lightroom.adobe.com/",
+      "https://www.adobe.com/products/photoshop-lightroom.html?msockid=1f48866795e260d10f1391a3943161c6"
+    ],
+    "timestamp": "2026-08-29T18:35:38.433453",
+    "status": "results_found"
+  },
+  {
+    "seller": "LR_DECOR",
+    "field": "Legal Entity Name",
+    "query": "LR_DECOR company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T18:35:51.647615",
+    "status": "no_results"
+  },
+  {
+    "seller": "LR_DECOR",
+    "field": "Legal Entity Name",
+    "query": "LR_DECOR Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://registry-lookup.com/",
+      "https://golegally.com/mca-company-llp-search",
+      "https://www.registerkaro.in/company-details",
+      "https://www.registerkaro.in/private-limited-company-registration"
+    ],
+    "timestamp": "2026-08-29T18:35:59.506731",
+    "status": "results_found"
+  },
+  {
+    "business": "LR_DECOR",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-details",
+    "timestamp": "2026-08-29T18:36:01.502195"
+  },
+  {
+    "business": "LR_DECOR",
+    "field": "Billing Address",
+    "value": "the company must have a registered office (commercial, residential, or virtual office) for receiving official correspondence. address proof and the pr",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-08-29T18:36:02.620169"
+  },
+  {
+    "business": "LR_DECOR",
+    "field": "City",
+    "value": "residential",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-08-29T18:36:02.620195"
+  },
+  {
+    "seller": "LR_DECOR",
+    "field": "PAN",
+    "query": "LR_DECOR PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://lightroom.adobe.com/"
+    ],
+    "timestamp": "2026-08-29T18:36:06.472024",
+    "status": "results_found"
+  },
+  {
+    "seller": "LR_DECOR",
+    "field": "PAN",
+    "query": "LR_DECOR PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://lightroom.adobe.com/",
+      "https://www.adobe.com/products/photoshop-lightroom.html?msockid=1f48866795e260d10f1391a3943161c6",
+      "https://adobe-photoshop-lightroom.en.softonic.com/android",
+      "https://www.adobe.com/products/photoshop-lightroom-classic.html?msockid=1f48866795e260d10f1391a3943161c6"
+    ],
+    "timestamp": "2026-08-29T18:36:09.450021",
+    "status": "results_found"
+  },
+  {
+    "seller": "LR_DECOR",
+    "field": "GST",
+    "query": "LR_DECOR GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://lightroom.adobe.com/",
+      "https://www.adobe.com/products/photoshop-lightroom.html?msockid=1f48866795e260d10f1391a3943161c6",
+      "https://adobe-photoshop-lightroom.en.softonic.com/android",
+      "https://www.adobe.com/products/photoshop-lightroom-classic.html?msockid=1f48866795e260d10f1391a3943161c6"
+    ],
+    "timestamp": "2026-08-29T18:36:21.211799",
+    "status": "results_found"
+  },
+  {
+    "seller": "LR_DECOR",
+    "field": "Owner",
+    "query": "LR_DECOR director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T18:36:45.768490",
+    "status": "no_results"
+  },
+  {
+    "seller": "LR_DECOR",
+    "field": "Owner",
+    "query": "LR_DECOR founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T18:37:01.350343",
+    "status": "no_results"
+  },
+  {
+    "seller": "LR_DECOR",
+    "field": "Email",
+    "query": "LR_DECOR email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.lldecor.com/contact-us/",
+      "https://www.lldecor.com/about-us/",
+      "https://www.lldecor.com/wholesale/",
+      "https://www.lldecor.com/whisks/"
+    ],
+    "timestamp": "2026-08-29T18:37:19.372008",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "category": "Surge Protectors",
+  "records_before_save": 10,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1339,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "team@clicktechretail.in",
+      "gst": "33AAJCC9783E1ZE",
+      "pan": "AAJCC9783E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Blackt Electrotech",
+      "database_id": 1340,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918761223653",
+      "email": "Not Found",
+      "gst": "27BWNPD2719K1ZA",
+      "pan": "BWNPD2719K",
+      "website": "https://www.blackt.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Opptra",
+      "database_id": 1341,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "contactus@opptra.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.opptra.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ATM RETAIL",
+      "database_id": 1342,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919449112211",
+      "email": "sales@hantle.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.atmretail.com/",
+      "status": "Verified"
+    }
+  ]
+}

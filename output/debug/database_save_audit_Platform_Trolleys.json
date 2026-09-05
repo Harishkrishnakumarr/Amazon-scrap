@@ -1,0 +1,35 @@
+{
+  "category": "Platform Trolleys",
+  "records_before_save": 5,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1369,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Corvids India",
+      "database_id": 1370,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918047632514",
+      "email": "care@corvidsindia.com",
+      "gst": "08FTWPS3652C1Z3",
+      "pan": "FTWPS3652C",
+      "website": "https://www.corvidsindia.in/",
+      "status": "Verified"
+    }
+  ]
+}

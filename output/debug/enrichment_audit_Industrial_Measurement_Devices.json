@@ -1,0 +1,766 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AJ6SIZC8YQDZX&isAmazonFulfilled=1&asin=B0F6KGKHC7&ref_=olp_merch_name_1",
+    "timestamp": "2026-08-31T12:28:31.832226"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-31T12:28:33.487488",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://clicktechretail.in/about/"
+    ],
+    "timestamp": "2026-08-31T12:28:37.627827",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-31T12:28:38.458317"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:28:39.971294",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:28:52.850072",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:29:05.422584",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:29:08.345130",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:29:21.727374",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:29:23.965948",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:29:35.677140",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:29:40.527921",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:29:49.896698",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:29:58.022823",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-31T12:30:08.325764",
+    "status": "results_found"
+  },
+  {
+    "business": "SHA INTERNATIONAL",
+    "field": "Business Name",
+    "value": "SHA INTERNATIONAL",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2AGZWXWPZTTD0&isAmazonFulfilled=0&asin=B0FPWJWNBW&ref_=olp_merch_name_1",
+    "timestamp": "2026-08-31T12:30:12.825481"
+  },
+  {
+    "seller": "SHA INTERNATIONAL",
+    "field": "Website",
+    "query": "SHA INTERNATIONAL official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://hashgenerator.co/",
+      "https://www.encryptionconsulting.com/education-center/what-is-sha/"
+    ],
+    "timestamp": "2026-08-31T12:30:15.764883",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHA INTERNATIONAL",
+    "field": "Legal Entity Name",
+    "query": "SHA INTERNATIONAL company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://hashgenerator.co/",
+      "https://www.encryptionconsulting.com/education-center/what-is-sha/",
+      "https://www.tutorialspoint.com/cryptography/cryptography_sha_algorithm.htm",
+      "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/"
+    ],
+    "timestamp": "2026-08-31T12:30:31.659931",
+    "status": "results_found"
+  },
+  {
+    "business": "SHA INTERNATIONAL",
+    "field": "Billing Address",
+    "value": "a-143, 6th floor, sovereign corporate tower, sector- 136, noida, uttar pradesh (201305)",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/",
+    "timestamp": "2026-08-31T12:30:40.931149"
+  },
+  {
+    "business": "SHA INTERNATIONAL",
+    "field": "City",
+    "value": "uttar pradesh ()",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/",
+    "timestamp": "2026-08-31T12:30:40.931173"
+  },
+  {
+    "business": "SHA INTERNATIONAL",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/",
+    "timestamp": "2026-08-31T12:30:40.931178"
+  },
+  {
+    "business": "SHA INTERNATIONAL",
+    "field": "Pincode",
+    "value": "201305",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/",
+    "timestamp": "2026-08-31T12:30:40.931182"
+  },
+  {
+    "seller": "SHA INTERNATIONAL",
+    "field": "PAN",
+    "query": "SHA INTERNATIONAL PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://hashgenerator.co/",
+      "https://www.encryptionconsulting.com/education-center/what-is-sha/"
+    ],
+    "timestamp": "2026-08-31T12:30:46.950167",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHA INTERNATIONAL",
+    "field": "PAN",
+    "query": "SHA INTERNATIONAL PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://hashgenerator.co/",
+      "https://www.encryptionconsulting.com/education-center/what-is-sha/",
+      "https://www.tutorialspoint.com/cryptography/cryptography_sha_algorithm.htm",
+      "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/"
+    ],
+    "timestamp": "2026-08-31T12:30:53.732637",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHA INTERNATIONAL",
+    "field": "GST",
+    "query": "SHA INTERNATIONAL GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://hashgenerator.co/",
+      "https://www.encryptionconsulting.com/education-center/what-is-sha/",
+      "https://www.tutorialspoint.com/cryptography/cryptography_sha_algorithm.htm",
+      "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/"
+    ],
+    "timestamp": "2026-08-31T12:31:01.331497",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHA INTERNATIONAL",
+    "field": "GST",
+    "query": "SHA INTERNATIONAL GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://hashgenerator.co/",
+      "https://www.encryptionconsulting.com/education-center/what-is-sha/",
+      "https://www.tutorialspoint.com/cryptography/cryptography_sha_algorithm.htm",
+      "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/"
+    ],
+    "timestamp": "2026-08-31T12:31:15.556177",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHA INTERNATIONAL",
+    "field": "Owner",
+    "query": "SHA INTERNATIONAL director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://hashgenerator.co/",
+      "https://www.encryptionconsulting.com/education-center/what-is-sha/",
+      "https://www.tutorialspoint.com/cryptography/cryptography_sha_algorithm.htm",
+      "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/"
+    ],
+    "timestamp": "2026-08-31T12:31:17.487107",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHA INTERNATIONAL",
+    "field": "Owner",
+    "query": "SHA INTERNATIONAL founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://hashgenerator.co/",
+      "https://www.encryptionconsulting.com/education-center/what-is-sha/",
+      "https://www.tutorialspoint.com/cryptography/cryptography_sha_algorithm.htm",
+      "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/"
+    ],
+    "timestamp": "2026-08-31T12:31:33.031991",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHA INTERNATIONAL",
+    "field": "Phone",
+    "query": "SHA INTERNATIONAL phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://hashgenerator.co/",
+      "https://www.encryptionconsulting.com/education-center/what-is-sha/",
+      "https://www.tutorialspoint.com/cryptography/cryptography_sha_algorithm.htm",
+      "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/"
+    ],
+    "timestamp": "2026-08-31T12:31:35.211575",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHA INTERNATIONAL",
+    "field": "Phone",
+    "query": "SHA INTERNATIONAL contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://hashgenerator.co/",
+      "https://www.encryptionconsulting.com/education-center/what-is-sha/",
+      "https://www.tutorialspoint.com/cryptography/cryptography_sha_algorithm.htm",
+      "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/"
+    ],
+    "timestamp": "2026-08-31T12:31:47.850865",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHA INTERNATIONAL",
+    "field": "Email",
+    "query": "SHA INTERNATIONAL email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://hashgenerator.co/",
+      "https://www.encryptionconsulting.com/education-center/what-is-sha/",
+      "https://www.tutorialspoint.com/cryptography/cryptography_sha_algorithm.htm",
+      "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/"
+    ],
+    "timestamp": "2026-08-31T12:31:51.904267",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHA INTERNATIONAL",
+    "field": "Email",
+    "query": "SHA INTERNATIONAL contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://hashgenerator.co/",
+      "https://www.encryptionconsulting.com/education-center/what-is-sha/",
+      "https://www.tutorialspoint.com/cryptography/cryptography_sha_algorithm.htm",
+      "https://www.geeksforgeeks.org/java/sha-1-hash-in-java/"
+    ],
+    "timestamp": "2026-08-31T12:32:06.314432",
+    "status": "results_found"
+  },
+  {
+    "business": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "field": "Business Name",
+    "value": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3DFAOJPJ59274&asin=B000C74W3C&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T12:32:08.020985"
+  },
+  {
+    "seller": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "field": "Website",
+    "query": "FAIRDEAL TOOLS AND MACHINERY MART official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.fairdeal.live/",
+      "https://fairdeal.market/"
+    ],
+    "timestamp": "2026-08-31T12:32:11.600882",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "field": "Legal Entity Name",
+    "query": "FAIRDEAL TOOLS AND MACHINERY MART company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fairdeal.live/",
+      "https://fairdeal.market/",
+      "https://www.fairdeal.asia/",
+      "https://fairdeal.org.in/"
+    ],
+    "timestamp": "2026-08-31T12:32:24.580562",
+    "status": "results_found"
+  },
+  {
+    "business": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "field": "Email Address",
+    "value": "careers@fairdeal.market",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fairdeal.market/",
+    "timestamp": "2026-08-31T12:32:27.227694"
+  },
+  {
+    "seller": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "field": "Legal Entity Name",
+    "query": "FAIRDEAL TOOLS AND MACHINERY MART Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fairdeal.live/",
+      "https://fairdeal.market/",
+      "https://www.fairdeal.asia/",
+      "https://fairdeal.org.in/"
+    ],
+    "timestamp": "2026-08-31T12:32:42.811961",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "field": "PAN",
+    "query": "FAIRDEAL TOOLS AND MACHINERY MART PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fairdeal.live/",
+      "https://fairdeal.market/",
+      "https://www.fairdeal.asia/",
+      "https://fairdeal.org.in/"
+    ],
+    "timestamp": "2026-08-31T12:32:44.910110",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "field": "PAN",
+    "query": "FAIRDEAL TOOLS AND MACHINERY MART PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T12:33:09.643305",
+    "status": "no_results"
+  },
+  {
+    "seller": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "field": "GST",
+    "query": "FAIRDEAL TOOLS AND MACHINERY MART GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fairdeal.live/",
+      "https://fairdeal.market/",
+      "https://www.fairdeal.asia/",
+      "https://fairdeal.org.in/"
+    ],
+    "timestamp": "2026-08-31T12:33:13.282070",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "field": "GST",
+    "query": "FAIRDEAL TOOLS AND MACHINERY MART GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/fairdeal-tools-and-machinery-mart-33aaaff1334q1zi/",
+      "https://gstverify.co.in/gst/fairdeal-tools-and-machinery-mart-33aaaff1334q1zi/",
+      "https://www.fairdealtools.com/company-profile.html",
+      "https://piceapp.com/gst-number-search/fairdeal-tools-and-machinery-mart-29aaaff1334q1z7/"
+    ],
+    "timestamp": "2026-08-31T12:33:33.305376",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "field": "Owner",
+    "query": "FAIRDEAL TOOLS AND MACHINERY MART director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fairdeal.live/",
+      "https://fairdeal.market/",
+      "https://www.fairdeal.asia/",
+      "https://fairdeal.org.in/"
+    ],
+    "timestamp": "2026-08-31T12:33:37.600368",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "field": "Address",
+    "query": "FAIRDEAL TOOLS AND MACHINERY MART registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fairdeal.live/",
+      "https://fairdeal.market/",
+      "https://www.fairdeal.asia/",
+      "https://fairdeal.org.in/"
+    ],
+    "timestamp": "2026-08-31T12:33:52.830549",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAIRDEAL TOOLS AND MACHINERY MART",
+    "field": "Phone",
+    "query": "FAIRDEAL TOOLS AND MACHINERY MART phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fairdealtools.com/contact-us.html",
+      "https://www.justdial.com/Chennai/Fairdeal-Tools-Machinery-Mart-Shop-No-47-2nd-Floor-Parrys/044P3018070_BZDET",
+      "https://www.dial4trade.com/fairdeal-tools-and-machinery-mart/contact-us.htm",
+      "https://www.clickedindia.net/index.php/q1a1k36omk/fairdeal-tools-and-machinery-mart/contact.html"
+    ],
+    "timestamp": "2026-08-31T12:34:20.047698",
+    "status": "results_found"
+  },
+  {
+    "business": "AlifTradingCompany",
+    "field": "Business Name",
+    "value": "AlifTradingCompany",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1T89TIIDUGX67&isAmazonFulfilled=0&asin=B000C74W3C&ref_=olp_merch_name_3",
+    "timestamp": "2026-08-31T12:34:21.932272"
+  },
+  {
+    "seller": "AlifTradingCompany",
+    "field": "Website",
+    "query": "AlifTradingCompany official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://aliftradingqa.com/",
+      "http://aliftraders.com/about-us/"
+    ],
+    "timestamp": "2026-08-31T12:34:27.873757",
+    "status": "results_found"
+  },
+  {
+    "business": "AlifTradingCompany",
+    "field": "Website URL",
+    "value": "https://aliftradingqa.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://aliftradingqa.com/",
+    "timestamp": "2026-08-31T12:34:34.381065"
+  },
+  {
+    "business": "AlifTradingCompany",
+    "field": "Email Address",
+    "value": "sales@aliftradingqa.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://aliftradingqa.com/",
+    "timestamp": "2026-08-31T12:34:36.679033"
+  },
+  {
+    "seller": "AlifTradingCompany",
+    "field": "Legal Entity Name",
+    "query": "AlifTradingCompany company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T12:35:07.511563",
+    "status": "no_results"
+  },
+  {
+    "seller": "AlifTradingCompany",
+    "field": "Legal Entity Name",
+    "query": "AlifTradingCompany Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/ALIF-TRADING-COMPANY-PRIVATE-LIMITED-U51900MH1972PTC015718",
+      "https://www.companydetails.in/company/alif-trading-company-private-limited",
+      "https://tracxn.com/d/legal-entities/india/alif-trading-company-private-limited/__ocqBO2IdHbkvyJXo4eAad748B2x3CES7uEiWVblQCzc",
+      "https://topcompanieslist.com/registered/Alif-Trading-Company-Private-Limited.html"
+    ],
+    "timestamp": "2026-08-31T12:35:11.099136",
+    "status": "results_found"
+  },
+  {
+    "business": "AlifTradingCompany",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/alif-trading-company-private-limited/__ocqBO2IdHbkvyJXo4eAad748B2x3CES7uEiWVblQCzc",
+    "timestamp": "2026-08-31T12:35:15.164111"
+  },
+  {
+    "business": "AlifTradingCompany",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/alif-trading-company-private-limited/__ocqBO2IdHbkvyJXo4eAad748B2x3CES7uEiWVblQCzc",
+    "timestamp": "2026-08-31T12:35:15.164138"
+  },
+  {
+    "business": "AlifTradingCompany",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/alif-trading-company-private-limited/__ocqBO2IdHbkvyJXo4eAad748B2x3CES7uEiWVblQCzc",
+    "timestamp": "2026-08-31T12:35:15.164150"
+  },
+  {
+    "business": "AlifTradingCompany",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/alif-trading-company-private-limited/__ocqBO2IdHbkvyJXo4eAad748B2x3CES7uEiWVblQCzc",
+    "timestamp": "2026-08-31T12:35:15.164160"
+  },
+  {
+    "seller": "AlifTradingCompany",
+    "field": "PAN",
+    "query": "AlifTradingCompany PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://gst.iadv.io/ALIF-TRADING-COMPANY-32AAXFA4487G1Z3/"
+    ],
+    "timestamp": "2026-08-31T12:35:21.430042",
+    "status": "results_found"
+  },
+  {
+    "business": "AlifTradingCompany",
+    "field": "GST Number",
+    "value": "32AAXFA4487G1Z3",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/ALIF-TRADING-COMPANY-32AAXFA4487G1Z3/",
+    "timestamp": "2026-08-31T12:35:22.549860"
+  },
+  {
+    "business": "AlifTradingCompany",
+    "field": "PAN Number",
+    "value": "AAXFA4487G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/ALIF-TRADING-COMPANY-32AAXFA4487G1Z3/",
+    "timestamp": "2026-08-31T12:35:22.549877"
+  },
+  {
+    "seller": "AlifTradingCompany",
+    "field": "Owner",
+    "query": "AlifTradingCompany director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.alif_trading_company.10619028b954693727f1f2327c574dda.html",
+      "https://www.datanyze.com/companies/alif-trading/372757505",
+      "https://graintrade.com.ua/en/traider/alif-trading-company-id31365",
+      "https://www.dbohra.com/business_details/alif-trading-1"
+    ],
+    "timestamp": "2026-08-31T12:35:28.756891",
+    "status": "results_found"
+  },
+  {
+    "seller": "AlifTradingCompany",
+    "field": "Phone",
+    "query": "AlifTradingCompany phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://eikaiwa.dmm.com/uknow/questions/55246/",
+      "https://eikaiwa.dmm.com/uknow/questions/17102/"
+    ],
+    "timestamp": "2026-08-31T12:35:44.460659",
+    "status": "results_found"
+  },
+  {
+    "seller": "AlifTradingCompany",
+    "field": "Phone",
+    "query": "AlifTradingCompany contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://aliftradingqa.com/contact-us/",
+      "https://www.dial4trade.com/alif-trading-co/contact-us.htm",
+      "https://www.dial4trade.com/aliftradingcompany/contact-us.htm",
+      "https://www.bizsouthasia.com/BD/alif-trading-company-02-9568617"
+    ],
+    "timestamp": "2026-08-31T12:35:54.536894",
+    "status": "results_found"
+  }
+]

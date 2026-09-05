@@ -1,0 +1,35 @@
+{
+  "category": "Lab Products",
+  "records_before_save": 7,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "CLARITY LABS",
+      "database_id": 1387,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916270000491",
+      "email": "john.doe@clarity-laboratory.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "KMY STORE",
+      "database_id": 1384,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919361926329",
+      "email": "kmybrand2@gmail.com",
+      "gst": "06AABHR7201K1Z8",
+      "pan": "AABHR7201K",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

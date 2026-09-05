@@ -1,0 +1,429 @@
+[
+  {
+    "business": "Sunrise Book store",
+    "field": "Business Name",
+    "value": "Sunrise Book store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AAEHXJUTUR97E&isAmazonFulfilled=0&asin=3030561291&ref_=olp_merch_name_13",
+    "timestamp": "2026-08-31T17:20:05.178884"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Website",
+    "query": "Sunrise Book store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://www.timeanddate.com/sun/"
+    ],
+    "timestamp": "2026-08-31T17:20:07.336701",
+    "status": "results_found"
+  },
+  {
+    "business": "Sunrise Book store",
+    "field": "Website URL",
+    "value": "https://www.sunrisebookstore.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.sunrisebookstore.com/",
+    "timestamp": "2026-08-31T17:20:10.414094"
+  },
+  {
+    "business": "Sunrise Book store",
+    "field": "Email Address",
+    "value": "sunrisebooks.shine@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.sunrisebookstore.com/",
+    "timestamp": "2026-08-31T17:20:12.022799"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Legal Entity Name",
+    "query": "Sunrise Book store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://www.timeanddate.com/sun/",
+      "https://time.now/sunrise/",
+      "https://www.suncalc.org/"
+    ],
+    "timestamp": "2026-08-31T17:20:23.097283",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Legal Entity Name",
+    "query": "Sunrise Book store Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://www.timeanddate.com/sun/",
+      "https://time.now/sunrise/",
+      "https://www.suncalc.org/"
+    ],
+    "timestamp": "2026-08-31T17:20:33.734040",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "PAN",
+    "query": "Sunrise Book store PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://www.timeanddate.com/sun/",
+      "https://time.now/sunrise/",
+      "https://www.suncalc.org/"
+    ],
+    "timestamp": "2026-08-31T17:20:40.611566",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "GST",
+    "query": "Sunrise Book store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://www.timeanddate.com/sun/",
+      "https://time.now/sunrise/",
+      "https://www.suncalc.org/"
+    ],
+    "timestamp": "2026-08-31T17:21:00.636016",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Owner",
+    "query": "Sunrise Book store director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://www.timeanddate.com/sun/",
+      "https://time.now/sunrise/",
+      "https://www.suncalc.org/"
+    ],
+    "timestamp": "2026-08-31T17:21:22.682912",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Address",
+    "query": "Sunrise Book store registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sunrisestores.in/our-branches",
+      "https://www.sunrisestores.in/socks",
+      "https://www.sunrisestores.in/about-us",
+      "https://www.sunrisestores.in/contact-us"
+    ],
+    "timestamp": "2026-08-31T17:21:56.186679",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Phone",
+    "query": "Sunrise Book store phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://www.timeanddate.com/sun/",
+      "https://time.now/sunrise/",
+      "https://www.suncalc.org/"
+    ],
+    "timestamp": "2026-08-31T17:21:59.512651",
+    "status": "results_found"
+  },
+  {
+    "business": "Peacockbooks",
+    "field": "Business Name",
+    "value": "Peacockbooks",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2ILJE07BPEH0H&isAmazonFulfilled=0&asin=3030561291&ref_=olp_merch_name_8",
+    "timestamp": "2026-08-31T17:22:07.186895"
+  },
+  {
+    "business": "Peacockbooks",
+    "field": "Phone Number",
+    "value": "+919414952544",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2ILJE07BPEH0H&isAmazonFulfilled=0&asin=3030561291&ref_=olp_merch_name_8",
+    "timestamp": "2026-08-31T17:22:07.187031"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Website",
+    "query": "Peacockbooks official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/login"
+    ],
+    "timestamp": "2026-08-31T17:22:10.116404",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Legal Entity Name",
+    "query": "Peacockbooks company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://classroom.siteswiki.org/login-to-google-classroom"
+    ],
+    "timestamp": "2026-08-31T17:22:25.606833",
+    "status": "results_found"
+  },
+  {
+    "business": "Peacockbooks",
+    "field": "Email Address",
+    "value": "info@siteswiki.org",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://classroom.siteswiki.org/login-to-google-classroom",
+    "timestamp": "2026-08-31T17:22:27.318366"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Legal Entity Name",
+    "query": "Peacockbooks Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://peacockbooks.com/",
+      "https://peacockbooks.com/pages/about-us-peacock-books",
+      "https://peacockbooks.com/pages/catalog",
+      "https://peacockbooks.com/pages/contact"
+    ],
+    "timestamp": "2026-08-31T17:22:37.215933",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "PAN",
+    "query": "Peacockbooks PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://peacockbooks.com/pages/contact",
+      "http://peacockbooks.in/",
+      "https://peacockbooks.com/",
+      "https://www.thecompanycheck.com/org/peacock-books/293ebe4cdd"
+    ],
+    "timestamp": "2026-08-31T17:22:54.487071",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "GST",
+    "query": "Peacockbooks GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/peacock-books-international-07BLBPP0649B1ZG/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-31T17:23:06.888610",
+    "status": "results_found"
+  },
+  {
+    "business": "Peacockbooks",
+    "field": "GST Number",
+    "value": "07BLBPP0649B1ZG",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/peacock-books-international-07BLBPP0649B1ZG/",
+    "timestamp": "2026-08-31T17:23:07.535603"
+  },
+  {
+    "business": "Peacockbooks",
+    "field": "PAN Number",
+    "value": "BLBPP0649B",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/peacock-books-international-07BLBPP0649B1ZG/",
+    "timestamp": "2026-08-31T17:23:07.535621"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Owner",
+    "query": "Peacockbooks director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mswservices.org/home-health-services/",
+      "https://mswservices.org/team_post_type/liliam-bernal/",
+      "https://mswservices.org/careers/",
+      "https://mswservices.org/legal-advice/"
+    ],
+    "timestamp": "2026-08-31T17:23:10.144857",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Owner",
+    "query": "Peacockbooks founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/game/evowarsio",
+      "https://www.crazygames.com/id/",
+      "https://www.crazygames.com/t/papa"
+    ],
+    "timestamp": "2026-08-31T17:23:24.320313",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Address",
+    "query": "Peacockbooks registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.speedtest.net/",
+      "https://www.speedtest.net/nl",
+      "https://www.speedtest.net/run",
+      "https://www.speedtest.net/it"
+    ],
+    "timestamp": "2026-08-31T17:23:25.903540",
+    "status": "results_found"
+  },
+  {
+    "business": "Atlantic Publishers and Distributors",
+    "field": "Business Name",
+    "value": "Atlantic Publishers and Distributors",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1S46CEHK621UY&isAmazonFulfilled=0&asin=3030561291&ref_=olp_merch_name_9",
+    "timestamp": "2026-08-31T17:23:43.901925"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "Website",
+    "query": "Atlantic Publishers and Distributors official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.theatlantic.com/",
+      "https://www.theatlantic.com/latest/"
+    ],
+    "timestamp": "2026-08-31T17:23:46.777198",
+    "status": "results_found"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "Legal Entity Name",
+    "query": "Atlantic Publishers and Distributors company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.theatlantic.com/",
+      "https://www.theatlantic.com/latest/",
+      "https://atlanticbooks.com/",
+      "https://atlanticpublishing.com/"
+    ],
+    "timestamp": "2026-08-31T17:23:53.352402",
+    "status": "results_found"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "PAN",
+    "query": "Atlantic Publishers and Distributors PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstserver.com/gst/07AAFCA7265H1ZK/",
+      "https://www.knowyourgst.com/gst-number-search/atlantic-publishers-distributors-private-limited-07AAFCA7265H1ZK/",
+      "https://fnshiftsolutions.com/gstin-search/atlantic-publishers-distributors-private-limited-07AAFCA7265H1ZK",
+      "https://fnshiftsolutions.com/gstin-search/atlantic-publishers-distributors-private-limited-09AAFCA7265H1ZG"
+    ],
+    "timestamp": "2026-08-31T17:24:25.887758",
+    "status": "results_found"
+  },
+  {
+    "business": "Atlantic Publishers and Distributors",
+    "field": "Email Address",
+    "value": "info@gstserver.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/07AAFCA7265H1ZK/",
+    "timestamp": "2026-08-31T17:24:27.661127"
+  },
+  {
+    "business": "Atlantic Publishers and Distributors",
+    "field": "GST Number",
+    "value": "07AAFCA7265H1ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/07AAFCA7265H1ZK/",
+    "timestamp": "2026-08-31T17:24:27.661413"
+  },
+  {
+    "business": "Atlantic Publishers and Distributors",
+    "field": "PAN Number",
+    "value": "AAFCA7265H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/07AAFCA7265H1ZK/",
+    "timestamp": "2026-08-31T17:24:27.661420"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "Owner",
+    "query": "Atlantic Publishers and Distributors director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.theatlantic.com/",
+      "https://www.theatlantic.com/latest/",
+      "https://atlanticbooks.com/",
+      "https://atlanticpublishing.com/"
+    ],
+    "timestamp": "2026-08-31T17:24:30.515907",
+    "status": "results_found"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "Address",
+    "query": "Atlantic Publishers and Distributors registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.theatlantic.com/",
+      "https://www.theatlantic.com/latest/",
+      "https://atlanticbooks.com/",
+      "https://atlanticpublishing.com/"
+    ],
+    "timestamp": "2026-08-31T17:24:49.147930",
+    "status": "results_found"
+  },
+  {
+    "seller": "Atlantic Publishers and Distributors",
+    "field": "Phone",
+    "query": "Atlantic Publishers and Distributors phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.theatlantic.com/",
+      "https://www.theatlantic.com/latest/",
+      "https://atlanticbooks.com/",
+      "https://atlanticpublishing.com/"
+    ],
+    "timestamp": "2026-08-31T17:25:03.744430",
+    "status": "results_found"
+  }
+]

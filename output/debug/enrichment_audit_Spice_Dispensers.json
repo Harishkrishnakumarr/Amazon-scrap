@@ -1,0 +1,1025 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0C81C4D93&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T16:00:03.740987"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-09-01T16:00:06.358242",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-01T16:00:10.596737",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T16:00:12.011541"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T16:00:12.011551"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T16:00:12.011553"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T16:00:12.011555"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "ant.agarwal@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+    "timestamp": "2026-09-01T16:00:13.508373"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://udyamsearch.com/"
+    ],
+    "timestamp": "2026-09-01T16:00:17.768819",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "18AALCR3173P1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-01T16:00:20.240889"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-01T16:00:20.240911"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://gst.jamku.app/gstin/36AALCR3173P1ZO"
+    ],
+    "timestamp": "2026-09-01T16:00:22.708404",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://www.moneycontrol.com/news/business/markets/qimat-rai-gupta-havells-story-school-teacher-who-built-rs-80000-crore-electrical-products-busines-14002008.html",
+      "https://in.fashionnetwork.com/news/Rupa-and-company-s-promoters-launch-retailez-on-amazon-india,1427124.html"
+    ],
+    "timestamp": "2026-09-01T16:00:30.286993",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM"
+    ],
+    "timestamp": "2026-09-01T16:00:38.581350",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/careers/",
+      "https://retailez.co.in/partner/"
+    ],
+    "timestamp": "2026-09-01T16:00:43.207013",
+    "status": "results_found"
+  },
+  {
+    "business": "DHADUK SMITABEN MAYURBHAI",
+    "field": "Business Name",
+    "value": "DHADUK SMITABEN MAYURBHAI",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3U7NSP1P5VNA9&asin=B0G1CD58PM&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T16:00:45.983097"
+  },
+  {
+    "seller": "DHADUK SMITABEN MAYURBHAI",
+    "field": "Website",
+    "query": "DHADUK SMITABEN MAYURBHAI official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T16:00:49.499638",
+    "status": "no_results"
+  },
+  {
+    "seller": "DHADUK SMITABEN MAYURBHAI",
+    "field": "Legal Entity Name",
+    "query": "DHADUK SMITABEN MAYURBHAI company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://www.registerkaro.in/company-details",
+      "https://legalsuvidha.com/blog/how-to-check-company-registration-status-in-india-2"
+    ],
+    "timestamp": "2026-09-01T16:00:52.243877",
+    "status": "results_found"
+  },
+  {
+    "business": "DHADUK SMITABEN MAYURBHAI",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T16:00:52.878168"
+  },
+  {
+    "business": "DHADUK SMITABEN MAYURBHAI",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T16:00:52.878336"
+  },
+  {
+    "seller": "DHADUK SMITABEN MAYURBHAI",
+    "field": "Legal Entity Name",
+    "query": "DHADUK SMITABEN MAYURBHAI Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.registerkaro.in/company-details",
+      "https://www.registerkaro.in/private-limited-company-registration"
+    ],
+    "timestamp": "2026-09-01T16:01:00.458189",
+    "status": "results_found"
+  },
+  {
+    "business": "DHADUK SMITABEN MAYURBHAI",
+    "field": "Billing Address",
+    "value": "the company must have a registered office (commercial, residential, or virtual office) for receiving official correspondence. address proof and the pr",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-09-01T16:01:06.366305"
+  },
+  {
+    "business": "DHADUK SMITABEN MAYURBHAI",
+    "field": "City",
+    "value": "residential",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-09-01T16:01:06.366322"
+  },
+  {
+    "seller": "DHADUK SMITABEN MAYURBHAI",
+    "field": "PAN",
+    "query": "DHADUK SMITABEN MAYURBHAI PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.caclubindia.com/articles/know-your-pan-41909.asp",
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-09-01T16:01:08.711388",
+    "status": "results_found"
+  },
+  {
+    "seller": "DHADUK SMITABEN MAYURBHAI",
+    "field": "PAN",
+    "query": "DHADUK SMITABEN MAYURBHAI PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html",
+      "https://taxguru.in/income-tax/how-to-find-the-name-of-person-through-his-pan.html",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.caclubindia.com/articles/know-your-pan-41909.asp"
+    ],
+    "timestamp": "2026-09-01T16:01:16.127647",
+    "status": "results_found"
+  },
+  {
+    "seller": "DHADUK SMITABEN MAYURBHAI",
+    "field": "GST",
+    "query": "DHADUK SMITABEN MAYURBHAI GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://smartgst.in/tools/gst-registration-status"
+    ],
+    "timestamp": "2026-09-01T16:01:23.345874",
+    "status": "results_found"
+  },
+  {
+    "seller": "DHADUK SMITABEN MAYURBHAI",
+    "field": "GST",
+    "query": "DHADUK SMITABEN MAYURBHAI GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstextract.com/gstin-details",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://www.knowyourgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-09-01T16:01:27.068426",
+    "status": "results_found"
+  },
+  {
+    "business": "DHADUK SMITABEN MAYURBHAI",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T16:01:28.019184"
+  },
+  {
+    "business": "DHADUK SMITABEN MAYURBHAI",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T16:01:28.019198"
+  },
+  {
+    "seller": "DHADUK SMITABEN MAYURBHAI",
+    "field": "Owner",
+    "query": "DHADUK SMITABEN MAYURBHAI director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company-details/directors/mayurbhai-9250160",
+      "https://www.inspex.in/",
+      "https://www.infyner.com/people-profile/thaker-smitaben-mayankbhai/03449544",
+      "https://www.instafinancials.com/director/smitaben-dhirubhai-patel-00106494"
+    ],
+    "timestamp": "2026-09-01T16:01:29.636353",
+    "status": "results_found"
+  },
+  {
+    "seller": "DHADUK SMITABEN MAYURBHAI",
+    "field": "Owner",
+    "query": "DHADUK SMITABEN MAYURBHAI founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sansad.in/ls/members/biographyM/5026?from=members",
+      "https://tracxn.com/d/legal-entities/india/splenor-starch-limited/__Gl06VMzvbZYukhhVOaFNwuMdK3eKUh2zSSN1nCBawzM",
+      "https://mycorporateinfo.com/",
+      "https://nsearchives.nseindia.com/corporate/FILATEXFASHIONS_17072026182743_160726_FFL_Announcement_Signed.pdf"
+    ],
+    "timestamp": "2026-09-01T16:01:34.603522",
+    "status": "results_found"
+  },
+  {
+    "business": "DeoDap\u00ae",
+    "field": "Business Name",
+    "value": "DeoDap\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2PXYL3NJADHJV&asin=B0F7LTWBLK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T16:01:40.367773"
+  },
+  {
+    "seller": "DeoDap\u00ae",
+    "field": "Website",
+    "query": "DeoDap\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://deodap.in/",
+      "https://deodap.in/collections/just-arrived"
+    ],
+    "timestamp": "2026-09-01T16:01:41.987875",
+    "status": "results_found"
+  },
+  {
+    "business": "DeoDap\u00ae",
+    "field": "Website URL",
+    "value": "https://www.deodap.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.deodap.in/",
+    "timestamp": "2026-09-01T16:01:50.396708"
+  },
+  {
+    "business": "DeoDap\u00ae",
+    "field": "Email Address",
+    "value": "care@deodap.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.deodap.in/",
+    "timestamp": "2026-09-01T16:01:53.851213"
+  },
+  {
+    "business": "DeoDap\u00ae",
+    "field": "GST Number",
+    "value": "24AAHCD5265C1ZX",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.deodap.in/",
+    "timestamp": "2026-09-01T16:01:53.856168"
+  },
+  {
+    "business": "DeoDap\u00ae",
+    "field": "PAN Number",
+    "value": "AAHCD5265C",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.deodap.in/",
+    "timestamp": "2026-09-01T16:01:53.856195"
+  },
+  {
+    "seller": "DeoDap\u00ae",
+    "field": "Legal Entity Name",
+    "query": "DeoDap\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://deodap.in/pages/b2b",
+      "https://deodap.in/",
+      "https://vendor.deodap.com/",
+      "https://ship.deodap.in/register"
+    ],
+    "timestamp": "2026-09-01T16:02:05.830670",
+    "status": "results_found"
+  },
+  {
+    "seller": "DeoDap\u00ae",
+    "field": "Legal Entity Name",
+    "query": "DeoDap\u00ae Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://deodap.in/",
+      "https://deodap.in/collections/just-arrived",
+      "https://deodap.in/collections/all-kitchen-accessories",
+      "https://deodap.in/collections/cleaning-supplies"
+    ],
+    "timestamp": "2026-09-01T16:02:17.120384",
+    "status": "results_found"
+  },
+  {
+    "seller": "DeoDap\u00ae",
+    "field": "Owner",
+    "query": "DeoDap\u00ae director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/deodap/__xdMbfHzimYzXUqNwD3D5EQPjDgCNzG93bj_sMSAeeSM#:~:text=DeoDap%20is%20an%20unfunded%20company%20based%20in%20Rajkot,including%2017%20funded%20and%204%20that%20have%20exited.",
+      "https://tracxn.com/d/companies/deodap/__xdMbfHzimYzXUqNwD3D5EQPjDgCNzG93bj_sMSAeeSM",
+      "https://www.cbinsights.com/company/deodap/people",
+      "https://deodap.in/pages/about-us"
+    ],
+    "timestamp": "2026-09-01T16:02:22.943017",
+    "status": "results_found"
+  },
+  {
+    "business": "DeoDap\u00ae",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/deodap/__xdMbfHzimYzXUqNwD3D5EQPjDgCNzG93bj_sMSAeeSM#:~:text=DeoDap%20is%20an%20unfunded%20company%20based%20in%20Rajkot,including%2017%20funded%20and%204%20that%20have%20exited.",
+    "timestamp": "2026-09-01T16:02:23.637152"
+  },
+  {
+    "business": "DeoDap\u00ae",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/deodap/__xdMbfHzimYzXUqNwD3D5EQPjDgCNzG93bj_sMSAeeSM#:~:text=DeoDap%20is%20an%20unfunded%20company%20based%20in%20Rajkot,including%2017%20funded%20and%204%20that%20have%20exited.",
+    "timestamp": "2026-09-01T16:02:23.637177"
+  },
+  {
+    "business": "DeoDap\u00ae",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/deodap/__xdMbfHzimYzXUqNwD3D5EQPjDgCNzG93bj_sMSAeeSM#:~:text=DeoDap%20is%20an%20unfunded%20company%20based%20in%20Rajkot,including%2017%20funded%20and%204%20that%20have%20exited.",
+    "timestamp": "2026-09-01T16:02:23.637208"
+  },
+  {
+    "business": "DeoDap\u00ae",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/deodap/__xdMbfHzimYzXUqNwD3D5EQPjDgCNzG93bj_sMSAeeSM#:~:text=DeoDap%20is%20an%20unfunded%20company%20based%20in%20Rajkot,including%2017%20funded%20and%204%20that%20have%20exited.",
+    "timestamp": "2026-09-01T16:02:23.637218"
+  },
+  {
+    "seller": "DeoDap\u00ae",
+    "field": "Owner",
+    "query": "DeoDap\u00ae founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://deodap.in/pages/about-us",
+      "https://tracxn.com/d/companies/deodap/__xdMbfHzimYzXUqNwD3D5EQPjDgCNzG93bj_sMSAeeSM",
+      "https://tracxn.com/d/legal-entities/india/dabster-international-private-limited/__fusXHZqzlfsHaxYSjPN7SB0tKurxwmNSYFQ9SUTiBas",
+      "https://www.zoominfo.com/c/deodap/465331765"
+    ],
+    "timestamp": "2026-09-01T16:02:31.750606",
+    "status": "results_found"
+  },
+  {
+    "seller": "DeoDap\u00ae",
+    "field": "Phone",
+    "query": "DeoDap\u00ae phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://deodap.in/pages/contact-us",
+      "https://deodap.in/pages/grievance-redressal-policy",
+      "https://deodap.info/contact",
+      "https://dropshipping.deodap.com/contact.php"
+    ],
+    "timestamp": "2026-09-01T16:02:37.535506",
+    "status": "results_found"
+  },
+  {
+    "business": "DeoDap\u00ae",
+    "field": "Phone Number",
+    "value": "+919638666607",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://deodap.in/pages/grievance-redressal-policy",
+    "timestamp": "2026-09-01T16:02:43.858956"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "Business Name",
+    "value": "Shanbuyers",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AIDHTYRZFRSKW&asin=B0BFFQ3415&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T16:02:44.540599"
+  },
+  {
+    "seller": "Shanbuyers",
+    "field": "Website",
+    "query": "Shanbuyers official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.shanbuyers.com/about-the-company.html",
+      "https://www.shanbuyers.com/profile.html"
+    ],
+    "timestamp": "2026-09-01T16:02:45.958594",
+    "status": "results_found"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "Website URL",
+    "value": "https://www.shanbuyers.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.shanbuyers.com/",
+    "timestamp": "2026-09-01T16:02:48.728405"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "Phone Number",
+    "value": "+918047670828",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shanbuyers.com/",
+    "timestamp": "2026-09-01T16:02:49.252623"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "GST Number",
+    "value": "27BNMPS4442L1ZC",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shanbuyers.com/",
+    "timestamp": "2026-09-01T16:02:49.253951"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "PAN Number",
+    "value": "BNMPS4442L",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shanbuyers.com/",
+    "timestamp": "2026-09-01T16:02:49.253968"
+  },
+  {
+    "seller": "Shanbuyers",
+    "field": "Legal Entity Name",
+    "query": "Shanbuyers company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shanbuyers.com/about-the-company.html",
+      "https://www.shanbuyers.com/profile.html",
+      "https://www.knowyourgst.com/gst-number-search/shanbuyers-33BNMPS4442L1ZJ/",
+      "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/"
+    ],
+    "timestamp": "2026-09-01T16:02:54.898394",
+    "status": "results_found"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "Email Address",
+    "value": "hello@pice.one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/",
+    "timestamp": "2026-09-01T16:02:58.923992"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/",
+    "timestamp": "2026-09-01T16:02:58.926098"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/",
+    "timestamp": "2026-09-01T16:02:58.926112"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/",
+    "timestamp": "2026-09-01T16:02:58.926117"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/",
+    "timestamp": "2026-09-01T16:02:58.926121"
+  },
+  {
+    "seller": "Shanbuyers",
+    "field": "Legal Entity Name",
+    "query": "Shanbuyers Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shanbuyers.com/about-the-company.html",
+      "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/",
+      "https://www.shanbuyers.com/profile.html",
+      "https://piceapp.com/gst-number-search/shanbuyers-27bnmps4442l1zc/"
+    ],
+    "timestamp": "2026-09-01T16:03:00.574388",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shanbuyers",
+    "field": "Owner",
+    "query": "Shanbuyers director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shanbuyers.com/about-the-company.html",
+      "https://www.shanbuyers.com/profile.html",
+      "https://www.mastersindia.co/gst-search/?name=darshan-sunil-shah&gstin=27BNMPS4442L1ZC",
+      "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/"
+    ],
+    "timestamp": "2026-09-01T16:03:07.071683",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shanbuyers",
+    "field": "Owner",
+    "query": "Shanbuyers founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shanbuyers.com/profile.html",
+      "https://www.shanbuyers.com/about-the-company.html",
+      "https://www.shanbuyers.com/",
+      "https://www.mastersindia.co/gst-search/?name=darshan-sunil-shah&gstin=27BNMPS4442L1ZC"
+    ],
+    "timestamp": "2026-09-01T16:03:15.478596",
+    "status": "results_found"
+  },
+  {
+    "business": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "Business Name",
+    "value": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A39SRB69EI9QYS&isAmazonFulfilled=1&asin=B0F7LTWBLK&ref_=olp_merch_name_2",
+    "timestamp": "2026-09-01T16:03:21.089468"
+  },
+  {
+    "seller": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "Website",
+    "query": "GAMBIT PRODUCTS PRIVATE LIMITED official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://gambitproduct.com/",
+      "https://gambitproduct.com/collections/home-kitchen"
+    ],
+    "timestamp": "2026-09-01T16:03:22.676005",
+    "status": "results_found"
+  },
+  {
+    "business": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "Website URL",
+    "value": "https://gambitproduct.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://gambitproduct.com/",
+    "timestamp": "2026-09-01T16:03:26.451010"
+  },
+  {
+    "business": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "Phone Number",
+    "value": "+919624666631",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://gambitproduct.com/",
+    "timestamp": "2026-09-01T16:03:27.748108"
+  },
+  {
+    "business": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "Email Address",
+    "value": "gambitproductgppl@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://gambitproduct.com/",
+    "timestamp": "2026-09-01T16:03:27.748295"
+  },
+  {
+    "seller": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "Legal Entity Name",
+    "query": "GAMBIT PRODUCTS PRIVATE LIMITED company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://infomint.co.in/companies/gambit-products-private-limited/U51909GJ2022PTC132920/roc-ahmedabad/gujarat/#:~:text=Complete%20details%20of%20GAMBIT%20PRODUCTS%20PRIVATE%20LIMITED%20%28CIN%3A,Get%20authorized%20capital%2C%20company%20category%20and%20registered%20address.",
+      "https://www.companydetails.in/company/gambit-products-private-limited",
+      "https://www.falconebiz.com/company/GAMBIT-PRODUCTS-PRIVATE-LIMITED-U51909GJ2022PTC132920",
+      "https://www.thecompanycheck.com/company/gambit-products-private-limited/U51909GJ2022PTC132920"
+    ],
+    "timestamp": "2026-09-01T16:03:34.057047",
+    "status": "results_found"
+  },
+  {
+    "business": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "Billing Address",
+    "value": "sr. no.112/1, plot no.5, barger paint, opp rangoli masala village navagam, rajkot, rajkot, gujarat",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://infomint.co.in/companies/gambit-products-private-limited/U51909GJ2022PTC132920/roc-ahmedabad/gujarat/#:~:text=Complete%20details%20of%20GAMBIT%20PRODUCTS%20PRIVATE%20LIMITED%20%28CIN%3A,Get%20authorized%20capital%2C%20company%20category%20and%20registered%20address.",
+    "timestamp": "2026-09-01T16:03:35.499451"
+  },
+  {
+    "business": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "City",
+    "value": "rajkot",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://infomint.co.in/companies/gambit-products-private-limited/U51909GJ2022PTC132920/roc-ahmedabad/gujarat/#:~:text=Complete%20details%20of%20GAMBIT%20PRODUCTS%20PRIVATE%20LIMITED%20%28CIN%3A,Get%20authorized%20capital%2C%20company%20category%20and%20registered%20address.",
+    "timestamp": "2026-09-01T16:03:35.499469"
+  },
+  {
+    "business": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "State",
+    "value": "Gujarat",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://infomint.co.in/companies/gambit-products-private-limited/U51909GJ2022PTC132920/roc-ahmedabad/gujarat/#:~:text=Complete%20details%20of%20GAMBIT%20PRODUCTS%20PRIVATE%20LIMITED%20%28CIN%3A,Get%20authorized%20capital%2C%20company%20category%20and%20registered%20address.",
+    "timestamp": "2026-09-01T16:03:35.499473"
+  },
+  {
+    "business": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "Pincode",
+    "value": "360003",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://infomint.co.in/companies/gambit-products-private-limited/U51909GJ2022PTC132920/roc-ahmedabad/gujarat/#:~:text=Complete%20details%20of%20GAMBIT%20PRODUCTS%20PRIVATE%20LIMITED%20%28CIN%3A,Get%20authorized%20capital%2C%20company%20category%20and%20registered%20address.",
+    "timestamp": "2026-09-01T16:03:35.499476"
+  },
+  {
+    "seller": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "PAN",
+    "query": "GAMBIT PRODUCTS PRIVATE LIMITED PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.infyner.com/company/gambit-products-private-limited/U51909GJ2022PTC132920",
+      "https://gambitproduct.com/",
+      "https://www.knowyourgst.com/gst-number-search/gambit-products-private-limited-24AAJCG8457F1ZE/",
+      "https://www.thecompanycheck.com/company/gambit-products-private-limited/U51909GJ2022PTC132920"
+    ],
+    "timestamp": "2026-09-01T16:03:56.706574",
+    "status": "results_found"
+  },
+  {
+    "business": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "GST Number",
+    "value": "24AAJCG8457F1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/gambit-products-private-limited-24AAJCG8457F1ZE/",
+    "timestamp": "2026-09-01T16:04:00.714854"
+  },
+  {
+    "business": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "PAN Number",
+    "value": "AAJCG8457F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/gambit-products-private-limited-24AAJCG8457F1ZE/",
+    "timestamp": "2026-09-01T16:04:00.714879"
+  },
+  {
+    "seller": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "Owner",
+    "query": "GAMBIT PRODUCTS PRIVATE LIMITED director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.infyner.com/company/gambit-products-private-limited/U51909GJ2022PTC132920",
+      "https://www.filesure.in/company/gambit-products-private-limited/U51909GJ2022PTC132920?tab=about",
+      "https://www.thecompanycheck.com/company/gambit-products-private-limited/U51909GJ2022PTC132920",
+      "https://www.companydetails.in/company/gambit-products-private-limited"
+    ],
+    "timestamp": "2026-09-01T16:04:02.254803",
+    "status": "results_found"
+  },
+  {
+    "seller": "GAMBIT PRODUCTS PRIVATE LIMITED",
+    "field": "Owner",
+    "query": "GAMBIT PRODUCTS PRIVATE LIMITED founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/gambit-products-private-limited/U51909GJ2022PTC132920",
+      "https://gambitproduct.com/",
+      "https://www.infyner.com/company/gambit-products-private-limited/U51909GJ2022PTC132920",
+      "https://www.companydetails.in/company/gambit-products-private-limited"
+    ],
+    "timestamp": "2026-09-01T16:04:31.321256",
+    "status": "results_found"
+  },
+  {
+    "business": "DIPL INDIA",
+    "field": "Business Name",
+    "value": "DIPL INDIA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2KHUQ2BL0TCVW&isAmazonFulfilled=1&asin=B0F7LTWBLK&ref_=olp_merch_name_4",
+    "timestamp": "2026-09-01T16:04:31.807991"
+  },
+  {
+    "seller": "DIPL INDIA",
+    "field": "Website",
+    "query": "DIPL INDIA official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.delhipremierleaguet20.com/",
+      "https://delhipremierleaguet20.com/home"
+    ],
+    "timestamp": "2026-09-01T16:04:33.232924",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIPL INDIA",
+    "field": "Legal Entity Name",
+    "query": "DIPL INDIA company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://digitalindiaportals.com/registration-service/private-limited-registration/",
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india",
+      "https://charteredaccountant.org.in/private-limited-company-registration-process-in-india-complete-guide/",
+      "https://www.incorpx.io/guide/how-to-register-private-limited-company-in-india"
+    ],
+    "timestamp": "2026-09-01T16:04:38.604125",
+    "status": "results_found"
+  },
+  {
+    "business": "DIPL INDIA",
+    "field": "Phone Number",
+    "value": "+919911779151",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://digitalindiaportals.com/registration-service/private-limited-registration/",
+    "timestamp": "2026-09-01T16:04:39.526328"
+  },
+  {
+    "business": "DIPL INDIA",
+    "field": "Email Address",
+    "value": "support@digitalindiaportals.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://digitalindiaportals.com/registration-service/private-limited-registration/",
+    "timestamp": "2026-09-01T16:04:39.526750"
+  },
+  {
+    "business": "DIPL INDIA",
+    "field": "Billing Address",
+    "value": "x26 okhla industrial area, new delhi, 110020",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://digitalindiaportals.com/registration-service/private-limited-registration/",
+    "timestamp": "2026-09-01T16:04:39.530581"
+  },
+  {
+    "business": "DIPL INDIA",
+    "field": "City",
+    "value": "new delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://digitalindiaportals.com/registration-service/private-limited-registration/",
+    "timestamp": "2026-09-01T16:04:39.530610"
+  },
+  {
+    "business": "DIPL INDIA",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://digitalindiaportals.com/registration-service/private-limited-registration/",
+    "timestamp": "2026-09-01T16:04:39.530621"
+  },
+  {
+    "business": "DIPL INDIA",
+    "field": "Pincode",
+    "value": "110020",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://digitalindiaportals.com/registration-service/private-limited-registration/",
+    "timestamp": "2026-09-01T16:04:39.530632"
+  },
+  {
+    "business": "DIPL INDIA",
+    "field": "GST Number",
+    "value": "33ABPCS3807G1Z9",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/guide/how-to-register-private-limited-company-in-india",
+    "timestamp": "2026-09-01T16:04:46.779162"
+  },
+  {
+    "business": "DIPL INDIA",
+    "field": "PAN Number",
+    "value": "ABPCS3807G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/guide/how-to-register-private-limited-company-in-india",
+    "timestamp": "2026-09-01T16:04:46.779185"
+  },
+  {
+    "seller": "DIPL INDIA",
+    "field": "Legal Entity Name",
+    "query": "DIPL INDIA Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.pnpcglobal.com/guides/how-to-private-limited-india/#:~:text=The%20registration%20process%20runs%20entirely%20online%20through%20the,and%20bank%20account%20facilitation%20into%20a%20single%20filing.",
+      "https://www.setindiabiz.com/company-registration",
+      "https://www.pnpcglobal.com/guides/how-to-private-limited-india/",
+      "https://www.incorpx.io/blog/private-limited-company-registration-process"
+    ],
+    "timestamp": "2026-09-01T16:04:49.392396",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIPL INDIA",
+    "field": "Owner",
+    "query": "DIPL INDIA director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dimex.in/index.php/dimexindia-homepage/about-dimex-india/",
+      "https://www.dipl.co.in/leadership-team",
+      "https://primeinsights.in/durgesh-impex-pvt-ltd-durgesh-agarwal-founder-director/",
+      "https://deepakinfra.com/about/"
+    ],
+    "timestamp": "2026-09-01T16:04:55.060240",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIPL INDIA",
+    "field": "Owner",
+    "query": "DIPL INDIA founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.forbes.com/profile/gautam-adani-1/",
+      "https://www.forbes.com/companies/adani-enterprises/",
+      "https://www.forbes.com/companies/adani-ports-special-economic-zone/",
+      "https://www.forbes.com/sites/tylerroush/"
+    ],
+    "timestamp": "2026-09-01T16:05:02.624840",
+    "status": "results_found"
+  }
+]

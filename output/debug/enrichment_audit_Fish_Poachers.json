@@ -1,0 +1,811 @@
+[
+  {
+    "business": "SKSB IMPORT",
+    "field": "Business Name",
+    "value": "SKSB IMPORT",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1YZ9MMK17G6RH&isAmazonFulfilled=0&asin=B0002IBJG4&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-01T13:28:57.062001"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Website",
+    "query": "SKSB IMPORT official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://sksb.co.in/collection/all-products",
+      "https://www.sksb.in/"
+    ],
+    "timestamp": "2026-09-01T13:28:58.852772",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Legal Entity Name",
+    "query": "SKSB IMPORT company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://www.sksb.in/",
+      "https://sksb.in/resource/home.aspx",
+      "https://www.sellerratings.com/amazon/india/sksb-import"
+    ],
+    "timestamp": "2026-09-01T13:29:05.750349",
+    "status": "results_found"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "Phone Number",
+    "value": "+919773697785",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sksb.in/resource/Services/Business_Setup.aspx",
+    "timestamp": "2026-09-01T13:29:06.762802"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "Email Address",
+    "value": "info@sksb.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sksb.in/resource/Services/Business_Setup.aspx",
+    "timestamp": "2026-09-01T13:29:06.762872"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Legal Entity Name",
+    "query": "SKSB IMPORT Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.startbusiness.co.in/",
+      "https://lawbhoomi.com/complete-legal-checklist-for-starting-a-business-in-india/",
+      "https://indiapost.org/import-export-documents",
+      "https://avigroup.in/2026/05/20/icegate-registration-2026-documents-checklist/"
+    ],
+    "timestamp": "2026-09-01T13:29:10.869527",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "PAN",
+    "query": "SKSB IMPORT PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.sksb.in/",
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://www.sellerratings.com/amazon/india/sksb-import"
+    ],
+    "timestamp": "2026-09-01T13:29:24.012419",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "PAN",
+    "query": "SKSB IMPORT PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://www.sksb.in/",
+      "https://www.sellerratings.com/amazon/india/sksb-import",
+      "https://sksb.in/resource/Contact_Us.aspx"
+    ],
+    "timestamp": "2026-09-01T13:29:27.625120",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "GST",
+    "query": "SKSB IMPORT GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://sksb.in/resources/Forms/CGST_Forms/Registration_Forms/Registration_Forms.aspx"
+    ],
+    "timestamp": "2026-09-01T13:29:32.495715",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "GST",
+    "query": "SKSB IMPORT GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://sksb.in/resource/Services/GST.aspx",
+      "https://piceapp.com/gst-number-search/sksb-traders-and-manufacturers-27akqpm9366f1zh/",
+      "https://www.sksb.in/"
+    ],
+    "timestamp": "2026-09-01T13:29:36.003153",
+    "status": "results_found"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "GST Number",
+    "value": "27AKQPM9366F1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sksb-traders-and-manufacturers-27akqpm9366f1zh/",
+    "timestamp": "2026-09-01T13:29:41.169298"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "PAN Number",
+    "value": "AKQPM9366F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sksb-traders-and-manufacturers-27akqpm9366f1zh/",
+    "timestamp": "2026-09-01T13:29:41.169316"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sksb-traders-and-manufacturers-27akqpm9366f1zh/",
+    "timestamp": "2026-09-01T13:29:41.176063"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sksb-traders-and-manufacturers-27akqpm9366f1zh/",
+    "timestamp": "2026-09-01T13:29:41.176128"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sksb-traders-and-manufacturers-27akqpm9366f1zh/",
+    "timestamp": "2026-09-01T13:29:41.176142"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sksb-traders-and-manufacturers-27akqpm9366f1zh/",
+    "timestamp": "2026-09-01T13:29:41.176146"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Owner",
+    "query": "SKSB IMPORT director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sksb.in/resource/Team/Founders.aspx",
+      "https://sksb.in/resource/Partners.aspx",
+      "https://www.filesure.in/company/sks-fasteners-limited/U27109PN1996PLC131826?tab=compliance",
+      "https://www.companydetails.in/director/sksb-trading-private-limited/U52609DL2020PTC366460"
+    ],
+    "timestamp": "2026-09-01T13:29:42.802184",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Owner",
+    "query": "SKSB IMPORT founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sksb.in/resource/Team/Founders.aspx#:~:text=Mr.%20Tanuj%20Sharma%20is%20an%20Associate%20Chartered%20Accountant,Planning%20%26%20Analysis%20%28FP%26A%29%20%2C%20and%20compliance-driven%20structuring.",
+      "https://www.sellerratings.com/amazon/india/sksb-import",
+      "https://sksb.in/resource/Team/Founders.aspx",
+      "https://sksb.in/resource/Partners.aspx"
+    ],
+    "timestamp": "2026-09-01T13:30:02.219308",
+    "status": "results_found"
+  },
+  {
+    "business": "BENIE STORE",
+    "field": "Business Name",
+    "value": "BENIE STORE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3FAOK208WTEVV&isAmazonFulfilled=0&asin=B0002IBJG4&ref_=olp_merch_name_5",
+    "timestamp": "2026-09-01T13:30:02.903761"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Website",
+    "query": "BENIE STORE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/benie-store",
+      "https://www.binie.in/"
+    ],
+    "timestamp": "2026-09-01T13:30:04.736222",
+    "status": "results_found"
+  },
+  {
+    "business": "BENIE STORE",
+    "field": "Website URL",
+    "value": "https://www.sellerratings.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.sellerratings.com/amazon/india/benie-store",
+    "timestamp": "2026-09-01T13:30:12.596631"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Legal Entity Name",
+    "query": "BENIE STORE company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://benir.in/",
+      "https://benir.in/strategic-alliance/",
+      "https://benir.in/features/",
+      "https://benir.in/about-us/"
+    ],
+    "timestamp": "2026-09-01T13:30:17.547724",
+    "status": "results_found"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Legal Entity Name",
+    "query": "BENIE STORE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://gstverify.co.in/search/",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-09-01T13:30:28.687599",
+    "status": "results_found"
+  },
+  {
+    "business": "BENIE STORE",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T13:30:31.324237"
+  },
+  {
+    "business": "BENIE STORE",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T13:30:31.324547"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "PAN",
+    "query": "BENIE STORE PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://benir.in/",
+      "https://gstverify.co.in/search/",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://savetaxs.com/blog/how-to-know-pan-card-number"
+    ],
+    "timestamp": "2026-09-01T13:30:35.547703",
+    "status": "results_found"
+  },
+  {
+    "business": "BENIE STORE",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T13:30:38.915396"
+  },
+  {
+    "business": "BENIE STORE",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T13:30:38.915424"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Owner",
+    "query": "BENIE STORE director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://alchetron.com/Ty-Warner#:~:text=H.%20Ty%20Warner%20%28born%20September%203%2C%201944%29%20is,stuffed%20toys%2C%20including%20Beanie%20Babies%20and%20other%20lines.",
+      "https://www.celebritynetworth.com/articles/entertainment-articles/failed-actor-2-6-billion-tycoon-ty-warner-became-man-behind-must-toy-90s/",
+      "https://www.cbinsights.com/company/benie/people",
+      "https://www.forbes.com/profile/ty-warner/"
+    ],
+    "timestamp": "2026-09-01T13:30:40.749870",
+    "status": "results_found"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Address",
+    "query": "BENIE STORE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/BENIE-TRADING-PRIVATE-LIMITED-U46309KA2023PTC178066#:~:text=BENIE%20TRADING%20PVT%20LTD%27s%20registered%20office%20address%20is,Hebbal%20Kempapura%2C%20Bangalore%2C%20Bangalore%20North%2C%20Karnataka%2C%20India%2C%20560024",
+      "https://www.falconebiz.com/company/BENIE-TRADING-PRIVATE-LIMITED-U46309KA2023PTC178066",
+      "https://mydukaan.io/benie/categories",
+      "https://www.sellerratings.com/amazon/india/benie-store"
+    ],
+    "timestamp": "2026-09-01T13:30:56.996931",
+    "status": "results_found"
+  },
+  {
+    "seller": "BENIE STORE",
+    "field": "Address",
+    "query": "BENIE STORE registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/BENIE-TRADING-PRIVATE-LIMITED-U46309KA2023PTC178066#:~:text=BENIE%20TRADING%20PVT%20LTD%27s%20registered%20office%20address%20is,Hebbal%20Kempapura%2C%20Bangalore%2C%20Bangalore%20North%2C%20Karnataka%2C%20India%2C%20560024",
+      "https://www.sellerratings.com/amazon/india/benie-store",
+      "https://www.benir.in/contact-us/",
+      "https://mydukaan.io/benie/categories"
+    ],
+    "timestamp": "2026-09-01T13:31:07.661815",
+    "status": "results_found"
+  },
+  {
+    "business": "Infinitikart",
+    "field": "Business Name",
+    "value": "Infinitikart",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2BWJVKSWP7TR2&isAmazonFulfilled=0&asin=B0002IBJG4&ref_=olp_merch_name_11",
+    "timestamp": "2026-09-01T13:31:11.584225"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Website",
+    "query": "Infinitikart official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://infinikart.com/",
+      "https://infinikart.com/collections/consumer-electronics"
+    ],
+    "timestamp": "2026-09-01T13:31:13.818792",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Legal Entity Name",
+    "query": "Infinitikart company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://infinitikart.com/",
+      "https://infinikart.com/",
+      "https://infiniti.tataconsumer.com/",
+      "https://infinitykart.in/"
+    ],
+    "timestamp": "2026-09-01T13:31:33.820112",
+    "status": "results_found"
+  },
+  {
+    "business": "Infinitikart",
+    "field": "Email Address",
+    "value": "info@infinikart.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://infinikart.com/",
+    "timestamp": "2026-09-01T13:31:40.652764"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "PAN",
+    "query": "Infinitikart PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+      "https://savetaxs.com/blog/how-to-know-pan-card-number"
+    ],
+    "timestamp": "2026-09-01T13:31:50.212974",
+    "status": "results_found"
+  },
+  {
+    "business": "Infinitikart",
+    "field": "Phone Number",
+    "value": "+918001801961",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+    "timestamp": "2026-09-01T13:31:56.673661"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "GST",
+    "query": "Infinitikart GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://taxguru.in/goods-and-service-tax/gst-registration-complete-guide-rules-procedure-revocation.html",
+      "https://www.indiafilings.com/learn/gst-registration-procedure"
+    ],
+    "timestamp": "2026-09-01T13:32:12.085240",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Owner",
+    "query": "Infinitikart director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/infinitivekart-private-limited",
+      "https://www.forbes.com/profile/sachin-bansal/",
+      "https://infinikart.com/",
+      "https://www.forbes.com/profile/binny-bansal/"
+    ],
+    "timestamp": "2026-09-01T13:32:22.548631",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Address",
+    "query": "Infinitikart registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/infiniti-retail-limited-cin-U31900MH2005PLC158120#:~:text=The%20registered%20office%20address%20is%20Unit%20No.%20701,Road%2C%20Andheri%20East%20Mumbai%20City%20Maharashtra%20India%20400069.",
+      "https://www.infinitiretail.com/contact-us",
+      "https://opencorpdata.com/lei/335800B2F3DH6QMOGR59",
+      "https://tracxn.com/d/legal-entities/india/infiniti-retail-limited/__UDfM_auXhp3JUxSEgWE0Opl4bdBLVvwjkmHWzz_fQVE"
+    ],
+    "timestamp": "2026-09-01T13:32:46.485362",
+    "status": "results_found"
+  },
+  {
+    "business": "Eternals Traders",
+    "field": "Business Name",
+    "value": "Eternals Traders",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=APYLMBZIZNP40&asin=B0CG37BNPN&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T13:32:59.940763"
+  },
+  {
+    "seller": "Eternals Traders",
+    "field": "Website",
+    "query": "Eternals Traders official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.eternal.com/",
+      "https://www.eternal.com/culture"
+    ],
+    "timestamp": "2026-09-01T13:33:01.796703",
+    "status": "results_found"
+  },
+  {
+    "seller": "Eternals Traders",
+    "field": "Legal Entity Name",
+    "query": "Eternals Traders company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.eternal.com/",
+      "https://www.eternal.com/culture",
+      "https://www.eternal.com/investor-relations",
+      "https://www.eternal.com/letter"
+    ],
+    "timestamp": "2026-09-01T13:33:11.542495",
+    "status": "results_found"
+  },
+  {
+    "business": "Eternals Traders",
+    "field": "Email Address",
+    "value": "info@eternal.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.eternal.com/investor-relations",
+    "timestamp": "2026-09-01T13:33:16.941446"
+  },
+  {
+    "seller": "Eternals Traders",
+    "field": "Legal Entity Name",
+    "query": "Eternals Traders Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://gstverify.co.in/search/",
+      "https://gstextract.com/gstin-details",
+      "https://www.easytax.live/s/gst-number-search"
+    ],
+    "timestamp": "2026-09-01T13:33:20.602309",
+    "status": "results_found"
+  },
+  {
+    "business": "Eternals Traders",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T13:33:25.251745"
+  },
+  {
+    "seller": "Eternals Traders",
+    "field": "PAN",
+    "query": "Eternals Traders PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.inspex.in/",
+      "https://tincheck.io/india/",
+      "https://gstpan.com/"
+    ],
+    "timestamp": "2026-09-01T13:33:30.341116",
+    "status": "results_found"
+  },
+  {
+    "business": "Eternals Traders",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T13:33:33.880939"
+  },
+  {
+    "business": "Eternals Traders",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-01T13:33:33.880967"
+  },
+  {
+    "seller": "Eternals Traders",
+    "field": "Owner",
+    "query": "Eternals Traders director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://statenaukri.com/2025/12/18/eternals-founder-ceo-deepinder-goyal-tops-the-list/#:~:text=As%20per%20the%20report%2C%20Deepinder%20Goyal%2C%20founder%2C%20Managing,a%2027%20%25%20increase%20from%20the%20previous%20year.",
+      "https://india.entrepreneur.com/news-and-trends/aditya-mangla-appointed-ceo-of-eternals-food-delivery/494303",
+      "https://statenaukri.com/2025/12/18/eternals-founder-ceo-deepinder-goyal-tops-the-list/",
+      "https://www.fortuneindia.com/business-news/meet-albinder-dhindsa-blinkits-founder-and-eternals-incoming-ceo/129651"
+    ],
+    "timestamp": "2026-09-01T13:33:38.851876",
+    "status": "results_found"
+  },
+  {
+    "seller": "Eternals Traders",
+    "field": "Address",
+    "query": "Eternals Traders registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.eternal.com/contact/",
+      "https://www.falconebiz.com/company/ETERNAL-LIMITED-L93030DL2010PLC198141",
+      "https://www.eternal.com/policies/license/",
+      "https://in.marketscreener.com/quote/stock/ETERNAL-LIMITED-125138034/company/"
+    ],
+    "timestamp": "2026-09-01T13:33:58.161240",
+    "status": "results_found"
+  },
+  {
+    "seller": "Eternals Traders",
+    "field": "Address",
+    "query": "Eternals Traders registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/eternaltrips-private-limited/__deVJpbT5G7zlcuMP9ce-Owi5K7zdlIothkOCzWfwO4I#:~:text=Its%20registered%20address%20is%20B-708%2C%20Fairdeal%20House%2CNear%20Swastik,%28CIN%29%20U52291GJ2009PTC056281%20and%20its%20current%20status%20is%20Active.",
+      "https://www.falconebiz.com/company/ETERNAL-LIMITED-L93030DL2010PLC198141",
+      "https://www.tradebulls.in/",
+      "https://eternal581.com/"
+    ],
+    "timestamp": "2026-09-01T13:34:13.167181",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Business Name",
+    "value": "Cart2Globe",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A324FKG9CG7HUT&asin=B000F7FX8W&ref_=dp_merchant_link",
+    "timestamp": "2026-09-01T13:34:14.753483"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Website",
+    "query": "Cart2Globe official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.cart2india.com/page/faq"
+    ],
+    "timestamp": "2026-09-01T13:34:17.009794",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Website URL",
+    "value": "https://www.cart2india.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cart2india.com/",
+    "timestamp": "2026-09-01T13:34:23.130290"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Legal Entity Name",
+    "query": "Cart2Globe company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cart-2-india-online-retail-private-limited/__O5PUtNqLEki0HBsItdKVByfEJsAu7TGr4IN6Phz_HcY#:~:text=Its%20registered%20address%20is%20Facile%20Towers%2C%20No.76%20Victoria,classification%20as%20per%20MCA%20is%20business%20Activities%20N.E.C.",
+      "https://www.companydetails.in/company/cart-2-india-online-retail-privatelimited",
+      "https://www.thecompanycheck.com/company/cart-2-india-online-retail-private-limited/U74900KA2011PTC058860",
+      "https://rdata.in/company/cart-india-online-retail-private-limited-151764/"
+    ],
+    "timestamp": "2026-09-01T13:34:28.616697",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cart-2-india-online-retail-private-limited/__O5PUtNqLEki0HBsItdKVByfEJsAu7TGr4IN6Phz_HcY#:~:text=Its%20registered%20address%20is%20Facile%20Towers%2C%20No.76%20Victoria,classification%20as%20per%20MCA%20is%20business%20Activities%20N.E.C.",
+    "timestamp": "2026-09-01T13:34:30.233156"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cart-2-india-online-retail-private-limited/__O5PUtNqLEki0HBsItdKVByfEJsAu7TGr4IN6Phz_HcY#:~:text=Its%20registered%20address%20is%20Facile%20Towers%2C%20No.76%20Victoria,classification%20as%20per%20MCA%20is%20business%20Activities%20N.E.C.",
+    "timestamp": "2026-09-01T13:34:30.233173"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cart-2-india-online-retail-private-limited/__O5PUtNqLEki0HBsItdKVByfEJsAu7TGr4IN6Phz_HcY#:~:text=Its%20registered%20address%20is%20Facile%20Towers%2C%20No.76%20Victoria,classification%20as%20per%20MCA%20is%20business%20Activities%20N.E.C.",
+    "timestamp": "2026-09-01T13:34:30.233195"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cart-2-india-online-retail-private-limited/__O5PUtNqLEki0HBsItdKVByfEJsAu7TGr4IN6Phz_HcY#:~:text=Its%20registered%20address%20is%20Facile%20Towers%2C%20No.76%20Victoria,classification%20as%20per%20MCA%20is%20business%20Activities%20N.E.C.",
+    "timestamp": "2026-09-01T13:34:30.233201"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "PAN",
+    "query": "Cart2Globe PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T13:35:04.097938",
+    "status": "no_results"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "PAN",
+    "query": "Cart2Globe PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://www.cart2india.com/page/contact-us",
+      "https://www.cart2india.com/"
+    ],
+    "timestamp": "2026-09-01T13:35:09.614541",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "GST",
+    "query": "Cart2Globe GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+      "https://www.easytax.live/s/gst-number-search",
+      "https://taxguru.in/goods-and-service-tax/gst-registration-complete-guide-rules-procedure-revocation.html",
+      "https://www.indiafilings.com/learn/gst-registration-procedure"
+    ],
+    "timestamp": "2026-09-01T13:35:23.116822",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "GST Number",
+    "value": "27AAECC4477E1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+    "timestamp": "2026-09-01T13:35:24.297050"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "PAN Number",
+    "value": "AAECC4477E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+    "timestamp": "2026-09-01T13:35:24.297083"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Owner",
+    "query": "Cart2Globe director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://www.thecompanycheck.com/company/cart-2-india-online-retail-private-limited/U74900KA2011PTC058860",
+      "https://tracxn.com/d/legal-entities/india/cart-2-india-online-retail-private-limited/__O5PUtNqLEki0HBsItdKVByfEJsAu7TGr4IN6Phz_HcY"
+    ],
+    "timestamp": "2026-09-01T13:35:26.984632",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Email Address",
+    "value": "lokesh@cart2india.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+    "timestamp": "2026-09-01T13:35:29.985007"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Phone",
+    "query": "Cart2Globe phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/page/contact-us",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://www.cart2india.com/page/faq",
+      "http://test.cart2india.com/cart2gulf/faq/"
+    ],
+    "timestamp": "2026-09-01T13:35:41.680940",
+    "status": "results_found"
+  }
+]

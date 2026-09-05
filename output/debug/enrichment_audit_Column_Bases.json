@@ -1,0 +1,923 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0DWKLMS7Y&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T11:54:46.063122"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://us.etrade.com/home/welcome-back?msockid=35d294a6ff176b3a127a8360fecf6ab8"
+    ],
+    "timestamp": "2026-08-31T11:54:47.968441",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+    "timestamp": "2026-08-31T11:55:19.634562"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://etrade.gov.et/main/customer/business-license/registration",
+      "https://etrade.gov.et/",
+      "https://etrade.gov.et/auth/"
+    ],
+    "timestamp": "2026-08-31T11:55:27.844199",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/contact-us",
+      "https://us.etrade.com/frequently-asked-questions/most-popular",
+      "https://us.etrade.com/e/t/accounts/sccreatemsg",
+      "https://us.etrade.com/e/t/home/contactus_esp"
+    ],
+    "timestamp": "2026-08-31T11:55:45.112383",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+916122040066",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://us.etrade.com/e/t/home/contactus_esp",
+    "timestamp": "2026-08-31T11:55:55.166070"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://us.etrade.com/e/t/user/login?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-31T11:55:56.721460",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://us.etrade.com/e/t/user/login?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-31T11:55:57.890998",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "mswcorporatesupport@morganstanley.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+    "timestamp": "2026-08-31T11:56:06.487004"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://us.etrade.com/e/t/user/login?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-31T11:56:11.028953",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://us.etrade.com/e/t/user/login?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-31T11:56:14.151641",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://us.etrade.com/e/t/user/login?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-31T11:56:23.655993",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://us.etrade.com/e/t/user/login?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-31T11:56:29.713291",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://us.etrade.com/e/t/user/login?msockid=35d294a6ff176b3a127a8360fecf6ab8",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-31T11:56:39.788778",
+    "status": "results_found"
+  },
+  {
+    "business": "Taher & Brothers",
+    "field": "Business Name",
+    "value": "Taher & Brothers",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXO3NC2ZO9HJ3&asin=B0DD42D1RN&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T11:56:44.996673"
+  },
+  {
+    "seller": "Taher & Brothers",
+    "field": "Website",
+    "query": "Taher & Brothers official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.taher.com/",
+      "https://www.taher.com/career/"
+    ],
+    "timestamp": "2026-08-31T11:56:48.360171",
+    "status": "results_found"
+  },
+  {
+    "business": "Taher & Brothers",
+    "field": "Website URL",
+    "value": "https://www.taher.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.taher.com/",
+    "timestamp": "2026-08-31T11:56:53.277963"
+  },
+  {
+    "seller": "Taher & Brothers",
+    "field": "Legal Entity Name",
+    "query": "Taher & Brothers company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/RVC-Boss/GPT-SoVITS",
+      "https://docs.github.com/ja/copilot/reference/ai-models/supported-models",
+      "https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/use-byok-models"
+    ],
+    "timestamp": "2026-08-31T11:57:01.648315",
+    "status": "results_found"
+  },
+  {
+    "seller": "Taher & Brothers",
+    "field": "Legal Entity Name",
+    "query": "Taher & Brothers Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://people.com/tv/you-season-5-everything-to-know/"
+    ],
+    "timestamp": "2026-08-31T11:57:11.584092",
+    "status": "results_found"
+  },
+  {
+    "seller": "Taher & Brothers",
+    "field": "PAN",
+    "query": "Taher & Brothers PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://superuser.com/questions/1206443/how-to-add-cached-credentials-for-the-windows-system-acount",
+      "https://superuser.com/questions/1357277/how-can-i-backup-the-windows-web-credentials-store",
+      "https://superuser.com/questions/803132/is-there-a-way-to-view-password-stored-in-windows-credentials",
+      "https://superuser.com/questions/1756354/windows-defender-credential-guard-does-not-allow-using-saved-credentials-for-r"
+    ],
+    "timestamp": "2026-08-31T11:57:15.009097",
+    "status": "results_found"
+  },
+  {
+    "seller": "Taher & Brothers",
+    "field": "PAN",
+    "query": "Taher & Brothers PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5573643",
+      "https://forum.lowyat.net/topic/5556449"
+    ],
+    "timestamp": "2026-08-31T11:57:17.315153",
+    "status": "results_found"
+  },
+  {
+    "seller": "Taher & Brothers",
+    "field": "GST",
+    "query": "Taher & Brothers GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://menuweb.menu/restaurants/ipoh/seafood-recipe-pork-free-ipoh",
+      "https://www.bizmalay.com/seafood-recipe-pork-free-ipoh-%E6%B5%B7%E9%B2%9C%E9%A3%9F%E8%B0%B1-011-6505-8011",
+      "https://www.foodpanda.my/restaurant/y7li/seafood-recipe-pork-free-restaurant-ipoh",
+      "https://www.foodpanda.my/ms/restaurant/y7li/seafood-recipe-pork-free-restaurant-ipoh"
+    ],
+    "timestamp": "2026-08-31T11:57:23.597325",
+    "status": "results_found"
+  },
+  {
+    "seller": "Taher & Brothers",
+    "field": "GST",
+    "query": "Taher & Brothers GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.anibk.com/list/1-1-----55---?order=1",
+      "https://www.anibk.com/list/1-1----2-55---?order=1",
+      "https://www.dm5.com/search?title=%E5%8F%8C%E7%94%B7%E4%B8%BB%E8%85%90%E6%BC%AB&language=1"
+    ],
+    "timestamp": "2026-08-31T11:57:33.515121",
+    "status": "results_found"
+  },
+  {
+    "seller": "Taher & Brothers",
+    "field": "Owner",
+    "query": "Taher & Brothers director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hiworks.com/office",
+      "https://login.office.hiworks.com/en",
+      "https://dashboard.office.hiworks.com/",
+      "https://home.hiwork.com/login"
+    ],
+    "timestamp": "2026-08-31T11:57:41.532627",
+    "status": "results_found"
+  },
+  {
+    "seller": "Taher & Brothers",
+    "field": "Owner",
+    "query": "Taher & Brothers founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T11:57:52.506510",
+    "status": "no_results"
+  },
+  {
+    "seller": "Taher & Brothers",
+    "field": "Address",
+    "query": "Taher & Brothers registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cybo.com/BD-biz/taher-brothers-limited-corporate-office",
+      "https://www.bizsouthasia.com/BD/taher-brothers-limited-corporate-office-01997-260568",
+      "https://www.helpmecovid.com/bd/171500_tajul-and-brothers",
+      "https://www.cybo.com/BD-biz/taher-group-of-ins"
+    ],
+    "timestamp": "2026-08-31T11:57:56.820655",
+    "status": "results_found"
+  },
+  {
+    "seller": "Taher & Brothers",
+    "field": "Phone",
+    "query": "Taher & Brothers phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://local.infobel.in/IN100626055-04425228721/taher_brothers-chennai.html",
+      "https://www.justdial.com/Chennai/Taher-Brothers-Near-Behind-Sembuthos-Street-Parrys/044P4124972_BZDET",
+      "https://www.zoominfo.com/c/taher-brothers-co/462768592",
+      "https://www.sulekha.com/taher-brothers-parrys-chennai-contact-address"
+    ],
+    "timestamp": "2026-08-31T11:58:22.478575",
+    "status": "results_found"
+  },
+  {
+    "business": "Taher & Brothers",
+    "field": "Email Address",
+    "value": "taherbrothers@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.sulekha.com/taher-brothers-parrys-chennai-contact-address",
+    "timestamp": "2026-08-31T11:58:29.594105"
+  },
+  {
+    "seller": "Taher & Brothers",
+    "field": "Phone",
+    "query": "Taher & Brothers contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arimetrics.com/glosario-digital/query",
+      "https://aprendersql.es/glosario-sql/query/",
+      "https://roilab.es/blog/que-es-un-query-y-para-que-sirve-todo-lo-que-necesitas-saber/",
+      "https://www.wordreference.com/enes/query"
+    ],
+    "timestamp": "2026-08-31T11:58:30.812065",
+    "status": "results_found"
+  },
+  {
+    "business": "Flizon Mart",
+    "field": "Business Name",
+    "value": "Flizon Mart",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A7JJ8YG05QG29&asin=B0HCC7BS56&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T11:58:36.855053"
+  },
+  {
+    "seller": "Flizon Mart",
+    "field": "Website",
+    "query": "Flizon Mart official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.filson.com/",
+      "https://www.filson.com/collections/mens-new-arrivals"
+    ],
+    "timestamp": "2026-08-31T11:58:41.651663",
+    "status": "results_found"
+  },
+  {
+    "seller": "Flizon Mart",
+    "field": "Legal Entity Name",
+    "query": "Flizon Mart company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.volcanoesnationalpark.org/things-to-do/hiking/mount-bisoke/",
+      "https://www.volcanoesnationalpark.org/virunga-volcanoes/mount-bisoke/",
+      "https://universaljourneysrwanda.com/mount-bisoke-rwandas-crater-lake-volcano-adventure/",
+      "https://www.volcanoesnatpark.com/mount-bisoke-hike"
+    ],
+    "timestamp": "2026-08-31T11:58:53.442928",
+    "status": "results_found"
+  },
+  {
+    "seller": "Flizon Mart",
+    "field": "PAN",
+    "query": "Flizon Mart PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T11:59:18.549747",
+    "status": "no_results"
+  },
+  {
+    "seller": "Flizon Mart",
+    "field": "PAN",
+    "query": "Flizon Mart PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T11:59:23.057205",
+    "status": "no_results"
+  },
+  {
+    "seller": "Flizon Mart",
+    "field": "GST",
+    "query": "Flizon Mart GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.kcorptax.in/blog/gst-registration-for-amazon-and-flipkart-sellers/"
+    ],
+    "timestamp": "2026-08-31T11:59:25.966070",
+    "status": "results_found"
+  },
+  {
+    "business": "Flizon Mart",
+    "field": "Phone Number",
+    "value": "+918178042035",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.kcorptax.in/blog/gst-registration-for-amazon-and-flipkart-sellers/",
+    "timestamp": "2026-08-31T11:59:27.910303"
+  },
+  {
+    "business": "Flizon Mart",
+    "field": "Email Address",
+    "value": "info@kcorptax.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.kcorptax.in/blog/gst-registration-for-amazon-and-flipkart-sellers/",
+    "timestamp": "2026-08-31T11:59:27.910612"
+  },
+  {
+    "business": "Flizon Mart",
+    "field": "Billing Address",
+    "value": "64, gf, baldev park, gali no. 3 mandir marg, parwana rd nearest metro station, preet vihar, delhi, 110051",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.kcorptax.in/blog/gst-registration-for-amazon-and-flipkart-sellers/",
+    "timestamp": "2026-08-31T11:59:27.913107"
+  },
+  {
+    "business": "Flizon Mart",
+    "field": "City",
+    "value": "preet vihar",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.kcorptax.in/blog/gst-registration-for-amazon-and-flipkart-sellers/",
+    "timestamp": "2026-08-31T11:59:27.913112"
+  },
+  {
+    "business": "Flizon Mart",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.kcorptax.in/blog/gst-registration-for-amazon-and-flipkart-sellers/",
+    "timestamp": "2026-08-31T11:59:27.913116"
+  },
+  {
+    "business": "Flizon Mart",
+    "field": "Pincode",
+    "value": "110051",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.kcorptax.in/blog/gst-registration-for-amazon-and-flipkart-sellers/",
+    "timestamp": "2026-08-31T11:59:27.913118"
+  },
+  {
+    "seller": "Flizon Mart",
+    "field": "GST",
+    "query": "Flizon Mart GST number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gst.iadv.io/FLIZON-08AAFFF5597A1ZE/",
+      "https://www.knowyourgst.com/gst-number-search/flizon-08AAFFF5597A1ZE/"
+    ],
+    "timestamp": "2026-08-31T11:59:31.332040",
+    "status": "results_found"
+  },
+  {
+    "business": "Flizon Mart",
+    "field": "GST Number",
+    "value": "08AAFFF5597A1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/FLIZON-08AAFFF5597A1ZE/",
+    "timestamp": "2026-08-31T11:59:32.007159"
+  },
+  {
+    "business": "Flizon Mart",
+    "field": "PAN Number",
+    "value": "AAFFF5597A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/FLIZON-08AAFFF5597A1ZE/",
+    "timestamp": "2026-08-31T11:59:32.007169"
+  },
+  {
+    "seller": "Flizon Mart",
+    "field": "Owner",
+    "query": "Flizon Mart director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.marketscreener.com/insider/RAM-CHANDRA-AGARWAL-A0IMWY/",
+      "https://www.nairaland.com/8552254/meet-founder-bokku-super-mart"
+    ],
+    "timestamp": "2026-08-31T11:59:35.079711",
+    "status": "results_found"
+  },
+  {
+    "seller": "Flizon Mart",
+    "field": "Owner",
+    "query": "Flizon Mart founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3.org/MarkUp/html-spec/html-spec_9.html",
+      "https://www.w3.org/QA/2002/04/valid-dtd-list.html",
+      "http://www.blooberry.com/indexdot/html/tagpages/d/doctype.htm",
+      "https://www.w3schools.com/tags//tag_doctype.asp"
+    ],
+    "timestamp": "2026-08-31T11:59:39.533011",
+    "status": "results_found"
+  },
+  {
+    "business": "RUHEEM ARTS",
+    "field": "Business Name",
+    "value": "RUHEEM ARTS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1JK6C6Y6WF48K&asin=B0HGBV51H9&ref_=dp_merchant_link",
+    "timestamp": "2026-08-31T11:59:42.695983"
+  },
+  {
+    "seller": "RUHEEM ARTS",
+    "field": "Website",
+    "query": "RUHEEM ARTS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://steamcommunity.com/app/1623730/discussions/0/780947379775887556/",
+      "https://steamcommunity.com/app/1623730/discussions/0/574921459914494139/"
+    ],
+    "timestamp": "2026-08-31T11:59:43.988198",
+    "status": "results_found"
+  },
+  {
+    "seller": "RUHEEM ARTS",
+    "field": "Legal Entity Name",
+    "query": "RUHEEM ARTS company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.taxtim.com/za/",
+      "https://www.taxtim.com/za/tax-guides/how-to-register-your-company-for-sars-efiling"
+    ],
+    "timestamp": "2026-08-31T11:59:49.926549",
+    "status": "results_found"
+  },
+  {
+    "seller": "RUHEEM ARTS",
+    "field": "Legal Entity Name",
+    "query": "RUHEEM ARTS Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/company-details",
+      "https://www.indiafilings.com/company-registration",
+      "https://golegally.com/mca-company-llp-search"
+    ],
+    "timestamp": "2026-08-31T11:59:54.390137",
+    "status": "results_found"
+  },
+  {
+    "business": "RUHEEM ARTS",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-08-31T11:59:55.026844"
+  },
+  {
+    "business": "RUHEEM ARTS",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-08-31T11:59:55.027034"
+  },
+  {
+    "seller": "RUHEEM ARTS",
+    "field": "PAN",
+    "query": "RUHEEM ARTS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://helpdeskgeek.com/how-to-get-help-in-windows/",
+      "https://geekzag.com/guides/computers/how-to-get-help-in-windows-11-10/",
+      "https://appuals.com/how-to-get-help-in-windows/",
+      "https://en.windowsnoticias.com/How-to-get-help-in-Windows-10-11/"
+    ],
+    "timestamp": "2026-08-31T12:00:05.213653",
+    "status": "results_found"
+  },
+  {
+    "seller": "RUHEEM ARTS",
+    "field": "PAN",
+    "query": "RUHEEM ARTS PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.belmontforum.com.au/stores/jb-hi-fi",
+      "https://www.belmontforum.com.au/stores"
+    ],
+    "timestamp": "2026-08-31T12:00:15.861482",
+    "status": "results_found"
+  },
+  {
+    "seller": "RUHEEM ARTS",
+    "field": "GST",
+    "query": "RUHEEM ARTS GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/07AAACG9092R1ZT",
+      "https://piceapp.com/gst-number-search/rahul-art-07aaacg9092r1zt/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-31T12:00:24.743768",
+    "status": "results_found"
+  },
+  {
+    "business": "RUHEEM ARTS",
+    "field": "GST Number",
+    "value": "07AAACG9092R1ZT",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/07AAACG9092R1ZT",
+    "timestamp": "2026-08-31T12:00:25.657274"
+  },
+  {
+    "business": "RUHEEM ARTS",
+    "field": "PAN Number",
+    "value": "AAACG9092R",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/07AAACG9092R1ZT",
+    "timestamp": "2026-08-31T12:00:25.657290"
+  },
+  {
+    "seller": "RUHEEM ARTS",
+    "field": "Owner",
+    "query": "RUHEEM ARTS director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://embed.morsedecoder.com/nl/"
+    ],
+    "timestamp": "2026-08-31T12:00:26.810915",
+    "status": "results_found"
+  },
+  {
+    "seller": "RUHEEM ARTS",
+    "field": "Owner",
+    "query": "RUHEEM ARTS founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T12:00:36.239326",
+    "status": "no_results"
+  },
+  {
+    "seller": "RUHEEM ARTS",
+    "field": "Address",
+    "query": "RUHEEM ARTS registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/FATHIMUTHU-AMMA-MILLS-LIMITED-U26991TN1989PLC016710",
+      "https://registry-lookup.com/",
+      "https://craft.co/rheem-manufacturing/locations",
+      "https://contactout.com/company/Rheem-Manufacturing-45947"
+    ],
+    "timestamp": "2026-08-31T12:00:39.486016",
+    "status": "results_found"
+  },
+  {
+    "seller": "RUHEEM ARTS",
+    "field": "Address",
+    "query": "RUHEEM ARTS registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://nekopoidl.id/nekopoi-web/",
+      "https://apkpure.com/id/nekopoi-2025/com.kcstream.cing/download",
+      "https://github.com/realodix/AdBlockID/issues/1134",
+      "https://apkpure.com/nekopoi-2025/com.kcstream.cing"
+    ],
+    "timestamp": "2026-08-31T12:00:46.411188",
+    "status": "results_found"
+  },
+  {
+    "business": "PROBEROS MALL",
+    "field": "Business Name",
+    "value": "PROBEROS MALL",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A248E9VCTG5HC4&asin=B0GCBPH6LY&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-31T12:00:51.383059"
+  },
+  {
+    "seller": "PROBEROS MALL",
+    "field": "Website",
+    "query": "PROBEROS MALL official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://proberosfishing.com/",
+      "https://proberosfishing.com/new-arrival/"
+    ],
+    "timestamp": "2026-08-31T12:00:54.662515",
+    "status": "results_found"
+  },
+  {
+    "seller": "PROBEROS MALL",
+    "field": "Legal Entity Name",
+    "query": "PROBEROS MALL company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.index.hu/Topic/showTopicList",
+      "https://forum.index.hu/Article/viewArticle?a=171642476",
+      "https://forum.index.hu/Article/showArticle?t=9256129",
+      "https://forum.index.hu/Article/viewArticle?a=171530422"
+    ],
+    "timestamp": "2026-08-31T12:00:59.192463",
+    "status": "results_found"
+  },
+  {
+    "seller": "PROBEROS MALL",
+    "field": "Legal Entity Name",
+    "query": "PROBEROS MALL Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/proberos-trading-private-limited-cin-U52520HR2021PTC095201",
+      "https://www.instafinancials.com/company/proberos-trading-private-limited-U52520HR2021PTC095201",
+      "https://www.thecompanycheck.com/company/proberos-trading-private-limited/U52520HR2021PTC095201",
+      "https://www.companydetails.in/company/proberos-trading-private-limited"
+    ],
+    "timestamp": "2026-08-31T12:01:15.193855",
+    "status": "results_found"
+  },
+  {
+    "seller": "PROBEROS MALL",
+    "field": "PAN",
+    "query": "PROBEROS MALL PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dreamina.capcut.com/pt-br/ai-video/free-image-to-video-generator-by-job-2026",
+      "https://dreamina.capcut.com/pt-br/ai-video/ai-influencer-image-animation-tools-2026",
+      "https://tekimobile.com/dicas/melhor-inteligencia-artificial-para-criacao-de-imagens-e-videos/",
+      "https://airmore.ai/pt/ai-review/best-image-to-video-ai-tools"
+    ],
+    "timestamp": "2026-08-31T12:01:16.434754",
+    "status": "results_found"
+  },
+  {
+    "seller": "PROBEROS MALL",
+    "field": "PAN",
+    "query": "PROBEROS MALL PAN number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://fnshiftsolutions.com/gstin-search/proberos-trading-private-limited-33AAMCP0187G1ZE"
+    ],
+    "timestamp": "2026-08-31T12:01:27.613779",
+    "status": "results_found"
+  },
+  {
+    "business": "PROBEROS MALL",
+    "field": "GST Number",
+    "value": "33AAMCP0187G1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/proberos-trading-private-limited-33AAMCP0187G1ZE",
+    "timestamp": "2026-08-31T12:01:28.098601"
+  },
+  {
+    "business": "PROBEROS MALL",
+    "field": "PAN Number",
+    "value": "AAMCP0187G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/proberos-trading-private-limited-33AAMCP0187G1ZE",
+    "timestamp": "2026-08-31T12:01:28.098615"
+  },
+  {
+    "seller": "PROBEROS MALL",
+    "field": "Owner",
+    "query": "PROBEROS MALL director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-31T12:01:29.748819",
+    "status": "no_results"
+  },
+  {
+    "seller": "PROBEROS MALL",
+    "field": "Owner",
+    "query": "PROBEROS MALL founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://proberosfishing.com/",
+      "https://proberosfishing.com/new-arrival/",
+      "https://proberosfishing.com/contact/",
+      "https://proberosfishing.com/product/live-shrimp-hook-holder/"
+    ],
+    "timestamp": "2026-08-31T12:01:37.933874",
+    "status": "results_found"
+  },
+  {
+    "seller": "PROBEROS MALL",
+    "field": "Address",
+    "query": "PROBEROS MALL registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.instafinancials.com/company/proberos-trading-private-limited-U52520HR2021PTC095201",
+      "https://www.falconebiz.com/company/PROBEROS-TRADING-PRIVATE-LIMITED-U52520HR2021PTC095201",
+      "https://www.insiderbiz.in/company-map/PROBEROS-TRADING-PRIVATE-LIMITED",
+      "https://www.companydetails.in/company/proberos-trading-private-limited"
+    ],
+    "timestamp": "2026-08-31T12:01:45.320734",
+    "status": "results_found"
+  },
+  {
+    "business": "PROBEROS MALL",
+    "field": "Email Address",
+    "value": "rc8606109@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.instafinancials.com/company/proberos-trading-private-limited-U52520HR2021PTC095201",
+    "timestamp": "2026-08-31T12:01:47.853589"
+  },
+  {
+    "business": "PROBEROS MALL",
+    "field": "Billing Address",
+    "value": "2486, first floor, aravali viharsainik colony, sector 49",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.insiderbiz.in/company-map/PROBEROS-TRADING-PRIVATE-LIMITED",
+    "timestamp": "2026-08-31T12:01:54.313842"
+  },
+  {
+    "business": "PROBEROS MALL",
+    "field": "City",
+    "value": "aravali viharsainik colony",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.insiderbiz.in/company-map/PROBEROS-TRADING-PRIVATE-LIMITED",
+    "timestamp": "2026-08-31T12:01:54.313859"
+  },
+  {
+    "seller": "PROBEROS MALL",
+    "field": "Phone",
+    "query": "PROBEROS MALL phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://proberos.myshopify.com/pages/contact-us",
+      "https://www.sellerratings.com/amazon/india/proberos-mall",
+      "https://proberosfishing.com/",
+      "https://www.proberos.com/"
+    ],
+    "timestamp": "2026-08-31T12:02:00.561670",
+    "status": "results_found"
+  }
+]

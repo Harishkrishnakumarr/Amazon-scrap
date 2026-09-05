@@ -1,0 +1,802 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0C61C4XFK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T18:52:47.129724"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-29T18:52:52.163314",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-29T18:52:54.217395"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-29T18:52:54.916736"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343",
+      "https://www.falconebiz.com/company/CLICKTECH-RETAIL-PRIVATE-LIMITED-U52500WB2021PTC250343",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-08-29T18:53:01.116790",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-29T18:53:01.754163"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-29T18:53:01.754177"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-29T18:53:01.754182"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-29T18:53:01.754205"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-33aajcc9783e1ze/",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-gstin-21AAJCC9783E1ZJ"
+    ],
+    "timestamp": "2026-08-29T18:53:12.695949",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.calculator.net/basic-calculator.html",
+      "https://solvecalc.net/",
+      "https://basiccalculatoronline.com/",
+      "https://www.calculator.net/percent-calculator.html"
+    ],
+    "timestamp": "2026-08-29T18:53:14.623200",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://fr.scribd.com/document/1069203057/Syllabus-Du-Cours-de-Macro-Economie-CTPEA-2025-2026",
+      "https://fr.scribd.com/document/1048835692/Syllabus-macroeconomie-2024-2025",
+      "https://www.dgb.cm/wp-content/uploads/wpfd/preview_files/Module_5_ELABORATION_DU_CADRAGE_MACROECONOMIQUE(06ac68cc0db1c6c3992eb55812168e55).pdf",
+      "https://www.esgen.edu.dz/wp-content/uploads/2025/07/Syllabus-SEGC-Prepa-S2-Macroeconomie.pdf"
+    ],
+    "timestamp": "2026-08-29T18:53:25.241889",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-29T18:53:34.425486",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://recruit.unimicron.com/Jobs/Detail?sn=6f9fb29d-2783-4e2f-bc34-d6d8a174cf25",
+      "https://mfctx.unimicron.com/cgi/",
+      "https://unilife.unimicron.com/ctractor/OpenDialog/OpenDiallog_worknumb.aspx?type=emp",
+      "https://unilife.unimicron.com/ctractor/"
+    ],
+    "timestamp": "2026-08-29T18:53:42.741552",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.masterdata.in/company/clicktech_retail_private_limited/U52500WB2021PTC250343",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-08-29T18:53:52.351183",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://clicktechretail.in/about/",
+      "https://www.datanyze.com/companies/clicktech-retail-pvt/1312362907",
+      "https://tracxn.com/d/companies/clicktech-retail/__RcRWQ1ZQtw3jD_s4hQA53_JfiOu1Gx9N5yndQwnUAvQ"
+    ],
+    "timestamp": "2026-08-29T18:53:59.879782",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://foodvietnamese.com/best-food-in-vietnam/",
+      "https://www.tasteatlas.com/best-rated-dishes-in-vietnam",
+      "https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes",
+      "https://www.govietnam.tours/vietnamese-food-guide-21-dishes-you-cant-miss/"
+    ],
+    "timestamp": "2026-08-29T18:54:05.894599",
+    "status": "results_found"
+  },
+  {
+    "business": "Tawish",
+    "field": "Business Name",
+    "value": "Tawish",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3OI4CI0AV7WL2&asin=B0FKSPRHK1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T18:54:27.100392"
+  },
+  {
+    "seller": "Tawish",
+    "field": "Website",
+    "query": "Tawish official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.tawish.com/",
+      "https://www.tavishb.com/"
+    ],
+    "timestamp": "2026-08-29T18:54:35.461992",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tawish",
+    "field": "Legal Entity Name",
+    "query": "Tawish company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.abc.net.au/news/elections/secret-harbour-by-election-2026"
+    ],
+    "timestamp": "2026-08-29T18:55:22.026502",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tawish",
+    "field": "Legal Entity Name",
+    "query": "Tawish Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449",
+      "https://forum.lowyat.net/topic/5519991"
+    ],
+    "timestamp": "2026-08-29T18:55:28.378494",
+    "status": "results_found"
+  },
+  {
+    "business": "Tawish",
+    "field": "Phone Number",
+    "value": "+919210579250",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://forum.lowyat.net/Kopitiam",
+    "timestamp": "2026-08-29T18:55:30.063066"
+  },
+  {
+    "seller": "Tawish",
+    "field": "PAN",
+    "query": "Tawish PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-37910805-probleme-etrange-avec-les-groupes-instagram",
+      "https://forums.commentcamarche.net/forum/affich-36452377-instagram-je-ne-peux-plus-voir-qui-a-vu-mes-story-instants",
+      "https://it.ccm.net/faq/27293-come-riattivare-un-account-instagram-disabilitato",
+      "https://it.ccm.net/download/scaricare-3393-instagram-per-pc"
+    ],
+    "timestamp": "2026-08-29T18:55:36.171095",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tawish",
+    "field": "PAN",
+    "query": "Tawish PAN number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide"
+    ],
+    "timestamp": "2026-08-29T18:55:45.002261",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tawish",
+    "field": "GST",
+    "query": "Tawish GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/karpathy/nanochat",
+      "https://github.com/rasbt/LLMs-from-scratch"
+    ],
+    "timestamp": "2026-08-29T18:55:48.076070",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tawish",
+    "field": "GST",
+    "query": "Tawish GST number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/tavish-overseas-27adxpt0826h1zz/",
+      "https://www.registerkaro.in/gst-number-search"
+    ],
+    "timestamp": "2026-08-29T18:56:05.001136",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tawish",
+    "field": "Owner",
+    "query": "Tawish director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.auraarchitecturestudio.com/people",
+      "https://www.affluense.ai/profile/tawish-tayal-aura-5492a1",
+      "https://www.aurarch.com/tawish",
+      "https://www.thecompanycheck.com/people-profile/tawish-tayal/08492008"
+    ],
+    "timestamp": "2026-08-29T18:56:08.217183",
+    "status": "results_found"
+  },
+  {
+    "business": "Tawish",
+    "field": "Email Address",
+    "value": "info@auraarchitecturestudio.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.auraarchitecturestudio.com/people",
+    "timestamp": "2026-08-29T18:56:08.903892"
+  },
+  {
+    "seller": "Tawish",
+    "field": "Owner",
+    "query": "Tawish founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.bankersadda.com/sbi-clerk-apply-online-2026/"
+    ],
+    "timestamp": "2026-08-29T18:56:13.744019",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tawish",
+    "field": "Address",
+    "query": "Tawish registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://sprp.prod.netflix.net/"
+    ],
+    "timestamp": "2026-08-29T18:56:16.186848",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tawish",
+    "field": "Address",
+    "query": "Tawish registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tnreginet.co.in/sub-registrar-office-tamil-nadu",
+      "https://www.emis.com/php/company-profile/TH/Tawish_World_Company_Limited_en_13384956.html",
+      "https://tracxn.com/d/legal-entities/india/tavish-law-offices-llp/__ATNVZy3HjhLNKo01nhITNA6ohbQQKE6TiDfpDVDNzog",
+      "https://www.scribd.com/doc/148782461/Tamilnadu-Tahsildars-Phone-Numbers"
+    ],
+    "timestamp": "2026-08-29T18:56:24.238298",
+    "status": "results_found"
+  },
+  {
+    "business": "Triveni Wire and Cable",
+    "field": "Business Name",
+    "value": "Triveni Wire and Cable",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1BB525IMV6BBA&isAmazonFulfilled=1&asin=B0B7GFY9V6&ref_=olp_merch_name_1",
+    "timestamp": "2026-08-29T18:56:27.927051"
+  },
+  {
+    "seller": "Triveni Wire and Cable",
+    "field": "Website",
+    "query": "Triveni Wire and Cable official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.trivenigroup.com/",
+      "https://www.triveniturbines.com/"
+    ],
+    "timestamp": "2026-08-29T18:56:29.159568",
+    "status": "results_found"
+  },
+  {
+    "business": "Triveni Wire and Cable",
+    "field": "Website URL",
+    "value": "https://www.triveniwireandcable.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.triveniwireandcable.com/",
+    "timestamp": "2026-08-29T18:56:31.487222"
+  },
+  {
+    "business": "Triveni Wire and Cable",
+    "field": "Phone Number",
+    "value": "+919810083888",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.triveniwireandcable.com/",
+    "timestamp": "2026-08-29T18:56:32.109845"
+  },
+  {
+    "business": "Triveni Wire and Cable",
+    "field": "Email Address",
+    "value": "info@triveniwireandcable.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.triveniwireandcable.com/",
+    "timestamp": "2026-08-29T18:56:32.110013"
+  },
+  {
+    "seller": "Triveni Wire and Cable",
+    "field": "Legal Entity Name",
+    "query": "Triveni Wire and Cable company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trivenigroup.com/",
+      "https://www.triveniturbines.com/",
+      "https://www.trivenigroup.com/who-we-are",
+      "https://www.trivenialmirah.com/"
+    ],
+    "timestamp": "2026-08-29T18:56:35.906981",
+    "status": "results_found"
+  },
+  {
+    "seller": "Triveni Wire and Cable",
+    "field": "Legal Entity Name",
+    "query": "Triveni Wire and Cable Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trivenigroup.com/",
+      "https://www.triveniturbines.com/",
+      "https://www.trivenigroup.com/who-we-are",
+      "https://www.trivenialmirah.com/"
+    ],
+    "timestamp": "2026-08-29T18:56:46.046097",
+    "status": "results_found"
+  },
+  {
+    "seller": "Triveni Wire and Cable",
+    "field": "PAN",
+    "query": "Triveni Wire and Cable PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trivenigroup.com/",
+      "https://www.triveniturbines.com/",
+      "https://www.trivenigroup.com/who-we-are",
+      "https://www.trivenialmirah.com/"
+    ],
+    "timestamp": "2026-08-29T18:56:51.739422",
+    "status": "results_found"
+  },
+  {
+    "seller": "Triveni Wire and Cable",
+    "field": "PAN",
+    "query": "Triveni Wire and Cable PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trivenigroup.com/",
+      "https://www.triveniturbines.com/",
+      "https://www.trivenigroup.com/who-we-are",
+      "https://www.trivenialmirah.com/"
+    ],
+    "timestamp": "2026-08-29T18:56:59.429024",
+    "status": "results_found"
+  },
+  {
+    "seller": "Triveni Wire and Cable",
+    "field": "GST",
+    "query": "Triveni Wire and Cable GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trivenigroup.com/",
+      "https://www.triveniturbines.com/",
+      "https://www.trivenigroup.com/who-we-are",
+      "https://www.trivenialmirah.com/"
+    ],
+    "timestamp": "2026-08-29T18:57:07.175163",
+    "status": "results_found"
+  },
+  {
+    "seller": "Triveni Wire and Cable",
+    "field": "GST",
+    "query": "Triveni Wire and Cable GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trivenigroup.com/",
+      "https://www.triveniturbines.com/",
+      "https://www.trivenigroup.com/who-we-are",
+      "https://www.trivenialmirah.com/"
+    ],
+    "timestamp": "2026-08-29T18:57:17.880197",
+    "status": "results_found"
+  },
+  {
+    "seller": "Triveni Wire and Cable",
+    "field": "Owner",
+    "query": "Triveni Wire and Cable director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trivenigroup.com/",
+      "https://www.triveniturbines.com/",
+      "https://www.trivenigroup.com/who-we-are",
+      "https://www.trivenialmirah.com/"
+    ],
+    "timestamp": "2026-08-29T18:57:22.015923",
+    "status": "results_found"
+  },
+  {
+    "seller": "Triveni Wire and Cable",
+    "field": "Owner",
+    "query": "Triveni Wire and Cable founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.trivenigroup.com/"
+    ],
+    "timestamp": "2026-08-29T18:57:33.875125",
+    "status": "results_found"
+  },
+  {
+    "seller": "Triveni Wire and Cable",
+    "field": "Address",
+    "query": "Triveni Wire and Cable registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trivenigroup.com/",
+      "https://www.triveniturbines.com/",
+      "https://www.trivenigroup.com/who-we-are",
+      "https://www.trivenialmirah.com/"
+    ],
+    "timestamp": "2026-08-29T18:57:36.036364",
+    "status": "results_found"
+  },
+  {
+    "seller": "Triveni Wire and Cable",
+    "field": "Address",
+    "query": "Triveni Wire and Cable registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trivenigroup.com/",
+      "https://www.triveniturbines.com/",
+      "https://www.trivenigroup.com/who-we-are",
+      "https://www.trivenialmirah.com/"
+    ],
+    "timestamp": "2026-08-29T18:57:49.260650",
+    "status": "results_found"
+  },
+  {
+    "business": "The Wire Hub",
+    "field": "Business Name",
+    "value": "The Wire Hub",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AN75XE2J5LI0P&isAmazonFulfilled=0&asin=B0C943J6CY&ref_=olp_merch_name_1",
+    "timestamp": "2026-08-29T18:57:51.711877"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "Website",
+    "query": "The Wire Hub official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://wire.com/en/",
+      "https://thewire.in/"
+    ],
+    "timestamp": "2026-08-29T18:57:53.376267",
+    "status": "results_found"
+  },
+  {
+    "business": "The Wire Hub",
+    "field": "Website URL",
+    "value": "https://wire.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://wire.com/en/",
+    "timestamp": "2026-08-29T18:58:01.542414"
+  },
+  {
+    "business": "The Wire Hub",
+    "field": "Email Address",
+    "value": "privacy@wire.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://wire.com/legal",
+    "timestamp": "2026-08-29T18:58:18.459237"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "Legal Entity Name",
+    "query": "The Wire Hub company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wire.com/en/",
+      "https://thewire.in/",
+      "https://wire.com/en/app-download",
+      "https://thewire.in/%E2%80%9C"
+    ],
+    "timestamp": "2026-08-29T18:58:19.996239",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "Legal Entity Name",
+    "query": "The Wire Hub Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://wire.com/en/",
+      "https://thewire.in/",
+      "https://wire.com/en/app-download"
+    ],
+    "timestamp": "2026-08-29T18:58:27.276862",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "PAN",
+    "query": "The Wire Hub PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wire.com/en/",
+      "https://thewire.in/",
+      "https://wire.com/en/app-download",
+      "https://thewire.in/%E2%80%9C"
+    ],
+    "timestamp": "2026-08-29T18:58:32.913122",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "PAN",
+    "query": "The Wire Hub PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wire.com/en/",
+      "https://thewire.in/",
+      "https://wire.com/en/app-download",
+      "https://thewire.in/%E2%80%9C"
+    ],
+    "timestamp": "2026-08-29T18:58:38.707174",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "GST",
+    "query": "The Wire Hub GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wire.com/en/",
+      "https://thewire.in/",
+      "https://wire.com/en/app-download",
+      "https://thewire.in/%E2%80%9C"
+    ],
+    "timestamp": "2026-08-29T18:58:45.769790",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "GST",
+    "query": "The Wire Hub GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wire.com/en/",
+      "https://thewire.in/",
+      "https://wire.com/en/app-download",
+      "https://thewire.in/%E2%80%9C"
+    ],
+    "timestamp": "2026-08-29T18:58:53.110343",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "Owner",
+    "query": "The Wire Hub director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wire.com/en/",
+      "https://thewire.in/",
+      "https://wire.com/en/app-download",
+      "https://thewire.in/%E2%80%9C"
+    ],
+    "timestamp": "2026-08-29T18:59:02.146309",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "Owner",
+    "query": "The Wire Hub founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wire.com/en/",
+      "https://thewire.in/",
+      "https://wire.com/en/app-download",
+      "https://thewire.in/%E2%80%9C"
+    ],
+    "timestamp": "2026-08-29T18:59:13.905037",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "Address",
+    "query": "The Wire Hub registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wire.com/en/",
+      "https://thewire.in/",
+      "https://wire.com/en/app-download",
+      "https://thewire.in/%E2%80%9C"
+    ],
+    "timestamp": "2026-08-29T18:59:20.313378",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "Address",
+    "query": "The Wire Hub registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wire.com/en/",
+      "https://thewire.in/",
+      "https://wire.com/en/app-download",
+      "https://thewire.in/%E2%80%9C"
+    ],
+    "timestamp": "2026-08-29T18:59:33.792765",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "Phone",
+    "query": "The Wire Hub phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wire.com/en/",
+      "https://thewire.in/",
+      "https://wire.com/en/app-download",
+      "https://thewire.in/%E2%80%9C"
+    ],
+    "timestamp": "2026-08-29T18:59:35.094958",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Wire Hub",
+    "field": "Phone",
+    "query": "The Wire Hub contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wire-hub.com/",
+      "https://www.yelp.com/biz/wire-hub-boynton-beach-11",
+      "https://www.chamberofcommerce.com/united-states/florida/boynton-beach/home-automation-company/2012575948-wire-hub",
+      "https://www.yelp.com/biz/wire-hub-coral-gables"
+    ],
+    "timestamp": "2026-08-29T18:59:58.429801",
+    "status": "results_found"
+  }
+]

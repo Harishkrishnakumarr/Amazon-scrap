@@ -1,0 +1,626 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0H7CGM9F1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T15:49:17.623082"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-09-01T15:49:19.771887",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-01T15:49:27.383837",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T15:49:28.694756"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T15:49:28.694784"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T15:49:28.694792"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-01T15:49:28.694797"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "ant.agarwal@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+    "timestamp": "2026-09-01T15:49:30.301047"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://udyamsearch.com/"
+    ],
+    "timestamp": "2026-09-01T15:49:34.131375",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://tenderkart.in/gst-number-search/36AALCR3173P1ZO"
+    ],
+    "timestamp": "2026-09-01T15:49:51.054128",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "18AALCR3173P1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-01T15:49:59.832493"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-01T15:49:59.832526"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://gst.jamku.app/gstin/36AALCR3173P1ZO"
+    ],
+    "timestamp": "2026-09-01T15:50:02.756984",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://in.fashionnetwork.com/news/Rupa-and-company-s-promoters-launch-retailez-on-amazon-india,1427124.html#:~:text=Clothing%20manufacturing%20business%20Rupa%20and%20Company%E2%80%99s%20promoters%20Siddhant,India%20to%20take%20over%20part%20of%20Cloudtail%E2%80%99s%20business.",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://www.moneycontrol.com/news/business/markets/qimat-rai-gupta-havells-story-school-teacher-who-built-rs-80000-crore-electrical-products-busines-14002008.html"
+    ],
+    "timestamp": "2026-09-01T15:50:10.942078",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM"
+    ],
+    "timestamp": "2026-09-01T15:50:21.736809",
+    "status": "results_found"
+  },
+  {
+    "business": "STAR WORK",
+    "field": "Business Name",
+    "value": "STAR WORK",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AR7MJWIP1B1AT&asin=B09CTXXXL4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T15:50:37.151308"
+  },
+  {
+    "business": "STAR WORK",
+    "field": "Phone Number",
+    "value": "+919316774841",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AR7MJWIP1B1AT&asin=B09CTXXXL4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T15:50:37.151385"
+  },
+  {
+    "seller": "STAR WORK",
+    "field": "Website",
+    "query": "STAR WORK official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://starwork.in/",
+      "https://starwork.in/collections/drink-ware"
+    ],
+    "timestamp": "2026-09-01T15:50:39.446093",
+    "status": "results_found"
+  },
+  {
+    "business": "STAR WORK",
+    "field": "Website URL",
+    "value": "https://www.starwork.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.starwork.com/",
+    "timestamp": "2026-09-01T15:50:41.961892"
+  },
+  {
+    "seller": "STAR WORK",
+    "field": "Legal Entity Name",
+    "query": "STAR WORK company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starwork.in/pages/product-warranty-registration",
+      "https://starwork.in/",
+      "https://juststart.co.in/",
+      "https://www.startbusiness.co.in/"
+    ],
+    "timestamp": "2026-09-01T15:50:47.035948",
+    "status": "results_found"
+  },
+  {
+    "business": "STAR WORK",
+    "field": "Email Address",
+    "value": "support@starwork.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://starwork.in/pages/product-warranty-registration",
+    "timestamp": "2026-09-01T15:50:50.754169"
+  },
+  {
+    "seller": "STAR WORK",
+    "field": "PAN",
+    "query": "STAR WORK PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/how-to-search-information-using-pan-number-a-complete-guide",
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-09-01T15:51:06.908857",
+    "status": "results_found"
+  },
+  {
+    "seller": "STAR WORK",
+    "field": "GST",
+    "query": "STAR WORK GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/star-work-24fvkps6121j1z8/#:~:text=GSTIN%2024FVKPS6121J1Z8%20is%20registered%20under%20the%20name%20STAR,PAN%20number%20associated%20with%20this%20GSTIN%20is%20FVKPS6121J.",
+      "https://gstverify.co.in/gst/star-work-24fvkps6121j1z8/",
+      "https://piceapp.com/gst-number-search/star-work-24fvkps6121j1z8/",
+      "https://smartgst.in/tools/gst-registration-status"
+    ],
+    "timestamp": "2026-09-01T15:51:23.698299",
+    "status": "results_found"
+  },
+  {
+    "seller": "STAR WORK",
+    "field": "Owner",
+    "query": "STAR WORK director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.forestsoftware.co.uk/blog/2025/02/which-job-title-is-correct-when-running-a-small-business/",
+      "https://starworktools.com/pages/about-starwork",
+      "https://www.exchange4media.com/media-tv-news/the-disney-star-leadership-factory-nurturing-media-bosses-135947.html",
+      "https://www.cbinsights.com/company/star-development/people"
+    ],
+    "timestamp": "2026-09-01T15:52:07.266400",
+    "status": "results_found"
+  },
+  {
+    "seller": "STAR WORK",
+    "field": "Address",
+    "query": "STAR WORK registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.algatesinsurance.in/resources/policy-documents/star-health-insurance/star-comprehensive-brochure.pdf#:~:text=red%20Office%20%3A%20No.%201%2C%20New%20Tank%20Street%2C,No.%20148%2C%20Acropolis%2C%20Dr.%20Radha%20Krishnan%20Salai%2C%20Myl",
+      "https://www.moneycontrol.com/company-facts/starhealthalliedinsurancecompany/management/sha",
+      "https://craft.co/star-health-and-allied-insurance/locations",
+      "https://nsearchives.nseindia.com/corporate/STARHEALTH_01122023145602_Shiftingofcorporateoffice.pdf"
+    ],
+    "timestamp": "2026-09-01T15:52:12.346572",
+    "status": "results_found"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "Business Name",
+    "value": "Shanbuyers",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AIDHTYRZFRSKW&asin=B0D8TH3SYT&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-01T15:52:26.134115"
+  },
+  {
+    "seller": "Shanbuyers",
+    "field": "Website",
+    "query": "Shanbuyers official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.shanbuyers.com/about-the-company.html",
+      "https://www.shanbuyers.com/profile.html"
+    ],
+    "timestamp": "2026-09-01T15:52:28.314185",
+    "status": "results_found"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "Website URL",
+    "value": "https://www.shanbuyers.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.shanbuyers.com/",
+    "timestamp": "2026-09-01T15:52:31.302086"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "Phone Number",
+    "value": "+918047670828",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shanbuyers.com/",
+    "timestamp": "2026-09-01T15:52:32.163539"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "GST Number",
+    "value": "27BNMPS4442L1ZC",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shanbuyers.com/",
+    "timestamp": "2026-09-01T15:52:32.164456"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "PAN Number",
+    "value": "BNMPS4442L",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shanbuyers.com/",
+    "timestamp": "2026-09-01T15:52:32.164468"
+  },
+  {
+    "seller": "Shanbuyers",
+    "field": "Legal Entity Name",
+    "query": "Shanbuyers company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shanbuyers.com/about-the-company.html",
+      "https://www.shanbuyers.com/profile.html",
+      "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/",
+      "https://www.knowyourgst.com/gst-number-search/shanbuyers-33BNMPS4442L1ZJ/"
+    ],
+    "timestamp": "2026-09-01T15:52:40.567060",
+    "status": "results_found"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "Email Address",
+    "value": "hello@pice.one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/",
+    "timestamp": "2026-09-01T15:52:51.861737"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/",
+    "timestamp": "2026-09-01T15:52:51.881640"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/",
+    "timestamp": "2026-09-01T15:52:51.881659"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/",
+    "timestamp": "2026-09-01T15:52:51.881669"
+  },
+  {
+    "business": "Shanbuyers",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shanbuyers-33bnmps4442l1zj/",
+    "timestamp": "2026-09-01T15:52:51.881674"
+  },
+  {
+    "seller": "Shanbuyers",
+    "field": "Owner",
+    "query": "Shanbuyers director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shanbuyers.com/about-the-company.html",
+      "https://www.shanbuyers.com/profile.html",
+      "https://www.mastersindia.co/gst-search/?name=darshan-sunil-shah&gstin=27BNMPS4442L1ZC",
+      "https://www.salesforce.com/company/leadership/"
+    ],
+    "timestamp": "2026-09-01T15:52:54.748413",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shanbuyers",
+    "field": "Owner",
+    "query": "Shanbuyers founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shanbuyers.com/profile.html",
+      "https://www.shanbuyers.com/about-the-company.html",
+      "https://www.shanbuyers.com/",
+      "https://www.mastersindia.co/gst-search/?name=darshan-sunil-shah&gstin=27BNMPS4442L1ZC"
+    ],
+    "timestamp": "2026-09-01T15:53:07.835668",
+    "status": "results_found"
+  },
+  {
+    "business": "Vasukie",
+    "field": "Business Name",
+    "value": "Vasukie",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3R5OU0OLW8DIS&isAmazonFulfilled=1&asin=B0H7CGM9F1&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-01T15:53:10.940640"
+  },
+  {
+    "seller": "Vasukie",
+    "field": "Website",
+    "query": "Vasukie official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "http://vasukie.in/",
+      "https://www.vasukiindia.com/our-products/"
+    ],
+    "timestamp": "2026-09-01T15:53:13.991218",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vasukie",
+    "field": "Legal Entity Name",
+    "query": "Vasukie company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/vasukie-business-malls-private-limited/__h-NdWpOq-HuyiSqsmChSjKftj1lHLLQucEgiSsvq98Y",
+      "https://www.indiafilings.com/search/vasukie-business-malls-private-limited-cin-U51391PN2006PTC129325",
+      "https://weedoo.in/udyam-companies/vasuki-enterprise/HaYzjUB0ljtv6TNL",
+      "https://www.legalentityidentifier.in/leicert/335800VTSLR3F9EVCW92/"
+    ],
+    "timestamp": "2026-09-01T15:53:27.643293",
+    "status": "results_found"
+  },
+  {
+    "business": "Vasukie",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vasukie-business-malls-private-limited/__h-NdWpOq-HuyiSqsmChSjKftj1lHLLQucEgiSsvq98Y",
+    "timestamp": "2026-09-01T15:53:28.815790"
+  },
+  {
+    "business": "Vasukie",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vasukie-business-malls-private-limited/__h-NdWpOq-HuyiSqsmChSjKftj1lHLLQucEgiSsvq98Y",
+    "timestamp": "2026-09-01T15:53:28.815808"
+  },
+  {
+    "business": "Vasukie",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vasukie-business-malls-private-limited/__h-NdWpOq-HuyiSqsmChSjKftj1lHLLQucEgiSsvq98Y",
+    "timestamp": "2026-09-01T15:53:28.815813"
+  },
+  {
+    "business": "Vasukie",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vasukie-business-malls-private-limited/__h-NdWpOq-HuyiSqsmChSjKftj1lHLLQucEgiSsvq98Y",
+    "timestamp": "2026-09-01T15:53:28.815817"
+  },
+  {
+    "business": "Vasukie",
+    "field": "Email Address",
+    "value": "vishnu_bhosale507@yahoo.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/vasukie-business-malls-private-limited-cin-U51391PN2006PTC129325",
+    "timestamp": "2026-09-01T15:53:29.954468"
+  },
+  {
+    "seller": "Vasukie",
+    "field": "Legal Entity Name",
+    "query": "Vasukie Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://qorpiq.com/company/vasuki-pharmacy-private-limited/U51397TZ2005PTC011925",
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://www.udyam.ltd/blog/udyam-search-by-name"
+    ],
+    "timestamp": "2026-09-01T15:53:32.468044",
+    "status": "results_found"
+  },
+  {
+    "business": "Vasukie",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-01T15:53:37.239603"
+  },
+  {
+    "seller": "Vasukie",
+    "field": "PAN",
+    "query": "Vasukie PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-01T15:53:53.973329",
+    "status": "no_results"
+  },
+  {
+    "seller": "Vasukie",
+    "field": "PAN",
+    "query": "Vasukie PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://gstserver.com/gst/33AAKFV3268M1ZN/",
+      "https://tin.tin.proteantech.in/pantan/StatusTrack.html",
+      "https://gstserver.com/gst/33ADEPV3604N1ZC/"
+    ],
+    "timestamp": "2026-09-01T15:53:56.455114",
+    "status": "results_found"
+  },
+  {
+    "business": "Vasukie",
+    "field": "GST Number",
+    "value": "33AAKFV3268M1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/33AAKFV3268M1ZN/",
+    "timestamp": "2026-09-01T15:53:58.541882"
+  },
+  {
+    "business": "Vasukie",
+    "field": "PAN Number",
+    "value": "AAKFV3268M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/33AAKFV3268M1ZN/",
+    "timestamp": "2026-09-01T15:53:58.541899"
+  },
+  {
+    "seller": "Vasukie",
+    "field": "Owner",
+    "query": "Vasukie director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rocketreach.co/vasukie-management_b6dea89ac7355c44",
+      "https://www.cbinsights.com/company/vasuki/people",
+      "https://tracxn.com/d/legal-entities/india/vasukie-business-malls-private-limited/__h-NdWpOq-HuyiSqsmChSjKftj1lHLLQucEgiSsvq98Y",
+      "https://www.infyner.com/company/vasuki-global-industries-limited/U51909GJ2016PLC094381"
+    ],
+    "timestamp": "2026-09-01T15:54:00.931059",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vasukie",
+    "field": "Owner",
+    "query": "Vasukie founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rocketreach.co/vasukie-management_b6dea89ac7355c44",
+      "https://www.cbinsights.com/company/vasuki/people",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.business-standard.com/content/press-releases-ani/vasuki-india-raises-100-crore-from-an-nri-investor-extends-fund-raise-until-december-2026-126080600505_1.html"
+    ],
+    "timestamp": "2026-09-01T15:54:26.302566",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "category": "Ref=Nb Sb Noss 1",
+  "records_before_save": 8,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "JKC Emart (Customer Desk - 972 695 4303)",
+      "database_id": 1343,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919726954303",
+      "email": "customercare@jkcemart.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

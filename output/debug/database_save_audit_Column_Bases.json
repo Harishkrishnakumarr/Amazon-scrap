@@ -1,0 +1,74 @@
+{
+  "category": "Column Bases",
+  "records_before_save": 7,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ETrade Online",
+      "database_id": 1364,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916122040066",
+      "email": "mswcorporatesupport@morganstanley.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Taher & Brothers",
+      "database_id": 1365,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "taherbrothers@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.taher.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Flizon Mart",
+      "database_id": 1366,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918178042035",
+      "email": "info@kcorptax.in",
+      "gst": "08AAFFF5597A1ZE",
+      "pan": "AAFFF5597A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RUHEEM ARTS",
+      "database_id": 1367,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "07AAACG9092R1ZT",
+      "pan": "AAACG9092R",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "PROBEROS MALL",
+      "database_id": 1368,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "rc8606109@gmail.com",
+      "gst": "33AAMCP0187G1ZE",
+      "pan": "AAMCP0187G",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

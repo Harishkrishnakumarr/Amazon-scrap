@@ -1,0 +1,74 @@
+{
+  "category": "Solar Alternatives",
+  "records_before_save": 12,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ETrade Online",
+      "database_id": 1321,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "PETCATALOGUE E-SHOP",
+      "database_id": 1322,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919355858988",
+      "email": "contact@janaushadhistore.online",
+      "gst": "06ABCFP4468J1ZY",
+      "pan": "ABCFP4468J",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "LRD Hub",
+      "database_id": 1323,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "marugujarat.in@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Elyssion Designs",
+      "database_id": 1324,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918178251017",
+      "email": "elysiandesigns@gmail.com",
+      "gst": "06AAFCE1472L1ZK",
+      "pan": "AAFCE1472L",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "LR_DECOR",
+      "database_id": 1325,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}
