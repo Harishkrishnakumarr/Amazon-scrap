@@ -117010,3 +117010,846 @@ Call log:
   - navigating to "https://www.amazon.in/s?k=Massage+Chairs", waiting until "domcontentloaded"
 
 2026-09-05 18:58:36,104 - INFO - Closed Playwright browser session safely
+2026-09-05 19:04:21,611 - INFO - Starting Amazon Multi-Category Batch Processing Mode
+2026-09-05 19:04:21,612 - INFO - Initialized SQLite database schema at amazon_sellers.db
+2026-09-05 19:04:21,616 - INFO - Target Category: 'Spa Trolleys'
+2026-09-05 19:04:21,616 - INFO - Target URL: 'https://www.amazon.in/s?k=Spa+Trolleys'
+2026-09-05 19:04:23,233 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-05 19:04:23,233 - INFO - Discovering products for category 'Spa Trolleys' from https://www.amazon.in/s?k=Spa+Trolleys...
+2026-09-05 19:04:23,279 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Spa+Trolleys
+2026-09-05 19:04:23,501 - ERROR - Error during category run 'Spa Trolleys': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Spa+Trolleys", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Spa+Trolleys", waiting until "domcontentloaded"
+
+2026-09-05 19:04:23,541 - INFO - Closed Playwright browser session safely
+2026-09-05 19:04:23,555 - INFO - Target Category: 'Lounger Chaises'
+2026-09-05 19:04:23,555 - INFO - Target URL: 'https://www.amazon.in/s?k=Lounger+Chaises'
+2026-09-05 19:04:23,963 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-05 19:04:23,963 - INFO - Discovering products for category 'Lounger Chaises' from https://www.amazon.in/s?k=Lounger+Chaises...
+2026-09-05 19:04:24,007 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Lounger+Chaises
+2026-09-05 19:04:24,148 - ERROR - Error during category run 'Lounger Chaises': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Lounger+Chaises", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Lounger+Chaises", waiting until "domcontentloaded"
+
+2026-09-05 19:04:24,189 - INFO - Closed Playwright browser session safely
+2026-09-05 19:04:24,202 - INFO - Target Category: 'Home Temple'
+2026-09-05 19:04:24,202 - INFO - Target URL: 'https://www.amazon.in/s?k=Home+Temple'
+2026-09-05 19:04:24,606 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-05 19:04:24,606 - INFO - Discovering products for category 'Home Temple' from https://www.amazon.in/s?k=Home+Temple...
+2026-09-05 19:04:24,647 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Home+Temple
+2026-09-05 19:04:24,786 - ERROR - Error during category run 'Home Temple': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Home+Temple", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Home+Temple", waiting until "domcontentloaded"
+
+2026-09-05 19:04:24,828 - INFO - Closed Playwright browser session safely
+2026-09-05 19:04:24,841 - INFO - Target Category: 'Benches'
+2026-09-05 19:04:24,841 - INFO - Target URL: 'https://www.amazon.in/s?k=Benches'
+2026-09-05 19:04:25,236 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-05 19:04:25,236 - INFO - Discovering products for category 'Benches' from https://www.amazon.in/s?k=Benches...
+2026-09-05 19:04:25,279 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Benches
+2026-09-05 19:04:25,423 - ERROR - Error during category run 'Benches': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Benches", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Benches", waiting until "domcontentloaded"
+
+2026-09-05 19:04:25,464 - INFO - Closed Playwright browser session safely
+2026-09-05 19:04:25,477 - INFO - Target Category: 'Pedicure & Manicure Chairs'
+2026-09-05 19:04:25,477 - INFO - Target URL: 'https://www.amazon.in/s?k=Pedicure+%26+Manicure+Chairs'
+2026-09-05 19:04:25,877 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-05 19:04:25,877 - INFO - Discovering products for category 'Pedicure & Manicure Chairs' from https://www.amazon.in/s?k=Pedicure+%26+Manicure+Chairs...
+2026-09-05 19:04:25,914 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Pedicure+%26+Manicure+Chairs
+2026-09-05 19:04:28,769 - INFO - Found 205 raw product links on page 1
+2026-09-05 19:04:28,947 - INFO - Discovered 10 total unique product URLs so far
+2026-09-05 19:04:28,992 - INFO - Discovered 10 products for category 'Pedicure & Manicure Chairs'
+2026-09-05 19:04:28,992 - INFO - [1/10] Processing product ASIN: B0GX9MVBC2
+2026-09-05 19:04:29,040 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GX9MVBC2
+2026-09-05 19:04:31,519 - INFO - PRODUCT: Product summary presents key product information
+2026-09-05 19:04:31,520 - INFO - ASIN: B0GX9MVBC2
+2026-09-05 19:04:31,552 - INFO - BUY BOX SELLER: Sarang-Sales
+2026-09-05 19:04:31,552 - INFO - AOD: Opening All Offers...
+2026-09-05 19:04:32,830 - INFO - AOD: Initial offers found: 3
+2026-09-05 19:04:34,091 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-05 19:04:35,362 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-05 19:04:36,517 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-05 19:04:36,561 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-05 19:04:36,568 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GX9MVBC2 | TOTAL UNIQUE SELLERS: 2
+2026-09-05 19:04:36,569 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AO4I0DHL7AGHI&asin=B0GX9MVBC2&ref_=dp_merchant_link
+2026-09-05 19:04:37,406 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=AO4I0DHL7AGHI&sshmPath=shipping-rates
+2026-09-05 19:04:38,094 - INFO - [2/10] Processing product ASIN: B0DKTPF7JB
+2026-09-05 19:04:38,127 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0DKTPF7JB
+2026-09-05 19:04:40,630 - INFO - PRODUCT: Product summary presents key product information
+2026-09-05 19:04:40,631 - INFO - ASIN: B0DKTPF7JB
+2026-09-05 19:04:40,705 - INFO - BUY BOX SELLER: New Golden Furnisers Co.
+2026-09-05 19:04:40,706 - INFO - AOD: Opening All Offers...
+2026-09-05 19:04:40,796 - INFO - AOD: Initial offers found: 0
+2026-09-05 19:04:41,939 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-05 19:04:43,047 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-05 19:04:44,161 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-05 19:04:44,215 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-05 19:04:44,226 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0DKTPF7JB | TOTAL UNIQUE SELLERS: 1
+2026-09-05 19:04:44,226 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2OED94YDQ7X9Q&asin=B0DKTPF7JB&ref_=dp_merchant_link
+2026-09-05 19:04:45,205 - INFO - [3/10] Processing product ASIN: B0H7PMKPPK
+2026-09-05 19:04:45,244 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0H7PMKPPK
+2026-09-05 19:04:47,471 - INFO - PRODUCT: Product summary presents key product information
+2026-09-05 19:04:47,471 - INFO - ASIN: B0H7PMKPPK
+2026-09-05 19:04:47,498 - INFO - BUY BOX SELLER: Tanishka Global
+2026-09-05 19:04:47,498 - INFO - AOD: Opening All Offers...
+2026-09-05 19:04:47,555 - INFO - AOD: Initial offers found: 0
+2026-09-05 19:04:48,637 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-05 19:04:49,727 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-05 19:04:50,848 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-05 19:04:50,893 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-05 19:04:50,901 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0H7PMKPPK | TOTAL UNIQUE SELLERS: 1
+2026-09-05 19:04:50,901 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1X9AU4MT4ZT47&asin=B0H7PMKPPK&ref_=dp_merchant_link
+2026-09-05 19:04:51,652 - INFO - [4/10] Processing product ASIN: B0GPQ89KJ5
+2026-09-05 19:04:51,690 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GPQ89KJ5
+2026-09-05 19:04:53,894 - INFO - PRODUCT: Product summary presents key product information
+2026-09-05 19:04:53,894 - INFO - ASIN: B0GPQ89KJ5
+2026-09-05 19:04:53,917 - INFO - BUY BOX SELLER: Delavala
+2026-09-05 19:04:53,918 - INFO - AOD: Opening All Offers...
+2026-09-05 19:04:54,020 - INFO - AOD: Initial offers found: 0
+2026-09-05 19:04:55,124 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-05 19:04:56,212 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-05 19:04:57,288 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-05 19:04:57,328 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-05 19:04:57,335 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GPQ89KJ5 | TOTAL UNIQUE SELLERS: 1
+2026-09-05 19:04:57,335 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WMBP0U81ALPM&asin=B0GPQ89KJ5&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-05 19:04:58,215 - INFO - [5/10] Processing product ASIN: B0FMGNVWSB
+2026-09-05 19:04:58,257 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0FMGNVWSB
+2026-09-05 19:05:00,563 - INFO - PRODUCT: Product summary presents key product information
+2026-09-05 19:05:00,563 - INFO - ASIN: B0FMGNVWSB
+2026-09-05 19:05:00,596 - INFO - BUY BOX SELLER: Alifonus
+2026-09-05 19:05:00,596 - INFO - AOD: Opening All Offers...
+2026-09-05 19:05:00,654 - INFO - AOD: Initial offers found: 0
+2026-09-05 19:05:00,814 - INFO - Clicking offer load-more control: a:has-text('Show more')
+2026-09-05 19:05:02,433 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-05 19:05:03,531 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-05 19:05:04,770 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-05 19:05:04,814 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-05 19:05:04,822 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0FMGNVWSB | TOTAL UNIQUE SELLERS: 1
+2026-09-05 19:05:04,822 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A198H5LM96KSF7&asin=B0FMGNVWSB&ref_=dp_merchant_link
+2026-09-05 19:05:05,739 - INFO - [6/10] Processing product ASIN: B0FT8HV49P
+2026-09-05 19:05:05,776 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0FT8HV49P
+2026-09-05 19:05:07,995 - INFO - PRODUCT: Product summary presents key product information
+2026-09-05 19:05:07,995 - INFO - ASIN: B0FT8HV49P
+2026-09-05 19:05:08,038 - INFO - BUY BOX SELLER: NILKANTH VARNI ENTERPRISE.
+2026-09-05 19:05:08,038 - INFO - AOD: Opening All Offers...
+2026-09-05 19:05:08,153 - INFO - AOD: Initial offers found: 0
+2026-09-05 19:05:09,260 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-05 19:05:10,336 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-05 19:05:11,409 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-05 19:05:11,450 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-05 19:05:11,460 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0FT8HV49P | TOTAL UNIQUE SELLERS: 1
+2026-09-05 19:05:11,461 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3L6QRNQDKXDNE&asin=B0FT8HV49P&ref_=dp_merchant_link
+2026-09-05 19:05:12,317 - INFO - [7/10] Processing product ASIN: B07MKN51JR
+2026-09-05 19:05:12,357 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B07MKN51JR
+2026-09-05 19:05:15,045 - INFO - PRODUCT: Product summary presents key product information
+2026-09-05 19:05:15,045 - INFO - ASIN: B07MKN51JR
+2026-09-05 19:05:15,080 - INFO - BUY BOX SELLER: Finch Fox® - Happiness is Complimentary
+2026-09-05 19:05:15,080 - INFO - AOD: Opening All Offers...
+2026-09-05 19:05:15,174 - INFO - AOD: Initial offers found: 0
+2026-09-05 19:05:16,311 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-05 19:05:17,458 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-05 19:05:18,595 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-05 19:05:18,650 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-05 19:05:18,661 - INFO - AOD EXTRACTION COMPLETE | ASIN: B07MKN51JR | TOTAL UNIQUE SELLERS: 1
+2026-09-05 19:05:18,661 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A39AGBVX15R92B&asin=B07MKN51JR&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-05 19:05:19,515 - INFO - [8/10] Processing product ASIN: B0H2ZFWT3P
+2026-09-05 19:05:19,562 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0H2ZFWT3P
+2026-09-05 19:05:21,694 - INFO - PRODUCT: Product summary presents key product information
+2026-09-05 19:05:21,694 - INFO - ASIN: B0H2ZFWT3P
+2026-09-05 19:05:21,725 - INFO - BUY BOX SELLER: LUMIQ Shop
+2026-09-05 19:05:21,725 - INFO - AOD: Opening All Offers...
+2026-09-05 19:05:21,776 - INFO - AOD: Initial offers found: 0
+2026-09-05 19:05:22,844 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-05 19:05:23,945 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-05 19:05:25,032 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-05 19:05:25,071 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-05 19:05:25,080 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0H2ZFWT3P | TOTAL UNIQUE SELLERS: 1
+2026-09-05 19:05:25,080 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1FSC6RHEDC58T&asin=B0H2ZFWT3P&ref_=dp_merchant_link
+2026-09-05 19:05:25,993 - INFO - [9/10] Processing product ASIN: B0DP7LZ29B
+2026-09-05 19:05:26,035 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0DP7LZ29B
+2026-09-05 19:05:29,043 - INFO - PRODUCT: Product summary presents key product information
+2026-09-05 19:05:29,043 - INFO - ASIN: B0DP7LZ29B
+2026-09-05 19:05:29,132 - INFO - BUY BOX SELLER: Newturn Furnihub™-A Classela Venture
+2026-09-05 19:05:29,132 - INFO - AOD: Opening All Offers...
+2026-09-05 19:05:30,406 - INFO - AOD: Initial offers found: 3
+2026-09-05 19:05:31,660 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-05 19:05:32,866 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-05 19:05:34,093 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-05 19:05:34,159 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-05 19:05:34,172 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0DP7LZ29B | TOTAL UNIQUE SELLERS: 1
+2026-09-05 19:05:34,172 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1A027LGE10IPZ&asin=B0DP7LZ29B&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-05 19:05:35,130 - INFO - [10/10] Processing product ASIN: B0D3YLZS9T
+2026-09-05 19:05:35,170 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0D3YLZS9T
+2026-09-05 19:05:37,780 - INFO - PRODUCT: Product summary presents key product information
+2026-09-05 19:05:37,780 - INFO - ASIN: B0D3YLZS9T
+2026-09-05 19:05:38,112 - INFO - BUY BOX SELLER: Newturn Furnihub™-A Classela Venture
+2026-09-05 19:05:38,112 - INFO - AOD: Opening All Offers...
+2026-09-05 19:05:39,424 - INFO - AOD: Initial offers found: 3
+2026-09-05 19:05:40,654 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-05 19:05:41,887 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-05 19:05:43,144 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-05 19:05:43,211 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-05 19:05:43,226 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0D3YLZS9T | TOTAL UNIQUE SELLERS: 1
+2026-09-05 19:05:43,226 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1A027LGE10IPZ&asin=B0D3YLZS9T&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-05 19:05:44,023 - INFO - Top businesses requested: 100, found: 9 for 'Pedicure & Manicure Chairs'
+2026-09-05 19:05:44,023 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 9 businesses...
+2026-09-05 19:05:44,023 - INFO - Starting Public Enrichment Waterfall for business 'Sarang-Sales'...
+2026-09-05 19:05:46,756 - INFO - Verifying website ownership candidate: https://www.sarangsales.com/
+2026-09-05 19:05:46,848 - INFO - Verifying website ownership candidate: https://www.sarangsales.in/
+2026-09-05 19:05:46,889 - INFO - Verifying website ownership candidate: https://sarang.com/
+2026-09-05 19:05:47,350 - INFO - Verifying website ownership candidate: https://sarang.com/choir
+2026-09-05 19:05:49,153 - INFO - Successfully verified website candidate 'https://sarang.com/choir' for business 'Sarang-Sales'
+2026-09-05 19:05:49,153 - INFO - Verified official website for 'Sarang-Sales': https://sarang.com/
+2026-09-05 19:05:53,325 - INFO - Fetching text from target page: https://promo.rsmstoneforest.sg/incorporation?utm_source=bing&utm_medium=cpc&utm_campaign=663638127&utm_term=acra%20business%20registration&utm_source=bing&utm_medium=cpc&utm_campaign=Incorporation%202026&utm_term=acra%20business%20registration&utm_content=Incorporation%20and%20Registration_77996828942185&msclkid=fd25495fc55613cc687523c3ad46c737
+2026-09-05 19:05:54,039 - INFO - Fetching text from target page: https://www.knowyourgst.com/gst-number-search/sarang-sales-24AKJPG3148A1ZQ/
+2026-09-05 19:05:55,633 - INFO - Fetching text from target page: https://secretaryofstate.com/
+2026-09-05 19:05:56,157 - INFO - Fetching text from target page: https://sales.saarang.org/
+2026-09-05 19:05:58,590 - INFO - ENRICHMENT HEARTBEAT: Seller = Sarang-Sales, Elapsed = 15s, Current field = Legal Entity Name (Attempt 2)
+2026-09-05 19:06:00,196 - INFO - Fetching text from target page: https://awalef.com/number-cat-meals/
+2026-09-05 19:06:00,346 - INFO - Fetching text from target page: https://hurairahcats.com/%D9%83%D9%85-%D8%B9%D8%AF%D8%AF-%D9%88%D8%AC%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B7%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D9%8B%D8%A7%D8%9F-%D8%AF%D9%84%D9%8A%D9%84-%D9%83%D8%A7%D9%85%D9%84-%D9%84%D8%AA/
+2026-09-05 19:06:03,950 - INFO - Fetching text from target page: https://qittacare.com/%D9%83%D9%85-%D9%85%D8%B1%D8%A9-%D8%AA%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D9%82%D8%B7%D8%B7-%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85/
+2026-09-05 19:06:04,233 - INFO - Fetching text from target page: https://lanapets.com/ar/blog/-/a-18318448
+2026-09-05 19:06:04,677 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-05 19:06:05,929 - INFO - Fetching text from target page: https://www.messenger.com/?_rdr
+2026-09-05 19:06:06,842 - INFO - Fetching text from target page: https://www.messenger.com/
+2026-09-05 19:06:07,364 - INFO - Fetching text from target page: https://www.meta.com/messenger/
+2026-09-05 19:06:09,566 - INFO - Fetching text from target page: https://web.messenger.com/?locale=tl_PH
+2026-09-05 19:06:10,389 - INFO - ENRICHMENT HEARTBEAT: Seller = Sarang-Sales, Elapsed = 26s, Current field = Owner (Attempt 2)
+2026-09-05 19:06:13,104 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-05 19:06:14,046 - INFO - Fetching text from target page: https://www.speedtest.net/
+2026-09-05 19:06:15,248 - INFO - Fetching text from target page: https://www.highspeedinternet.com/tools/speed-test?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:06:17,017 - INFO - Fetching text from target page: https://www.testmyspeed.com/
+2026-09-05 19:06:17,526 - INFO - Fetching text from target page: https://fast.com/
+2026-09-05 19:06:18,670 - INFO - Fetching text from target page: https://www.manua.ls/aluratek/ablk04f/manual
+2026-09-05 19:06:19,201 - INFO - Fetching text from target page: https://aluratek.com/products/large-print-tri-color-led-backlight-illuminated-keyboard
+2026-09-05 19:06:20,129 - INFO - Fetching text from target page: https://www.manuals.ca/keyboards/aluratek
+2026-09-05 19:06:20,611 - INFO - Fetching text from target page: https://www.a-accessories.com/news/how-to-change-the-backlight-color-on-your-asus-laptop-keyboard-728.htm
+2026-09-05 19:06:21,508 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-05 19:06:21,572 - INFO - Starting Public Enrichment Waterfall for business 'Newturn Furnihub™-A Classela Venture'...
+2026-09-05 19:06:22,938 - INFO - Verifying website ownership candidate: https://www.newturnfurnihubaclasselaventure.com/
+2026-09-05 19:06:23,070 - INFO - Verifying website ownership candidate: https://www.newturnfurnihubaclasselaventure.in/
+2026-09-05 19:06:23,182 - INFO - Verifying website ownership candidate: https://www.ps2-home.com/forum/page/opl-game-compatibility-list
+2026-09-05 19:06:23,321 - INFO - Verifying website ownership candidate: https://www.ps2-home.com/forum/viewtopic.php?t=168
+2026-09-05 19:06:25,025 - INFO - Fetching text from target page: https://promo.rsmstoneforest.sg/incorporation?utm_source=bing&utm_medium=cpc&utm_campaign=663638127&utm_term=register%20company%20in%20singapore&utm_source=bing&utm_medium=cpc&utm_campaign=Incorporation%202026&utm_term=register%20company%20in%20singapore&utm_content=Incorporation%20and%20Registration_77996828942185&msclkid=e18066148bfc183c4d970c88e3cc8588
+2026-09-05 19:06:25,452 - INFO - Fetching text from target page: https://promo.rsmstoneforest.sg/incorporation?utm_source=bing&utm_medium=cpc&utm_campaign=663638127&utm_term=register%20company%20in%20singapore&utm_source=bing&utm_medium=cpc&utm_campaign=Incorporation%202026&utm_term=register%20company%20in%20singapore&utm_content=Incorporation%20and%20Registration_77996828942185&msclkid=9ec9c7e01126187d276bad7c79160d95
+2026-09-05 19:06:25,691 - INFO - Fetching text from target page: https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79096544542999:loc-4129x1265538569819077x402157453&adid=79096264931585&device=c&location=67113&retailer=bizee&url=https://bizee.com/form/incorporate&adlclid=9d068dfc7f6415450110e7601754a833&msclkid=9d068dfc7f6415450110e7601754a833&utm_source=bing&utm_medium=cpc&utm_campaign=2%20INCORPORATION&utm_term=where%20to%20register%20your%20company&utm_content=2%20INCORPORATE%20BROAD_Register
+2026-09-05 19:06:26,337 - INFO - Fetching text from target page: https://www.globalization-partners.com/globalpedia/canada/subsidiary/?utm_source=bing&utm_medium=cpc&utm_campaign=usa__search__hp_subsidiary_countries__[en]&utm_content=subsidiary_canada&utm_term=canada%20business%20registration&utm_device=c&utm_keyword=canada%20business%20registration&utm_matchtype=p&gpbuci=aa1c97fa488c1f2039b9fd6620bc47b8&msclkid=aa1c97fa488c1f2039b9fd6620bc47b8
+2026-09-05 19:06:28,506 - INFO - Fetching text from target page: https://customerservice.costco.com/app/answers/detail/a_id/1191/~/what-is-costcos-return-policy%3F
+2026-09-05 19:06:31,060 - INFO - Fetching text from target page: https://customerservice.costco.com/app/answers/detail/a_id/1213/~/what-is-costcos-major-appliance-return-policy%3F
+2026-09-05 19:06:33,438 - INFO - Fetching text from target page: https://help.barnesandnoble.com/hc/en-us/articles/5324602017691-Refund-and-Return-Policies
+2026-09-05 19:06:34,051 - INFO - Fetching text from target page: https://help.barnesandnoble.com/hc/en-us/categories/4520916573595-Shipping-Returns
+2026-09-05 19:06:34,247 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-05 19:06:34,247 - INFO - ENRICHMENT HEARTBEAT: Seller = Newturn Furnihub™-A Classela Venture, Elapsed = 13s, Current field = PAN (Attempt 1)
+2026-09-05 19:06:36,794 - INFO - Fetching text from target page: https://5138.xg4ken.com/trk/v1?prof=404&camp=8405&kct=msn&kchid=933793&criteriaid=kwd-76554000568345:loc-190&campaignid=677872276&locphy=67113&adgroupid=1224857195732128&cid=76553715588660&kdv=c&kext=&kpg=&kpid=&queryStr=Newturn%20Furnihub™-A%20Classela%20Venture%20PAN%20card%20number&url=https://www.capitalone.com/credit-cards/preapprove/lp/mp-dc-venture/?n=1&external_id=WWW_ADG-1224857195732128_ZZZ_ONL-SE_BBBBB_T_SEM2_STL-_c_ZZ__kenshoo_clickid__76553715588660_784659&target_id=kwd-76554000568345:loc-190&oC=0bQ0noocw8&msclkid=0c8dbf60e9b2172aa036d5fc81891f86
+2026-09-05 19:06:37,596 - INFO - Fetching text from target page: https://5138.xg4ken.com/trk/v1?prof=404&camp=8405&kct=msn&kchid=933793&criteriaid=kwd-76554000568345:loc-190&campaignid=677872276&locphy=67113&adgroupid=1224857195732128&cid=76553715588660&kdv=c&kext=&kpg=&kpid=&queryStr=Newturn%20Furnihub™-A%20Classela%20Venture%20PAN%20card%20number&url=https://www.capitalone.com/credit-cards/preapprove/lp/mp-dc-venture/?n=1&external_id=WWW_ADG-1224857195732128_ZZZ_ONL-SE_BBBBB_T_SEM2_STL-_c_ZZ__kenshoo_clickid__76553715588660_784659&target_id=kwd-76554000568345:loc-190&oC=0bQ0noocw8&msclkid=3b9eab4a34f9161faa06c1d65cc2ebe0
+2026-09-05 19:06:40,708 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-05 19:06:42,294 - INFO - Fetching text from target page: https://www.fwd.com.sg/travel-insurance/
+2026-09-05 19:06:47,826 - INFO - Fetching text from target page: https://help.fwd.com.sg/hc/en-us/sections/4406007543961-Eligibility-and-Quoting
+2026-09-05 19:06:53,403 - INFO - Fetching text from target page: https://www.singsaver.com.sg/travel-insurance/provider/fwd
+2026-09-05 19:06:53,998 - INFO - Fetching text from target page: https://www.fwd.com.sg/wp-content/uploads/2024/04/FWD-Travel-Insurance-Policy-Wording.pdf
+2026-09-05 19:06:54,705 - INFO - ENRICHMENT HEARTBEAT: Seller = Newturn Furnihub™-A Classela Venture, Elapsed = 33s, Current field = GST (Attempt 2)
+2026-09-05 19:06:55,820 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-05 19:06:59,303 - INFO - Fetching text from target page: https://apps.apple.com/us/app/roblox/id431946152
+2026-09-05 19:07:00,146 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-05 19:07:02,662 - INFO - Fetching text from target page: https://www.newturnfurnihub.com/pages/contact
+2026-09-05 19:07:03,591 - INFO - Fetching text from target page: https://www.newturnfurnihub.com/
+2026-09-05 19:07:04,895 - INFO - Fetching text from target page: https://www.newturnfurnihub.com/collections/all
+2026-09-05 19:07:05,862 - INFO - Fetching text from target page: https://www.newturnfurnihub.com/pages/about-us
+2026-09-05 19:07:06,401 - INFO - ENRICHMENT HEARTBEAT: Seller = Newturn Furnihub™-A Classela Venture, Elapsed = 45s, Current field = Address (Attempt 2)
+2026-09-05 19:07:07,618 - INFO - Fetching text from target page: https://snapreels.net/en
+2026-09-05 19:07:08,032 - INFO - Fetching text from target page: https://snapsave.app/instagram-reels-download
+2026-09-05 19:07:08,267 - INFO - Fetching text from target page: https://saveinta.com/en
+2026-09-05 19:07:08,450 - INFO - Fetching text from target page: https://indown.io/reels/en1
+2026-09-05 19:07:08,935 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-05 19:07:08,979 - INFO - Starting Public Enrichment Waterfall for business 'Finch Fox® - Happiness is Complimentary'...
+2026-09-05 19:07:10,276 - INFO - Verifying website ownership candidate: https://www.finchfoxhappinessiscomplimentary.com/
+2026-09-05 19:07:10,418 - INFO - Verifying website ownership candidate: https://www.finchfoxhappinessiscomplimentary.in/
+2026-09-05 19:07:10,536 - INFO - Verifying website ownership candidate: https://chatgpt.com/
+2026-09-05 19:07:10,781 - INFO - Verifying website ownership candidate: https://chatgpt.com/fr-FR/
+2026-09-05 19:07:13,494 - INFO - Fetching text from target page: https://tracxn.com/d/legal-entities/india/finch-fox-solutions-private-limited/__gS891F4T6bXGVGoC8rG9uQqyvjMYq8mNcITUSO_MyK0
+2026-09-05 19:07:13,633 - INFO - Fetching text from target page: https://www.falconebiz.com/company/FINCH-FOX-SOLUTIONS-PRIVATE-LIMITED-U36990DL2017PTC324867
+2026-09-05 19:07:15,970 - INFO - Fetching text from target page: https://library.doc.gov/company/incorporation
+2026-09-05 19:07:16,321 - INFO - Fetching text from target page: https://nameavailability.com/
+2026-09-05 19:07:19,061 - INFO - Fetching text from target page: https://tracxn.com/d/legal-entities/india/finch-fox-solutions-private-limited/__gS891F4T6bXGVGoC8rG9uQqyvjMYq8mNcITUSO_MyK0
+2026-09-05 19:07:19,117 - INFO - Fetching text from target page: https://www.inspex.in/
+2026-09-05 19:07:19,399 - INFO - Fetching text from target page: https://www.urbanladder.com/product/finch-fox-happiness-is-complimentary-dining-chair-yellow-8117406
+2026-09-05 19:07:23,455 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-05 19:07:23,456 - INFO - ENRICHMENT HEARTBEAT: Seller = Finch Fox® - Happiness is Complimentary, Elapsed = 14s, Current field = PAN (Attempt 1)
+2026-09-05 19:07:24,461 - INFO - Fetching text from target page: https://schedule.wttw.com/
+2026-09-05 19:07:25,132 - INFO - Fetching text from target page: https://dockets.justia.com/browse/state-louisiana/noscat-8
+2026-09-05 19:07:25,728 - INFO - Fetching text from target page: https://picksandparlays.net/free-picks/ncaaf
+2026-09-05 19:07:26,145 - INFO - Fetching text from target page: https://www.lpl.com/
+2026-09-05 19:07:28,991 - INFO - Fetching text from target page: https://www.urbanladder.com/product/finch-fox-happiness-is-complimentary-dining-chair-yellow-8117406
+2026-09-05 19:07:31,229 - INFO - Fetching text from target page: https://www.urbanladder.com/product/happiness-is-complimentary-dining-chair-yellow-8117402
+2026-09-05 19:07:34,838 - INFO - Fetching text from target page: https://www.barcodelookup.com/
+2026-09-05 19:07:34,956 - INFO - Fetching text from target page: https://random-findings.com/
+2026-09-05 19:07:35,326 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-05 19:07:35,326 - INFO - ENRICHMENT HEARTBEAT: Seller = Finch Fox® - Happiness is Complimentary, Elapsed = 26s, Current field = GST (Attempt 1)
+2026-09-05 19:07:37,837 - INFO - Fetching text from target page: https://www.knowyourgst.com/gst-number-search/finch-fox-solutions-private-limited-07AADCF2223Q1ZI/
+2026-09-05 19:07:39,690 - INFO - Fetching text from target page: https://www.mcmaster.com/products/aluminum-extrusion-accessories/
+2026-09-05 19:07:40,211 - INFO - Fetching text from target page: https://jlcmc.com/product/T02/aluminum-extrusion-accessories
+2026-09-05 19:07:41,179 - INFO - Fetching text from target page: https://aluminumcompo.com/standard-profiles-vs-custom-profiles-the-ultimate-structural-framing-sourcing-guide/
+2026-09-05 19:07:44,856 - INFO - Fetching text from target page: https://www.alibaba.com/showroom/accessories-for-aluminium-profile.html
+2026-09-05 19:07:45,899 - INFO - Fetching text from target page: https://pt.pornhub.com/video/search?search=boquete+duas
+2026-09-05 19:07:47,663 - INFO - Fetching text from target page: https://pt.pornhub.com/video/search?search=duas+gostosas+boquete
+2026-09-05 19:07:48,718 - INFO - Fetching text from target page: https://www.xvideos.com/?k=boquete+duas
+2026-09-05 19:07:50,028 - INFO - Fetching text from target page: https://br.xhamster.com/videos/double-blowjob-with-two-hot-teens-4k-xh8FlWR
+2026-09-05 19:07:50,617 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-05 19:07:50,617 - INFO - ENRICHMENT HEARTBEAT: Seller = Finch Fox® - Happiness is Complimentary, Elapsed = 42s, Current field = Address (Attempt 1)
+2026-09-05 19:07:51,510 - INFO - Fetching text from target page: https://www.speedtest.net/
+2026-09-05 19:07:52,479 - INFO - Fetching text from target page: https://www.speedtest.net/ar
+2026-09-05 19:07:53,031 - INFO - Fetching text from target page: https://intelligence.speedtest.net/
+2026-09-05 19:07:54,249 - INFO - Fetching text from target page: https://th.speedtest.net/th
+2026-09-05 19:07:56,604 - INFO - Fetching text from target page: https://www.justdial.com/Delhi/Finch-Fox-Happiness-Is-Complimentary-Opposite-Marble-Market-Mansarover-Garden/011PXX11-XX11-230824203858-J5U4_BZDET
+2026-09-05 19:07:56,689 - INFO - Fetching text from target page: https://www.urbanladder.com/product/happiness-is-complimentary-dining-chair-yellow-8117410
+2026-09-05 19:07:58,089 - INFO - Fetching text from target page: https://tracxn.com/d/legal-entities/india/finch-fox-solutions-private-limited/__gS891F4T6bXGVGoC8rG9uQqyvjMYq8mNcITUSO_MyK0
+2026-09-05 19:07:58,163 - INFO - Fetching text from target page: https://rocketreach.co/finch-fox-profile_b4284ad5c1fa7b10
+2026-09-05 19:07:58,241 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-05 19:07:58,269 - INFO - Starting Public Enrichment Waterfall for business 'New Golden Furnisers Co.'...
+2026-09-05 19:07:59,110 - INFO - Verifying website ownership candidate: https://www.newgoldenfurnisersco.com/
+2026-09-05 19:07:59,320 - INFO - Verifying website ownership candidate: https://www.newgoldenfurnisersco.in/
+2026-09-05 19:07:59,435 - INFO - Verifying website ownership candidate: https://www.local10.com/
+2026-09-05 19:07:59,540 - INFO - Verifying website ownership candidate: https://www.cnn.com/
+2026-09-05 19:08:00,505 - INFO - Fetching text from target page: https://www.local10.com/
+2026-09-05 19:08:01,937 - INFO - Fetching text from target page: https://www.cnn.com/
+2026-09-05 19:08:03,427 - INFO - Fetching text from target page: https://www.foxnews.com/?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:08:04,463 - INFO - Fetching text from target page: https://www.nytimes.com/
+2026-09-05 19:08:07,123 - INFO - Fetching text from target page: https://www.local10.com/
+2026-09-05 19:08:07,966 - INFO - Fetching text from target page: https://www.cnn.com/
+2026-09-05 19:08:09,321 - INFO - Fetching text from target page: https://www.foxnews.com/?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:08:10,301 - INFO - Fetching text from target page: https://www.nytimes.com/
+2026-09-05 19:08:11,620 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-05 19:08:11,621 - INFO - ENRICHMENT HEARTBEAT: Seller = New Golden Furnisers Co., Elapsed = 13s, Current field = PAN (Attempt 1)
+2026-09-05 19:08:12,737 - INFO - Fetching text from target page: https://www.local10.com/
+2026-09-05 19:08:13,579 - INFO - Fetching text from target page: https://www.cnn.com/
+2026-09-05 19:08:14,901 - INFO - Fetching text from target page: https://www.foxnews.com/?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:08:15,876 - INFO - Fetching text from target page: https://www.nytimes.com/
+2026-09-05 19:08:18,485 - INFO - Fetching text from target page: https://www.local10.com/
+2026-09-05 19:08:19,314 - INFO - Fetching text from target page: https://www.cnn.com/
+2026-09-05 19:08:20,616 - INFO - Fetching text from target page: https://www.foxnews.com/?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:08:21,624 - INFO - Fetching text from target page: https://www.nytimes.com/
+2026-09-05 19:08:23,143 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-05 19:08:23,143 - INFO - ENRICHMENT HEARTBEAT: Seller = New Golden Furnisers Co., Elapsed = 25s, Current field = GST (Attempt 1)
+2026-09-05 19:08:24,249 - INFO - Fetching text from target page: https://www.outfiten.com/traditional-clothing-in-british-columbia/
+2026-09-05 19:08:26,089 - INFO - Fetching text from target page: https://www.cherylstradingpost.com/
+2026-09-05 19:08:27,116 - INFO - Fetching text from target page: https://www.findglocal.com/CA/Enderby-BC/31988-6
+2026-09-05 19:08:27,223 - INFO - Fetching text from target page: https://www.indigenousbc.com/stories/indigenous-shopping-and-responsible-wishlists/
+2026-09-05 19:08:29,464 - INFO - Fetching text from target page: https://www.local10.com/
+2026-09-05 19:08:30,797 - INFO - Fetching text from target page: https://www.cnn.com/
+2026-09-05 19:08:32,253 - INFO - Fetching text from target page: https://www.foxnews.com/?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:08:33,253 - INFO - Fetching text from target page: https://www.nytimes.com/
+2026-09-05 19:08:34,840 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-05 19:08:34,840 - INFO - ENRICHMENT HEARTBEAT: Seller = New Golden Furnisers Co., Elapsed = 37s, Current field = Owner (Attempt 1)
+2026-09-05 19:08:35,971 - INFO - Fetching text from target page: https://www.local10.com/
+2026-09-05 19:08:36,813 - INFO - Fetching text from target page: https://www.cnn.com/
+2026-09-05 19:08:38,139 - INFO - Fetching text from target page: https://www.foxnews.com/?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:08:39,102 - INFO - Fetching text from target page: https://www.nytimes.com/
+2026-09-05 19:08:41,646 - INFO - Fetching text from target page: https://www.local10.com/
+2026-09-05 19:08:42,503 - INFO - Fetching text from target page: https://www.cnn.com/
+2026-09-05 19:08:43,941 - INFO - Fetching text from target page: https://www.foxnews.com/?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:08:44,893 - INFO - Fetching text from target page: https://www.nytimes.com/
+2026-09-05 19:08:46,334 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-05 19:08:46,334 - INFO - ENRICHMENT HEARTBEAT: Seller = New Golden Furnisers Co., Elapsed = 48s, Current field = Address (Attempt 1)
+2026-09-05 19:08:47,513 - INFO - Fetching text from target page: https://www.local10.com/
+2026-09-05 19:08:48,345 - INFO - Fetching text from target page: https://www.cnn.com/
+2026-09-05 19:08:49,693 - INFO - Fetching text from target page: https://www.foxnews.com/?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:08:50,646 - INFO - Fetching text from target page: https://www.nytimes.com/
+2026-09-05 19:08:53,263 - INFO - Fetching text from target page: https://www.local10.com/
+2026-09-05 19:08:54,108 - INFO - Fetching text from target page: https://www.cnn.com/
+2026-09-05 19:08:55,323 - INFO - Fetching text from target page: https://www.foxnews.com/?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:08:56,292 - INFO - Fetching text from target page: https://www.nytimes.com/
+2026-09-05 19:08:57,807 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-05 19:08:57,807 - INFO - ENRICHMENT HEARTBEAT: Seller = New Golden Furnisers Co., Elapsed = 60s, Current field = Phone (Attempt 1)
+2026-09-05 19:08:58,777 - INFO - Fetching text from target page: https://www.local10.com/
+2026-09-05 19:08:59,604 - INFO - Fetching text from target page: https://www.cnn.com/
+2026-09-05 19:09:00,832 - INFO - Fetching text from target page: https://www.foxnews.com/?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:09:01,877 - INFO - Fetching text from target page: https://www.nytimes.com/
+2026-09-05 19:09:04,646 - INFO - Fetching text from target page: https://www.local10.com/
+2026-09-05 19:09:05,471 - INFO - Fetching text from target page: https://www.cnn.com/
+2026-09-05 19:09:06,863 - INFO - Fetching text from target page: https://www.foxnews.com/?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:09:07,819 - INFO - Fetching text from target page: https://www.nytimes.com/
+2026-09-05 19:09:09,288 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-05 19:09:09,309 - INFO - Starting Public Enrichment Waterfall for business 'Tanishka Global'...
+2026-09-05 19:09:11,569 - INFO - Verifying website ownership candidate: https://www.tanishkaglobal.com/
+2026-09-05 19:09:11,672 - INFO - Verifying website ownership candidate: https://www.tanishkaglobal.in/
+2026-09-05 19:09:11,758 - INFO - Verifying website ownership candidate: https://www.tanishka.com/about/
+2026-09-05 19:09:11,845 - INFO - Verifying website ownership candidate: https://www.tanishq.co.in/
+2026-09-05 19:09:14,923 - INFO - Fetching text from target page: https://www.homes.com/real-estate-agents/vivian-pena/0sqdqq2/?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:09:15,155 - INFO - Fetching text from target page: https://www.realtor.com/realestateagents/583dffa792eb160001824491?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:09:16,057 - INFO - Fetching text from target page: https://www.zillow.com/profile/vpenamia?msockid=19f707740c7269a6184e10bf0d096897
+2026-09-05 19:09:16,278 - INFO - Fetching text from target page: https://www.nystatemls.com/profiles/ny/new-york/keller-williams-nyc-kwnyc/vivian-pena/206463/
+2026-09-05 19:09:19,715 - INFO - Fetching text from target page: https://www.falconebiz.com/company/TANISHKA-GLOBAL-BUSINESS-PRIVATE-LIMITED-U70101RJ2015PTC047814
+2026-09-05 19:09:21,703 - INFO - Fetching text from target page: https://www.companydetails.in/company/tanishka-global-business-private-limited
+2026-09-05 19:09:23,652 - INFO - Fetching text from target page: https://infomint.co.in/companies/tanishka-global-business-private-limited/U70101RJ2015PTC047814/roc-jaipur/rajasthan/
+2026-09-05 19:09:29,653 - WARNING - WEBSITE TIMEOUT: https://infomint.co.in/companies/tanishka-global-business-private-limited/U70101RJ2015PTC047814/roc-jaipur/rajasthan/
+2026-09-05 19:09:29,653 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-05 19:09:29,654 - INFO - ENRICHMENT HEARTBEAT: Seller = Tanishka Global, Elapsed = 20s, Current field = PAN (Attempt 1)
+2026-09-05 19:09:30,568 - INFO - Fetching text from target page: https://de.savefrom.net/1-youtube-downloader-564Bu/
+2026-09-05 19:09:31,907 - INFO - Fetching text from target page: https://sceducationlottery.com/
+2026-09-05 19:09:32,544 - INFO - Fetching text from target page: https://www.sceducationlottery.com/Games/Powerball
+2026-09-05 19:09:32,968 - INFO - Fetching text from target page: https://playersclub.sceducationlottery.com/second-chance-promotion?id=79
+2026-09-05 19:09:34,405 - INFO - Fetching text from target page: https://playersclub.sceducationlottery.com/second-chance-promotion?id=75
+2026-09-05 19:09:34,855 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-05 19:09:35,705 - INFO - Fetching text from target page: https://maps.google.es/intl/es_es/earth/download/gep/agree.html
+2026-09-05 19:09:35,932 - INFO - Fetching text from target page: https://maps.google.es/intl/es_es/earth/
+2026-09-05 19:09:36,239 - INFO - Fetching text from target page: https://maps.google.es/intl/es/landing/transit/
+2026-09-05 19:09:36,694 - INFO - Fetching text from target page: https://maps.google.es/intl/es_es/earth/outreach/learn/visualize-your-data-on-a-custom-map-using-google-my-maps/
+2026-09-05 19:09:37,856 - INFO - Fetching text from target page: https://stackoverflow.com/questions/38333569/adding-nocache-1-to-every-url-including-the-assets-like-stylesheet-behind-the
+2026-09-05 19:09:37,956 - INFO - Fetching text from target page: https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image
+2026-09-05 19:09:37,981 - INFO - Fetching text from target page: https://es.stackoverflow.com/questions/63716/como-evitar-el-cach%c3%a9-de-los-archivos-css-y-js
+2026-09-05 19:09:38,057 - INFO - Fetching text from target page: https://stackoverflow.com/questions/126772/how-to-force-a-web-browser-not-to-cache-images
+2026-09-05 19:09:38,112 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-05 19:09:38,999 - INFO - Fetching text from target page: https://filmcolossus.com/american-psycho-explained
+2026-09-05 19:09:39,482 - INFO - Fetching text from target page: https://screenrant.com/american-psycho-themes-meaning-explained/
+2026-09-05 19:09:40,129 - INFO - Fetching text from target page: https://cinemascholars.com/american-psycho-a-25th-anniversary-oral-history/
+2026-09-05 19:09:41,672 - INFO - Fetching text from target page: https://www.panmacmillan.com/blogs/literary/american-psycho-controversy-banned-book-censorship
+2026-09-05 19:09:42,235 - INFO - ENRICHMENT HEARTBEAT: Seller = Tanishka Global, Elapsed = 33s, Current field = Owner (Attempt 2)
+2026-09-05 19:09:43,280 - INFO - Fetching text from target page: https://www.tiktok.com/
+2026-09-05 19:09:44,168 - INFO - Fetching text from target page: https://www.tiktok.com/es-419/
+2026-09-05 19:09:44,739 - INFO - Fetching text from target page: https://livecenter.tiktok.com/?lang=es
+2026-09-05 19:09:45,201 - INFO - Fetching text from target page: https://m.tiktok.com/login/phone-or-email
+2026-09-05 19:09:45,406 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-05 19:09:51,539 - WARNING - SEARCH TIMEOUT: 'Tanishka Global registered office address corporate office' on Bing
+2026-09-05 19:09:52,763 - INFO - Fetching text from target page: https://www.falconebiz.com/company/TANISHKA-GLOBAL-BUSINESS-PRIVATE-LIMITED-U70101RJ2015PTC047814
+2026-09-05 19:09:53,865 - INFO - Fetching text from target page: https://tracxn.com/d/legal-entities/india/tanishka-global-business-private-limited/__Vsq_ZezKLkpS62CoutJ-L9VbEJHatpGw83vU7xvoVBo
+2026-09-05 19:09:53,911 - INFO - Fetching text from target page: https://www.globalbizreport.com/tanishka-global-business-private-limited/U70101RJ2015PTC047814/india/rajasthan/company-business-financial-credit-report
+2026-09-05 19:09:56,677 - INFO - Fetching text from target page: https://www.companydetails.in/company/tanishka-global-business-private-limited
+2026-09-05 19:10:02,678 - WARNING - WEBSITE TIMEOUT: https://www.companydetails.in/company/tanishka-global-business-private-limited
+2026-09-05 19:10:02,678 - WARNING - FIELD TIME LIMIT REACHED (15s) for Address. Moving to next field.
+2026-09-05 19:10:02,678 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-05 19:10:02,678 - INFO - ENRICHMENT HEARTBEAT: Seller = Tanishka Global, Elapsed = 53s, Current field = Phone (Attempt 1)
+2026-09-05 19:10:15,096 - INFO - Fetching text from target page: https://tgsalonfurniture.com/contact.html
+2026-09-05 19:10:15,284 - INFO - Fetching text from target page: https://tgsalonfurniture.com/
+2026-09-05 19:10:15,322 - INFO - Fetching text from target page: https://tgsalonfurniture.com/about.html
+2026-09-05 19:10:15,362 - INFO - Fetching text from target page: https://www.tanishkaglobalsolution.com/contact.php
+2026-09-05 19:10:17,023 - INFO - Starting Public Enrichment Waterfall for business 'Delavala'...
+2026-09-05 19:10:17,874 - INFO - Verifying website ownership candidate: https://www.delavala.com/
+2026-09-05 19:10:17,933 - INFO - Verifying website ownership candidate: https://www.delavala.in/
+2026-09-05 19:10:18,057 - INFO - Verifying website ownership candidate: https://moja.postovabanka.sk/ib/logon.aspx
+2026-09-05 19:10:19,309 - INFO - Verifying website ownership candidate: https://mojauat.postovabanka.sk/
+2026-09-05 19:10:22,065 - INFO - Fetching text from target page: https://web.whatsapp.com/
+2026-09-05 19:10:23,077 - INFO - Fetching text from target page: https://www.whatsapp.com/?l=login&lang=es
+2026-09-05 19:10:24,254 - INFO - Fetching text from target page: https://www.whatsapp.com/download?lang=es
+2026-09-05 19:10:24,748 - INFO - Fetching text from target page: https://wa.me/
+2026-09-05 19:10:26,346 - INFO - Fetching text from target page: https://www.iqsdirectory.com/
+2026-09-05 19:10:27,136 - INFO - Fetching text from target page: https://www.inven.ai/company-lists/top-28-industrial-machinery-manufacturing-companies
+2026-09-05 19:10:27,853 - INFO - Fetching text from target page: https://www.industryselect.com/blog/top-9-us-industrial-machinery-manufacturers
+2026-09-05 19:10:28,595 - INFO - Fetching text from target page: https://sintoamerica.com/
+2026-09-05 19:10:31,435 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-05 19:10:31,435 - INFO - ENRICHMENT HEARTBEAT: Seller = Delavala, Elapsed = 14s, Current field = PAN (Attempt 1)
+2026-09-05 19:10:32,390 - INFO - Fetching text from target page: http://www.jlaforums.com/viewtopic.php?t=10708597
+2026-09-05 19:10:32,926 - INFO - Fetching text from target page: https://www.duckhuntingchat.com/threads/aluminum-prop-suggestion-yamaha-on-prodigy.650009/
+2026-09-05 19:10:38,927 - WARNING - WEBSITE TIMEOUT: https://www.duckhuntingchat.com/threads/aluminum-prop-suggestion-yamaha-on-prodigy.650009/
+2026-09-05 19:10:45,417 - INFO - Fetching text from target page: http://www.jlaforums.com/viewtopic.php?t=628931560
+2026-09-05 19:10:45,485 - INFO - Fetching text from target page: https://www.duckhuntingchat.com/threads/duck-kayak-for-sale.82223/
+2026-09-05 19:10:51,487 - WARNING - WEBSITE TIMEOUT: https://www.duckhuntingchat.com/threads/duck-kayak-for-sale.82223/
+2026-09-05 19:10:51,487 - WARNING - FIELD TIME LIMIT REACHED (15s) for PAN. Moving to next field.
+2026-09-05 19:10:51,487 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-05 19:10:51,487 - INFO - ENRICHMENT HEARTBEAT: Seller = Delavala, Elapsed = 34s, Current field = GST (Attempt 1)
+2026-09-05 19:10:59,764 - INFO - Fetching text from target page: https://piceapp.com/gst-number-search/delaval-pvt-ltd-27aabca5137a1z9/
+2026-09-05 19:11:02,008 - INFO - Fetching text from target page: https://www.printful.com/
+2026-09-05 19:11:03,422 - INFO - Fetching text from target page: https://www.printful.com/auth/login
+2026-09-05 19:11:03,875 - INFO - Fetching text from target page: https://enterprise.printful.com/app/auth/login
+2026-09-05 19:11:04,609 - INFO - Fetching text from target page: https://dashboard.printful.com/auth/register
+2026-09-05 19:11:05,199 - INFO - ENRICHMENT HEARTBEAT: Seller = Delavala, Elapsed = 48s, Current field = Owner (Attempt 2)
+2026-09-05 19:11:07,562 - INFO - Fetching text from target page: https://corporate.delaval.com/about/our-history/
+2026-09-05 19:11:13,563 - WARNING - WEBSITE TIMEOUT: https://corporate.delaval.com/about/our-history/
+2026-09-05 19:13:23,969 - INFO - Fetching text from target page: https://corporate.delaval.com/about/
+2026-09-05 19:13:29,971 - WARNING - WEBSITE TIMEOUT: https://corporate.delaval.com/about/
+2026-09-05 19:13:29,971 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-05 19:13:30,000 - INFO - Starting Public Enrichment Waterfall for business 'Alifonus'...
+2026-09-05 19:13:30,913 - INFO - Verifying website ownership candidate: https://www.alifonus.com/
+2026-09-05 19:13:31,080 - INFO - Verifying website ownership candidate: https://www.alifonus.in/
+2026-09-05 19:13:31,118 - INFO - Verifying website ownership candidate: https://maps.apple.com/
+2026-09-05 19:13:31,478 - INFO - Verifying website ownership candidate: https://www.mapquest.com/
+2026-09-05 19:13:32,701 - INFO - Fetching text from target page: https://ohiostatebuckeyes.com/sports/football
+2026-09-05 19:13:33,664 - INFO - Fetching text from target page: https://ohiostatebuckeyes.com/sports/football/schedule
+2026-09-05 19:13:33,971 - INFO - Fetching text from target page: https://ohiostatebuckeyes.com/
+2026-09-05 19:13:34,080 - INFO - Fetching text from target page: https://ohiostatebuckeyes.com/sports/football/roster
+2026-09-05 19:13:36,089 - INFO - Fetching text from target page: https://www.legalzoom.com/marketing/business-formation/llc?utm_source=bing&utm_medium=cpc&utm_term=california%20private%20limited%20registration&utm_content=77996827936516&utm_campaign=SMB%20%7C%20LLC%20%7C%20RMKT%20%7C%20Broad&utm_campaignID=396410581&utm_adgroupID=1247947074687925&utm_partner=bingsearch&b_adgroup=SMB%20%7C%20RMKT%20%7C%20LLC%20%7C%20Question%20%7C%20Broad&b_adgroupid=1247947074687925&b_adid=77996827936516&b_campaign=SMB%20%7C%20LLC%20%7C%20RMKT%20%7C%20Broad&b_campaignid=396410581&b_isproduct=&b_productid=&b_term=what%20is%20an%20llc&b_termid=kwd-77997091844962:loc-4129&msclkid=b7490c70243d1d9c001566ec4de3ed7a
+2026-09-05 19:13:37,688 - INFO - Fetching text from target page: https://www.inspex.in/
+2026-09-05 19:13:37,975 - INFO - Fetching text from target page: https://zauba.company/
+2026-09-05 19:13:38,099 - INFO - Fetching text from target page: https://www.indiafilings.com/learn/check-company-registration-status-mca
+2026-09-05 19:13:40,834 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-05 19:13:40,834 - INFO - ENRICHMENT HEARTBEAT: Seller = Alifonus, Elapsed = 11s, Current field = PAN (Attempt 1)
+2026-09-05 19:13:41,776 - INFO - Fetching text from target page: https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269
+2026-09-05 19:13:41,874 - INFO - Fetching text from target page: https://www.mayoclinic.org/
+2026-09-05 19:13:41,930 - INFO - Fetching text from target page: https://www.mayoclinic.org/diseases-conditions/parkinsons-disease/symptoms-causes/syc-20376055
+2026-09-05 19:13:41,974 - INFO - Fetching text from target page: https://www.mayoclinic.org/diseases-conditions/amyotrophic-lateral-sclerosis/symptoms-causes/syc-20354022
+2026-09-05 19:13:42,852 - INFO - Fetching text from target page: https://www.prezly.com/academy/best-press-release-distribution
+2026-09-05 19:13:44,697 - INFO - Fetching text from target page: https://fitsmallbusiness.com/best-free-press-release-distribution-services/
+2026-09-05 19:13:45,381 - INFO - Fetching text from target page: https://www.saasworthy.com/list/press-release-distribution
+2026-09-05 19:13:45,825 - INFO - Fetching text from target page: https://fitsmallbusiness.com/best-press-release-service/
+2026-09-05 19:13:46,159 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-05 19:13:47,017 - INFO - Fetching text from target page: https://unicourt.com/courts/federal/us-district-courts-2
+2026-09-05 19:13:47,338 - INFO - Fetching text from target page: https://picksandparlays.net/free-picks/ncaaf
+2026-09-05 19:13:47,901 - INFO - Fetching text from target page: https://www.covers.com/sport/football/ncaaf/teams/main/louisiana-ragin-cajuns
+2026-09-05 19:13:48,777 - INFO - Fetching text from target page: https://broncosports.com/
+2026-09-05 19:13:51,860 - INFO - Fetching text from target page: https://www.knowyourgst.com/gst-number-search/
+2026-09-05 19:13:53,225 - INFO - Fetching text from target page: https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/confirming-a-gst-hst-account-number.html
+2026-09-05 19:13:59,226 - WARNING - WEBSITE TIMEOUT: https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/confirming-a-gst-hst-account-number.html
+2026-09-05 19:13:59,230 - INFO - Fetching text from target page: https://www.knowyourgst.com/gst-number-search/by-name-pan/
+2026-09-05 19:13:59,601 - INFO - Fetching text from target page: https://findgst.in/gstin-by-name
+2026-09-05 19:14:00,934 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-05 19:14:00,934 - INFO - ENRICHMENT HEARTBEAT: Seller = Alifonus, Elapsed = 31s, Current field = Owner (Attempt 1)
+2026-09-05 19:14:01,929 - INFO - Fetching text from target page: https://www.scribd.com/document/703604830/Caderno-de-Sugestoes-Lingua-Inglesa-6%C2%BA-Ao-9%C2%BA-Ano-2023-3
+2026-09-05 19:14:02,027 - INFO - Fetching text from target page: https://pt.scribd.com/document/986607325/Metodologia-Sintetizada-para-o-Plano-de-Aula-de-Lingua-Inglesa-9%C2%BA-Ano
+2026-09-05 19:14:02,130 - INFO - Fetching text from target page: https://cursocompletodepedagogia.com/lingua-inglesa-9-ano-unidades-tematicas-objetos-de-conhecimento-e-habilidades/
+2026-09-05 19:14:03,510 - INFO - Fetching text from target page: https://pt.scribd.com/document/614433123/9-ano-INGLES-planejamento
+2026-09-05 19:14:06,144 - INFO - Fetching text from target page: https://www.forbes.com/profile/eric-lefkofsky/
+2026-09-05 19:14:06,758 - INFO - Fetching text from target page: https://creatortraffic.com/blog/who-created-onlyfans-founder-buyer-ownership-story/
+2026-09-05 19:14:07,360 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-05 19:14:09,660 - INFO - Fetching text from target page: https://www.alivus.com/alivus_pdfs/investors/shareholders_corner/latest_announcement/Change_in_Corporate_Office_address.pdf
+2026-09-05 19:14:09,877 - INFO - Fetching text from target page: https://www.pega.com/about/office-locations
+2026-09-05 19:14:10,533 - INFO - Fetching text from target page: https://businesssearch.org/headquarters/
+2026-09-05 19:14:11,023 - INFO - Fetching text from target page: https://vantage-dc.com/company/contact-us/
+2026-09-05 19:14:11,564 - INFO - ENRICHMENT HEARTBEAT: Seller = Alifonus, Elapsed = 42s, Current field = Address (Attempt 2)
+2026-09-05 19:14:12,415 - INFO - Fetching text from target page: https://stackoverflow.com/questions/5023602/facebook-share-link-can-you-customize-the-message-body-text
+2026-09-05 19:14:12,490 - INFO - Fetching text from target page: https://stackoverflow.com/questions/37001004/facebook-login-message-url-blocked-this-redirect-failed-because-the-redirect
+2026-09-05 19:14:12,518 - INFO - Fetching text from target page: https://stackoverflow.com/questions/4810803/open-facebook-page-from-android-app
+2026-09-05 19:14:12,545 - INFO - Fetching text from target page: https://stackoverflow.com/questions/73063220/how-to-register-test-number-when-using-whatsapp-business-api
+2026-09-05 19:14:12,570 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-05 19:14:12,589 - INFO - Starting Public Enrichment Waterfall for business 'NILKANTH VARNI ENTERPRISE.'...
+2026-09-05 19:14:13,484 - INFO - Verifying website ownership candidate: https://www.nilkanthvarnienterprise.com/
+2026-09-05 19:14:13,620 - INFO - Verifying website ownership candidate: https://www.nilkanthvarnienterprise.in/
+2026-09-05 19:14:13,737 - INFO - Verifying website ownership candidate: http://clintonma.gov/
+2026-09-05 19:14:14,038 - INFO - Verifying website ownership candidate: https://www.clintonma.gov/217/About-Our-Town
+2026-09-05 19:14:15,250 - INFO - Fetching text from target page: https://collarsandco.com/
+2026-09-05 19:14:18,446 - INFO - Fetching text from target page: https://collarsandco.com/collections/mens-polos
+2026-09-05 19:14:24,446 - WARNING - WEBSITE TIMEOUT: https://collarsandco.com/collections/mens-polos
+2026-09-05 19:14:26,551 - INFO - Fetching text from target page: https://ca.collarsandco.com/
+2026-09-05 19:14:32,554 - WARNING - WEBSITE TIMEOUT: https://ca.collarsandco.com/
+2026-09-05 19:14:32,554 - WARNING - FIELD TIME LIMIT REACHED (15s) for Legal Entity Name. Moving to next field.
+2026-09-05 19:14:32,555 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-05 19:14:32,555 - INFO - ENRICHMENT HEARTBEAT: Seller = NILKANTH VARNI ENTERPRISE., Elapsed = 20s, Current field = PAN (Attempt 1)
+2026-09-05 19:14:33,716 - INFO - Fetching text from target page: https://www.hotelroanoke.com/hrcc_expansion/
+2026-09-05 19:14:35,325 - INFO - Fetching text from target page: https://www.hotelroanoke.com/2025_renovations/
+2026-09-05 19:14:36,580 - INFO - Fetching text from target page: https://virginiabusiness.com/renovating-roanokes-grand-old-lady/
+2026-09-05 19:14:37,141 - INFO - Fetching text from target page: https://www.wvtf.org/news/2026-07-29/commission-takes-step-to-sell-hotel-roanoke-conference-center
+2026-09-05 19:14:40,289 - INFO - Fetching text from target page: https://www.dnb.com/business-directory/company-profiles.nilkanthvarni_enterprise.4e3eb420be5c6c5d666ea5cc9064cfea.html
+2026-09-05 19:14:40,436 - INFO - Fetching text from target page: https://gstserver.com/gst/24ANUPG4959M1Z7/
+2026-09-05 19:14:42,179 - INFO - Fetching text from target page: https://www.zybang.com/
+2026-09-05 19:14:45,224 - INFO - ENRICHMENT HEARTBEAT: Seller = NILKANTH VARNI ENTERPRISE., Elapsed = 33s, Current field = Owner (Attempt 2)
+2026-09-05 19:14:46,231 - INFO - Fetching text from target page: https://bbs.gongkong.com/d/202202/881491/881491_1.shtml
+2026-09-05 19:14:52,232 - WARNING - WEBSITE TIMEOUT: https://bbs.gongkong.com/d/202202/881491/881491_1.shtml
+2026-09-05 19:14:52,237 - INFO - Fetching text from target page: https://bbs.gongkong.com/d/202510/950387/950387_1.shtml
+2026-09-05 19:14:54,742 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-05 19:14:56,684 - INFO - Fetching text from target page: https://www.cacompanyregistry.com/companies/nilkanth-varni-enterprises-inc/
+2026-09-05 19:14:56,931 - INFO - ENRICHMENT HEARTBEAT: Seller = NILKANTH VARNI ENTERPRISE., Elapsed = 44s, Current field = Phone (Attempt 1)
+2026-09-05 19:14:59,135 - INFO - Fetching text from target page: https://www.allbiz.com/business/nilkanth-varni-enterprises-inc-909-393-3480
+2026-09-05 19:14:59,234 - INFO - Fetching text from target page: https://www.buzzfile.com/business/Nilkanth-Varni-Enterprise-559-935-1664
+2026-09-05 19:14:59,618 - INFO - Fetching text from target page: https://www.dnb.com/business-directory/company-profiles.nilkanth_varni_enterprises_inc.1fc917bdd81aeb7c5efacb84edc736d1.html
+2026-09-05 19:14:59,891 - INFO - Fetching text from target page: https://www.indianyellowpages.com/surat/nilkanthvarni-enterprise-canal-road-surat-5045077/
+2026-09-05 19:15:03,404 - INFO - Fetching text from target page: https://www.ringcentral.com/dg/business-communications.html?customer_id=755-481-5690&BMID=SEM2603BNG1837462&cid=sem&RCKW=business%20phone%20number&RCMT=p&msclkid=62e55a6345c112f1d1cb30ff2ff769fe&utm_source=bing&utm_medium=cpc&utm_campaign=Bing_US_Search_NonBrand_RingEX_BusinessPhone_Broad&utm_term=business%20phone%20number&utm_content=Virtual%20Business%20Phone
+2026-09-05 19:15:03,794 - INFO - Fetching text from target page: https://www.buzzfile.com/business/Nilkanth-Varni-Enterprise-559-935-1664
+2026-09-05 19:15:04,145 - INFO - Fetching text from target page: https://www.allbiz.com/business/nilkanth-varni-enterprises-inc-909-393-3480
+2026-09-05 19:15:04,227 - INFO - Fetching text from target page: https://www.dnb.com/business-directory/company-profiles.nilkanth_varni_enterprises_inc.1fc917bdd81aeb7c5efacb84edc736d1.html
+2026-09-05 19:15:04,280 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-05 19:15:04,305 - WARNING - CATEGORY TIMEOUT reached during seller enrichment for 'Pedicure & Manicure Chairs' (Elapsed: 638.8s)
+2026-09-05 19:15:04,434 - INFO - Closed Playwright browser session safely
+2026-09-05 19:15:04,436 - INFO - Read 8 final verified records from SQLite for 'Pedicure & Manicure Chairs'
+2026-09-05 19:15:05,103 - INFO - Created safety backup of master Excel at /home/runner/work/Amazon-scrap/Amazon-scrap/output/backups/Amazon_Seller_Master_Data_20260905_191504_backup.xlsx
+2026-09-05 19:15:06,124 - INFO - Master Excel updated: Added 8 rows for category 'Pedicure & Manicure Chairs'. Total master rows=1363
+2026-09-05 19:15:06,140 - INFO - Target Category: 'Gynecologist Tables'
+2026-09-05 19:15:06,140 - INFO - Target URL: 'https://www.amazon.in/s?k=Gynecologist+Tables'
+2026-09-05 19:15:06,535 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-05 19:15:06,535 - INFO - Discovering products for category 'Gynecologist Tables' from https://www.amazon.in/s?k=Gynecologist+Tables...
+2026-09-05 19:15:06,586 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Gynecologist+Tables
+2026-09-05 19:15:06,735 - ERROR - Error during category run 'Gynecologist Tables': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Gynecologist+Tables", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Gynecologist+Tables", waiting until "domcontentloaded"
+
+2026-09-05 19:15:06,774 - INFO - Closed Playwright browser session safely
+2026-09-05 19:15:06,786 - INFO - Target Category: 'Ottoman & Pouffe'
+2026-09-05 19:15:06,786 - INFO - Target URL: 'https://www.amazon.in/s?k=Ottoman+%26+Pouffe'
+2026-09-05 19:15:07,184 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-05 19:15:07,184 - INFO - Discovering products for category 'Ottoman & Pouffe' from https://www.amazon.in/s?k=Ottoman+%26+Pouffe...
+2026-09-05 19:15:07,226 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Ottoman+%26+Pouffe
+2026-09-05 19:15:07,374 - ERROR - Error during category run 'Ottoman & Pouffe': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Ottoman+%26+Pouffe", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Ottoman+%26+Pouffe", waiting until "domcontentloaded"
+
+2026-09-05 19:15:07,412 - INFO - Closed Playwright browser session safely
+2026-09-05 19:15:07,425 - INFO - Target Category: 'Bunk Loft Beds'
+2026-09-05 19:15:07,425 - INFO - Target URL: 'https://www.amazon.in/s?k=Bunk+Loft+Beds'
+2026-09-05 19:15:07,816 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-05 19:15:07,817 - INFO - Discovering products for category 'Bunk Loft Beds' from https://www.amazon.in/s?k=Bunk+Loft+Beds...
+2026-09-05 19:15:07,866 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Bunk+Loft+Beds
+2026-09-05 19:15:08,006 - ERROR - Error during category run 'Bunk Loft Beds': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Bunk+Loft+Beds", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Bunk+Loft+Beds", waiting until "domcontentloaded"
+
+2026-09-05 19:15:08,052 - INFO - Closed Playwright browser session safely
+2026-09-05 19:15:08,065 - INFO - Target Category: 'Massage Beds'
+2026-09-05 19:15:08,065 - INFO - Target URL: 'https://www.amazon.in/s?k=Massage+Beds'
+2026-09-05 19:15:08,457 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-05 19:15:08,457 - INFO - Discovering products for category 'Massage Beds' from https://www.amazon.in/s?k=Massage+Beds...
+2026-09-05 19:15:08,499 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Massage+Beds
+2026-09-05 19:15:08,639 - ERROR - Error during category run 'Massage Beds': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Beds", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Beds", waiting until "domcontentloaded"
+
+2026-09-05 19:15:08,680 - INFO - Closed Playwright browser session safely
+2026-09-05 19:15:08,693 - INFO - Target Category: 'Massage Chairs'
+2026-09-05 19:15:08,693 - INFO - Target URL: 'https://www.amazon.in/s?k=Massage+Chairs'
+2026-09-05 19:15:09,078 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-05 19:15:09,078 - INFO - Discovering products for category 'Massage Chairs' from https://www.amazon.in/s?k=Massage+Chairs...
+2026-09-05 19:15:09,121 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Massage+Chairs
+2026-09-05 19:15:09,267 - ERROR - Error during category run 'Massage Chairs': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Chairs", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Chairs", waiting until "domcontentloaded"
+
+2026-09-05 19:15:09,310 - INFO - Closed Playwright browser session safely
