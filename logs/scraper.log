@@ -119763,3 +119763,628 @@ Call log:
   - navigating to "https://www.amazon.in/s?k=Massage+Chairs", waiting until "domcontentloaded"
 
 2026-09-09 01:59:06,666 - INFO - Closed Playwright browser session safely
+2026-09-09 14:52:38,715 - INFO - Starting Amazon Multi-Category Batch Processing Mode
+2026-09-09 14:52:38,716 - INFO - Initialized SQLite database schema at amazon_sellers.db
+2026-09-09 14:52:38,722 - INFO - Target Category: 'Spa Trolleys'
+2026-09-09 14:52:38,722 - INFO - Target URL: 'https://www.amazon.in/s?k=Spa+Trolleys'
+2026-09-09 14:52:39,344 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-09 14:52:39,344 - INFO - Discovering products for category 'Spa Trolleys' from https://www.amazon.in/s?k=Spa+Trolleys...
+2026-09-09 14:52:39,401 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Spa+Trolleys
+2026-09-09 14:52:39,605 - ERROR - Error during category run 'Spa Trolleys': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Spa+Trolleys", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Spa+Trolleys", waiting until "domcontentloaded"
+
+2026-09-09 14:52:39,652 - INFO - Closed Playwright browser session safely
+2026-09-09 14:52:39,667 - INFO - Target Category: 'Lounger Chaises'
+2026-09-09 14:52:39,667 - INFO - Target URL: 'https://www.amazon.in/s?k=Lounger+Chaises'
+2026-09-09 14:52:40,126 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-09 14:52:40,127 - INFO - Discovering products for category 'Lounger Chaises' from https://www.amazon.in/s?k=Lounger+Chaises...
+2026-09-09 14:52:40,167 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Lounger+Chaises
+2026-09-09 14:52:40,328 - ERROR - Error during category run 'Lounger Chaises': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Lounger+Chaises", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Lounger+Chaises", waiting until "domcontentloaded"
+
+2026-09-09 14:52:40,375 - INFO - Closed Playwright browser session safely
+2026-09-09 14:52:40,389 - INFO - Target Category: 'Home Temple'
+2026-09-09 14:52:40,390 - INFO - Target URL: 'https://www.amazon.in/s?k=Home+Temple'
+2026-09-09 14:52:40,841 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-09 14:52:40,842 - INFO - Discovering products for category 'Home Temple' from https://www.amazon.in/s?k=Home+Temple...
+2026-09-09 14:52:40,892 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Home+Temple
+2026-09-09 14:52:41,053 - ERROR - Error during category run 'Home Temple': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Home+Temple", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Home+Temple", waiting until "domcontentloaded"
+
+2026-09-09 14:52:41,100 - INFO - Closed Playwright browser session safely
+2026-09-09 14:52:41,118 - INFO - Target Category: 'Benches'
+2026-09-09 14:52:41,118 - INFO - Target URL: 'https://www.amazon.in/s?k=Benches'
+2026-09-09 14:52:41,564 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-09 14:52:41,564 - INFO - Discovering products for category 'Benches' from https://www.amazon.in/s?k=Benches...
+2026-09-09 14:52:41,624 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Benches
+2026-09-09 14:52:41,784 - ERROR - Error during category run 'Benches': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Benches", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Benches", waiting until "domcontentloaded"
+
+2026-09-09 14:52:41,831 - INFO - Closed Playwright browser session safely
+2026-09-09 14:52:41,846 - INFO - Target Category: 'Pedicure & Manicure Chairs'
+2026-09-09 14:52:41,846 - INFO - Target URL: 'https://www.amazon.in/s?k=Pedicure+%26+Manicure+Chairs'
+2026-09-09 14:52:42,304 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-09 14:52:42,304 - INFO - Discovering products for category 'Pedicure & Manicure Chairs' from https://www.amazon.in/s?k=Pedicure+%26+Manicure+Chairs...
+2026-09-09 14:52:42,352 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Pedicure+%26+Manicure+Chairs
+2026-09-09 14:52:42,513 - ERROR - Error during category run 'Pedicure & Manicure Chairs': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Pedicure+%26+Manicure+Chairs", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Pedicure+%26+Manicure+Chairs", waiting until "domcontentloaded"
+
+2026-09-09 14:52:42,560 - INFO - Closed Playwright browser session safely
+2026-09-09 14:52:42,575 - INFO - Target Category: 'Gynecologist Tables'
+2026-09-09 14:52:42,575 - INFO - Target URL: 'https://www.amazon.in/s?k=Gynecologist+Tables'
+2026-09-09 14:52:43,042 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-09 14:52:43,042 - INFO - Discovering products for category 'Gynecologist Tables' from https://www.amazon.in/s?k=Gynecologist+Tables...
+2026-09-09 14:52:43,100 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Gynecologist+Tables
+2026-09-09 14:52:43,261 - ERROR - Error during category run 'Gynecologist Tables': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Gynecologist+Tables", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Gynecologist+Tables", waiting until "domcontentloaded"
+
+2026-09-09 14:52:43,308 - INFO - Closed Playwright browser session safely
+2026-09-09 14:52:43,323 - INFO - Target Category: 'Ottoman & Pouffe'
+2026-09-09 14:52:43,323 - INFO - Target URL: 'https://www.amazon.in/s?k=Ottoman+%26+Pouffe'
+2026-09-09 14:52:43,770 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-09 14:52:43,770 - INFO - Discovering products for category 'Ottoman & Pouffe' from https://www.amazon.in/s?k=Ottoman+%26+Pouffe...
+2026-09-09 14:52:43,822 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Ottoman+%26+Pouffe
+2026-09-09 14:52:47,296 - INFO - Found 424 raw product links on page 1
+2026-09-09 14:52:47,640 - INFO - Discovered 10 total unique product URLs so far
+2026-09-09 14:52:47,658 - INFO - Discovered 10 products for category 'Ottoman & Pouffe'
+2026-09-09 14:52:47,658 - INFO - [1/10] Processing product ASIN: B0GMDJ8XCD
+2026-09-09 14:52:47,705 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GMDJ8XCD
+2026-09-09 14:52:51,778 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 14:52:51,778 - INFO - ASIN: B0GMDJ8XCD
+2026-09-09 14:52:51,926 - INFO - BUY BOX SELLER: NOVIQ ENTERPRISES
+2026-09-09 14:52:51,927 - INFO - AOD: Opening All Offers...
+2026-09-09 14:52:52,090 - INFO - AOD: Initial offers found: 0
+2026-09-09 14:52:53,278 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 14:52:54,424 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 14:52:55,724 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 14:52:55,810 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 14:52:55,822 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GMDJ8XCD | TOTAL UNIQUE SELLERS: 1
+2026-09-09 14:52:55,822 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3CPS5IWA6VMAQ&asin=B0GMDJ8XCD&ref_=dp_merchant_link
+2026-09-09 14:52:56,951 - INFO - [2/10] Processing product ASIN: B0H4YT9WBR
+2026-09-09 14:52:57,014 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0H4YT9WBR
+2026-09-09 14:52:59,990 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 14:52:59,990 - INFO - ASIN: B0H4YT9WBR
+2026-09-09 14:53:00,073 - INFO - BUY BOX SELLER: NOVIQ ENTERPRISES
+2026-09-09 14:53:00,073 - INFO - AOD: Opening All Offers...
+2026-09-09 14:53:00,339 - INFO - AOD: Initial offers found: 0
+2026-09-09 14:53:01,560 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 14:53:02,717 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 14:53:03,861 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 14:53:03,921 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 14:53:03,934 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0H4YT9WBR | TOTAL UNIQUE SELLERS: 1
+2026-09-09 14:53:03,934 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3CPS5IWA6VMAQ&asin=B0H4YT9WBR&ref_=dp_merchant_link
+2026-09-09 14:53:04,957 - INFO - [3/10] Processing product ASIN: B0GMDL2ZZG
+2026-09-09 14:53:05,000 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GMDL2ZZG
+2026-09-09 14:53:07,707 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 14:53:07,707 - INFO - ASIN: B0GMDL2ZZG
+2026-09-09 14:53:07,769 - INFO - BUY BOX SELLER: NOVIQ ENTERPRISES
+2026-09-09 14:53:07,769 - INFO - AOD: Opening All Offers...
+2026-09-09 14:53:07,978 - INFO - AOD: Initial offers found: 0
+2026-09-09 14:53:09,175 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 14:53:10,319 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 14:53:11,536 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 14:53:11,599 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 14:53:11,611 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GMDL2ZZG | TOTAL UNIQUE SELLERS: 1
+2026-09-09 14:53:11,611 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3CPS5IWA6VMAQ&asin=B0GMDL2ZZG&ref_=dp_merchant_link
+2026-09-09 14:53:12,570 - INFO - [4/10] Processing product ASIN: B0GMDLWZGJ
+2026-09-09 14:53:12,618 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GMDLWZGJ
+2026-09-09 14:53:15,304 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 14:53:15,305 - INFO - ASIN: B0GMDLWZGJ
+2026-09-09 14:53:15,577 - INFO - BUY BOX SELLER: NOVIQ ENTERPRISES
+2026-09-09 14:53:15,577 - INFO - AOD: Opening All Offers...
+2026-09-09 14:53:15,768 - INFO - AOD: Initial offers found: 0
+2026-09-09 14:53:16,972 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 14:53:18,131 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 14:53:19,325 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 14:53:19,402 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 14:53:19,429 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GMDLWZGJ | TOTAL UNIQUE SELLERS: 1
+2026-09-09 14:53:19,429 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3CPS5IWA6VMAQ&asin=B0GMDLWZGJ&ref_=dp_merchant_link
+2026-09-09 14:53:20,344 - INFO - [5/10] Processing product ASIN: B0GMD5DWKK
+2026-09-09 14:53:20,394 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GMD5DWKK
+2026-09-09 14:53:23,111 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 14:53:23,111 - INFO - ASIN: B0GMD5DWKK
+2026-09-09 14:53:23,194 - INFO - BUY BOX SELLER: NOVIQ ENTERPRISES
+2026-09-09 14:53:23,194 - INFO - AOD: Opening All Offers...
+2026-09-09 14:53:24,542 - INFO - AOD: Initial offers found: 4
+2026-09-09 14:53:25,817 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 14:53:27,145 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 14:53:28,401 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 14:53:28,471 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 14:53:28,484 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GMD5DWKK | TOTAL UNIQUE SELLERS: 1
+2026-09-09 14:53:28,485 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3CPS5IWA6VMAQ&asin=B0GMD5DWKK&ref_=dp_merchant_link
+2026-09-09 14:53:29,403 - INFO - [6/10] Processing product ASIN: B0GMDNTD8L
+2026-09-09 14:53:29,449 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GMDNTD8L
+2026-09-09 14:53:31,945 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 14:53:31,946 - INFO - ASIN: B0GMDNTD8L
+2026-09-09 14:53:31,987 - INFO - BUY BOX SELLER: NOVIQ ENTERPRISES
+2026-09-09 14:53:31,987 - INFO - AOD: Opening All Offers...
+2026-09-09 14:53:32,067 - INFO - AOD: Initial offers found: 0
+2026-09-09 14:53:33,262 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 14:53:34,407 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 14:53:35,614 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 14:53:35,673 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 14:53:35,685 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GMDNTD8L | TOTAL UNIQUE SELLERS: 1
+2026-09-09 14:53:35,685 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3CPS5IWA6VMAQ&asin=B0GMDNTD8L&ref_=dp_merchant_link
+2026-09-09 14:53:36,629 - INFO - [7/10] Processing product ASIN: B0GNP9DX8D
+2026-09-09 14:53:36,675 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GNP9DX8D
+2026-09-09 14:53:39,518 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 14:53:39,518 - INFO - ASIN: B0GNP9DX8D
+2026-09-09 14:53:39,569 - INFO - BUY BOX SELLER: Jay Mahakal Co
+2026-09-09 14:53:39,569 - INFO - AOD: Opening All Offers...
+2026-09-09 14:53:40,880 - INFO - AOD: Initial offers found: 3
+2026-09-09 14:53:42,214 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 14:53:43,420 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 14:53:44,608 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 14:53:44,669 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 14:53:44,682 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GNP9DX8D | TOTAL UNIQUE SELLERS: 2
+2026-09-09 14:53:44,682 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3ULYYROGYICB&asin=B0GNP9DX8D&ref_=dp_merchant_link
+2026-09-09 14:53:45,673 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A13BS2E6RA166Z&isAmazonFulfilled=1&asin=B0GNP9DX8D&ref_=olp_merch_name_1
+2026-09-09 14:53:46,505 - INFO - [8/10] Processing product ASIN: B0GNNZX73J
+2026-09-09 14:53:46,550 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GNNZX73J
+2026-09-09 14:53:49,283 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 14:53:49,283 - INFO - ASIN: B0GNNZX73J
+2026-09-09 14:53:49,360 - INFO - BUY BOX SELLER: Jay Mahakal Co
+2026-09-09 14:53:49,360 - INFO - AOD: Opening All Offers...
+2026-09-09 14:53:50,625 - INFO - AOD: Initial offers found: 3
+2026-09-09 14:53:51,879 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 14:53:53,074 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 14:53:54,261 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 14:53:54,326 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 14:53:54,338 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GNNZX73J | TOTAL UNIQUE SELLERS: 2
+2026-09-09 14:53:54,339 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3ULYYROGYICB&asin=B0GNNZX73J&ref_=dp_merchant_link
+2026-09-09 14:53:55,271 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A13BS2E6RA166Z&isAmazonFulfilled=1&asin=B0GNNZX73J&ref_=olp_merch_name_1
+2026-09-09 14:53:56,103 - INFO - [9/10] Processing product ASIN: B0GNNY2CLS
+2026-09-09 14:53:56,151 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GNNY2CLS
+2026-09-09 14:53:58,826 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 14:53:58,826 - INFO - ASIN: B0GNNY2CLS
+2026-09-09 14:53:58,949 - INFO - BUY BOX SELLER: The Lotus Store
+2026-09-09 14:53:58,950 - INFO - AOD: Opening All Offers...
+2026-09-09 14:53:59,070 - INFO - AOD: Initial offers found: 0
+2026-09-09 14:54:00,302 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 14:54:01,448 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 14:54:02,555 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 14:54:02,617 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 14:54:02,628 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GNNY2CLS | TOTAL UNIQUE SELLERS: 1
+2026-09-09 14:54:02,628 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A13BS2E6RA166Z&asin=B0GNNY2CLS&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 14:54:03,511 - INFO - [10/10] Processing product ASIN: B0GNPJ81NJ
+2026-09-09 14:54:03,552 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GNPJ81NJ
+2026-09-09 14:54:06,186 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 14:54:06,187 - INFO - ASIN: B0GNPJ81NJ
+2026-09-09 14:54:06,287 - INFO - BUY BOX SELLER: Jay Mahakal Co
+2026-09-09 14:54:06,288 - INFO - AOD: Opening All Offers...
+2026-09-09 14:54:07,522 - INFO - AOD: Initial offers found: 3
+2026-09-09 14:54:08,819 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 14:54:10,015 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 14:54:11,208 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 14:54:11,270 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 14:54:11,282 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GNPJ81NJ | TOTAL UNIQUE SELLERS: 2
+2026-09-09 14:54:11,282 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3ULYYROGYICB&asin=B0GNPJ81NJ&ref_=dp_merchant_link
+2026-09-09 14:54:12,201 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A13BS2E6RA166Z&isAmazonFulfilled=1&asin=B0GNPJ81NJ&ref_=olp_merch_name_1
+2026-09-09 14:54:13,145 - INFO - Top businesses requested: 100, found: 3 for 'Ottoman & Pouffe'
+2026-09-09 14:54:13,145 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 3 businesses...
+2026-09-09 14:54:13,145 - INFO - Starting Public Enrichment Waterfall for business 'NOVIQ ENTERPRISES'...
+2026-09-09 14:54:14,192 - INFO - Verifying website ownership candidate: https://www.noviqenterprises.com/
+2026-09-09 14:54:14,266 - INFO - Verifying website ownership candidate: https://www.noviqenterprises.in/
+2026-09-09 14:54:14,308 - INFO - Verifying website ownership candidate: https://travel.usnews.com/Austin_TX/Things_To_Do/
+2026-09-09 14:54:14,352 - INFO - Verifying website ownership candidate: https://seekaustin.com/things-to-do/austin-tx/
+2026-09-09 14:54:15,400 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-09 14:54:17,241 - INFO - Fetching text from target page: https://gstverify.co.in/search/
+2026-09-09 14:54:17,439 - INFO - Fetching text from target page: https://www.registerkaro.in/post/how-to-check-company-pan-number
+2026-09-09 14:54:19,422 - INFO - Fetching text from target page: https://www.kbb.com/whats-my-car-worth/?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:54:19,492 - INFO - Fetching text from target page: https://www.kbb.com/used-cars/?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:54:19,523 - INFO - Fetching text from target page: https://b2b.kbb.com/solutions/quick-values/
+2026-09-09 14:54:20,249 - INFO - Fetching text from target page: https://b2b.kbb.com/dealership/inventory-and-trade-in/ico/instant-cash-offer-login/
+2026-09-09 14:54:21,665 - INFO - Fetching text from target page: https://dd53jyxmgchu8.cloudfront.net/
+2026-09-09 14:54:22,027 - INFO - Fetching text from target page: https://www.security.org/digital-safety/is-duckduckgo-safe/
+2026-09-09 14:54:22,834 - INFO - Fetching text from target page: https://apps.apple.com/us/app/duckduckgo-optional-duck-ai/id663592361
+2026-09-09 14:54:23,730 - INFO - Fetching text from target page: https://downdetector.com/status/duckduckgo/
+2026-09-09 14:54:25,001 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-09 14:54:25,001 - INFO - ENRICHMENT HEARTBEAT: Seller = NOVIQ ENTERPRISES, Elapsed = 12s, Current field = Address (Attempt 1)
+2026-09-09 14:54:26,092 - INFO - Fetching text from target page: https://home.cards.citidirect.com/CommercialCard/login
+2026-09-09 14:54:26,532 - INFO - Fetching text from target page: https://home.cards.citidirect.com/CommercialCard/GCMSCardRegistration
+2026-09-09 14:54:26,676 - INFO - Fetching text from target page: https://www.citibank.com/tts/solutions/commercial-cards/assets/include/citimanager.html
+2026-09-09 14:54:26,773 - INFO - Fetching text from target page: https://www.citibank.com/tts/sa/citimanager/at-your-service/nam/index.html
+2026-09-09 14:54:28,221 - INFO - Fetching text from target page: https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2025/2024-ka-0420-1.html
+2026-09-09 14:54:28,784 - INFO - Fetching text from target page: https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2025/2024-ka-0420.html
+2026-09-09 14:54:28,878 - INFO - Fetching text from target page: https://caselaw.findlaw.com/court/la-court-of-appeal/117656408.html
+2026-09-09 14:54:29,471 - INFO - Fetching text from target page: https://caselaw.findlaw.com/court/la-court-of-appeal/117213731.html
+2026-09-09 14:54:29,742 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-09 14:54:29,772 - INFO - Starting Public Enrichment Waterfall for business 'The Lotus Store'...
+2026-09-09 14:54:30,675 - INFO - Verifying website ownership candidate: https://www.thelotusstore.com/
+2026-09-09 14:54:30,763 - INFO - Verifying website ownership candidate: https://www.thelotusstore.in/
+2026-09-09 14:54:30,940 - INFO - Verifying website ownership candidate: https://www.lotuscars.com/en-US
+2026-09-09 14:54:31,077 - INFO - Verifying website ownership candidate: https://www.lotuscars.com/en-US/emira
+2026-09-09 14:54:32,100 - INFO - Successfully verified website candidate 'https://www.lotuscars.com/en-US/emira' for business 'The Lotus Store'
+2026-09-09 14:54:32,100 - INFO - Verified official website for 'The Lotus Store': https://www.lotuscars.com/
+2026-09-09 14:54:38,342 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US
+2026-09-09 14:54:38,736 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US/emira
+2026-09-09 14:54:39,261 - INFO - Fetching text from target page: https://cc.lotuscars.com/en-US/
+2026-09-09 14:54:41,329 - INFO - Fetching text from target page: https://www.autotrader.com/cars-for-sale/lotus?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:54:41,554 - INFO - ENRICHMENT HEARTBEAT: Seller = The Lotus Store, Elapsed = 12s, Current field = Legal Entity Name (Attempt 2)
+2026-09-09 14:54:42,473 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US
+2026-09-09 14:54:42,915 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US/emira
+2026-09-09 14:54:43,471 - INFO - Fetching text from target page: https://cc.lotuscars.com/en-US/
+2026-09-09 14:54:43,792 - INFO - Fetching text from target page: https://www.autotrader.com/cars-for-sale/lotus?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:54:44,027 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-09 14:54:44,976 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US
+2026-09-09 14:54:45,380 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US/emira
+2026-09-09 14:54:45,904 - INFO - Fetching text from target page: https://cc.lotuscars.com/en-US/
+2026-09-09 14:54:46,134 - INFO - Fetching text from target page: https://www.autotrader.com/cars-for-sale/lotus?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:54:47,372 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US
+2026-09-09 14:54:47,814 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US/emira
+2026-09-09 14:54:48,339 - INFO - Fetching text from target page: https://cc.lotuscars.com/en-US/
+2026-09-09 14:54:48,565 - INFO - Fetching text from target page: https://www.autotrader.com/cars-for-sale/lotus?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:54:48,726 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-09 14:54:49,718 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US
+2026-09-09 14:54:50,126 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US/emira
+2026-09-09 14:54:50,666 - INFO - Fetching text from target page: https://cc.lotuscars.com/en-US/
+2026-09-09 14:54:50,889 - INFO - Fetching text from target page: https://www.autotrader.com/cars-for-sale/lotus?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:54:52,015 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US
+2026-09-09 14:54:52,412 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US/emira
+2026-09-09 14:54:52,962 - INFO - Fetching text from target page: https://cc.lotuscars.com/en-US/
+2026-09-09 14:54:53,195 - INFO - Fetching text from target page: https://www.autotrader.com/cars-for-sale/lotus?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:54:53,396 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-09 14:54:53,396 - INFO - ENRICHMENT HEARTBEAT: Seller = The Lotus Store, Elapsed = 24s, Current field = Owner (Attempt 1)
+2026-09-09 14:54:55,717 - INFO - Fetching text from target page: https://lotusgroup.com.my/ceo-founders-profile/
+2026-09-09 14:54:59,845 - INFO - Fetching text from target page: https://www.crunchbase.com/person/patrick-james-hall
+2026-09-09 14:55:00,042 - INFO - Fetching text from target page: https://vitaminretailer.com/kenneth-lee-caryl-levine-co-founders-of-lotus-foods-inc/
+2026-09-09 14:55:00,438 - INFO - Fetching text from target page: https://www.news9live.com/technology/20-stores-in-23-years-lotus-electronics-director-shares-insights-into-company-growth-and-future-plans-2382988
+2026-09-09 14:55:02,842 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US
+2026-09-09 14:55:03,412 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US/emira
+2026-09-09 14:55:04,023 - INFO - Fetching text from target page: https://cc.lotuscars.com/en-US/
+2026-09-09 14:55:04,378 - INFO - Fetching text from target page: https://www.autotrader.com/cars-for-sale/lotus?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:55:04,618 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-09 14:55:04,618 - INFO - ENRICHMENT HEARTBEAT: Seller = The Lotus Store, Elapsed = 35s, Current field = Address (Attempt 1)
+2026-09-09 14:55:07,005 - INFO - Fetching text from target page: https://opengovus.com/chicago-business/509486-1
+2026-09-09 14:55:07,836 - INFO - Fetching text from target page: https://www.bizapedia.com/il/lotus-automotive-inc.html
+2026-09-09 14:55:08,294 - INFO - Fetching text from target page: https://opendatalei.com/lei/254900H5BBOG4R6QCM34
+2026-09-09 14:55:09,926 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US
+2026-09-09 14:55:11,082 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US/emira
+2026-09-09 14:55:11,628 - INFO - Fetching text from target page: https://cc.lotuscars.com/en-US/
+2026-09-09 14:55:11,886 - INFO - Fetching text from target page: https://www.autotrader.com/cars-for-sale/lotus?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:55:13,058 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US
+2026-09-09 14:55:14,179 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US/emira
+2026-09-09 14:55:14,710 - INFO - Fetching text from target page: https://cc.lotuscars.com/en-US/
+2026-09-09 14:55:14,936 - INFO - Fetching text from target page: https://www.autotrader.com/cars-for-sale/lotus?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:55:15,171 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-09 14:55:15,171 - INFO - ENRICHMENT HEARTBEAT: Seller = The Lotus Store, Elapsed = 45s, Current field = Email (Attempt 1)
+2026-09-09 14:55:16,151 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US
+2026-09-09 14:55:16,666 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US/emira
+2026-09-09 14:55:17,240 - INFO - Fetching text from target page: https://cc.lotuscars.com/en-US/
+2026-09-09 14:55:17,604 - INFO - Fetching text from target page: https://www.autotrader.com/cars-for-sale/lotus?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:55:18,727 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US
+2026-09-09 14:55:19,104 - INFO - Fetching text from target page: https://www.lotuscars.com/en-US/emira
+2026-09-09 14:55:19,612 - INFO - Fetching text from target page: https://cc.lotuscars.com/en-US/
+2026-09-09 14:55:19,907 - INFO - Fetching text from target page: https://www.autotrader.com/cars-for-sale/lotus?msockid=1795aa4328ae6966052fbd8c293668ec
+2026-09-09 14:55:20,142 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-09 14:55:20,185 - INFO - Starting Public Enrichment Waterfall for business 'Jay Mahakal Co'...
+2026-09-09 14:55:21,161 - INFO - Verifying website ownership candidate: https://www.jaymahakalco.com/
+2026-09-09 14:55:21,230 - INFO - Verifying website ownership candidate: https://www.jaymahakalco.in/
+2026-09-09 14:55:21,277 - INFO - Verifying website ownership candidate: https://kprofiles.com/jay-enhypen-profile/
+2026-09-09 14:55:21,745 - INFO - Successfully verified website candidate 'https://kprofiles.com/jay-enhypen-profile/' for business 'Jay Mahakal Co'
+2026-09-09 14:55:21,745 - INFO - Verified official website for 'Jay Mahakal Co': https://kprofiles.com/
+2026-09-09 14:55:23,264 - INFO - Fetching text from target page: https://kprofiles.com/jay-enhypen-profile/
+2026-09-09 14:55:23,554 - INFO - Fetching text from target page: https://www.rocnation.com/music/jay-z/
+2026-09-09 14:55:24,157 - INFO - Fetching text from target page: https://www.usatoday.com/story/entertainment/music/2026/08/26/jay-z-trailer-hbo-series-mike-rubin-jay-8/91476289007/
+2026-09-09 14:55:25,332 - INFO - Fetching text from target page: https://www.britannica.com/biography/JAY-Z
+2026-09-09 14:55:28,890 - INFO - Fetching text from target page: https://www.companydetails.in/company/jay-mahakal-projects-private-limited
+2026-09-09 14:55:34,891 - WARNING - WEBSITE TIMEOUT: https://www.companydetails.in/company/jay-mahakal-projects-private-limited
+2026-09-09 14:55:44,091 - INFO - Fetching text from target page: https://www.instafinancials.com/company/jay-mahakal-projects-private-limited-U45201DL2021PTC383137/company-overview
+2026-09-09 14:55:46,508 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-09 14:55:46,508 - INFO - ENRICHMENT HEARTBEAT: Seller = Jay Mahakal Co, Elapsed = 26s, Current field = PAN (Attempt 1)
+2026-09-09 14:55:47,555 - INFO - Fetching text from target page: https://kprofiles.com/jay-enhypen-profile/
+2026-09-09 14:55:47,841 - INFO - Fetching text from target page: https://www.rocnation.com/music/jay-z/
+2026-09-09 14:55:48,286 - INFO - Fetching text from target page: https://www.usatoday.com/story/entertainment/music/2026/08/26/jay-z-trailer-hbo-series-mike-rubin-jay-8/91476289007/
+2026-09-09 14:55:48,499 - INFO - Fetching text from target page: https://www.britannica.com/biography/JAY-Z
+2026-09-09 14:55:51,805 - INFO - Fetching text from target page: https://weedoo.in/udyam-companies/jay-mahakal-pan/5SdoFPNTKg4fjPGj
+2026-09-09 14:55:53,609 - INFO - Fetching text from target page: https://gst.iadv.io/JAY-MAHAKAL-TRADING-COMPANY-23AZAPG1444P1ZH/
+2026-09-09 14:55:56,233 - INFO - Fetching text from target page: https://kprofiles.com/jay-enhypen-profile/
+2026-09-09 14:55:56,510 - INFO - Fetching text from target page: https://www.rocnation.com/music/jay-z/
+2026-09-09 14:56:00,255 - INFO - Fetching text from target page: https://www.usatoday.com/story/entertainment/music/2026/08/26/jay-z-trailer-hbo-series-mike-rubin-jay-8/91476289007/
+2026-09-09 14:56:01,303 - INFO - Fetching text from target page: https://www.britannica.com/biography/JAY-Z
+2026-09-09 14:56:02,630 - INFO - ENRICHMENT HEARTBEAT: Seller = Jay Mahakal Co, Elapsed = 42s, Current field = Owner (Attempt 2)
+2026-09-09 14:56:05,352 - INFO - Fetching text from target page: https://www.dnb.com/business-directory/company-profiles.jay_mahakal.e3d361b62d006ac0f331c487ee16e018.html
+2026-09-09 14:56:05,555 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-09 14:56:06,564 - INFO - Fetching text from target page: https://kprofiles.com/jay-enhypen-profile/
+2026-09-09 14:56:06,846 - INFO - Fetching text from target page: https://www.rocnation.com/music/jay-z/
+2026-09-09 14:56:10,402 - INFO - Fetching text from target page: https://www.usatoday.com/story/entertainment/music/2026/08/26/jay-z-trailer-hbo-series-mike-rubin-jay-8/91476289007/
+2026-09-09 14:56:11,478 - INFO - Fetching text from target page: https://www.britannica.com/biography/JAY-Z
+2026-09-09 14:56:12,632 - INFO - ENRICHMENT HEARTBEAT: Seller = Jay Mahakal Co, Elapsed = 52s, Current field = Address (Attempt 2)
+2026-09-09 14:56:13,761 - INFO - Fetching text from target page: https://kprofiles.com/jay-enhypen-profile/
+2026-09-09 14:56:14,056 - INFO - Fetching text from target page: https://www.rocnation.com/music/jay-z/
+2026-09-09 14:56:17,482 - INFO - Fetching text from target page: https://www.usatoday.com/story/entertainment/music/2026/08/26/jay-z-trailer-hbo-series-mike-rubin-jay-8/91476289007/
+2026-09-09 14:56:18,488 - INFO - Fetching text from target page: https://www.britannica.com/biography/JAY-Z
+2026-09-09 14:56:19,666 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-09 14:56:22,252 - INFO - Fetching text from target page: https://www.jaymahakaal.com/
+2026-09-09 14:56:26,198 - INFO - Closed Playwright browser session safely
+2026-09-09 14:56:26,200 - INFO - Read 3 final verified records from SQLite for 'Ottoman & Pouffe'
+2026-09-09 14:56:27,014 - INFO - Created safety backup of master Excel at /home/runner/work/Amazon-scrap/Amazon-scrap/output/backups/Amazon_Seller_Master_Data_20260909_145626_backup.xlsx
+2026-09-09 14:56:28,232 - INFO - Master Excel updated: Added 3 rows for category 'Ottoman & Pouffe'. Total master rows=1366
+2026-09-09 14:56:28,248 - INFO - Target Category: 'Bunk Loft Beds'
+2026-09-09 14:56:28,248 - INFO - Target URL: 'https://www.amazon.in/s?k=Bunk+Loft+Beds'
+2026-09-09 14:56:28,701 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-09 14:56:28,701 - INFO - Discovering products for category 'Bunk Loft Beds' from https://www.amazon.in/s?k=Bunk+Loft+Beds...
+2026-09-09 14:56:28,760 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Bunk+Loft+Beds
+2026-09-09 14:56:28,982 - ERROR - Error during category run 'Bunk Loft Beds': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Bunk+Loft+Beds", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Bunk+Loft+Beds", waiting until "domcontentloaded"
+
+2026-09-09 14:56:29,026 - INFO - Closed Playwright browser session safely
+2026-09-09 14:56:29,041 - INFO - Target Category: 'Massage Beds'
+2026-09-09 14:56:29,041 - INFO - Target URL: 'https://www.amazon.in/s?k=Massage+Beds'
+2026-09-09 14:56:29,495 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-09 14:56:29,495 - INFO - Discovering products for category 'Massage Beds' from https://www.amazon.in/s?k=Massage+Beds...
+2026-09-09 14:56:29,546 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Massage+Beds
+2026-09-09 14:56:29,708 - ERROR - Error during category run 'Massage Beds': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Beds", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Beds", waiting until "domcontentloaded"
+
+2026-09-09 14:56:29,754 - INFO - Closed Playwright browser session safely
+2026-09-09 14:56:29,768 - INFO - Target Category: 'Massage Chairs'
+2026-09-09 14:56:29,768 - INFO - Target URL: 'https://www.amazon.in/s?k=Massage+Chairs'
+2026-09-09 14:56:30,229 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-09 14:56:30,229 - INFO - Discovering products for category 'Massage Chairs' from https://www.amazon.in/s?k=Massage+Chairs...
+2026-09-09 14:56:30,283 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Massage+Chairs
+2026-09-09 14:56:30,443 - ERROR - Error during category run 'Massage Chairs': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Chairs", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Chairs", waiting until "domcontentloaded"
+
+2026-09-09 14:56:30,490 - INFO - Closed Playwright browser session safely
