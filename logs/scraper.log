@@ -121746,3 +121746,544 @@ Call log:
   - navigating to "https://www.amazon.in/s?k=Massage+Chairs", waiting until "domcontentloaded"
 
 2026-09-13 01:52:34,744 - INFO - Closed Playwright browser session safely
+2026-09-14 02:10:17,471 - INFO - Starting Amazon Multi-Category Batch Processing Mode
+2026-09-14 02:10:17,472 - INFO - Initialized SQLite database schema at amazon_sellers.db
+2026-09-14 02:10:17,475 - INFO - Target Category: 'Spa Trolleys'
+2026-09-14 02:10:17,475 - INFO - Target URL: 'https://www.amazon.in/s?k=Spa+Trolleys'
+2026-09-14 02:10:17,973 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-14 02:10:17,973 - INFO - Discovering products for category 'Spa Trolleys' from https://www.amazon.in/s?k=Spa+Trolleys...
+2026-09-14 02:10:18,008 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Spa+Trolleys
+2026-09-14 02:10:19,477 - INFO - Found 0 raw product links on page 1
+2026-09-14 02:10:19,477 - INFO - Discovered 0 total unique product URLs so far
+2026-09-14 02:10:19,479 - INFO - Discovered 0 products for category 'Spa Trolleys'
+2026-09-14 02:10:19,479 - INFO - Top businesses requested: 100, found: 0 for 'Spa Trolleys'
+2026-09-14 02:10:19,479 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
+2026-09-14 02:10:19,604 - INFO - Closed Playwright browser session safely
+2026-09-14 02:10:19,824 - INFO - Target Category: 'Lounger Chaises'
+2026-09-14 02:10:19,824 - INFO - Target URL: 'https://www.amazon.in/s?k=Lounger+Chaises'
+2026-09-14 02:10:20,091 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-14 02:10:20,091 - INFO - Discovering products for category 'Lounger Chaises' from https://www.amazon.in/s?k=Lounger+Chaises...
+2026-09-14 02:10:20,130 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Lounger+Chaises
+2026-09-14 02:10:21,514 - INFO - Found 0 raw product links on page 1
+2026-09-14 02:10:21,514 - INFO - Discovered 0 total unique product URLs so far
+2026-09-14 02:10:21,516 - INFO - Discovered 0 products for category 'Lounger Chaises'
+2026-09-14 02:10:21,516 - INFO - Top businesses requested: 100, found: 0 for 'Lounger Chaises'
+2026-09-14 02:10:21,516 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
+2026-09-14 02:10:21,545 - INFO - Closed Playwright browser session safely
+2026-09-14 02:10:21,563 - INFO - Target Category: 'Home Temple'
+2026-09-14 02:10:21,563 - INFO - Target URL: 'https://www.amazon.in/s?k=Home+Temple'
+2026-09-14 02:10:21,826 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-14 02:10:21,826 - INFO - Discovering products for category 'Home Temple' from https://www.amazon.in/s?k=Home+Temple...
+2026-09-14 02:10:21,864 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Home+Temple
+2026-09-14 02:10:23,219 - INFO - Found 0 raw product links on page 1
+2026-09-14 02:10:23,219 - INFO - Discovered 0 total unique product URLs so far
+2026-09-14 02:10:23,221 - INFO - Discovered 0 products for category 'Home Temple'
+2026-09-14 02:10:23,221 - INFO - Top businesses requested: 100, found: 0 for 'Home Temple'
+2026-09-14 02:10:23,221 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
+2026-09-14 02:10:23,252 - INFO - Closed Playwright browser session safely
+2026-09-14 02:10:23,260 - INFO - Target Category: 'Benches'
+2026-09-14 02:10:23,260 - INFO - Target URL: 'https://www.amazon.in/s?k=Benches'
+2026-09-14 02:10:23,519 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-14 02:10:23,519 - INFO - Discovering products for category 'Benches' from https://www.amazon.in/s?k=Benches...
+2026-09-14 02:10:23,558 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Benches
+2026-09-14 02:10:24,884 - INFO - Found 0 raw product links on page 1
+2026-09-14 02:10:24,885 - INFO - Discovered 0 total unique product URLs so far
+2026-09-14 02:10:24,887 - INFO - Discovered 0 products for category 'Benches'
+2026-09-14 02:10:24,887 - INFO - Top businesses requested: 100, found: 0 for 'Benches'
+2026-09-14 02:10:24,887 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
+2026-09-14 02:10:24,922 - INFO - Closed Playwright browser session safely
+2026-09-14 02:10:24,931 - INFO - Target Category: 'Gynecologist Tables'
+2026-09-14 02:10:24,931 - INFO - Target URL: 'https://www.amazon.in/s?k=Gynecologist+Tables'
+2026-09-14 02:10:25,192 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-14 02:10:25,192 - INFO - Discovering products for category 'Gynecologist Tables' from https://www.amazon.in/s?k=Gynecologist+Tables...
+2026-09-14 02:10:25,271 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Gynecologist+Tables
+2026-09-14 02:10:27,971 - INFO - Found 208 raw product links on page 1
+2026-09-14 02:10:28,083 - INFO - Discovered 10 total unique product URLs so far
+2026-09-14 02:10:28,094 - INFO - Discovered 10 products for category 'Gynecologist Tables'
+2026-09-14 02:10:28,094 - INFO - [1/10] Processing product ASIN: B0H7WZ7FJS
+2026-09-14 02:10:28,122 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0H7WZ7FJS
+2026-09-14 02:10:30,455 - INFO - PRODUCT: Personalized Gynecologist Caricature Standee, Custom Doctor Gift for Women, Funny Gynecology Photo Stand, Birthday Farewell Thank You Gift for Gynecologist, Desk Office Table Décor
+2026-09-14 02:10:30,455 - INFO - ASIN: B0H7WZ7FJS
+2026-09-14 02:10:30,569 - INFO - BUY BOX SELLER: NEVORIKA
+2026-09-14 02:10:30,569 - INFO - AOD: Opening All Offers...
+2026-09-14 02:10:30,624 - INFO - AOD: Initial offers found: 0
+2026-09-14 02:10:30,697 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:32,302 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:10:32,359 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:33,924 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:10:33,971 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:35,540 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:10:35,570 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:37,157 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:38,737 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:10:38,781 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:40,346 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:10:40,415 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:41,983 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:10:42,012 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:43,594 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:45,166 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:10:45,244 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:46,812 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:10:46,857 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:48,412 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:10:48,444 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:50,027 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:51,598 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:10:51,641 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:53,213 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:10:53,257 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:54,833 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:10:54,864 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:56,476 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:58,052 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:10:58,096 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:10:59,679 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:10:59,725 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:01,301 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:11:01,329 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:02,949 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:04,511 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:11:04,553 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:06,089 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:11:06,131 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:07,695 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:11:07,723 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:09,308 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:10,878 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:11:10,928 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:12,490 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:11:12,532 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:14,095 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:11:14,150 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:15,727 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:17,296 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:11:17,339 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:18,915 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:11:18,958 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:20,529 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:11:20,576 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:22,160 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:23,730 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:11:23,771 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:25,344 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:11:25,386 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:26,970 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:11:27,000 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:28,595 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:30,160 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:11:30,204 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:31,780 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:11:31,823 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:33,398 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:11:33,426 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-14 02:11:34,984 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0H7WZ7FJS | TOTAL UNIQUE SELLERS: 1
+2026-09-14 02:11:34,984 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3BFKEF8RMRIE3&asin=B0H7WZ7FJS&ref_=dp_merchant_link
+2026-09-14 02:11:36,019 - INFO - [2/10] Processing product ASIN: B0F9FS8JYG
+2026-09-14 02:11:36,045 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0F9FS8JYG
+2026-09-14 02:11:38,249 - INFO - PRODUCT: Product summary presents key product information
+2026-09-14 02:11:38,249 - INFO - ASIN: B0F9FS8JYG
+2026-09-14 02:11:38,269 - INFO - BUY BOX SELLER: Star laser
+2026-09-14 02:11:38,269 - INFO - AOD: Opening All Offers...
+2026-09-14 02:11:38,305 - INFO - AOD: Initial offers found: 0
+2026-09-14 02:11:39,375 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:11:40,453 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:11:41,516 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:11:41,543 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-14 02:11:41,548 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0F9FS8JYG | TOTAL UNIQUE SELLERS: 1
+2026-09-14 02:11:41,548 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A34VZ9FMN121G7&asin=B0F9FS8JYG&ref_=dp_merchant_link
+2026-09-14 02:11:42,586 - INFO - [3/10] Processing product ASIN: B0DDXZNHK3
+2026-09-14 02:11:42,615 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0DDXZNHK3
+2026-09-14 02:11:44,792 - INFO - PRODUCT: Product summary presents key product information
+2026-09-14 02:11:44,792 - INFO - ASIN: B0DDXZNHK3
+2026-09-14 02:11:44,812 - INFO - BUY BOX SELLER: Star laser
+2026-09-14 02:11:44,813 - INFO - AOD: Opening All Offers...
+2026-09-14 02:11:44,884 - INFO - AOD: Initial offers found: 0
+2026-09-14 02:11:45,949 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:11:47,042 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:11:48,105 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:11:48,142 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-14 02:11:48,148 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0DDXZNHK3 | TOTAL UNIQUE SELLERS: 1
+2026-09-14 02:11:48,148 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A34VZ9FMN121G7&asin=B0DDXZNHK3&ref_=dp_merchant_link
+2026-09-14 02:11:49,122 - INFO - [4/10] Processing product ASIN: B0CY7XYS2Y
+2026-09-14 02:11:49,150 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CY7XYS2Y
+2026-09-14 02:11:51,497 - INFO - PRODUCT: Product summary presents key product information
+2026-09-14 02:11:51,497 - INFO - ASIN: B0CY7XYS2Y
+2026-09-14 02:11:51,514 - INFO - BUY BOX SELLER: Aica Gifts
+2026-09-14 02:11:51,515 - INFO - AOD: Opening All Offers...
+2026-09-14 02:11:51,555 - INFO - AOD: Initial offers found: 0
+2026-09-14 02:11:52,629 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:11:53,711 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:11:54,770 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:11:54,804 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-14 02:11:54,810 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CY7XYS2Y | TOTAL UNIQUE SELLERS: 1
+2026-09-14 02:11:54,810 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3225SEA56A6YH&asin=B0CY7XYS2Y&ref_=dp_merchant_link
+2026-09-14 02:11:55,977 - INFO - [5/10] Processing product ASIN: B0CY5KX196
+2026-09-14 02:11:56,004 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CY5KX196
+2026-09-14 02:11:58,199 - INFO - PRODUCT: Product summary presents key product information
+2026-09-14 02:11:58,199 - INFO - ASIN: B0CY5KX196
+2026-09-14 02:11:58,218 - INFO - BUY BOX SELLER: Aica Gifts
+2026-09-14 02:11:58,218 - INFO - AOD: Opening All Offers...
+2026-09-14 02:11:58,261 - INFO - AOD: Initial offers found: 0
+2026-09-14 02:11:59,327 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:12:00,408 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:12:01,466 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:12:01,502 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-14 02:12:01,508 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CY5KX196 | TOTAL UNIQUE SELLERS: 1
+2026-09-14 02:12:01,508 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3225SEA56A6YH&asin=B0CY5KX196&ref_=dp_merchant_link
+2026-09-14 02:12:02,763 - INFO - [6/10] Processing product ASIN: B0CY7R58N1
+2026-09-14 02:12:02,793 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CY7R58N1
+2026-09-14 02:12:05,043 - INFO - PRODUCT: Product summary presents key product information
+2026-09-14 02:12:05,043 - INFO - ASIN: B0CY7R58N1
+2026-09-14 02:12:05,083 - INFO - BUY BOX SELLER: Aica Gifts
+2026-09-14 02:12:05,083 - INFO - AOD: Opening All Offers...
+2026-09-14 02:12:05,139 - INFO - AOD: Initial offers found: 0
+2026-09-14 02:12:06,226 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:12:07,301 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:12:08,359 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:12:08,393 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-14 02:12:08,400 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CY7R58N1 | TOTAL UNIQUE SELLERS: 1
+2026-09-14 02:12:08,401 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3225SEA56A6YH&asin=B0CY7R58N1&ref_=dp_merchant_link
+2026-09-14 02:12:09,244 - INFO - [7/10] Processing product ASIN: B0FBS2G2X1
+2026-09-14 02:12:09,271 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0FBS2G2X1
+2026-09-14 02:12:11,504 - INFO - PRODUCT: Product summary presents key product information
+2026-09-14 02:12:11,504 - INFO - ASIN: B0FBS2G2X1
+2026-09-14 02:12:11,526 - INFO - BUY BOX SELLER: Aica Gifts
+2026-09-14 02:12:11,526 - INFO - AOD: Opening All Offers...
+2026-09-14 02:12:11,568 - INFO - AOD: Initial offers found: 0
+2026-09-14 02:12:12,653 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:12:13,733 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:12:14,792 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:12:14,826 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-14 02:12:14,832 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0FBS2G2X1 | TOTAL UNIQUE SELLERS: 1
+2026-09-14 02:12:14,832 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3225SEA56A6YH&asin=B0FBS2G2X1&ref_=dp_merchant_link
+2026-09-14 02:12:15,926 - INFO - [8/10] Processing product ASIN: B0CY5LPK7R
+2026-09-14 02:12:15,964 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CY5LPK7R
+2026-09-14 02:12:18,195 - INFO - PRODUCT: Product summary presents key product information
+2026-09-14 02:12:18,195 - INFO - ASIN: B0CY5LPK7R
+2026-09-14 02:12:18,216 - INFO - BUY BOX SELLER: Aica Gifts
+2026-09-14 02:12:18,217 - INFO - AOD: Opening All Offers...
+2026-09-14 02:12:18,277 - INFO - AOD: Initial offers found: 0
+2026-09-14 02:12:19,494 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:12:20,572 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:12:21,626 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:12:21,665 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-14 02:12:21,671 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CY5LPK7R | TOTAL UNIQUE SELLERS: 1
+2026-09-14 02:12:21,671 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3225SEA56A6YH&asin=B0CY5LPK7R&ref_=dp_merchant_link
+2026-09-14 02:12:22,745 - INFO - [9/10] Processing product ASIN: B0CY7P53T7
+2026-09-14 02:12:22,773 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CY7P53T7
+2026-09-14 02:12:25,050 - INFO - PRODUCT: Product summary presents key product information
+2026-09-14 02:12:25,050 - INFO - ASIN: B0CY7P53T7
+2026-09-14 02:12:25,068 - INFO - BUY BOX SELLER: Aica Gifts
+2026-09-14 02:12:25,068 - INFO - AOD: Opening All Offers...
+2026-09-14 02:12:25,111 - INFO - AOD: Initial offers found: 0
+2026-09-14 02:12:26,193 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:12:27,268 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:12:28,325 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:12:28,358 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-14 02:12:28,365 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CY7P53T7 | TOTAL UNIQUE SELLERS: 1
+2026-09-14 02:12:28,365 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3225SEA56A6YH&asin=B0CY7P53T7&ref_=dp_merchant_link
+2026-09-14 02:12:29,429 - INFO - [10/10] Processing product ASIN: B0H8ST6TKY
+2026-09-14 02:12:29,458 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0H8ST6TKY
+2026-09-14 02:12:31,888 - INFO - PRODUCT: Product summary presents key product information
+2026-09-14 02:12:31,888 - INFO - ASIN: B0H8ST6TKY
+2026-09-14 02:12:31,907 - INFO - BUY BOX SELLER: Zoci Voci
+2026-09-14 02:12:31,907 - INFO - AOD: Opening All Offers...
+2026-09-14 02:12:32,047 - INFO - AOD: Initial offers found: 0
+2026-09-14 02:12:33,121 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-14 02:12:34,199 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-14 02:12:35,275 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-14 02:12:35,303 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-14 02:12:35,308 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0H8ST6TKY | TOTAL UNIQUE SELLERS: 1
+2026-09-14 02:12:35,308 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1V90UANVZ5HL5&asin=B0H8ST6TKY&ref_=dp_merchant_link
+2026-09-14 02:12:36,549 - INFO - Top businesses requested: 100, found: 4 for 'Gynecologist Tables'
+2026-09-14 02:12:36,549 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 4 businesses...
+2026-09-14 02:12:36,551 - INFO - Starting Public Enrichment Waterfall for business 'Aica Gifts'...
+2026-09-14 02:12:37,559 - INFO - Verifying website ownership candidate: https://www.aicagifts.com/
+2026-09-14 02:12:40,189 - INFO - Successfully verified website candidate 'https://www.aicagifts.com/' for business 'Aica Gifts'
+2026-09-14 02:12:40,189 - INFO - Verified official website for 'Aica Gifts': https://www.aicagifts.com/
+2026-09-14 02:12:47,396 - INFO - Fetching text from target page: https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79096544542991:loc-4132x1265538569819077x402157453&adid=79096264931585&device=c&location=67393&retailer=bizee&url=https://bizee.com/form/incorporate&adlclid=1c98f17ae3591316b3b89bddbb471ff0&msclkid=1c98f17ae3591316b3b89bddbb471ff0&utm_source=bing&utm_medium=cpc&utm_campaign=2%20INCORPORATION&utm_term=companies%20that%20register%20companies&utm_content=2%20INCORPORATE%20BROAD_Register
+2026-09-14 02:12:48,075 - INFO - Fetching text from target page: https://aicagifts.com/
+2026-09-14 02:12:49,901 - INFO - Fetching text from target page: https://entitysearch.us/
+2026-09-14 02:12:50,246 - INFO - Fetching text from target page: https://aicagifts.com/pages/corporate-gifting
+2026-09-14 02:12:51,084 - INFO - ENRICHMENT HEARTBEAT: Seller = Aica Gifts, Elapsed = 15s, Current field = Legal Entity Name (Attempt 2)
+2026-09-14 02:12:52,535 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-14 02:12:54,814 - INFO - Fetching text from target page: https://www.oppbtp.com/
+2026-09-14 02:12:56,755 - INFO - Fetching text from target page: https://www.oppbtp.com/app/uploads/2025/09/OPPBTP_Guide-Canalisateurs_Aout-2025_VFINALE.pdf
+2026-09-14 02:12:57,354 - INFO - Fetching text from target page: https://gnmstbtp.org/wp-content/uploads/2023/09/RessourcesOPP.pdf
+2026-09-14 02:12:58,006 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-14 02:12:58,756 - INFO - Fetching text from target page: https://www.oceanusaparthotel.com/en/
+2026-09-14 02:12:59,765 - INFO - Fetching text from target page: https://www.tripadvisor.co.uk/Hotel_Review-g1190872-d264257-Reviews-Aparthotel_Oceanus-Olhos_de_Agua_Albufeira_Faro_District_Algarve.html
+2026-09-14 02:13:00,065 - INFO - Fetching text from target page: https://www.booking.com/hotel/pt/aparthotel-oceanus.html?msockid=3f3b3ba7b02464281c972c73b15d65d9
+2026-09-14 02:13:00,614 - INFO - Fetching text from target page: https://www.tripadvisor.com/Hotel_Review-g1190872-d264257-Reviews-or10-Aparthotel_Oceanus-Olhos_de_Agua_Albufeira_Faro_District_Algarve.html
+2026-09-14 02:13:01,996 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-14 02:13:01,996 - INFO - ENRICHMENT HEARTBEAT: Seller = Aica Gifts, Elapsed = 25s, Current field = Owner (Attempt 1)
+2026-09-14 02:13:02,744 - INFO - Fetching text from target page: https://www.unitconverters.net/length//cm-to-feet.htm
+2026-09-14 02:13:03,165 - INFO - Fetching text from target page: https://www.thecalculatorsite.com/conversions/common/cm-to-feet-inches.php
+2026-09-14 02:13:03,825 - INFO - Fetching text from target page: https://www.rapidtables.com/convert//length/cm-to-feet.html
+2026-09-14 02:13:03,984 - INFO - Fetching text from target page: https://www.freeconvert.com/unit/cm-to-feet
+2026-09-14 02:13:05,025 - INFO - Fetching text from target page: https://www.getthedata.com/house-prices/property/65-putnoe-lane-bedford-mk41-9ae
+2026-09-14 02:13:05,861 - INFO - Fetching text from target page: https://streetscan.co.uk/property/65-putnoe-lane-bedford-mk41-9ae
+2026-09-14 02:13:06,116 - INFO - Fetching text from target page: https://themovemarket.com/tools/propertyprices/65-putnoe-lane-bedford-mk41-9ae
+2026-09-14 02:13:07,798 - INFO - Fetching text from target page: https://www.housepricesintheuk.co.uk/h/65-PUTNOE+LANE-BEDFORD-MK41+9AE
+2026-09-14 02:13:08,677 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-14 02:13:08,720 - INFO - Starting Public Enrichment Waterfall for business 'Star laser'...
+2026-09-14 02:13:09,470 - INFO - Verifying website ownership candidate: https://www.starlaser.com/
+2026-09-14 02:13:09,883 - INFO - Verifying website ownership candidate: https://www.starlaser.in/
+2026-09-14 02:13:09,956 - INFO - Verifying website ownership candidate: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:10,262 - INFO - Verifying website ownership candidate: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:10,882 - INFO - Successfully verified website candidate 'https://science.nasa.gov/universe/stars/' for business 'Star laser'
+2026-09-14 02:13:10,882 - INFO - Verified official website for 'Star laser': https://science.nasa.gov/
+2026-09-14 02:13:15,781 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:16,529 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:16,811 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:17,511 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:18,546 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:19,315 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:19,642 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:20,243 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:20,457 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-14 02:13:20,458 - INFO - ENRICHMENT HEARTBEAT: Seller = Star laser, Elapsed = 12s, Current field = PAN (Attempt 1)
+2026-09-14 02:13:21,284 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:22,032 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:22,313 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:22,623 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:23,886 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:24,644 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:24,893 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:25,176 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:25,370 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-14 02:13:26,260 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:26,953 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:27,229 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:27,551 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:28,580 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:29,318 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:29,570 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:29,846 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:30,045 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-14 02:13:30,827 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:31,638 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:31,889 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:32,161 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:32,353 - INFO - ENRICHMENT HEARTBEAT: Seller = Star laser, Elapsed = 24s, Current field = Owner (Attempt 2)
+2026-09-14 02:13:33,135 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:33,831 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:34,079 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:34,353 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:34,553 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-14 02:13:35,320 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:36,077 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:36,346 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:36,625 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:37,653 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:38,391 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:38,674 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:38,946 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:39,138 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-14 02:13:39,941 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:40,775 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:41,037 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:41,349 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:42,370 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:43,131 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:43,406 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:43,717 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:43,919 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-14 02:13:43,919 - INFO - ENRICHMENT HEARTBEAT: Seller = Star laser, Elapsed = 35s, Current field = Email (Attempt 1)
+2026-09-14 02:13:44,714 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:45,446 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:45,703 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:46,350 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:47,339 - INFO - Fetching text from target page: https://www.britannica.com/science/star-astronomy
+2026-09-14 02:13:48,073 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/
+2026-09-14 02:13:48,321 - INFO - Fetching text from target page: https://symbolsdb.com/star-symbol
+2026-09-14 02:13:48,629 - INFO - Fetching text from target page: https://science.nasa.gov/universe/stars/types/
+2026-09-14 02:13:48,822 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-14 02:13:48,855 - INFO - Starting Public Enrichment Waterfall for business 'NEVORIKA'...
+2026-09-14 02:13:49,595 - INFO - Verifying website ownership candidate: https://www.nevorika.com/
+2026-09-14 02:13:51,164 - INFO - Successfully verified website candidate 'https://www.nevorika.com/' for business 'NEVORIKA'
+2026-09-14 02:13:51,165 - INFO - Verified official website for 'NEVORIKA': https://www.nevorika.com/
+2026-09-14 02:13:56,030 - INFO - Fetching text from target page: https://www.mdcalc.com/calc/2200/fibrosis-4-fib-4-index-liver-fibrosis
+2026-09-14 02:13:57,829 - INFO - Fetching text from target page: https://healthcalculatoronline.com/fib-4-calculator/
+2026-09-14 02:13:58,277 - INFO - Fetching text from target page: https://www.hepatitisc.uw.edu/page/clinical-calculators/fib-4
+2026-09-14 02:13:59,328 - INFO - Fetching text from target page: https://www.thecalculator.co/health/Fibrosis-4-(FIB-4)-Score-Calculator-702.html
+2026-09-14 02:13:59,834 - INFO - ENRICHMENT HEARTBEAT: Seller = NEVORIKA, Elapsed = 11s, Current field = Legal Entity Name (Attempt 2)
+2026-09-14 02:14:00,575 - INFO - Fetching text from target page: https://time.unm.edu/
+2026-09-14 02:14:01,551 - INFO - Fetching text from target page: https://lobotimeinfo.unm.edu/index.html
+2026-09-14 02:14:02,972 - INFO - Fetching text from target page: https://payroll.unm.edu/timeentry.html
+2026-09-14 02:14:03,398 - INFO - Fetching text from target page: https://hr.unm.edu/articles/newsletter/lobotime-now-live-across-all-departments
+2026-09-14 02:14:04,724 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-14 02:14:05,467 - INFO - Fetching text from target page: https://es.ccm.net/descargas/herramientas/8888-kmspico/
+2026-09-14 02:14:07,986 - INFO - Fetching text from target page: https://es.ccm.net/aplicaciones-e-internet/ofimatica/1854-como-conseguir-el-serial-de-office-2016/
+2026-09-14 02:14:08,715 - INFO - Fetching text from target page: https://es.ccm.net/forum/affich-1842715-serial-o-clave-de-activacion-office-365
+2026-09-14 02:14:10,137 - INFO - Fetching text from target page: https://es.ccm.net/aplicaciones-e-internet/ofimatica/1796-como-conseguir-microsoft-office-gratis-sin-descargar-nada/
+2026-09-14 02:14:11,442 - INFO - ENRICHMENT HEARTBEAT: Seller = NEVORIKA, Elapsed = 23s, Current field = Owner (Attempt 2)
+2026-09-14 02:14:12,300 - INFO - Fetching text from target page: https://people.com/tag/jennifer-lopez/
+2026-09-14 02:14:12,628 - INFO - Fetching text from target page: https://www.britannica.com/biography/Jennifer-Lopez
+2026-09-14 02:14:13,776 - INFO - Fetching text from target page: https://www.biography.com/musicians/jennifer-lopez
+2026-09-14 02:14:14,558 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-14 02:14:14,701 - INFO - Starting Public Enrichment Waterfall for business 'Zoci Voci'...
+2026-09-14 02:14:15,473 - INFO - Verifying website ownership candidate: https://www.zocivoci.com/
+2026-09-14 02:14:16,863 - INFO - Successfully verified website candidate 'https://www.zocivoci.com/' for business 'Zoci Voci'
+2026-09-14 02:14:16,863 - INFO - Verified official website for 'Zoci Voci': https://www.zocivoci.com/
+2026-09-14 02:14:20,638 - INFO - Fetching text from target page: https://diferencia-horaria.com/peru--espana
+2026-09-14 02:14:21,576 - INFO - Fetching text from target page: https://www.zeitverschiebung.net/es/difference/country/pe/city/3117735
+2026-09-14 02:14:23,827 - INFO - Fetching text from target page: https://es.true-time.com/diff_es_pe/
+2026-09-14 02:14:24,684 - INFO - Fetching text from target page: https://es.true-time.com/diff_pe_es/
+2026-09-14 02:14:24,934 - INFO - ENRICHMENT HEARTBEAT: Seller = Zoci Voci, Elapsed = 10s, Current field = Legal Entity Name (Attempt 2)
+2026-09-14 02:14:25,652 - INFO - Fetching text from target page: https://www.sh-cables.com/new/choose-bv-bvr-wire.html
+2026-09-14 02:14:31,653 - WARNING - WEBSITE TIMEOUT: https://www.sh-cables.com/new/choose-bv-bvr-wire.html
+2026-09-14 02:14:31,657 - INFO - Fetching text from target page: https://electricalwire.wiki/what-is-the-difference-between-hard-copper-core-wire-and-soft-copper-core-wire/
+2026-09-14 02:14:33,133 - INFO - Fetching text from target page: https://tradegradetools.com/materials/soft-copper-conductor
+2026-09-14 02:14:34,560 - INFO - Fetching text from target page: https://www.zhenglancable.com/products/Multicore_Sheathed_Cable_BVV.html
+2026-09-14 02:14:38,211 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-14 02:14:38,211 - INFO - ENRICHMENT HEARTBEAT: Seller = Zoci Voci, Elapsed = 24s, Current field = PAN (Attempt 1)
+2026-09-14 02:14:38,930 - INFO - Fetching text from target page: https://www.carcheckervin.com/market-value
+2026-09-14 02:14:39,458 - INFO - Fetching text from target page: https://www.theaa.com/used-cars/valuation?msockid=3f3b3ba7b02464281c972c73b15d65d9
+2026-09-14 02:14:40,305 - INFO - Fetching text from target page: https://www.carsales.com.au/car-valuations/
+2026-09-14 02:14:41,524 - INFO - Fetching text from target page: https://www.autotrader.co.uk/cars/valuation?msockid=3f3b3ba7b02464281c972c73b15d65d9
+2026-09-14 02:14:42,481 - INFO - Fetching text from target page: https://www.softpedia.com/get/Internet/Download-Managers/MusicFab.shtml
+2026-09-14 02:14:43,519 - INFO - Fetching text from target page: https://www.softfully.com/internet/downloaders/musicfab
+2026-09-14 02:14:44,274 - INFO - Fetching text from target page: https://download.cnet.com/musicfab-all-in-one/3000-2071_4-78706025.html
+2026-09-14 02:14:45,003 - INFO - Fetching text from target page: https://musicfab.org/
+2026-09-14 02:14:45,649 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-14 02:14:46,453 - INFO - Fetching text from target page: https://docs.snowflake.com/ja/sql-reference/sql/create-storage-integration
+2026-09-14 02:14:52,144 - INFO - Fetching text from target page: https://docs.snowflake.com/en/sql-reference/sql/create-storage-integration
+2026-09-14 02:14:53,719 - INFO - Fetching text from target page: https://qiita.com/KimiyukiMuramatsu/items/56dbb35f48b69b7b36a8
+2026-09-14 02:14:54,645 - INFO - Fetching text from target page: https://qiita.com/Sho5_Matsu/items/d0f2ae570fe2d99f5ad1
+2026-09-14 02:14:54,991 - INFO - ENRICHMENT HEARTBEAT: Seller = Zoci Voci, Elapsed = 40s, Current field = GST (Attempt 2)
+2026-09-14 02:14:55,916 - INFO - Fetching text from target page: https://www.porvenir.com.co/
+2026-09-14 02:14:57,586 - INFO - Fetching text from target page: https://www.porvenir.com.co/certificados-y-extractos/
+2026-09-14 02:14:58,213 - INFO - Fetching text from target page: https://chat.porvenir.com.co/
+2026-09-14 02:14:59,453 - INFO - Fetching text from target page: https://contacto.porvenir.com.co/
+2026-09-14 02:15:00,643 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-14 02:15:02,766 - INFO - Fetching text from target page: https://www.schradercares.com/obituaries
+2026-09-14 02:15:03,462 - INFO - Fetching text from target page: https://www.schradercares.com/
+2026-09-14 02:15:04,271 - INFO - Fetching text from target page: https://www.schradercares.com/obituaries/james-jim-miller
+2026-09-14 02:15:05,742 - INFO - Fetching text from target page: https://www.schradercares.com/obituaries/tracy-urquidez
+2026-09-14 02:15:06,733 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-14 02:15:06,734 - INFO - ENRICHMENT HEARTBEAT: Seller = Zoci Voci, Elapsed = 52s, Current field = Address (Attempt 1)
+2026-09-14 02:15:08,920 - INFO - Fetching text from target page: https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp
+2026-09-14 02:15:09,650 - INFO - Fetching text from target page: https://forums.commentcamarche.net/forum/affich-38299352-impossible-de-recevoir-le-code-verif-canva
+2026-09-14 02:15:09,910 - INFO - Fetching text from target page: https://forums.commentcamarche.net/forum/affich-38299350-impossible-de-me-connecter-a-canva-avec-mail-outlook
+2026-09-14 02:15:10,104 - INFO - Fetching text from target page: https://forums.commentcamarche.net/forum/affich-37536445-canva-document-termine-et-apres
+2026-09-14 02:15:10,310 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-14 02:15:10,456 - INFO - Closed Playwright browser session safely
+2026-09-14 02:15:10,457 - INFO - Read 4 final verified records from SQLite for 'Gynecologist Tables'
+2026-09-14 02:15:10,859 - INFO - Created safety backup of master Excel at /home/runner/work/Amazon-scrap/Amazon-scrap/output/backups/Amazon_Seller_Master_Data_20260914_021510_backup.xlsx
+2026-09-14 02:15:11,521 - INFO - Master Excel updated: Added 4 rows for category 'Gynecologist Tables'. Total master rows=1370
+2026-09-14 02:15:11,545 - INFO - Target Category: 'Bunk Loft Beds'
+2026-09-14 02:15:11,545 - INFO - Target URL: 'https://www.amazon.in/s?k=Bunk+Loft+Beds'
+2026-09-14 02:15:11,793 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-14 02:15:11,793 - INFO - Discovering products for category 'Bunk Loft Beds' from https://www.amazon.in/s?k=Bunk+Loft+Beds...
+2026-09-14 02:15:11,833 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Bunk+Loft+Beds
+2026-09-14 02:15:12,046 - ERROR - Error during category run 'Bunk Loft Beds': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Bunk+Loft+Beds", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Bunk+Loft+Beds", waiting until "domcontentloaded"
+
+2026-09-14 02:15:12,075 - INFO - Closed Playwright browser session safely
+2026-09-14 02:15:12,083 - INFO - Target Category: 'Massage Beds'
+2026-09-14 02:15:12,084 - INFO - Target URL: 'https://www.amazon.in/s?k=Massage+Beds'
+2026-09-14 02:15:12,335 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-14 02:15:12,335 - INFO - Discovering products for category 'Massage Beds' from https://www.amazon.in/s?k=Massage+Beds...
+2026-09-14 02:15:12,372 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Massage+Beds
+2026-09-14 02:15:12,586 - ERROR - Error during category run 'Massage Beds': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Beds", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Beds", waiting until "domcontentloaded"
+
+2026-09-14 02:15:12,623 - INFO - Closed Playwright browser session safely
+2026-09-14 02:15:12,632 - INFO - Target Category: 'Massage Chairs'
+2026-09-14 02:15:12,632 - INFO - Target URL: 'https://www.amazon.in/s?k=Massage+Chairs'
+2026-09-14 02:15:12,918 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-14 02:15:12,918 - INFO - Discovering products for category 'Massage Chairs' from https://www.amazon.in/s?k=Massage+Chairs...
+2026-09-14 02:15:12,960 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Massage+Chairs
+2026-09-14 02:15:13,173 - ERROR - Error during category run 'Massage Chairs': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Chairs", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9875, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 156, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Chairs", waiting until "domcontentloaded"
+
+2026-09-14 02:15:13,207 - INFO - Closed Playwright browser session safely
