@@ -122287,3 +122287,82 @@ Call log:
   - navigating to "https://www.amazon.in/s?k=Massage+Chairs", waiting until "domcontentloaded"
 
 2026-09-14 02:15:13,207 - INFO - Closed Playwright browser session safely
+2026-09-15 02:16:54,788 - INFO - Starting Amazon Multi-Category Batch Processing Mode
+2026-09-15 02:16:54,788 - INFO - Initialized SQLite database schema at amazon_sellers.db
+2026-09-15 02:16:54,792 - INFO - Target Category: 'Spa Trolleys'
+2026-09-15 02:16:54,793 - INFO - Target URL: 'https://www.amazon.in/s?k=Spa+Trolleys'
+2026-09-15 02:16:55,305 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-15 02:16:55,305 - INFO - Discovering products for category 'Spa Trolleys' from https://www.amazon.in/s?k=Spa+Trolleys...
+2026-09-15 02:16:55,345 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Spa+Trolleys
+2026-09-15 02:16:58,714 - INFO - Found 0 raw product links on page 1
+2026-09-15 02:16:58,714 - INFO - Discovered 0 total unique product URLs so far
+2026-09-15 02:16:58,717 - INFO - Discovered 0 products for category 'Spa Trolleys'
+2026-09-15 02:16:58,717 - INFO - Top businesses requested: 100, found: 0 for 'Spa Trolleys'
+2026-09-15 02:16:58,717 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
+2026-09-15 02:16:58,746 - INFO - Closed Playwright browser session safely
+2026-09-15 02:16:58,759 - INFO - Target Category: 'Lounger Chaises'
+2026-09-15 02:16:58,759 - INFO - Target URL: 'https://www.amazon.in/s?k=Lounger+Chaises'
+2026-09-15 02:16:59,133 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-15 02:16:59,133 - INFO - Discovering products for category 'Lounger Chaises' from https://www.amazon.in/s?k=Lounger+Chaises...
+2026-09-15 02:16:59,172 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Lounger+Chaises
+2026-09-15 02:17:02,067 - INFO - Found 0 raw product links on page 1
+2026-09-15 02:17:02,067 - INFO - Discovered 0 total unique product URLs so far
+2026-09-15 02:17:02,070 - INFO - Discovered 0 products for category 'Lounger Chaises'
+2026-09-15 02:17:02,071 - INFO - Top businesses requested: 100, found: 0 for 'Lounger Chaises'
+2026-09-15 02:17:02,071 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
+2026-09-15 02:17:02,102 - INFO - Closed Playwright browser session safely
+2026-09-15 02:17:02,132 - INFO - Target Category: 'Home Temple'
+2026-09-15 02:17:02,132 - INFO - Target URL: 'https://www.amazon.in/s?k=Home+Temple'
+2026-09-15 02:17:02,496 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-15 02:17:02,496 - INFO - Discovering products for category 'Home Temple' from https://www.amazon.in/s?k=Home+Temple...
+2026-09-15 02:17:02,532 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Home+Temple
+2026-09-15 02:17:05,465 - INFO - Found 0 raw product links on page 1
+2026-09-15 02:17:05,465 - INFO - Discovered 0 total unique product URLs so far
+2026-09-15 02:17:05,468 - INFO - Discovered 0 products for category 'Home Temple'
+2026-09-15 02:17:05,468 - INFO - Top businesses requested: 100, found: 0 for 'Home Temple'
+2026-09-15 02:17:05,468 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
+2026-09-15 02:17:05,500 - INFO - Closed Playwright browser session safely
+2026-09-15 02:17:05,512 - INFO - Target Category: 'Benches'
+2026-09-15 02:17:05,512 - INFO - Target URL: 'https://www.amazon.in/s?k=Benches'
+2026-09-15 02:17:05,882 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-15 02:17:05,882 - INFO - Discovering products for category 'Benches' from https://www.amazon.in/s?k=Benches...
+2026-09-15 02:17:05,913 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Benches
+2026-09-15 02:17:07,906 - INFO - Found 0 raw product links on page 1
+2026-09-15 02:17:07,906 - INFO - Discovered 0 total unique product URLs so far
+2026-09-15 02:17:07,909 - INFO - Discovered 0 products for category 'Benches'
+2026-09-15 02:17:07,909 - INFO - Top businesses requested: 100, found: 0 for 'Benches'
+2026-09-15 02:17:07,910 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
+2026-09-15 02:17:07,941 - INFO - Closed Playwright browser session safely
+2026-09-15 02:17:07,956 - INFO - Target Category: 'Bunk Loft Beds'
+2026-09-15 02:17:07,956 - INFO - Target URL: 'https://www.amazon.in/s?k=Bunk+Loft+Beds'
+2026-09-15 02:17:08,324 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-15 02:17:08,324 - INFO - Discovering products for category 'Bunk Loft Beds' from https://www.amazon.in/s?k=Bunk+Loft+Beds...
+2026-09-15 02:17:08,368 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Bunk+Loft+Beds
+2026-09-15 02:17:10,395 - INFO - Found 0 raw product links on page 1
+2026-09-15 02:17:10,395 - INFO - Discovered 0 total unique product URLs so far
+2026-09-15 02:17:10,399 - INFO - Discovered 0 products for category 'Bunk Loft Beds'
+2026-09-15 02:17:10,399 - INFO - Top businesses requested: 100, found: 0 for 'Bunk Loft Beds'
+2026-09-15 02:17:10,399 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
+2026-09-15 02:17:10,430 - INFO - Closed Playwright browser session safely
+2026-09-15 02:17:10,443 - INFO - Target Category: 'Massage Beds'
+2026-09-15 02:17:10,443 - INFO - Target URL: 'https://www.amazon.in/s?k=Massage+Beds'
+2026-09-15 02:17:10,805 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-15 02:17:10,805 - INFO - Discovering products for category 'Massage Beds' from https://www.amazon.in/s?k=Massage+Beds...
+2026-09-15 02:17:10,850 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Massage+Beds
+2026-09-15 02:17:12,571 - INFO - Found 0 raw product links on page 1
+2026-09-15 02:17:12,571 - INFO - Discovered 0 total unique product URLs so far
+2026-09-15 02:17:12,574 - INFO - Discovered 0 products for category 'Massage Beds'
+2026-09-15 02:17:12,574 - INFO - Top businesses requested: 100, found: 0 for 'Massage Beds'
+2026-09-15 02:17:12,574 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
+2026-09-15 02:17:12,604 - INFO - Closed Playwright browser session safely
+2026-09-15 02:17:12,616 - INFO - Target Category: 'Massage Chairs'
+2026-09-15 02:17:12,616 - INFO - Target URL: 'https://www.amazon.in/s?k=Massage+Chairs'
+2026-09-15 02:17:12,988 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-15 02:17:12,988 - INFO - Discovering products for category 'Massage Chairs' from https://www.amazon.in/s?k=Massage+Chairs...
+2026-09-15 02:17:13,026 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Massage+Chairs
+2026-09-15 02:17:15,061 - INFO - Found 0 raw product links on page 1
+2026-09-15 02:17:15,062 - INFO - Discovered 0 total unique product URLs so far
+2026-09-15 02:17:15,065 - INFO - Discovered 0 products for category 'Massage Chairs'
+2026-09-15 02:17:15,065 - INFO - Top businesses requested: 100, found: 0 for 'Massage Chairs'
+2026-09-15 02:17:15,065 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
+2026-09-15 02:17:15,094 - INFO - Closed Playwright browser session safely
