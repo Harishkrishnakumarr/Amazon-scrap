@@ -122713,3 +122713,826 @@ Call log:
 2026-09-17 02:13:49,968 - INFO - Top businesses requested: 100, found: 0 for 'Massage Chairs'
 2026-09-17 02:13:49,968 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
 2026-09-17 02:13:49,994 - INFO - Closed Playwright browser session safely
+2026-09-18 02:00:02,456 - INFO - Starting Amazon Multi-Category Batch Processing Mode
+2026-09-18 02:00:02,458 - INFO - Initialized SQLite database schema at amazon_sellers.db
+2026-09-18 02:00:02,462 - INFO - Target Category: 'Spa Trolleys'
+2026-09-18 02:00:02,463 - INFO - Target URL: 'https://www.amazon.in/s?k=Spa+Trolleys'
+2026-09-18 02:00:03,096 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-18 02:00:03,096 - INFO - Discovering products for category 'Spa Trolleys' from https://www.amazon.in/s?k=Spa+Trolleys...
+2026-09-18 02:00:03,145 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Spa+Trolleys
+2026-09-18 02:00:06,328 - INFO - Found 189 raw product links on page 1
+2026-09-18 02:00:06,501 - INFO - Discovered 10 total unique product URLs so far
+2026-09-18 02:00:06,516 - INFO - Discovered 10 products for category 'Spa Trolleys'
+2026-09-18 02:00:06,516 - INFO - [1/10] Processing product ASIN: B0F21KDP13
+2026-09-18 02:00:06,550 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0F21KDP13
+2026-09-18 02:00:09,134 - INFO - PRODUCT: Product summary presents key product information
+2026-09-18 02:00:09,135 - INFO - ASIN: B0F21KDP13
+2026-09-18 02:00:09,162 - INFO - BUY BOX SELLER: eazyshoppe
+2026-09-18 02:00:09,162 - INFO - AOD: Opening All Offers...
+2026-09-18 02:00:10,421 - INFO - AOD: Initial offers found: 3
+2026-09-18 02:00:11,697 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:00:12,914 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:00:14,118 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:00:14,182 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-18 02:00:14,195 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0F21KDP13 | TOTAL UNIQUE SELLERS: 1
+2026-09-18 02:00:14,195 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K2Y1AXGFB0N4&asin=B0F21KDP13&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-18 02:00:15,185 - INFO - [2/10] Processing product ASIN: B0FF2VT3QW
+2026-09-18 02:00:15,222 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0FF2VT3QW
+2026-09-18 02:00:17,526 - INFO - PRODUCT: Product summary presents key product information
+2026-09-18 02:00:17,526 - INFO - ASIN: B0FF2VT3QW
+2026-09-18 02:00:17,566 - INFO - BUY BOX SELLER: Alifonus
+2026-09-18 02:00:17,566 - INFO - AOD: Opening All Offers...
+2026-09-18 02:00:17,636 - INFO - AOD: Initial offers found: 0
+2026-09-18 02:00:17,717 - INFO - Clicking offer load-more control: a:has-text('Show more')
+2026-09-18 02:00:19,309 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:00:20,417 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:00:21,512 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:00:21,564 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-18 02:00:21,573 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0FF2VT3QW | TOTAL UNIQUE SELLERS: 1
+2026-09-18 02:00:21,573 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A198H5LM96KSF7&asin=B0FF2VT3QW&ref_=dp_merchant_link
+2026-09-18 02:00:22,655 - INFO - [3/10] Processing product ASIN: B0BCZ17N2F
+2026-09-18 02:00:22,695 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0BCZ17N2F
+2026-09-18 02:00:25,392 - INFO - PRODUCT: Product summary presents key product information
+2026-09-18 02:00:25,392 - INFO - ASIN: B0BCZ17N2F
+2026-09-18 02:00:25,530 - INFO - BUY BOX SELLER: veer teja enterprise ⭐⭐⭐⭐⭐
+2026-09-18 02:00:25,530 - INFO - AOD: Opening All Offers...
+2026-09-18 02:00:26,681 - INFO - AOD: Initial offers found: 0
+2026-09-18 02:00:28,006 - INFO - AOD: Scroll 1 -> total unique sellers: 3
+2026-09-18 02:00:29,236 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:00:30,569 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:00:31,800 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:00:31,872 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-18 02:00:31,882 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0BCZ17N2F | TOTAL UNIQUE SELLERS: 3
+2026-09-18 02:00:31,882 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A213Z8B661B9J3&asin=B0BCZ17N2F&ref_=dp_merchant_link
+2026-09-18 02:00:33,155 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A213Z8B661B9J3&sshmPath=shipping-rates
+2026-09-18 02:00:34,017 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A16KW0AEN1K9G1&isAmazonFulfilled=1&asin=B0BCZ17N2F&ref_=olp_merch_name_1
+2026-09-18 02:00:35,050 - INFO - [4/10] Processing product ASIN: B0DV8V5RZM
+2026-09-18 02:00:35,089 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0DV8V5RZM
+2026-09-18 02:00:37,532 - INFO - PRODUCT: Product summary presents key product information
+2026-09-18 02:00:37,533 - INFO - ASIN: B0DV8V5RZM
+2026-09-18 02:00:37,570 - INFO - BUY BOX SELLER: eazyshoppe
+2026-09-18 02:00:37,571 - INFO - AOD: Opening All Offers...
+2026-09-18 02:00:37,638 - INFO - AOD: Initial offers found: 0
+2026-09-18 02:00:38,756 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:00:39,866 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:00:40,956 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:00:41,011 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-18 02:00:41,021 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0DV8V5RZM | TOTAL UNIQUE SELLERS: 1
+2026-09-18 02:00:41,021 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K2Y1AXGFB0N4&asin=B0DV8V5RZM&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-18 02:00:42,120 - INFO - [5/10] Processing product ASIN: B0CMCKM3FM
+2026-09-18 02:00:42,155 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CMCKM3FM
+2026-09-18 02:00:44,773 - INFO - PRODUCT: Product summary presents key product information
+2026-09-18 02:00:44,773 - INFO - ASIN: B0CMCKM3FM
+2026-09-18 02:00:44,934 - INFO - BUY BOX SELLER: ONE CART ENTERPRISE
+2026-09-18 02:00:44,934 - INFO - AOD: Opening All Offers...
+2026-09-18 02:00:45,027 - INFO - AOD: Initial offers found: 0
+2026-09-18 02:00:46,151 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:00:47,298 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:00:48,443 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:00:48,517 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-18 02:00:48,528 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CMCKM3FM | TOTAL UNIQUE SELLERS: 1
+2026-09-18 02:00:48,528 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1YVOS62B48VM6&asin=B0CMCKM3FM&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-18 02:00:49,577 - INFO - [6/10] Processing product ASIN: B0F21KRM6M
+2026-09-18 02:00:49,614 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0F21KRM6M
+2026-09-18 02:00:51,971 - INFO - PRODUCT: Product summary presents key product information
+2026-09-18 02:00:51,971 - INFO - ASIN: B0F21KRM6M
+2026-09-18 02:00:52,126 - INFO - BUY BOX SELLER: eazyshoppe
+2026-09-18 02:00:52,127 - INFO - AOD: Opening All Offers...
+2026-09-18 02:00:52,211 - INFO - AOD: Initial offers found: 0
+2026-09-18 02:00:53,303 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:00:54,400 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:00:55,534 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:00:55,587 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-18 02:00:55,596 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0F21KRM6M | TOTAL UNIQUE SELLERS: 1
+2026-09-18 02:00:55,596 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K2Y1AXGFB0N4&asin=B0F21KRM6M&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-18 02:00:56,934 - INFO - [7/10] Processing product ASIN: B0B3T6HFH8
+2026-09-18 02:00:56,980 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0B3T6HFH8
+2026-09-18 02:00:59,373 - INFO - PRODUCT: Product summary presents key product information
+2026-09-18 02:00:59,373 - INFO - ASIN: B0B3T6HFH8
+2026-09-18 02:00:59,495 - INFO - BUY BOX SELLER: eazyshoppe
+2026-09-18 02:00:59,495 - INFO - AOD: Opening All Offers...
+2026-09-18 02:00:59,581 - INFO - AOD: Initial offers found: 0
+2026-09-18 02:01:00,762 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:01:01,898 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:01:02,992 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:01:03,047 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-18 02:01:03,057 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0B3T6HFH8 | TOTAL UNIQUE SELLERS: 1
+2026-09-18 02:01:03,058 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K2Y1AXGFB0N4&asin=B0B3T6HFH8&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-18 02:01:04,127 - INFO - [8/10] Processing product ASIN: B0CGLS8BMP
+2026-09-18 02:01:04,164 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CGLS8BMP
+2026-09-18 02:01:07,193 - INFO - PRODUCT: Product summary presents key product information
+2026-09-18 02:01:07,193 - INFO - ASIN: B0CGLS8BMP
+2026-09-18 02:01:07,355 - INFO - BUY BOX SELLER: Clicktech Retail Private Ltd
+2026-09-18 02:01:07,355 - INFO - AOD: Opening All Offers...
+2026-09-18 02:01:07,457 - INFO - AOD: Initial offers found: 0
+2026-09-18 02:01:07,553 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:09,149 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:01:09,358 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:10,986 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:01:11,041 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:12,645 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:01:12,672 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:14,376 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:16,018 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:01:16,130 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:17,785 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:01:17,858 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:19,487 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:01:19,514 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:21,170 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:22,791 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:01:22,858 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:24,493 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:01:24,571 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:26,199 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:01:26,226 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:27,882 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:29,520 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:01:29,598 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:31,222 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:01:31,290 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:32,917 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:01:32,947 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:34,588 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:36,223 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:01:36,303 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:37,922 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:01:38,049 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:39,667 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:01:39,693 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:41,347 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:42,970 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:01:43,050 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:44,670 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:01:44,732 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:46,352 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:01:46,378 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:48,036 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:49,647 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:01:49,754 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:51,395 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:01:51,454 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:53,078 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:01:53,103 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:54,772 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:56,431 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:01:56,486 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:58,096 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:01:58,173 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:01:59,802 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:01:59,828 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:02:01,472 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:02:03,103 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:02:03,173 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:02:04,804 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:02:04,878 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:02:06,501 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:02:06,526 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:02:08,169 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:02:09,782 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:02:09,850 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:02:11,463 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:02:11,578 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:02:13,198 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:02:13,225 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-18 02:02:14,825 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CGLS8BMP | TOTAL UNIQUE SELLERS: 1
+2026-09-18 02:02:14,825 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0CGLS8BMP&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-18 02:02:15,928 - INFO - [9/10] Processing product ASIN: B0D5DPJQ71
+2026-09-18 02:02:15,967 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0D5DPJQ71
+2026-09-18 02:02:18,190 - INFO - PRODUCT: Product summary presents key product information
+2026-09-18 02:02:18,190 - INFO - ASIN: B0D5DPJQ71
+2026-09-18 02:02:18,328 - INFO - BUY BOX SELLER: RDE home care
+2026-09-18 02:02:18,328 - INFO - AOD: Opening All Offers...
+2026-09-18 02:02:18,395 - INFO - AOD: Initial offers found: 0
+2026-09-18 02:02:19,497 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:02:20,564 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:02:21,629 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:02:21,667 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-18 02:02:21,674 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0D5DPJQ71 | TOTAL UNIQUE SELLERS: 1
+2026-09-18 02:02:21,674 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K5Z4KNZPXOFY&asin=B0D5DPJQ71&ref_=dp_merchant_link
+2026-09-18 02:02:22,860 - INFO - [10/10] Processing product ASIN: B0DTYX87LJ
+2026-09-18 02:02:22,900 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0DTYX87LJ
+2026-09-18 02:02:25,744 - INFO - PRODUCT: Product summary presents key product information
+2026-09-18 02:02:25,744 - INFO - ASIN: B0DTYX87LJ
+2026-09-18 02:02:25,814 - INFO - BUY BOX SELLER: Clicktech Retail Private Ltd
+2026-09-18 02:02:25,815 - INFO - AOD: Opening All Offers...
+2026-09-18 02:02:27,232 - INFO - AOD: Initial offers found: 3
+2026-09-18 02:02:28,496 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-18 02:02:29,688 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-18 02:02:30,885 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-18 02:02:30,978 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-18 02:02:30,991 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0DTYX87LJ | TOTAL UNIQUE SELLERS: 2
+2026-09-18 02:02:30,991 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0DTYX87LJ&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-18 02:02:32,110 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3DJ06F5F2CS19&isAmazonFulfilled=1&asin=B0DTYX87LJ&ref_=olp_merch_name_1
+2026-09-18 02:02:33,067 - INFO - Top businesses requested: 100, found: 8 for 'Spa Trolleys'
+2026-09-18 02:02:33,067 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 8 businesses...
+2026-09-18 02:02:33,067 - INFO - Starting Public Enrichment Waterfall for business 'eazyshoppe'...
+2026-09-18 02:02:34,099 - INFO - Verifying website ownership candidate: https://www.eazyshoppe.com/
+2026-09-18 02:02:34,178 - INFO - Verifying website ownership candidate: https://www.eazyshoppe.in/
+2026-09-18 02:02:34,224 - INFO - Verifying website ownership candidate: https://www.allpar.com/threads/sad-news-of-another-worker-death.249219/page-3
+2026-09-18 02:02:35,760 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-18 02:02:36,642 - INFO - Fetching text from target page: https://gasstation-nearme.com/
+2026-09-18 02:02:37,180 - INFO - Fetching text from target page: https://gasstation-nearme.com/contact
+2026-09-18 02:02:37,465 - INFO - Fetching text from target page: https://gasstation-nearme.com/chicago
+2026-09-18 02:02:37,639 - INFO - Fetching text from target page: https://gasstation-nearme.com/los-angeles
+2026-09-18 02:02:38,691 - INFO - Fetching text from target page: https://github.com/0xk1h0/ChatGPT_DAN
+2026-09-18 02:02:39,890 - INFO - Fetching text from target page: https://github.com/features/copilot
+2026-09-18 02:02:40,963 - INFO - Fetching text from target page: https://docs.github.com/en/copilot/reference/ai-models/supported-models
+2026-09-18 02:02:42,192 - INFO - Fetching text from target page: https://docs.github.com/en/copilot/how-tos/use-ai-models/change-the-chat-model
+2026-09-18 02:02:43,124 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-18 02:02:43,124 - INFO - ENRICHMENT HEARTBEAT: Seller = eazyshoppe, Elapsed = 10s, Current field = GST (Attempt 1)
+2026-09-18 02:02:44,021 - INFO - Fetching text from target page: https://www.calculatorsoup.com/calculators/math/math.php
+2026-09-18 02:02:45,021 - INFO - Fetching text from target page: https://www.calculator.io/integer-calculator/
+2026-09-18 02:02:45,467 - INFO - Fetching text from target page: https://www.symbolab.com/solver/algebra-calculator
+2026-09-18 02:02:46,490 - INFO - Fetching text from target page: https://www.mathway.com/Calculator/equation-solver
+2026-09-18 02:02:47,975 - INFO - Fetching text from target page: https://ebuy.postalproducts.com/
+2026-09-18 02:02:48,452 - INFO - Fetching text from target page: https://about.usps.com/postal-bulletin/2020/pb22539/html/info_014.htm
+2026-09-18 02:02:49,975 - INFO - Fetching text from target page: https://uspshelp.custhelp.com/app/products/detail/p/934/~/ebuyplus
+2026-09-18 02:02:51,775 - INFO - Fetching text from target page: https://www.postalproducts.com/ebuy/
+2026-09-18 02:02:52,590 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-18 02:02:53,460 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/happy
+2026-09-18 02:02:54,292 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/happy
+2026-09-18 02:02:55,011 - INFO - Fetching text from target page: https://www.merriam-webster.com/thesaurus/happy
+2026-09-18 02:02:55,836 - INFO - Fetching text from target page: https://www.dictionary.com/browse/happy
+2026-09-18 02:02:56,733 - INFO - ENRICHMENT HEARTBEAT: Seller = eazyshoppe, Elapsed = 24s, Current field = Owner (Attempt 2)
+2026-09-18 02:02:57,724 - INFO - Fetching text from target page: https://genius.com/Taylor-swift-bad-blood-lyrics
+2026-09-18 02:02:57,846 - INFO - Fetching text from target page: https://vimeo.com/878986970?msockid=2a6084e8359761b91d239330344c609b
+2026-09-18 02:02:59,350 - INFO - Fetching text from target page: https://www.azlyrics.com/lyrics/taylorswift/badblood.html
+2026-09-18 02:03:01,032 - INFO - Fetching text from target page: https://genius.com/Taylor-swift-bad-blood-taylors-version-lyrics
+2026-09-18 02:03:01,094 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-18 02:03:02,089 - INFO - Fetching text from target page: https://www.britannica.com/place/Fujian
+2026-09-18 02:03:02,200 - INFO - Fetching text from target page: https://www.asiaodysseytravel.com/fujian/maps.html
+2026-09-18 02:03:02,755 - INFO - Fetching text from target page: https://www.chinadiscovery.com/fujian/things-to-do.html
+2026-09-18 02:03:03,678 - INFO - Fetching text from target page: https://www.travelchinaguide.com/cityguides/fujian/
+2026-09-18 02:03:05,297 - INFO - Fetching text from target page: https://www.tube8.com/
+2026-09-18 02:03:07,016 - INFO - Fetching text from target page: https://porn8.tube/
+2026-09-18 02:03:07,391 - INFO - Fetching text from target page: https://www.tube8.com/categories.html/
+2026-09-18 02:03:08,483 - INFO - Fetching text from target page: https://www.xvideos.com/tags/tube8
+2026-09-18 02:03:09,683 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-18 02:03:09,705 - INFO - Starting Public Enrichment Waterfall for business 'veer teja enterprise ⭐⭐⭐⭐⭐'...
+2026-09-18 02:03:10,563 - INFO - Verifying website ownership candidate: https://www.veertejaenterprise.com/
+2026-09-18 02:03:10,647 - INFO - Verifying website ownership candidate: https://www.veertejaenterprise.in/
+2026-09-18 02:03:10,703 - INFO - Verifying website ownership candidate: https://goveer.com/
+2026-09-18 02:03:12,464 - INFO - Verifying website ownership candidate: https://goveer.com/collections/all
+2026-09-18 02:03:14,053 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:03:15,506 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:03:16,221 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:03:20,704 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:03:22,412 - INFO - ENRICHMENT HEARTBEAT: Seller = veer teja enterprise ⭐⭐⭐⭐⭐, Elapsed = 13s, Current field = Legal Entity Name (Attempt 2)
+2026-09-18 02:03:23,381 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:03:24,768 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:03:25,634 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:03:26,246 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:03:27,690 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-18 02:03:28,633 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:03:29,854 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:03:30,758 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:03:31,443 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:03:32,816 - INFO - ENRICHMENT HEARTBEAT: Seller = veer teja enterprise ⭐⭐⭐⭐⭐, Elapsed = 23s, Current field = PAN (Attempt 2)
+2026-09-18 02:03:33,697 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:03:35,334 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:03:36,276 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:03:37,025 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:03:38,296 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-18 02:03:39,326 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:03:40,690 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:03:42,231 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:03:42,819 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:03:44,117 - INFO - ENRICHMENT HEARTBEAT: Seller = veer teja enterprise ⭐⭐⭐⭐⭐, Elapsed = 34s, Current field = GST (Attempt 2)
+2026-09-18 02:03:44,996 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:03:46,850 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:03:47,659 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:03:48,379 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:03:49,645 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-18 02:03:50,540 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:03:52,225 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:03:53,102 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:03:53,671 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:03:54,957 - INFO - ENRICHMENT HEARTBEAT: Seller = veer teja enterprise ⭐⭐⭐⭐⭐, Elapsed = 45s, Current field = Owner (Attempt 2)
+2026-09-18 02:03:55,857 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:03:57,257 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:03:58,710 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:03:59,340 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:04:00,706 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-18 02:04:01,618 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:04:02,939 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:04:03,979 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:04:04,662 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:04:06,022 - INFO - ENRICHMENT HEARTBEAT: Seller = veer teja enterprise ⭐⭐⭐⭐⭐, Elapsed = 56s, Current field = Address (Attempt 2)
+2026-09-18 02:04:07,414 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-18 02:04:08,316 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:04:09,865 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:04:10,908 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:04:11,600 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:04:13,754 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:04:15,464 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:04:16,616 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:04:17,287 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:04:18,564 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-18 02:04:18,565 - INFO - ENRICHMENT HEARTBEAT: Seller = veer teja enterprise ⭐⭐⭐⭐⭐, Elapsed = 69s, Current field = Email (Attempt 1)
+2026-09-18 02:04:19,445 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:04:20,775 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:04:21,541 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:04:22,040 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:04:24,272 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-18 02:04:26,160 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-18 02:04:27,255 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-18 02:04:27,909 - INFO - Fetching text from target page: https://the-veer.com/
+2026-09-18 02:04:29,194 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-18 02:04:29,221 - INFO - Starting Public Enrichment Waterfall for business 'Clicktech Retail Private Ltd'...
+2026-09-18 02:04:30,163 - INFO - Verifying website ownership candidate: https://www.clicktechretailprivateltd.com/
+2026-09-18 02:04:30,240 - INFO - Verifying website ownership candidate: https://www.clicktechretailprivateltd.in/
+2026-09-18 02:04:30,286 - INFO - Verifying website ownership candidate: https://rottenwifi.com/how-to-see-all-bing-related-searches/
+2026-09-18 02:04:30,412 - INFO - Verifying website ownership candidate: https://www.cloudspress.com/how-to-see-all-bing-related-searches/
+2026-09-18 02:04:31,645 - INFO - Fetching text from target page: https://www.arsenal.com/fixtures/men/fixtures
+2026-09-18 02:04:32,087 - INFO - Fetching text from target page: https://www.espn.com/soccer/team/fixtures/_/id/359/arsenal
+2026-09-18 02:04:32,247 - INFO - Fetching text from target page: https://www.arsenal.com/
+2026-09-18 02:04:32,384 - INFO - Fetching text from target page: https://www.espn.com/soccer/team/fixtures/_/id/359/league/eng.1/arsenal
+2026-09-18 02:04:32,504 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-18 02:04:33,368 - INFO - Fetching text from target page: https://www.eaton.com/us/en-us/products/low-voltage-power-distribution-control-systems/switchboards/switchboard-fundamentals.html
+2026-09-18 02:04:33,619 - INFO - Fetching text from target page: https://www.lselectricamerica.com/blog/switchgear-and-transformers/
+2026-09-18 02:04:36,429 - INFO - Fetching text from target page: https://www.csemag.com/back-to-basics-switchgear-transformers-and-upss/
+2026-09-18 02:04:37,271 - INFO - Fetching text from target page: https://m-m.net/insights/the-basics-of-switchboards-switchgear-and-panelboards/
+2026-09-18 02:04:39,522 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-18 02:04:39,522 - INFO - ENRICHMENT HEARTBEAT: Seller = Clicktech Retail Private Ltd, Elapsed = 10s, Current field = GST (Attempt 1)
+2026-09-18 02:04:40,515 - INFO - Fetching text from target page: https://www.deepl.com/en/translator/l/en/es
+2026-09-18 02:04:41,215 - INFO - Fetching text from target page: https://immersivetranslate.com/en/translate/english-to-spanish/
+2026-09-18 02:04:42,120 - INFO - Fetching text from target page: https://www.translate.com/english-spanish
+2026-09-18 02:04:42,953 - INFO - Fetching text from target page: https://www.deepl.com/es/translator
+2026-09-18 02:04:44,587 - INFO - Fetching text from target page: https://www.championfirearms.com/Franchi-Affinity-3-12GA-28-Black-42121-p/42121.htm
+2026-09-18 02:04:45,771 - INFO - Fetching text from target page: https://www.eurooptic.com/franchi-shotguns-affinity-3-12ga-3-28-bbl-walnut-shotgun-42121
+2026-09-18 02:04:45,864 - INFO - Fetching text from target page: https://www.franchiusa.com/semi-auto-shotguns/affinity-3
+2026-09-18 02:04:47,394 - INFO - Fetching text from target page: https://duncangun.com/products/franchi_affinity_3_12_ga_28_barrel_3_chamber
+2026-09-18 02:04:49,538 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-18 02:04:49,539 - INFO - ENRICHMENT HEARTBEAT: Seller = Clicktech Retail Private Ltd, Elapsed = 20s, Current field = Owner (Attempt 1)
+2026-09-18 02:04:50,472 - INFO - Fetching text from target page: https://www.usingenglish.com/forum/threads/update-or-updated.175965/
+2026-09-18 02:04:56,473 - WARNING - WEBSITE TIMEOUT: https://www.usingenglish.com/forum/threads/update-or-updated.175965/
+2026-09-18 02:07:06,300 - INFO - Fetching text from target page: https://english.stackexchange.com/questions/37731/shorter-alternatives-to-staying-up-to-date
+2026-09-18 02:07:06,409 - WARNING - SELLER ENRICHMENT TIME LIMIT REACHED during Owner.
+2026-09-18 02:07:06,410 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-18 02:07:06,410 - WARNING - SELLER ENRICHMENT TIME LIMIT REACHED (120s). Aborting remaining fields for 'Clicktech Retail Private Ltd'.
+2026-09-18 02:07:06,433 - INFO - Starting Public Enrichment Waterfall for business 'Shop Drive'...
+2026-09-18 02:07:07,298 - INFO - Verifying website ownership candidate: https://www.shopdrive.com/
+2026-09-18 02:07:08,038 - INFO - Verifying website ownership candidate: https://www.shopdrive.in/
+2026-09-18 02:07:08,393 - INFO - Verifying website ownership candidate: https://shop.app/
+2026-09-18 02:07:09,245 - INFO - Successfully verified website candidate 'https://shop.app/' for business 'Shop Drive'
+2026-09-18 02:07:09,245 - INFO - Verified official website for 'Shop Drive': https://shop.app/
+2026-09-18 02:07:13,067 - INFO - Fetching text from target page: https://shop.app/
+2026-09-18 02:07:13,951 - INFO - Fetching text from target page: https://www.shop.com/
+2026-09-18 02:07:15,247 - INFO - Fetching text from target page: https://shop.app/shop-pay/
+2026-09-18 02:07:16,317 - INFO - Fetching text from target page: https://www.shop.com/internal-fwd/shoplocal/next
+2026-09-18 02:07:17,342 - INFO - Fetching text from target page: https://shop.app/
+2026-09-18 02:07:18,259 - INFO - Fetching text from target page: https://www.shop.com/
+2026-09-18 02:07:18,311 - INFO - Fetching text from target page: https://shop.app/shop-pay/
+2026-09-18 02:07:19,176 - INFO - Fetching text from target page: https://www.shop.com/internal-fwd/shoplocal/next
+2026-09-18 02:07:19,224 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-18 02:07:19,224 - INFO - ENRICHMENT HEARTBEAT: Seller = Shop Drive, Elapsed = 13s, Current field = PAN (Attempt 1)
+2026-09-18 02:07:20,082 - INFO - Fetching text from target page: https://shop.app/
+2026-09-18 02:07:20,941 - INFO - Fetching text from target page: https://www.shop.com/
+2026-09-18 02:07:20,999 - INFO - Fetching text from target page: https://shop.app/shop-pay/
+2026-09-18 02:07:22,281 - INFO - Fetching text from target page: https://www.shop.com/internal-fwd/shoplocal/next
+2026-09-18 02:07:23,211 - INFO - Fetching text from target page: https://shop.app/
+2026-09-18 02:07:24,059 - INFO - Fetching text from target page: https://www.shop.com/
+2026-09-18 02:07:24,134 - INFO - Fetching text from target page: https://shop.app/shop-pay/
+2026-09-18 02:07:25,054 - INFO - Fetching text from target page: https://www.shop.com/internal-fwd/shoplocal/next
+2026-09-18 02:07:25,105 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-18 02:07:25,987 - INFO - Fetching text from target page: https://shop.app/
+2026-09-18 02:07:26,898 - INFO - Fetching text from target page: https://www.shop.com/
+2026-09-18 02:07:26,957 - INFO - Fetching text from target page: https://shop.app/shop-pay/
+2026-09-18 02:07:27,761 - INFO - Fetching text from target page: https://www.shop.com/internal-fwd/shoplocal/next
+2026-09-18 02:07:28,694 - INFO - Fetching text from target page: https://shop.app/
+2026-09-18 02:07:29,565 - INFO - Fetching text from target page: https://www.shop.com/
+2026-09-18 02:07:29,628 - INFO - Fetching text from target page: https://shop.app/shop-pay/
+2026-09-18 02:07:30,866 - INFO - Fetching text from target page: https://www.shop.com/internal-fwd/shoplocal/next
+2026-09-18 02:07:30,926 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-18 02:07:30,926 - INFO - ENRICHMENT HEARTBEAT: Seller = Shop Drive, Elapsed = 24s, Current field = Owner (Attempt 1)
+2026-09-18 02:07:31,798 - INFO - Fetching text from target page: https://shop.app/
+2026-09-18 02:07:32,778 - INFO - Fetching text from target page: https://www.shop.com/
+2026-09-18 02:07:32,843 - INFO - Fetching text from target page: https://shop.app/shop-pay/
+2026-09-18 02:07:33,690 - INFO - Fetching text from target page: https://www.shop.com/internal-fwd/shoplocal/next
+2026-09-18 02:07:34,674 - INFO - Fetching text from target page: https://shop.app/
+2026-09-18 02:07:35,584 - INFO - Fetching text from target page: https://www.shop.com/
+2026-09-18 02:07:35,630 - INFO - Fetching text from target page: https://shop.app/shop-pay/
+2026-09-18 02:07:36,590 - INFO - Fetching text from target page: https://www.shop.com/internal-fwd/shoplocal/next
+2026-09-18 02:07:36,654 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-18 02:07:37,523 - INFO - Fetching text from target page: https://shop.app/
+2026-09-18 02:07:38,414 - INFO - Fetching text from target page: https://www.shop.com/
+2026-09-18 02:07:38,486 - INFO - Fetching text from target page: https://shop.app/shop-pay/
+2026-09-18 02:07:39,371 - INFO - Fetching text from target page: https://www.shop.com/internal-fwd/shoplocal/next
+2026-09-18 02:07:40,332 - INFO - Fetching text from target page: https://shop.app/
+2026-09-18 02:07:41,374 - INFO - Fetching text from target page: https://www.shop.com/
+2026-09-18 02:07:41,434 - INFO - Fetching text from target page: https://shop.app/shop-pay/
+2026-09-18 02:07:42,680 - INFO - Fetching text from target page: https://www.shop.com/internal-fwd/shoplocal/next
+2026-09-18 02:07:42,739 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-18 02:07:42,739 - INFO - ENRICHMENT HEARTBEAT: Seller = Shop Drive, Elapsed = 36s, Current field = Email (Attempt 1)
+2026-09-18 02:07:43,603 - INFO - Fetching text from target page: https://shop.app/
+2026-09-18 02:07:44,650 - INFO - Fetching text from target page: https://www.shop.com/
+2026-09-18 02:07:44,701 - INFO - Fetching text from target page: https://shop.app/shop-pay/
+2026-09-18 02:07:45,937 - INFO - Fetching text from target page: https://www.shop.com/internal-fwd/shoplocal/next
+2026-09-18 02:07:46,863 - INFO - Fetching text from target page: https://shop.app/
+2026-09-18 02:07:47,769 - INFO - Fetching text from target page: https://www.shop.com/
+2026-09-18 02:07:47,833 - INFO - Fetching text from target page: https://shop.app/shop-pay/
+2026-09-18 02:07:48,703 - INFO - Fetching text from target page: https://www.shop.com/internal-fwd/shoplocal/next
+2026-09-18 02:07:48,755 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-18 02:07:48,790 - INFO - Starting Public Enrichment Waterfall for business 'Alifonus'...
+2026-09-18 02:07:49,656 - INFO - Verifying website ownership candidate: https://www.alifonus.com/
+2026-09-18 02:07:49,772 - INFO - Verifying website ownership candidate: https://www.alifonus.in/
+2026-09-18 02:07:49,814 - INFO - Verifying website ownership candidate: https://www.canva.com/login/?msockid=2a6084e8359761b91d239330344c609b
+2026-09-18 02:07:50,861 - INFO - Verifying website ownership candidate: https://www.canva.com/?msockid=2a6084e8359761b91d239330344c609b
+2026-09-18 02:07:53,715 - INFO - Fetching text from target page: https://secure.logmeinrescue.com/Customer/Code.aspx
+2026-09-18 02:07:54,024 - INFO - Fetching text from target page: https://www.logmein.com/
+2026-09-18 02:07:55,182 - INFO - Fetching text from target page: https://secure.logmeinrescue.com/Customer/TrialWarning.aspx?op=submit
+2026-09-18 02:07:55,380 - INFO - Fetching text from target page: https://www.logmein.com/products/pro
+2026-09-18 02:07:56,446 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-18 02:07:57,470 - INFO - Fetching text from target page: https://www.mayoclinic.org/diseases-conditions/asthma/symptoms-causes/syc-20369653
+2026-09-18 02:07:57,554 - INFO - Fetching text from target page: https://asthma.org.au/about-asthma/asthma-symptoms/
+2026-09-18 02:08:00,011 - INFO - Fetching text from target page: https://my.clevelandclinic.org/health/diseases/6424-asthma
+2026-09-18 02:08:00,621 - INFO - Fetching text from target page: https://www.respiratorytherapyzone.com/asthma-early-sings/
+2026-09-18 02:08:01,010 - INFO - ENRICHMENT HEARTBEAT: Seller = Alifonus, Elapsed = 12s, Current field = PAN (Attempt 2)
+2026-09-18 02:08:02,550 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-18 02:08:03,384 - INFO - Fetching text from target page: https://www.online-tech-tips.com/whatsapp-vs-telegram-vs-signal-privacy-comparison/
+2026-09-18 02:08:04,023 - INFO - Fetching text from target page: https://tech-insider.org/signal-vs-whatsapp-vs-telegram-2026/
+2026-09-18 02:08:04,268 - INFO - Fetching text from target page: https://www.softmaker.com/en/blog/friday-chat/blog-messenger-comparison-privacy-2026
+2026-09-18 02:08:07,359 - INFO - Fetching text from target page: https://novelcrypt.com/blog/signal-vs-whatsapp-vs-telegram-encryption-security-comparison-2026/
+2026-09-18 02:08:08,651 - INFO - Fetching text from target page: https://forums.redflagdeals.com/hot-deals-f9/
+2026-09-18 02:08:09,478 - INFO - Fetching text from target page: https://forums.redflagdeals.com/
+2026-09-18 02:08:10,124 - INFO - Fetching text from target page: https://forums.redflagdeals.com/various-retailers-gift-card-deals-discounts-2026-deals-posts-only-2796608/
+2026-09-18 02:08:10,995 - INFO - Fetching text from target page: https://forums.redflagdeals.com/new-walmart-rewards-world-mastercard-2386432/
+2026-09-18 02:08:11,757 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-18 02:08:11,757 - INFO - ENRICHMENT HEARTBEAT: Seller = Alifonus, Elapsed = 23s, Current field = Owner (Attempt 1)
+2026-09-18 02:08:12,902 - INFO - Fetching text from target page: https://www.timeanddate.com/stopwatch/
+2026-09-18 02:08:13,428 - INFO - Fetching text from target page: https://www.online-stopwatch.com/
+2026-09-18 02:08:13,775 - INFO - Fetching text from target page: https://vclock.com/stopwatch/
+2026-09-18 02:08:14,225 - INFO - Fetching text from target page: https://megacalculate.com/online-stopwatch/
+2026-09-18 02:08:15,949 - INFO - Fetching text from target page: https://www.healthline.com/nutrition/vitamin-b12-benefits
+2026-09-18 02:08:16,971 - INFO - Fetching text from target page: https://www.mayoclinic.org/drugs-supplements-vitamin-b12/art-20363663
+2026-09-18 02:08:17,059 - INFO - Fetching text from target page: https://www.webmd.com/diet/health-benefits-vitamin-b12
+2026-09-18 02:08:18,787 - INFO - Fetching text from target page: https://www.eatingwell.com/vitamin-b12-benefits-8676211
+2026-09-18 02:08:19,639 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-18 02:08:20,642 - INFO - Fetching text from target page: https://www.wish.com/
+2026-09-18 02:08:22,511 - INFO - Fetching text from target page: https://www.wish.com/~/fashion
+2026-09-18 02:08:22,829 - INFO - Fetching text from target page: https://2wish.org.uk/
+2026-09-18 02:08:26,354 - INFO - Fetching text from target page: https://www.wishnetwork.org/
+2026-09-18 02:08:31,369 - INFO - ENRICHMENT HEARTBEAT: Seller = Alifonus, Elapsed = 43s, Current field = Phone (Attempt 1)
+2026-09-18 02:08:32,313 - INFO - Fetching text from target page: https://www.ford-trucks.com/forums/785914-cooper-discoverer-vs-bridgestone-dueler.html
+2026-09-18 02:08:33,422 - INFO - Fetching text from target page: https://www.ford-trucks.com/forums/474596-will-the-8x170mm-fit.html
+2026-09-18 02:08:33,511 - INFO - Fetching text from target page: https://www.ford-trucks.com/forums/78905-38-5-in-ground-hawgs-vs-gumbo-mudders.html
+2026-09-18 02:08:33,556 - INFO - Fetching text from target page: https://www.ford-trucks.com/forums/475362-what-engine-mates-to-my-c6.html
+2026-09-18 02:08:34,525 - INFO - Fetching text from target page: https://www.snokido.com/game/vs-kapi
+2026-09-18 02:08:35,715 - INFO - Fetching text from target page: https://gamebanana.com/mods/44683
+2026-09-18 02:08:36,644 - INFO - Fetching text from target page: https://kbhgames.com/game/friday-night-funkin-vs-kapi
+2026-09-18 02:08:37,292 - INFO - Fetching text from target page: https://www.fridaynightfunkin.net/fnf-vs-kapi/
+2026-09-18 02:08:39,939 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-18 02:08:39,969 - INFO - Starting Public Enrichment Waterfall for business 'Acupressure Health Care India'...
+2026-09-18 02:08:40,881 - INFO - Verifying website ownership candidate: https://www.acupressurehealthcareindia.com/
+2026-09-18 02:08:41,002 - INFO - Verifying website ownership candidate: https://www.acupressurehealthcareindia.in/
+2026-09-18 02:08:41,043 - INFO - Verifying website ownership candidate: https://health.clevelandclinic.org/acupressure-points
+2026-09-18 02:08:41,158 - INFO - Verifying website ownership candidate: https://www.healthline.com/health/acupressure
+2026-09-18 02:08:42,173 - INFO - Successfully verified website candidate 'https://www.healthline.com/health/acupressure' for business 'Acupressure Health Care India'
+2026-09-18 02:08:42,174 - INFO - Verified official website for 'Acupressure Health Care India': https://www.healthline.com/
+2026-09-18 02:08:45,290 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-18 02:08:45,663 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-18 02:08:46,563 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-18 02:08:47,092 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-18 02:08:48,390 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-18 02:08:48,756 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-18 02:08:49,648 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-18 02:08:49,905 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-18 02:08:50,078 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-18 02:08:50,079 - INFO - ENRICHMENT HEARTBEAT: Seller = Acupressure Health Care India, Elapsed = 10s, Current field = PAN (Attempt 1)
+2026-09-18 02:08:51,029 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-18 02:08:51,418 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-18 02:08:52,300 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-18 02:08:52,580 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-18 02:08:53,688 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-18 02:08:54,060 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-18 02:08:54,950 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-18 02:08:55,238 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-18 02:08:55,420 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-18 02:08:56,439 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-18 02:08:56,807 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-18 02:08:57,707 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-18 02:08:57,973 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-18 02:09:00,010 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-18 02:09:01,021 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-18 02:09:01,404 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-18 02:09:02,304 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-18 02:09:02,671 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-18 02:09:02,779 - INFO - ENRICHMENT HEARTBEAT: Seller = Acupressure Health Care India, Elapsed = 23s, Current field = Owner (Attempt 2)
+2026-09-18 02:09:03,783 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-18 02:09:04,162 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-18 02:09:05,066 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-18 02:09:05,366 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-18 02:09:05,550 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-18 02:09:06,516 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-18 02:09:06,885 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-18 02:09:07,800 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-18 02:09:08,159 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-18 02:09:09,330 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-18 02:09:09,711 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-18 02:09:10,666 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-18 02:09:11,044 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-18 02:09:11,162 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-18 02:09:12,224 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-18 02:09:12,589 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-18 02:09:13,519 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-18 02:09:13,806 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-18 02:09:13,959 - INFO - ENRICHMENT HEARTBEAT: Seller = Acupressure Health Care India, Elapsed = 34s, Current field = Phone (Attempt 2)
+2026-09-18 02:09:14,974 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-18 02:09:15,382 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-18 02:09:16,287 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-18 02:09:16,570 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-18 02:09:16,768 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-18 02:09:16,837 - INFO - Starting Public Enrichment Waterfall for business 'ONE CART ENTERPRISE'...
+2026-09-18 02:09:17,731 - INFO - Verifying website ownership candidate: https://www.onecartenterprise.com/
+2026-09-18 02:09:17,878 - INFO - Verifying website ownership candidate: https://www.onecartenterprise.in/
+2026-09-18 02:09:17,931 - INFO - Verifying website ownership candidate: https://www.one-line.com/en
+2026-09-18 02:09:18,185 - INFO - Verifying website ownership candidate: https://onedrive.live.com/about/en-us/signin/
+2026-09-18 02:09:19,946 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-18 02:09:20,859 - INFO - Fetching text from target page: https://onedrive.live.com/about/en-us/signin/
+2026-09-18 02:09:21,283 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-18 02:09:23,619 - INFO - Fetching text from target page: https://onedrive.live.com/
+2026-09-18 02:09:29,022 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-18 02:09:29,023 - INFO - ENRICHMENT HEARTBEAT: Seller = ONE CART ENTERPRISE, Elapsed = 12s, Current field = PAN (Attempt 1)
+2026-09-18 02:09:31,817 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-18 02:09:32,865 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-18 02:09:33,760 - INFO - Fetching text from target page: https://onedrive.live.com/about/en-us/signin/
+2026-09-18 02:09:36,167 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-18 02:09:37,672 - INFO - Fetching text from target page: https://onedrive.live.com/
+2026-09-18 02:09:43,115 - INFO - ENRICHMENT HEARTBEAT: Seller = ONE CART ENTERPRISE, Elapsed = 26s, Current field = GST (Attempt 2)
+2026-09-18 02:09:44,169 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-18 02:09:44,998 - INFO - Fetching text from target page: https://onedrive.live.com/about/en-us/signin/
+2026-09-18 02:09:45,419 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-18 02:09:46,831 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-18 02:09:47,823 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-18 02:09:48,257 - INFO - Fetching text from target page: https://onedrive.live.com/about/en-us/signin/
+2026-09-18 02:09:49,883 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-18 02:09:51,444 - INFO - Fetching text from target page: https://onedrive.live.com/
+2026-09-18 02:09:56,626 - INFO - ENRICHMENT HEARTBEAT: Seller = ONE CART ENTERPRISE, Elapsed = 40s, Current field = Owner (Attempt 2)
+2026-09-18 02:09:57,912 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-18 02:09:58,244 - INFO - Fetching text from target page: https://onedrive.live.com/about/en-us/signin/
+2026-09-18 02:09:58,653 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-18 02:09:59,642 - INFO - Fetching text from target page: https://onedrive.live.com/
+2026-09-18 02:10:04,675 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-18 02:10:05,858 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-18 02:10:06,228 - INFO - Fetching text from target page: https://onedrive.live.com/about/en-us/signin/
+2026-09-18 02:10:06,654 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-18 02:10:08,142 - INFO - Fetching text from target page: https://onedrive.live.com/
+2026-09-18 02:10:13,192 - INFO - ENRICHMENT HEARTBEAT: Seller = ONE CART ENTERPRISE, Elapsed = 56s, Current field = Address (Attempt 2)
+2026-09-18 02:10:14,350 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-18 02:10:14,714 - INFO - Fetching text from target page: https://onedrive.live.com/about/en-us/signin/
+2026-09-18 02:10:15,215 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-18 02:10:16,595 - INFO - Fetching text from target page: https://onedrive.live.com/
+2026-09-18 02:10:21,737 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-18 02:10:22,876 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-18 02:10:23,266 - INFO - Fetching text from target page: https://onedrive.live.com/about/en-us/signin/
+2026-09-18 02:10:23,723 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-18 02:10:24,645 - INFO - Fetching text from target page: https://onedrive.live.com/
+2026-09-18 02:10:29,843 - INFO - ENRICHMENT HEARTBEAT: Seller = ONE CART ENTERPRISE, Elapsed = 73s, Current field = Phone (Attempt 2)
+2026-09-18 02:10:31,018 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-18 02:10:31,400 - INFO - Fetching text from target page: https://onedrive.live.com/about/en-us/signin/
+2026-09-18 02:10:31,875 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-18 02:10:33,202 - INFO - Fetching text from target page: https://onedrive.live.com/
+2026-09-18 02:10:38,392 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-18 02:10:39,545 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-18 02:10:40,104 - INFO - Fetching text from target page: https://onedrive.live.com/about/en-us/signin/
+2026-09-18 02:10:40,492 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-18 02:10:42,014 - INFO - Fetching text from target page: https://onedrive.live.com/
+2026-09-18 02:10:47,278 - INFO - ENRICHMENT HEARTBEAT: Seller = ONE CART ENTERPRISE, Elapsed = 90s, Current field = Email (Attempt 2)
+2026-09-18 02:10:48,706 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-18 02:10:49,252 - INFO - Fetching text from target page: https://onedrive.live.com/about/en-us/signin/
+2026-09-18 02:10:49,618 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-18 02:10:51,180 - INFO - Fetching text from target page: https://onedrive.live.com/
+2026-09-18 02:10:56,490 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-18 02:10:56,624 - WARNING - CATEGORY TIMEOUT reached during seller enrichment for 'Spa Trolleys' (Elapsed: 654.2s)
+2026-09-18 02:10:56,753 - INFO - Closed Playwright browser session safely
+2026-09-18 02:10:56,754 - INFO - Read 8 final verified records from SQLite for 'Spa Trolleys'
+2026-09-18 02:10:57,479 - INFO - Created safety backup of master Excel at /home/runner/work/Amazon-scrap/Amazon-scrap/output/backups/Amazon_Seller_Master_Data_20260918_021057_backup.xlsx
+2026-09-18 02:10:57,497 - INFO - Target Category: 'Lounger Chaises'
+2026-09-18 02:10:57,497 - INFO - Target URL: 'https://www.amazon.in/s?k=Lounger+Chaises'
+2026-09-18 02:10:57,904 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-18 02:10:57,905 - INFO - Discovering products for category 'Lounger Chaises' from https://www.amazon.in/s?k=Lounger+Chaises...
+2026-09-18 02:10:57,949 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Lounger+Chaises
+2026-09-18 02:10:58,160 - ERROR - Error during category run 'Lounger Chaises': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Lounger+Chaises", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9903, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 562, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 157, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Lounger+Chaises", waiting until "domcontentloaded"
+
+2026-09-18 02:10:58,200 - INFO - Closed Playwright browser session safely
+2026-09-18 02:10:58,213 - INFO - Target Category: 'Home Temple'
+2026-09-18 02:10:58,213 - INFO - Target URL: 'https://www.amazon.in/s?k=Home+Temple'
+2026-09-18 02:10:58,609 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-18 02:10:58,609 - INFO - Discovering products for category 'Home Temple' from https://www.amazon.in/s?k=Home+Temple...
+2026-09-18 02:10:58,664 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Home+Temple
+2026-09-18 02:10:58,868 - ERROR - Error during category run 'Home Temple': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Home+Temple", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9903, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 562, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 157, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Home+Temple", waiting until "domcontentloaded"
+
+2026-09-18 02:10:58,906 - INFO - Closed Playwright browser session safely
+2026-09-18 02:10:58,920 - INFO - Target Category: 'Benches'
+2026-09-18 02:10:58,920 - INFO - Target URL: 'https://www.amazon.in/s?k=Benches'
+2026-09-18 02:10:59,323 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-18 02:10:59,325 - INFO - Discovering products for category 'Benches' from https://www.amazon.in/s?k=Benches...
+2026-09-18 02:10:59,369 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Benches
+2026-09-18 02:10:59,580 - ERROR - Error during category run 'Benches': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Benches", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9903, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 562, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 157, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Benches", waiting until "domcontentloaded"
+
+2026-09-18 02:10:59,622 - INFO - Closed Playwright browser session safely
+2026-09-18 02:10:59,638 - INFO - Target Category: 'Bunk Loft Beds'
+2026-09-18 02:10:59,638 - INFO - Target URL: 'https://www.amazon.in/s?k=Bunk+Loft+Beds'
+2026-09-18 02:11:00,037 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-18 02:11:00,037 - INFO - Discovering products for category 'Bunk Loft Beds' from https://www.amazon.in/s?k=Bunk+Loft+Beds...
+2026-09-18 02:11:00,082 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Bunk+Loft+Beds
+2026-09-18 02:11:00,286 - ERROR - Error during category run 'Bunk Loft Beds': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Bunk+Loft+Beds", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9903, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 562, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 157, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Bunk+Loft+Beds", waiting until "domcontentloaded"
+
+2026-09-18 02:11:00,327 - INFO - Closed Playwright browser session safely
+2026-09-18 02:11:00,340 - INFO - Target Category: 'Massage Beds'
+2026-09-18 02:11:00,340 - INFO - Target URL: 'https://www.amazon.in/s?k=Massage+Beds'
+2026-09-18 02:11:00,738 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-18 02:11:00,738 - INFO - Discovering products for category 'Massage Beds' from https://www.amazon.in/s?k=Massage+Beds...
+2026-09-18 02:11:00,789 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Massage+Beds
+2026-09-18 02:11:00,997 - ERROR - Error during category run 'Massage Beds': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Beds", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9903, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 562, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 157, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Beds", waiting until "domcontentloaded"
+
+2026-09-18 02:11:01,035 - INFO - Closed Playwright browser session safely
+2026-09-18 02:11:01,049 - INFO - Target Category: 'Massage Chairs'
+2026-09-18 02:11:01,049 - INFO - Target URL: 'https://www.amazon.in/s?k=Massage+Chairs'
+2026-09-18 02:11:01,444 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-18 02:11:01,444 - INFO - Discovering products for category 'Massage Chairs' from https://www.amazon.in/s?k=Massage+Chairs...
+2026-09-18 02:11:01,492 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Massage+Chairs
+2026-09-18 02:11:01,691 - ERROR - Error during category run 'Massage Chairs': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Chairs", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9903, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 562, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 157, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Chairs", waiting until "domcontentloaded"
+
+2026-09-18 02:11:01,735 - INFO - Closed Playwright browser session safely
