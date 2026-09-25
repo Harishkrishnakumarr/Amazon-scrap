@@ -124844,3 +124844,1487 @@ Call log:
 2026-09-24 02:02:22,832 - INFO - Top businesses requested: 100, found: 0 for 'Massage Beds'
 2026-09-24 02:02:22,832 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 0 businesses...
 2026-09-24 02:02:22,868 - INFO - Closed Playwright browser session safely
+2026-09-25 02:18:47,527 - INFO - Starting Amazon Multi-Category Batch Processing Mode
+2026-09-25 02:18:47,528 - INFO - Initialized SQLite database schema at amazon_sellers.db
+2026-09-25 02:18:47,532 - INFO - Target Category: 'Spa Trolleys'
+2026-09-25 02:18:47,532 - INFO - Target URL: 'https://www.amazon.in/s?k=Spa+Trolleys'
+2026-09-25 02:18:48,138 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-25 02:18:48,138 - INFO - Discovering products for category 'Spa Trolleys' from https://www.amazon.in/s?k=Spa+Trolleys...
+2026-09-25 02:18:48,181 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Spa+Trolleys
+2026-09-25 02:18:50,904 - INFO - Found 186 raw product links on page 1
+2026-09-25 02:18:51,433 - INFO - Discovered 10 total unique product URLs so far
+2026-09-25 02:18:51,462 - INFO - Discovered 10 products for category 'Spa Trolleys'
+2026-09-25 02:18:51,462 - INFO - [1/10] Processing product ASIN: B0BCZ17N2F
+2026-09-25 02:18:51,499 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0BCZ17N2F
+2026-09-25 02:18:53,857 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:18:53,857 - INFO - ASIN: B0BCZ17N2F
+2026-09-25 02:18:53,899 - INFO - BUY BOX SELLER: Acupressure Health Care India
+2026-09-25 02:18:53,900 - INFO - AOD: Opening All Offers...
+2026-09-25 02:18:54,086 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:18:55,337 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:18:56,461 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:18:57,631 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:18:57,680 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:18:57,689 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0BCZ17N2F | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:18:57,689 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A16KW0AEN1K9G1&asin=B0BCZ17N2F&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:18:58,658 - INFO - [2/10] Processing product ASIN: B0F21KDP13
+2026-09-25 02:18:58,708 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0F21KDP13
+2026-09-25 02:19:01,030 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:19:01,030 - INFO - ASIN: B0F21KDP13
+2026-09-25 02:19:01,055 - INFO - BUY BOX SELLER: eazyshoppe
+2026-09-25 02:19:01,055 - INFO - AOD: Opening All Offers...
+2026-09-25 02:19:01,245 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:19:02,462 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:19:03,576 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:19:04,709 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:19:04,762 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:19:04,772 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0F21KDP13 | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:19:04,772 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K2Y1AXGFB0N4&asin=B0F21KDP13&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:19:05,644 - INFO - [3/10] Processing product ASIN: B0FF2VT3QW
+2026-09-25 02:19:05,689 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0FF2VT3QW
+2026-09-25 02:19:07,965 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:19:07,965 - INFO - ASIN: B0FF2VT3QW
+2026-09-25 02:19:07,991 - INFO - BUY BOX SELLER: Alifonus
+2026-09-25 02:19:07,991 - INFO - AOD: Opening All Offers...
+2026-09-25 02:19:08,230 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:19:08,325 - INFO - Clicking offer load-more control: a:has-text('Show more')
+2026-09-25 02:19:09,945 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:19:11,044 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:19:12,144 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:19:12,193 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:19:12,202 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0FF2VT3QW | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:19:12,202 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A198H5LM96KSF7&asin=B0FF2VT3QW&ref_=dp_merchant_link
+2026-09-25 02:19:13,207 - INFO - [4/10] Processing product ASIN: B0DTYX87LJ
+2026-09-25 02:19:13,246 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0DTYX87LJ
+2026-09-25 02:19:15,791 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:19:15,792 - INFO - ASIN: B0DTYX87LJ
+2026-09-25 02:19:15,821 - INFO - BUY BOX SELLER: Clicktech Retail Private Ltd
+2026-09-25 02:19:15,821 - INFO - AOD: Opening All Offers...
+2026-09-25 02:19:15,953 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:19:16,162 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:17,787 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:19:17,850 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:19,469 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:19:19,513 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:21,092 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:19:21,129 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:22,796 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:24,405 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:19:24,472 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:26,073 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:19:26,131 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:27,756 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:19:27,782 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:29,420 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:31,029 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:19:31,093 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:32,851 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:19:32,910 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:34,508 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:19:34,530 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:36,168 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:37,779 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:19:37,844 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:39,435 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:19:39,493 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:41,088 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:19:41,110 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:42,746 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:44,359 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:19:44,424 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:46,023 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:19:46,094 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:47,692 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:19:47,715 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:49,346 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:50,962 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:19:51,025 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:52,623 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:19:52,680 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:54,291 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:19:54,313 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:55,990 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:57,604 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:19:57,674 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:19:59,288 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:19:59,346 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:00,958 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:20:00,981 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:02,624 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:04,226 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:20:04,288 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:05,892 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:20:05,956 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:07,558 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:20:07,588 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:09,227 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:10,843 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:20:10,903 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:12,502 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:20:12,576 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:14,197 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:20:14,222 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:15,855 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:17,460 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:20:17,525 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:19,120 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:20:19,189 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:20,796 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:20:20,818 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:22,398 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0DTYX87LJ | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:20:22,398 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0DTYX87LJ&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:20:23,377 - INFO - [5/10] Processing product ASIN: B0CMCKM3FM
+2026-09-25 02:20:23,417 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CMCKM3FM
+2026-09-25 02:20:26,029 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:20:26,030 - INFO - ASIN: B0CMCKM3FM
+2026-09-25 02:20:26,072 - INFO - BUY BOX SELLER: ONE CART ENTERPRISE
+2026-09-25 02:20:26,072 - INFO - AOD: Opening All Offers...
+2026-09-25 02:20:26,167 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:20:27,322 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:20:28,429 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:20:29,608 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:20:29,670 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:20:29,681 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CMCKM3FM | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:20:29,681 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1YVOS62B48VM6&asin=B0CMCKM3FM&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:20:30,523 - INFO - [6/10] Processing product ASIN: B0F21KRM6M
+2026-09-25 02:20:30,578 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0F21KRM6M
+2026-09-25 02:20:32,869 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:20:32,869 - INFO - ASIN: B0F21KRM6M
+2026-09-25 02:20:32,893 - INFO - BUY BOX SELLER: eazyshoppe
+2026-09-25 02:20:32,893 - INFO - AOD: Opening All Offers...
+2026-09-25 02:20:32,964 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:20:34,252 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:20:35,346 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:20:36,477 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:20:36,521 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:20:36,530 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0F21KRM6M | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:20:36,530 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K2Y1AXGFB0N4&asin=B0F21KRM6M&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:20:37,380 - INFO - [7/10] Processing product ASIN: B0CGLS8BMP
+2026-09-25 02:20:37,442 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CGLS8BMP
+2026-09-25 02:20:40,330 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:20:40,330 - INFO - ASIN: B0CGLS8BMP
+2026-09-25 02:20:40,372 - INFO - BUY BOX SELLER: Clicktech Retail Private Ltd
+2026-09-25 02:20:40,372 - INFO - AOD: Opening All Offers...
+2026-09-25 02:20:40,555 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:20:40,736 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:42,354 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:20:42,405 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:43,980 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:20:44,035 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:45,632 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:20:45,661 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:47,335 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:48,955 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:20:49,041 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:50,658 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:20:50,738 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:52,359 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:20:52,385 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:54,038 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:55,658 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:20:55,738 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:57,370 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:20:57,444 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:20:59,088 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:20:59,114 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:00,768 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:02,411 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:21:02,478 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:04,105 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:21:04,175 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:05,806 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:21:05,834 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:07,487 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:09,105 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:21:09,171 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:10,789 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:21:10,855 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:12,467 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:21:12,493 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:14,139 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:15,749 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:21:15,816 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:17,437 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:21:17,503 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:19,116 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:21:19,188 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:20,825 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:22,450 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:21:22,514 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:24,126 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:21:24,203 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:25,854 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:21:25,879 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:27,516 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:29,136 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:21:29,200 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:30,830 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:21:30,907 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:32,532 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:21:32,557 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:34,258 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:35,886 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:21:35,951 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:37,576 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:21:37,642 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:39,272 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:21:39,301 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:40,936 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:42,545 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:21:42,606 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:44,234 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:21:44,298 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:45,916 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:21:45,940 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:21:47,532 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CGLS8BMP | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:21:47,532 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0CGLS8BMP&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:21:48,449 - INFO - [8/10] Processing product ASIN: B0D5DPJQ71
+2026-09-25 02:21:48,487 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0D5DPJQ71
+2026-09-25 02:21:50,477 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:21:50,477 - INFO - ASIN: B0D5DPJQ71
+2026-09-25 02:21:50,530 - INFO - BUY BOX SELLER: RDE home care
+2026-09-25 02:21:50,530 - INFO - AOD: Opening All Offers...
+2026-09-25 02:21:50,584 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:21:51,663 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:21:52,726 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:21:53,786 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:21:53,831 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:21:53,839 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0D5DPJQ71 | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:21:53,839 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K5Z4KNZPXOFY&asin=B0D5DPJQ71&ref_=dp_merchant_link
+2026-09-25 02:21:54,816 - INFO - [9/10] Processing product ASIN: B0B3T6HFH8
+2026-09-25 02:21:54,851 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0B3T6HFH8
+2026-09-25 02:21:57,179 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:21:57,179 - INFO - ASIN: B0B3T6HFH8
+2026-09-25 02:21:57,215 - INFO - BUY BOX SELLER: eazyshoppe
+2026-09-25 02:21:57,215 - INFO - AOD: Opening All Offers...
+2026-09-25 02:21:57,312 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:21:58,610 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:21:59,739 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:22:00,821 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:22:00,871 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:22:00,881 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0B3T6HFH8 | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:22:00,881 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K2Y1AXGFB0N4&asin=B0B3T6HFH8&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:22:01,702 - INFO - [10/10] Processing product ASIN: B0B4DNP8CC
+2026-09-25 02:22:01,737 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0B4DNP8CC
+2026-09-25 02:22:04,471 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:22:04,471 - INFO - ASIN: B0B4DNP8CC
+2026-09-25 02:22:04,535 - INFO - BUY BOX SELLER: Acupressure®
+2026-09-25 02:22:04,536 - INFO - AOD: Opening All Offers...
+2026-09-25 02:22:05,938 - INFO - AOD: Initial offers found: 5
+2026-09-25 02:22:07,163 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:22:08,397 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:22:09,677 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:22:09,736 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:22:09,748 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0B4DNP8CC | TOTAL UNIQUE SELLERS: 4
+2026-09-25 02:22:09,748 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A28POZD050PIYG&asin=B0B4DNP8CC&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:22:10,843 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2K5Z4KNZPXOFY&isAmazonFulfilled=0&asin=B0B4DNP8CC&ref_=olp_merch_name_1
+2026-09-25 02:22:11,785 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A16KW0AEN1K9G1&isAmazonFulfilled=1&asin=B0B4DNP8CC&ref_=olp_merch_name_2
+2026-09-25 02:22:12,809 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A25JA6SO059LJ0&sshmPath=shipping-rates
+2026-09-25 02:22:13,772 - INFO - Top businesses requested: 100, found: 8 for 'Spa Trolleys'
+2026-09-25 02:22:13,772 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 8 businesses...
+2026-09-25 02:22:13,773 - INFO - Starting Public Enrichment Waterfall for business 'eazyshoppe'...
+2026-09-25 02:22:14,862 - INFO - Verifying website ownership candidate: https://www.eazyshoppe.com/
+2026-09-25 02:22:14,949 - INFO - Verifying website ownership candidate: https://www.eazyshoppe.in/
+2026-09-25 02:22:15,150 - INFO - Verifying website ownership candidate: https://www.softwaretestinghelp.com/how-to-open-apk-file/
+2026-09-25 02:22:15,228 - INFO - Verifying website ownership candidate: https://www.lifewire.com/apk-file-4152929
+2026-09-25 02:22:16,678 - INFO - Fetching text from target page: https://www.riverdavesplace.com/forums/forums/
+2026-09-25 02:22:16,768 - INFO - Fetching text from target page: https://www.riverdavesplace.com/forums/forums/rds-lounge.2/
+2026-09-25 02:22:16,811 - INFO - Fetching text from target page: https://www.riverdavesplace.com/forums/threads/49ers-owner-jed-york-arrested.321109/
+2026-09-25 02:22:16,831 - INFO - Fetching text from target page: https://www.riverdavesplace.com/forums/threads/building-the-parker-dam.26846/
+2026-09-25 02:22:17,764 - INFO - Fetching text from target page: https://triblive.com/local/regional/deluzio-eyes-possible-senate-run-as-fettermans-fracture-with-democrats-grows/
+2026-09-25 02:22:18,426 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:22:19,452 - INFO - Fetching text from target page: https://outlook.office.com/mail/
+2026-09-25 02:22:19,728 - INFO - Fetching text from target page: https://signup.live.com/
+2026-09-25 02:22:21,227 - INFO - Fetching text from target page: https://m365.cloud.microsoft/?origindomain=microsoft365
+2026-09-25 02:22:23,422 - INFO - Fetching text from target page: https://www.ups.com/track?loc=en_US&tracknum=1ZG1937C1302190742&AgreeToTermsAndConditions=yes&WT.z_eCTAid=ct1_eml_Tracking__ct1_eml_tra_eml_sb_1day&WT.z_edatesent=12182024&msockid=1dd01ea3ca5860802243097ccb556107
+2026-09-25 02:22:23,477 - INFO - Fetching text from target page: https://wwwapps.ups.com/us/en/fragments/apps/track.plain.html
+2026-09-25 02:22:23,554 - INFO - Fetching text from target page: https://www.17track.net/en/tracking
+2026-09-25 02:22:24,356 - INFO - Fetching text from target page: https://www.theupsstore.com/tools/track-a-package
+2026-09-25 02:22:25,310 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:22:25,310 - INFO - ENRICHMENT HEARTBEAT: Seller = eazyshoppe, Elapsed = 12s, Current field = GST (Attempt 1)
+2026-09-25 02:22:26,210 - INFO - Fetching text from target page: https://www.calculator.com/
+2026-09-25 02:22:26,683 - INFO - Fetching text from target page: https://www.desmos.com/scientific
+2026-09-25 02:22:27,232 - INFO - Fetching text from target page: https://www.calculator.net/basic-calculator.html
+2026-09-25 02:22:28,352 - INFO - Fetching text from target page: https://solvecalc.net/
+2026-09-25 02:22:29,902 - INFO - Fetching text from target page: https://egov.uscis.gov/
+2026-09-25 02:22:30,013 - INFO - Fetching text from target page: https://www.uscis.gov/tools/checking-your-case-status-online
+2026-09-25 02:22:30,414 - INFO - Fetching text from target page: https://www.uscis.gov/
+2026-09-25 02:22:30,766 - INFO - Fetching text from target page: https://myaccount.uscis.gov/
+2026-09-25 02:22:31,148 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:22:34,112 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:22:34,969 - INFO - Fetching text from target page: https://dragonwilds.runescape.wiki/w/Granite
+2026-09-25 02:22:35,419 - INFO - Fetching text from target page: https://dragonwilds.th.gl/guides/Granite
+2026-09-25 02:22:37,326 - INFO - Fetching text from target page: https://dragonwilds.runescape.wiki/w/Granite_Deposit
+2026-09-25 02:22:37,630 - INFO - Fetching text from target page: https://game8.co/games/Runescape-Dragonwilds/archives/515609
+2026-09-25 02:22:37,923 - INFO - ENRICHMENT HEARTBEAT: Seller = eazyshoppe, Elapsed = 24s, Current field = Address (Attempt 2)
+2026-09-25 02:22:39,355 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:22:42,269 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:22:42,283 - INFO - Starting Public Enrichment Waterfall for business 'Acupressure Health Care India'...
+2026-09-25 02:22:43,755 - INFO - Verifying website ownership candidate: https://www.acupressurehealthcareindia.com/
+2026-09-25 02:22:44,528 - INFO - Verifying website ownership candidate: https://www.acupressurehealthcareindia.in/
+2026-09-25 02:22:46,924 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:22:47,811 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-25 02:22:48,343 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-25 02:22:49,313 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-25 02:22:49,963 - INFO - Fetching text from target page: https://www.verywellhealth.com/the-benefits-of-acupressure-88702
+2026-09-25 02:22:52,455 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:22:52,455 - INFO - ENRICHMENT HEARTBEAT: Seller = Acupressure Health Care India, Elapsed = 10s, Current field = GST (Attempt 1)
+2026-09-25 02:22:53,377 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-25 02:22:53,764 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-25 02:22:54,604 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-25 02:22:54,928 - INFO - Fetching text from target page: https://www.verywellhealth.com/the-benefits-of-acupressure-88702
+2026-09-25 02:22:56,905 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:22:57,820 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-25 02:22:58,190 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-25 02:22:59,034 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-25 02:22:59,307 - INFO - Fetching text from target page: https://www.verywellhealth.com/the-benefits-of-acupressure-88702
+2026-09-25 02:23:01,453 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:23:02,422 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-25 02:23:02,802 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-25 02:23:03,718 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-25 02:23:04,041 - INFO - Fetching text from target page: https://www.verywellhealth.com/the-benefits-of-acupressure-88702
+2026-09-25 02:23:04,490 - INFO - ENRICHMENT HEARTBEAT: Seller = Acupressure Health Care India, Elapsed = 22s, Current field = Address (Attempt 2)
+2026-09-25 02:23:06,038 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:23:08,326 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-25 02:23:08,720 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-25 02:23:09,572 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-25 02:23:09,843 - INFO - Fetching text from target page: https://www.verywellhealth.com/the-benefits-of-acupressure-88702
+2026-09-25 02:23:10,314 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:23:11,486 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-25 02:23:11,825 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-25 02:23:12,645 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-25 02:23:12,997 - INFO - Fetching text from target page: https://www.verywellhealth.com/the-benefits-of-acupressure-88702
+2026-09-25 02:23:14,531 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-25 02:23:14,903 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-25 02:23:15,729 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-25 02:23:16,097 - INFO - Fetching text from target page: https://www.verywellhealth.com/the-benefits-of-acupressure-88702
+2026-09-25 02:23:16,569 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-25 02:23:16,675 - INFO - Starting Public Enrichment Waterfall for business 'Clicktech Retail Private Ltd'...
+2026-09-25 02:23:17,669 - INFO - Verifying website ownership candidate: https://www.clicktechretailprivateltd.com/
+2026-09-25 02:23:17,827 - INFO - Verifying website ownership candidate: https://www.clicktechretailprivateltd.in/
+2026-09-25 02:23:17,893 - INFO - Verifying website ownership candidate: https://discordapp.com:2087/privacy
+2026-09-25 02:23:18,143 - INFO - Verifying website ownership candidate: https://discordapp.com:2087/blog/starting-your-first-discord-server
+2026-09-25 02:23:19,859 - INFO - Fetching text from target page: https://www.westconsincu.org/
+2026-09-25 02:23:20,552 - INFO - Fetching text from target page: https://www.westconsincu.org/personal/bank/online-banking
+2026-09-25 02:23:20,830 - INFO - Fetching text from target page: https://emembership.westconsincu.org/AddProduct/Agreements/
+2026-09-25 02:23:26,832 - WARNING - WEBSITE TIMEOUT: https://emembership.westconsincu.org/AddProduct/Agreements/
+2026-09-25 02:25:37,436 - INFO - Fetching text from target page: https://mortgage.westconsincu.org/default.asp?siteId=4B7085AA-1EA9-44F5-B5AD-7C259C65C492
+2026-09-25 02:25:40,363 - WARNING - SELLER ENRICHMENT TIME LIMIT REACHED during Legal Entity Name.
+2026-09-25 02:25:40,363 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:25:40,363 - WARNING - SELLER ENRICHMENT TIME LIMIT REACHED (120s). Aborting remaining fields for 'Clicktech Retail Private Ltd'.
+2026-09-25 02:25:40,378 - INFO - Starting Public Enrichment Waterfall for business 'RDE home care'...
+2026-09-25 02:25:41,230 - INFO - Verifying website ownership candidate: https://www.rdehomecare.com/
+2026-09-25 02:25:41,365 - INFO - Verifying website ownership candidate: https://www.rdehomecare.in/
+2026-09-25 02:25:41,394 - INFO - Verifying website ownership candidate: https://www.houstonisd.org/login
+2026-09-25 02:25:45,739 - INFO - Fetching text from target page: https://www.timeanddate.com/date/dateadd.html
+2026-09-25 02:25:45,853 - INFO - Fetching text from target page: https://timedatecalc.com/90-days-from-today
+2026-09-25 02:25:46,703 - INFO - Fetching text from target page: https://www.calculator.net/date-calculator.html
+2026-09-25 02:25:46,914 - INFO - Fetching text from target page: https://www.90daysfromtoday.com/
+2026-09-25 02:25:47,526 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:25:53,464 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:25:53,465 - INFO - ENRICHMENT HEARTBEAT: Seller = RDE home care, Elapsed = 13s, Current field = GST (Attempt 1)
+2026-09-25 02:25:56,179 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:25:57,161 - INFO - Fetching text from target page: https://outlook.office.com/mail/
+2026-09-25 02:25:57,471 - INFO - Fetching text from target page: https://signup.live.com/
+2026-09-25 02:25:58,227 - INFO - Fetching text from target page: https://m365.cloud.microsoft/?origindomain=microsoft365
+2026-09-25 02:26:00,297 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:26:01,445 - INFO - Fetching text from target page: https://www.simon.com/mall/the-domain/stores/the-yard-milkshake-bar
+2026-09-25 02:26:02,681 - INFO - Fetching text from target page: https://www.theyardmilkshakebar.com/austin
+2026-09-25 02:26:03,479 - INFO - Fetching text from target page: https://www.theyardmilkshakebar.com/austin-menu
+2026-09-25 02:26:03,882 - INFO - Fetching text from target page: https://www.novacircle.com/spots/north-america/united-states/texas/austin/austin-tx/the-yard-milkshake-bar-282645
+2026-09-25 02:26:04,120 - INFO - ENRICHMENT HEARTBEAT: Seller = RDE home care, Elapsed = 24s, Current field = Address (Attempt 2)
+2026-09-25 02:26:05,048 - INFO - Fetching text from target page: https://www.pngwing.com/en/search?q=horseshoe
+2026-09-25 02:26:05,231 - INFO - Fetching text from target page: https://www.vecteezy.com/free-png/horseshoe
+2026-09-25 02:26:07,870 - INFO - Fetching text from target page: https://pngtree.com/free-png-vectors/horse-shoe
+2026-09-25 02:26:08,128 - INFO - Fetching text from target page: https://pngtree.com/so/horse-shoe
+2026-09-25 02:26:08,334 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:26:10,863 - INFO - Fetching text from target page: https://www.skysports.com/football
+2026-09-25 02:26:11,629 - INFO - Fetching text from target page: https://super6.skysports.com/
+2026-09-25 02:26:12,221 - INFO - Fetching text from target page: https://www.skysports.com/fifa-world-cup-scores-fixtures
+2026-09-25 02:26:13,435 - INFO - Fetching text from target page: https://www.skysports.com/fifa-world-cup
+2026-09-25 02:26:13,805 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:26:15,267 - INFO - ENRICHMENT HEARTBEAT: Seller = RDE home care, Elapsed = 35s, Current field = Email (Attempt 2)
+2026-09-25 02:26:16,186 - INFO - Fetching text from target page: https://prepaid.t-mobile.com/direct-to-account
+2026-09-25 02:26:18,521 - INFO - Fetching text from target page: https://prepaid.t-mobile.com/prepaid-plans
+2026-09-25 02:26:19,724 - INFO - Fetching text from target page: https://prepaid.t-mobile.com/contact-us
+2026-09-25 02:26:20,930 - INFO - Fetching text from target page: https://prepaid.t-mobile.com/cart/login
+2026-09-25 02:26:21,821 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-25 02:26:21,845 - INFO - Starting Public Enrichment Waterfall for business 'Alifonus'...
+2026-09-25 02:26:22,794 - INFO - Verifying website ownership candidate: https://www.alifonus.com/
+2026-09-25 02:26:22,893 - INFO - Verifying website ownership candidate: https://www.alifonus.in/
+2026-09-25 02:26:22,943 - INFO - Verifying website ownership candidate: https://www.nfl.com/standings/
+2026-09-25 02:26:23,595 - INFO - Verifying website ownership candidate: https://www.nfl.com/schedules
+2026-09-25 02:26:25,374 - INFO - Fetching text from target page: https://www.makeupbrands.org/ai-personalized-cosmetics/
+2026-09-25 02:26:26,801 - INFO - Fetching text from target page: https://www.marketplace.org/episode/2026/09/23/the-beauty-industry-is-betting-big-on-ai
+2026-09-25 02:26:27,535 - INFO - Fetching text from target page: https://cosmetics.einnews.com/
+2026-09-25 02:26:27,689 - INFO - Fetching text from target page: https://www.perfectcorp.com/business/news/ces-2026-perfect-corp
+2026-09-25 02:26:29,510 - INFO - Fetching text from target page: https://www.timeanddate.com/time/zone/usa/california
+2026-09-25 02:26:30,092 - INFO - Fetching text from target page: https://whichtimezone.com/usa/california/
+2026-09-25 02:26:30,254 - INFO - Fetching text from target page: https://24timezones.com/California/time
+2026-09-25 02:26:30,753 - INFO - Fetching text from target page: https://www.timeanddate.com/worldclock/usa/california
+2026-09-25 02:26:31,253 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:26:32,933 - INFO - ENRICHMENT HEARTBEAT: Seller = Alifonus, Elapsed = 11s, Current field = PAN (Attempt 2)
+2026-09-25 02:26:33,811 - INFO - Fetching text from target page: https://www.wivb.com/
+2026-09-25 02:26:33,998 - INFO - Fetching text from target page: https://www.wkbw.com/
+2026-09-25 02:26:34,615 - INFO - Fetching text from target page: https://www.wkbw.com/news
+2026-09-25 02:26:34,831 - INFO - Fetching text from target page: https://www.wgrz.com/
+2026-09-25 02:26:35,435 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:26:36,378 - INFO - Fetching text from target page: https://www.countryliving.com/life/entertainment/a42736505/where-to-watch-justified-season-city-primeval-reboot/
+2026-09-25 02:26:37,670 - INFO - Fetching text from target page: https://www.justwatch.com/us/tv-show/justified
+2026-09-25 02:26:38,237 - INFO - Fetching text from target page: https://www.rottentomatoes.com/tv/justified
+2026-09-25 02:26:40,063 - INFO - Fetching text from target page: https://www.tvguide.com/tvshows/justified/1030091061/
+2026-09-25 02:26:42,343 - INFO - Fetching text from target page: https://math.stackexchange.com/
+2026-09-25 02:26:42,978 - INFO - Fetching text from target page: https://math.stackexchange.com/questions/3668/what-is-the-value-of-1i
+2026-09-25 02:26:43,382 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:26:43,382 - INFO - ENRICHMENT HEARTBEAT: Seller = Alifonus, Elapsed = 22s, Current field = Owner (Attempt 1)
+2026-09-25 02:26:45,982 - INFO - Fetching text from target page: https://support.mozilla.org/en-US/kb/microsoft-oauth-authentication-and-thunderbird-202
+2026-09-25 02:26:46,080 - INFO - Fetching text from target page: https://support.mozilla.org/en-US/questions/852253
+2026-09-25 02:26:46,131 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:26:47,047 - INFO - Fetching text from target page: https://www.bentega.io/blog/spif-vs.-spiff-which-sales-term-is-correct-and-whats-the-difference
+2026-09-25 02:26:48,460 - INFO - Fetching text from target page: https://www.salesforce.com/sales/incentive-compensation-management/what-is-a-spiff-in-sales/
+2026-09-25 02:26:48,529 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/spiff
+2026-09-25 02:26:48,640 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/spiff
+2026-09-25 02:26:50,803 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:26:53,947 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:26:53,948 - INFO - ENRICHMENT HEARTBEAT: Seller = Alifonus, Elapsed = 32s, Current field = Email (Attempt 1)
+2026-09-25 02:26:56,728 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-25 02:26:56,739 - INFO - Starting Public Enrichment Waterfall for business 'ONE CART ENTERPRISE'...
+2026-09-25 02:26:57,664 - INFO - Verifying website ownership candidate: https://www.onecartenterprise.com/
+2026-09-25 02:26:57,915 - INFO - Verifying website ownership candidate: https://www.onecartenterprise.in/
+2026-09-25 02:26:57,983 - INFO - Verifying website ownership candidate: https://onedrive.live.com/login/
+2026-09-25 02:26:58,162 - INFO - Verifying website ownership candidate: https://www.one-line.com/en
+2026-09-25 02:27:00,560 - INFO - Fetching text from target page: https://onedrive.live.com/login/
+2026-09-25 02:27:00,731 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-25 02:27:01,580 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-25 02:27:04,375 - INFO - Fetching text from target page: https://meo.one-line.com/en
+2026-09-25 02:27:05,545 - INFO - Fetching text from target page: https://onedrive.live.com/login/
+2026-09-25 02:27:05,721 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-25 02:27:06,553 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-25 02:27:08,108 - INFO - Fetching text from target page: https://meo.one-line.com/en
+2026-09-25 02:27:08,278 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:27:08,278 - INFO - ENRICHMENT HEARTBEAT: Seller = ONE CART ENTERPRISE, Elapsed = 12s, Current field = PAN (Attempt 1)
+2026-09-25 02:27:09,979 - INFO - Fetching text from target page: https://onedrive.live.com/login/
+2026-09-25 02:27:10,154 - INFO - Fetching text from target page: https://www.one-line.com/en
+2026-09-25 02:27:10,996 - INFO - Fetching text from target page: https://www.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=enONE
+2026-09-25 02:27:12,641 - INFO - Fetching text from target page: https://meo.one-line.com/en
+2026-09-25 02:27:12,770 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:27:14,099 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:27:15,405 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:27:16,737 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:27:18,112 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:27:18,755 - INFO - ENRICHMENT HEARTBEAT: Seller = ONE CART ENTERPRISE, Elapsed = 22s, Current field = Email (Attempt 2)
+2026-09-25 02:27:19,413 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-25 02:27:19,423 - INFO - Starting Public Enrichment Waterfall for business 'Acupressure®'...
+2026-09-25 02:27:20,105 - INFO - Verifying website ownership candidate: https://www.acupressure.com/
+2026-09-25 02:27:20,863 - INFO - Successfully verified website candidate 'https://www.acupressure.com/' for business 'Acupressure®'
+2026-09-25 02:27:20,863 - INFO - Verified official website for 'Acupressure®': https://www.acupressure.com/
+2026-09-25 02:27:26,595 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:27:27,366 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:27:28,152 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:27:29,491 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:27:29,491 - INFO - ENRICHMENT HEARTBEAT: Seller = Acupressure®, Elapsed = 10s, Current field = Phone (Attempt 1)
+2026-09-25 02:27:30,830 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:27:30,849 - INFO - Starting Public Enrichment Waterfall for business 'MUMBAI STORE MH'...
+2026-09-25 02:27:31,023 - INFO - Verifying website ownership candidate: https://www.mumbaistoremh.com/
+2026-09-25 02:27:31,181 - INFO - Verifying website ownership candidate: https://www.mumbaistoremh.in/
+2026-09-25 02:27:31,998 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:27:32,758 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:27:33,507 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:27:34,286 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:27:35,042 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:27:36,325 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:27:37,068 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-25 02:27:37,202 - INFO - Closed Playwright browser session safely
+2026-09-25 02:27:37,204 - INFO - Read 11 final verified records from SQLite for 'Spa Trolleys'
+2026-09-25 02:27:37,904 - INFO - Created safety backup of master Excel at /home/runner/work/Amazon-scrap/Amazon-scrap/output/backups/Amazon_Seller_Master_Data_20260925_022737_backup.xlsx
+2026-09-25 02:27:37,919 - INFO - Target Category: 'Lounger Chaises'
+2026-09-25 02:27:37,919 - INFO - Target URL: 'https://www.amazon.in/s?k=Lounger+Chaises'
+2026-09-25 02:27:38,306 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-25 02:27:38,307 - INFO - Discovering products for category 'Lounger Chaises' from https://www.amazon.in/s?k=Lounger+Chaises...
+2026-09-25 02:27:38,353 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Lounger+Chaises
+2026-09-25 02:27:41,520 - INFO - Found 384 raw product links on page 1
+2026-09-25 02:27:42,046 - INFO - Discovered 10 total unique product URLs so far
+2026-09-25 02:27:42,065 - INFO - Discovered 10 products for category 'Lounger Chaises'
+2026-09-25 02:27:42,065 - INFO - [1/10] Processing product ASIN: B09XBJ5W8B
+2026-09-25 02:27:42,107 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B09XBJ5W8B
+2026-09-25 02:27:44,463 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:27:44,463 - INFO - ASIN: B09XBJ5W8B
+2026-09-25 02:27:44,590 - INFO - BUY BOX SELLER: HOMECREST FURNITURE PVT LTD™
+2026-09-25 02:27:44,590 - INFO - AOD: Opening All Offers...
+2026-09-25 02:27:44,792 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:27:46,072 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:27:47,185 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:27:48,335 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:27:48,414 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:27:48,426 - INFO - AOD EXTRACTION COMPLETE | ASIN: B09XBJ5W8B | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:27:48,426 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15R9ZCAE6VK8&asin=B09XBJ5W8B&ref_=dp_merchant_link
+2026-09-25 02:27:49,407 - INFO - [2/10] Processing product ASIN: B09XS3P15C
+2026-09-25 02:27:49,446 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B09XS3P15C
+2026-09-25 02:27:52,000 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:27:52,000 - INFO - ASIN: B09XS3P15C
+2026-09-25 02:27:52,032 - INFO - BUY BOX SELLER: HOMECREST FURNITURE PVT LTD™
+2026-09-25 02:27:52,032 - INFO - AOD: Opening All Offers...
+2026-09-25 02:27:52,310 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:27:52,443 - INFO - Clicking offer load-more control: a:has-text('Show more')
+2026-09-25 02:27:54,094 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:27:55,223 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:27:56,385 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:27:56,449 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:27:56,461 - INFO - AOD EXTRACTION COMPLETE | ASIN: B09XS3P15C | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:27:56,461 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15R9ZCAE6VK8&asin=B09XS3P15C&ref_=dp_merchant_link
+2026-09-25 02:27:57,358 - INFO - [3/10] Processing product ASIN: B0CD6883SD
+2026-09-25 02:27:57,392 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CD6883SD
+2026-09-25 02:27:59,854 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:27:59,854 - INFO - ASIN: B0CD6883SD
+2026-09-25 02:28:00,039 - INFO - BUY BOX SELLER: HOMECREST FURNITURE PVT LTD™
+2026-09-25 02:28:00,039 - INFO - AOD: Opening All Offers...
+2026-09-25 02:28:00,298 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:28:01,514 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:28:02,686 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:28:03,823 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:28:03,882 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:28:03,893 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CD6883SD | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:28:03,893 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15R9ZCAE6VK8&asin=B0CD6883SD&ref_=dp_merchant_link
+2026-09-25 02:28:04,780 - INFO - [4/10] Processing product ASIN: B0B9FBW2RG
+2026-09-25 02:28:04,817 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0B9FBW2RG
+2026-09-25 02:28:07,764 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:28:07,764 - INFO - ASIN: B0B9FBW2RG
+2026-09-25 02:28:07,907 - INFO - BUY BOX SELLER: Wooden Age Furniture
+2026-09-25 02:28:07,907 - INFO - AOD: Opening All Offers...
+2026-09-25 02:28:09,318 - INFO - AOD: Initial offers found: 4
+2026-09-25 02:28:09,525 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:28:13,659 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:28:13,786 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:28:17,891 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:28:18,016 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:28:22,121 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:28:22,199 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:28:25,200 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:28:25,216 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0B9FBW2RG | TOTAL UNIQUE SELLERS: 2
+2026-09-25 02:28:25,216 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A8O0B62DKR15A&asin=B0B9FBW2RG&ref_=dp_merchant_link
+2026-09-25 02:28:26,235 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A8O0B62DKR15A&sshmPath=shipping-rates
+2026-09-25 02:28:27,043 - INFO - [5/10] Processing product ASIN: B0F7FMJ5SZ
+2026-09-25 02:28:27,081 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0F7FMJ5SZ
+2026-09-25 02:28:29,698 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:28:29,698 - INFO - ASIN: B0F7FMJ5SZ
+2026-09-25 02:28:29,868 - INFO - BUY BOX SELLER: Wooden Age Furniture
+2026-09-25 02:28:29,869 - INFO - AOD: Opening All Offers...
+2026-09-25 02:28:31,407 - INFO - AOD: Initial offers found: 3
+2026-09-25 02:28:31,510 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:28:35,591 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:28:35,730 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:28:39,843 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:28:39,955 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:28:44,037 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:28:44,139 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:28:47,139 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:28:47,154 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0F7FMJ5SZ | TOTAL UNIQUE SELLERS: 2
+2026-09-25 02:28:47,155 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A8O0B62DKR15A&asin=B0F7FMJ5SZ&ref_=dp_merchant_link
+2026-09-25 02:28:48,032 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A8O0B62DKR15A&sshmPath=shipping-rates
+2026-09-25 02:28:48,883 - INFO - [6/10] Processing product ASIN: B0F7FMLTVC
+2026-09-25 02:28:48,921 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0F7FMLTVC
+2026-09-25 02:28:51,536 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:28:51,536 - INFO - ASIN: B0F7FMLTVC
+2026-09-25 02:28:51,791 - INFO - BUY BOX SELLER: Wooden Age Furniture
+2026-09-25 02:28:51,791 - INFO - AOD: Opening All Offers...
+2026-09-25 02:28:53,071 - INFO - AOD: Initial offers found: 3
+2026-09-25 02:28:53,270 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:28:57,352 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:28:57,464 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:29:01,550 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:29:01,668 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:29:05,751 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:29:05,820 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:29:08,820 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:29:08,835 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0F7FMLTVC | TOTAL UNIQUE SELLERS: 2
+2026-09-25 02:29:08,835 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A8O0B62DKR15A&asin=B0F7FMLTVC&ref_=dp_merchant_link
+2026-09-25 02:29:09,750 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A8O0B62DKR15A&sshmPath=shipping-rates
+2026-09-25 02:29:10,442 - INFO - [7/10] Processing product ASIN: B0B9HX9F1M
+2026-09-25 02:29:10,477 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0B9HX9F1M
+2026-09-25 02:29:13,135 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:29:13,135 - INFO - ASIN: B0B9HX9F1M
+2026-09-25 02:29:13,276 - INFO - BUY BOX SELLER: Wooden Age Furniture
+2026-09-25 02:29:13,276 - INFO - AOD: Opening All Offers...
+2026-09-25 02:29:14,983 - INFO - AOD: Initial offers found: 4
+2026-09-25 02:29:15,103 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:29:19,234 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:29:19,345 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:29:23,444 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:29:23,553 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:29:27,657 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:29:27,727 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:29:30,727 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:29:30,742 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0B9HX9F1M | TOTAL UNIQUE SELLERS: 2
+2026-09-25 02:29:30,742 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A8O0B62DKR15A&asin=B0B9HX9F1M&ref_=dp_merchant_link
+2026-09-25 02:29:31,615 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A8O0B62DKR15A&sshmPath=shipping-rates
+2026-09-25 02:29:32,407 - INFO - [8/10] Processing product ASIN: B0F7FK4CFQ
+2026-09-25 02:29:32,446 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0F7FK4CFQ
+2026-09-25 02:29:34,960 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:29:34,961 - INFO - ASIN: B0F7FK4CFQ
+2026-09-25 02:29:35,133 - INFO - BUY BOX SELLER: Wooden Age Furniture
+2026-09-25 02:29:35,133 - INFO - AOD: Opening All Offers...
+2026-09-25 02:29:36,375 - INFO - AOD: Initial offers found: 3
+2026-09-25 02:29:36,536 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:29:40,615 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:29:40,718 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:29:44,831 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:29:44,934 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:29:49,017 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:29:49,086 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:29:52,087 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:29:52,102 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0F7FK4CFQ | TOTAL UNIQUE SELLERS: 2
+2026-09-25 02:29:52,102 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A8O0B62DKR15A&asin=B0F7FK4CFQ&ref_=dp_merchant_link
+2026-09-25 02:29:52,954 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A8O0B62DKR15A&sshmPath=shipping-rates
+2026-09-25 02:29:53,897 - INFO - [9/10] Processing product ASIN: B0F7FLZ2ZC
+2026-09-25 02:29:53,935 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0F7FLZ2ZC
+2026-09-25 02:29:56,435 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:29:56,436 - INFO - ASIN: B0F7FLZ2ZC
+2026-09-25 02:29:56,625 - INFO - BUY BOX SELLER: Modern Furniture Store™
+2026-09-25 02:29:56,625 - INFO - AOD: Opening All Offers...
+2026-09-25 02:29:56,873 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:29:57,067 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:29:58,666 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:29:58,789 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:00,395 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:30:00,525 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:02,162 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:30:02,224 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:03,884 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:05,474 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:30:05,563 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:07,155 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:30:07,248 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:08,840 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:30:08,902 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:10,589 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:12,195 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:30:12,287 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:13,885 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:30:14,018 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:15,611 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:30:15,673 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:17,321 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:18,920 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:30:19,052 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:20,636 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:30:20,728 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:22,320 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:30:22,383 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:24,082 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:25,654 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:30:25,746 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:27,335 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:30:27,421 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:29,023 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:30:29,092 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:30,763 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:32,358 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:30:32,448 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:34,033 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:30:34,155 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:35,738 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:30:35,802 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:37,463 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:39,056 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:30:39,151 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:40,752 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:30:40,866 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:42,474 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:30:42,537 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:44,199 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:45,793 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:30:45,898 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:47,495 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:30:47,610 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:49,221 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:30:49,290 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:50,952 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:52,558 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:30:52,692 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:54,287 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:30:54,399 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:56,034 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:30:56,097 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:57,743 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:30:59,338 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:30:59,465 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:31:01,053 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:31:01,145 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:31:02,740 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:31:02,802 - INFO - Clicking offer load-more control: li.a-last a
+2026-09-25 02:31:04,381 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0F7FLZ2ZC | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:31:04,381 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AHBDNL25DIPN9&asin=B0F7FLZ2ZC&ref_=dp_merchant_link
+2026-09-25 02:31:05,365 - INFO - [10/10] Processing product ASIN: B0DNSMGSNS
+2026-09-25 02:31:05,404 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0DNSMGSNS
+2026-09-25 02:31:07,971 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:31:07,971 - INFO - ASIN: B0DNSMGSNS
+2026-09-25 02:31:08,011 - INFO - BUY BOX SELLER: WuduCasa
+2026-09-25 02:31:08,012 - INFO - AOD: Opening All Offers...
+2026-09-25 02:31:09,277 - INFO - AOD: Initial offers found: 4
+2026-09-25 02:31:10,527 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:31:11,754 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:31:13,002 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:31:13,068 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:31:13,081 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0DNSMGSNS | TOTAL UNIQUE SELLERS: 2
+2026-09-25 02:31:13,081 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A163WH8AS607XJ&asin=B0DNSMGSNS&ref_=dp_merchant_link
+2026-09-25 02:31:13,965 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A163WH8AS607XJ&sshmPath=shipping-rates
+2026-09-25 02:31:14,771 - INFO - Top businesses requested: 100, found: 4 for 'Lounger Chaises'
+2026-09-25 02:31:14,772 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 4 businesses...
+2026-09-25 02:31:14,772 - INFO - Starting Public Enrichment Waterfall for business 'Wooden Age Furniture'...
+2026-09-25 02:31:15,895 - INFO - Verifying website ownership candidate: https://www.woodenagefurniture.com/
+2026-09-25 02:31:16,138 - INFO - Verifying website ownership candidate: https://www.woodenagefurniture.in/
+2026-09-25 02:31:16,206 - INFO - Verifying website ownership candidate: https://www.merriam-webster.com/dictionary/wooden
+2026-09-25 02:31:16,501 - INFO - Verifying website ownership candidate: https://dictionary.cambridge.org/dictionary/english/wooden
+2026-09-25 02:31:17,626 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/wooden
+2026-09-25 02:31:18,148 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/wooden
+2026-09-25 02:31:18,842 - INFO - Fetching text from target page: https://www.woodennickelglencarbon.com/
+2026-09-25 02:31:19,483 - INFO - Fetching text from target page: https://www.etsy.com/market/wooden_furniture?msockid=376ed9ecdb8d6eab02d3ce33da136fd8
+2026-09-25 02:31:20,594 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/wooden
+2026-09-25 02:31:21,245 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/wooden
+2026-09-25 02:31:22,056 - INFO - Fetching text from target page: https://www.woodennickelglencarbon.com/
+2026-09-25 02:31:22,360 - INFO - Fetching text from target page: https://www.etsy.com/market/wooden_furniture?msockid=376ed9ecdb8d6eab02d3ce33da136fd8
+2026-09-25 02:31:22,425 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:31:23,431 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/wooden
+2026-09-25 02:31:23,966 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/wooden
+2026-09-25 02:31:24,537 - INFO - Fetching text from target page: https://www.woodennickelglencarbon.com/
+2026-09-25 02:31:24,804 - INFO - Fetching text from target page: https://www.etsy.com/market/wooden_furniture?msockid=376ed9ecdb8d6eab02d3ce33da136fd8
+2026-09-25 02:31:24,872 - INFO - ENRICHMENT HEARTBEAT: Seller = Wooden Age Furniture, Elapsed = 10s, Current field = PAN (Attempt 2)
+2026-09-25 02:31:25,812 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/wooden
+2026-09-25 02:31:26,314 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/wooden
+2026-09-25 02:31:26,848 - INFO - Fetching text from target page: https://www.woodennickelglencarbon.com/
+2026-09-25 02:31:27,176 - INFO - Fetching text from target page: https://www.etsy.com/market/wooden_furniture?msockid=376ed9ecdb8d6eab02d3ce33da136fd8
+2026-09-25 02:31:27,254 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:31:30,538 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:31:31,526 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/wooden
+2026-09-25 02:31:32,046 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/wooden
+2026-09-25 02:31:32,690 - INFO - Fetching text from target page: https://www.woodennickelglencarbon.com/
+2026-09-25 02:31:33,007 - INFO - Fetching text from target page: https://www.etsy.com/market/wooden_furniture?msockid=376ed9ecdb8d6eab02d3ce33da136fd8
+2026-09-25 02:31:34,063 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/wooden
+2026-09-25 02:31:34,598 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/wooden
+2026-09-25 02:31:35,223 - INFO - Fetching text from target page: https://www.woodennickelglencarbon.com/
+2026-09-25 02:31:35,536 - INFO - Fetching text from target page: https://www.etsy.com/market/wooden_furniture?msockid=376ed9ecdb8d6eab02d3ce33da136fd8
+2026-09-25 02:31:35,599 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:31:35,599 - INFO - ENRICHMENT HEARTBEAT: Seller = Wooden Age Furniture, Elapsed = 21s, Current field = Address (Attempt 1)
+2026-09-25 02:31:36,510 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/wooden
+2026-09-25 02:31:37,181 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/wooden
+2026-09-25 02:31:37,780 - INFO - Fetching text from target page: https://www.woodennickelglencarbon.com/
+2026-09-25 02:31:38,065 - INFO - Fetching text from target page: https://www.etsy.com/market/wooden_furniture?msockid=376ed9ecdb8d6eab02d3ce33da136fd8
+2026-09-25 02:31:39,500 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:31:40,399 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/wooden
+2026-09-25 02:31:40,922 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/wooden
+2026-09-25 02:31:41,492 - INFO - Fetching text from target page: https://www.woodennickelglencarbon.com/
+2026-09-25 02:31:41,834 - INFO - Fetching text from target page: https://www.etsy.com/market/wooden_furniture?msockid=376ed9ecdb8d6eab02d3ce33da136fd8
+2026-09-25 02:31:42,984 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/wooden
+2026-09-25 02:31:43,494 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/wooden
+2026-09-25 02:31:44,080 - INFO - Fetching text from target page: https://www.woodennickelglencarbon.com/
+2026-09-25 02:31:44,417 - INFO - Fetching text from target page: https://www.etsy.com/market/wooden_furniture?msockid=376ed9ecdb8d6eab02d3ce33da136fd8
+2026-09-25 02:31:44,487 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:31:45,932 - INFO - ENRICHMENT HEARTBEAT: Seller = Wooden Age Furniture, Elapsed = 31s, Current field = Email (Attempt 2)
+2026-09-25 02:31:47,047 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/wooden
+2026-09-25 02:31:47,722 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/wooden
+2026-09-25 02:31:48,389 - INFO - Fetching text from target page: https://www.woodennickelglencarbon.com/
+2026-09-25 02:31:48,695 - INFO - Fetching text from target page: https://www.etsy.com/market/wooden_furniture?msockid=376ed9ecdb8d6eab02d3ce33da136fd8
+2026-09-25 02:31:48,776 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-25 02:31:48,800 - INFO - Starting Public Enrichment Waterfall for business 'HOMECREST FURNITURE PVT LTD™'...
+2026-09-25 02:31:49,838 - INFO - Verifying website ownership candidate: https://www.homecrestfurniturepvtltd.com/
+2026-09-25 02:31:49,909 - INFO - Verifying website ownership candidate: https://www.homecrestfurniturepvtltd.in/
+2026-09-25 02:31:49,946 - INFO - Verifying website ownership candidate: https://www.homecrest.com/?AspxAutoDetectCookieSupport=1
+2026-09-25 02:31:50,132 - INFO - Verifying website ownership candidate: https://www.homecrest.com/collections/all-seating
+2026-09-25 02:31:51,592 - INFO - Fetching text from target page: https://www.homecrest.com/?AspxAutoDetectCookieSupport=1
+2026-09-25 02:31:52,025 - INFO - Fetching text from target page: https://www.homecrest.com/collections/all-seating
+2026-09-25 02:31:52,269 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/
+2026-09-25 02:31:52,930 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/products
+2026-09-25 02:31:54,284 - INFO - Fetching text from target page: https://www.homecrest.com/?AspxAutoDetectCookieSupport=1
+2026-09-25 02:31:54,679 - INFO - Fetching text from target page: https://www.homecrest.com/collections/all-seating
+2026-09-25 02:31:54,923 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/
+2026-09-25 02:31:55,454 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/products
+2026-09-25 02:31:55,849 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:31:56,908 - INFO - Fetching text from target page: https://www.homecrest.com/?AspxAutoDetectCookieSupport=1
+2026-09-25 02:31:57,317 - INFO - Fetching text from target page: https://www.homecrest.com/collections/all-seating
+2026-09-25 02:31:57,562 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/
+2026-09-25 02:31:58,123 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/products
+2026-09-25 02:32:00,002 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:32:00,002 - INFO - ENRICHMENT HEARTBEAT: Seller = HOMECREST FURNITURE PVT LTD™, Elapsed = 11s, Current field = GST (Attempt 1)
+2026-09-25 02:32:02,856 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:32:03,902 - INFO - Fetching text from target page: https://www.homecrest.com/?AspxAutoDetectCookieSupport=1
+2026-09-25 02:32:04,332 - INFO - Fetching text from target page: https://www.homecrest.com/collections/all-seating
+2026-09-25 02:32:04,582 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/
+2026-09-25 02:32:05,238 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/products
+2026-09-25 02:32:07,142 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:32:10,173 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:32:10,173 - INFO - ENRICHMENT HEARTBEAT: Seller = HOMECREST FURNITURE PVT LTD™, Elapsed = 21s, Current field = Phone (Attempt 1)
+2026-09-25 02:32:11,510 - INFO - Fetching text from target page: https://www.homecrest.com/?AspxAutoDetectCookieSupport=1
+2026-09-25 02:32:11,920 - INFO - Fetching text from target page: https://www.homecrest.com/collections/all-seating
+2026-09-25 02:32:12,164 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/
+2026-09-25 02:32:12,674 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/products
+2026-09-25 02:32:14,297 - INFO - Fetching text from target page: https://www.homecrest.com/?AspxAutoDetectCookieSupport=1
+2026-09-25 02:32:14,686 - INFO - Fetching text from target page: https://www.homecrest.com/collections/all-seating
+2026-09-25 02:32:14,932 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/
+2026-09-25 02:32:15,446 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/products
+2026-09-25 02:32:15,782 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:32:16,989 - INFO - Fetching text from target page: https://www.homecrest.com/?AspxAutoDetectCookieSupport=1
+2026-09-25 02:32:17,380 - INFO - Fetching text from target page: https://www.homecrest.com/collections/all-seating
+2026-09-25 02:32:17,616 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/
+2026-09-25 02:32:18,104 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/products
+2026-09-25 02:32:19,751 - INFO - Fetching text from target page: https://www.homecrest.com/?AspxAutoDetectCookieSupport=1
+2026-09-25 02:32:20,137 - INFO - Fetching text from target page: https://www.homecrest.com/collections/all-seating
+2026-09-25 02:32:20,381 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/
+2026-09-25 02:32:20,854 - INFO - Fetching text from target page: https://www.homecrestcabinetry.com/products
+2026-09-25 02:32:21,240 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-25 02:32:21,274 - INFO - Starting Public Enrichment Waterfall for business 'WuduCasa'...
+2026-09-25 02:32:22,263 - INFO - Verifying website ownership candidate: https://www.wuducasa.com/
+2026-09-25 02:32:27,233 - INFO - Successfully verified website candidate 'https://www.wuducasa.com/' for business 'WuduCasa'
+2026-09-25 02:32:27,233 - INFO - Verified official website for 'WuduCasa': https://www.wuducasa.com/
+2026-09-25 02:32:29,874 - INFO - Fetching text from target page: https://www.bluefcu.com/
+2026-09-25 02:32:29,928 - INFO - Fetching text from target page: https://creativebooster.net/blogs/colors/blue
+2026-09-25 02:32:30,753 - INFO - Fetching text from target page: https://www.artcraftblend.com/blogs/colors/shades-of-blue
+2026-09-25 02:32:31,952 - INFO - Fetching text from target page: https://www.color-meanings.com/shades-of-blue-color-names-html-hex-rgb-codes/
+2026-09-25 02:32:32,315 - INFO - ENRICHMENT HEARTBEAT: Seller = WuduCasa, Elapsed = 11s, Current field = Legal Entity Name (Attempt 2)
+2026-09-25 02:32:33,702 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:32:34,755 - INFO - Fetching text from target page: https://stackoverflow.com/questions/60287504/how-display-images-from-google-drive-on-gsheet-cell
+2026-09-25 02:32:34,857 - INFO - Fetching text from target page: https://stackoverflow.com/questions/22832104/how-can-i-see-hidden-app-data-in-google-drive
+2026-09-25 02:32:34,883 - INFO - Fetching text from target page: https://www.tenforums.com/tutorials/48991-add-remove-google-drive-navigation-pane-windows-10-a.html
+2026-09-25 02:32:36,270 - INFO - Fetching text from target page: https://www.speedtest.net/
+2026-09-25 02:32:37,371 - INFO - Fetching text from target page: https://www.speedtest.net/es
+2026-09-25 02:32:37,972 - INFO - Fetching text from target page: https://www.speedtest.net/it
+2026-09-25 02:32:38,537 - INFO - Fetching text from target page: https://www.speedtest.net/run
+2026-09-25 02:32:39,081 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:32:40,092 - INFO - Fetching text from target page: https://poki.com/?msockid=376ed9ecdb8d6eab02d3ce33da136fd8
+2026-09-25 02:32:40,845 - INFO - Fetching text from target page: https://www.crazygames.com/
+2026-09-25 02:32:41,692 - INFO - Fetching text from target page: https://www.crazygames.com/new
+2026-09-25 02:32:42,278 - INFO - Fetching text from target page: https://poki.com/en/popular?msockid=376ed9ecdb8d6eab02d3ce33da136fd8
+2026-09-25 02:32:42,798 - INFO - ENRICHMENT HEARTBEAT: Seller = WuduCasa, Elapsed = 22s, Current field = Address (Attempt 2)
+2026-09-25 02:32:44,280 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:32:47,519 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:32:47,541 - INFO - Starting Public Enrichment Waterfall for business 'Modern Furniture Store™'...
+2026-09-25 02:32:48,969 - INFO - Verifying website ownership candidate: https://www.modernfurniturestore.com/
+2026-09-25 02:32:49,318 - INFO - Verifying website ownership candidate: https://www.modernfurniturestore.in/
+2026-09-25 02:32:49,371 - INFO - Verifying website ownership candidate: https://www.merriam-webster.com/dictionary/modern
+2026-09-25 02:32:50,038 - INFO - Verifying website ownership candidate: https://dictionary.cambridge.org/dictionary/english/modern
+2026-09-25 02:32:50,659 - INFO - Successfully verified website candidate 'https://dictionary.cambridge.org/dictionary/english/modern' for business 'Modern Furniture Store™'
+2026-09-25 02:32:50,659 - INFO - Verified official website for 'Modern Furniture Store™': https://dictionary.cambridge.org/
+2026-09-25 02:32:53,052 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/modern
+2026-09-25 02:32:53,589 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/modern
+2026-09-25 02:32:54,237 - INFO - Fetching text from target page: https://www.modernoptical.com/
+2026-09-25 02:32:54,706 - INFO - Fetching text from target page: https://dictionary.cambridge.org/us/dictionary/english/modern
+2026-09-25 02:32:56,363 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/modern
+2026-09-25 02:32:56,901 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/modern
+2026-09-25 02:32:57,509 - INFO - Fetching text from target page: https://www.modernoptical.com/
+2026-09-25 02:32:57,926 - INFO - Fetching text from target page: https://dictionary.cambridge.org/us/dictionary/english/modern
+2026-09-25 02:32:58,490 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:32:58,491 - INFO - ENRICHMENT HEARTBEAT: Seller = Modern Furniture Store™, Elapsed = 11s, Current field = PAN (Attempt 1)
+2026-09-25 02:32:59,482 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/modern
+2026-09-25 02:33:00,156 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/modern
+2026-09-25 02:33:00,775 - INFO - Fetching text from target page: https://www.modernoptical.com/
+2026-09-25 02:33:01,161 - INFO - Fetching text from target page: https://dictionary.cambridge.org/us/dictionary/english/modern
+2026-09-25 02:33:03,333 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:33:06,373 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:33:07,315 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/modern
+2026-09-25 02:33:07,829 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/modern
+2026-09-25 02:33:08,412 - INFO - Fetching text from target page: https://www.modernoptical.com/
+2026-09-25 02:33:08,843 - INFO - Fetching text from target page: https://dictionary.cambridge.org/us/dictionary/english/modern
+2026-09-25 02:33:09,314 - INFO - ENRICHMENT HEARTBEAT: Seller = Modern Furniture Store™, Elapsed = 22s, Current field = Owner (Attempt 2)
+2026-09-25 02:33:10,360 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/modern
+2026-09-25 02:33:10,988 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/modern
+2026-09-25 02:33:11,589 - INFO - Fetching text from target page: https://www.modernoptical.com/
+2026-09-25 02:33:11,986 - INFO - Fetching text from target page: https://dictionary.cambridge.org/us/dictionary/english/modern
+2026-09-25 02:33:12,489 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:33:13,596 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/modern
+2026-09-25 02:33:14,117 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/modern
+2026-09-25 02:33:14,675 - INFO - Fetching text from target page: https://www.modernoptical.com/
+2026-09-25 02:33:15,086 - INFO - Fetching text from target page: https://dictionary.cambridge.org/us/dictionary/english/modern
+2026-09-25 02:33:16,661 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/modern
+2026-09-25 02:33:17,228 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/modern
+2026-09-25 02:33:17,839 - INFO - Fetching text from target page: https://www.modernoptical.com/
+2026-09-25 02:33:18,215 - INFO - Fetching text from target page: https://dictionary.cambridge.org/us/dictionary/english/modern
+2026-09-25 02:33:18,742 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:33:19,895 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/modern
+2026-09-25 02:33:20,417 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/modern
+2026-09-25 02:33:21,074 - INFO - Fetching text from target page: https://www.modernoptical.com/
+2026-09-25 02:33:21,511 - INFO - Fetching text from target page: https://dictionary.cambridge.org/us/dictionary/english/modern
+2026-09-25 02:33:22,075 - INFO - ENRICHMENT HEARTBEAT: Seller = Modern Furniture Store™, Elapsed = 35s, Current field = Phone (Attempt 2)
+2026-09-25 02:33:23,854 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:33:24,874 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/modern
+2026-09-25 02:33:25,449 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/modern
+2026-09-25 02:33:26,052 - INFO - Fetching text from target page: https://www.modernoptical.com/
+2026-09-25 02:33:26,458 - INFO - Fetching text from target page: https://dictionary.cambridge.org/us/dictionary/english/modern
+2026-09-25 02:33:28,377 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-25 02:33:28,489 - INFO - Closed Playwright browser session safely
+2026-09-25 02:33:28,490 - INFO - Read 4 final verified records from SQLite for 'Lounger Chaises'
+2026-09-25 02:33:29,220 - INFO - Created safety backup of master Excel at /home/runner/work/Amazon-scrap/Amazon-scrap/output/backups/Amazon_Seller_Master_Data_20260925_023328_backup.xlsx
+2026-09-25 02:33:30,372 - INFO - Master Excel updated: Added 4 rows for category 'Lounger Chaises'. Total master rows=1376
+2026-09-25 02:33:30,386 - INFO - Target Category: 'Home Temple'
+2026-09-25 02:33:30,386 - INFO - Target URL: 'https://www.amazon.in/s?k=Home+Temple'
+2026-09-25 02:33:30,793 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-25 02:33:30,793 - INFO - Discovering products for category 'Home Temple' from https://www.amazon.in/s?k=Home+Temple...
+2026-09-25 02:33:30,838 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Home+Temple
+2026-09-25 02:33:33,614 - INFO - Found 204 raw product links on page 1
+2026-09-25 02:33:34,165 - INFO - Discovered 10 total unique product URLs so far
+2026-09-25 02:33:34,180 - INFO - Discovered 10 products for category 'Home Temple'
+2026-09-25 02:33:34,181 - INFO - [1/10] Processing product ASIN: B0FT8V9FWJ
+2026-09-25 02:33:34,219 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0FT8V9FWJ
+2026-09-25 02:33:37,076 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:33:37,076 - INFO - ASIN: B0FT8V9FWJ
+2026-09-25 02:33:37,423 - INFO - BUY BOX SELLER: ETrade Online
+2026-09-25 02:33:37,423 - INFO - AOD: Opening All Offers...
+2026-09-25 02:33:38,795 - INFO - AOD: Initial offers found: 4
+2026-09-25 02:33:40,084 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:33:41,321 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:33:42,570 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:33:42,636 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:33:42,652 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0FT8V9FWJ | TOTAL UNIQUE SELLERS: 2
+2026-09-25 02:33:42,652 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0FT8V9FWJ&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:33:43,563 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3HYW9TNK6UIA8&isAmazonFulfilled=1&asin=B0FT8V9FWJ&ref_=olp_merch_name_1
+2026-09-25 02:33:44,531 - INFO - [2/10] Processing product ASIN: B0B4BDK1N5
+2026-09-25 02:33:44,572 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0B4BDK1N5
+2026-09-25 02:33:47,292 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:33:47,292 - INFO - ASIN: B0B4BDK1N5
+2026-09-25 02:33:47,375 - INFO - BUY BOX SELLER: Cosmic String Enterprise LLP.
+2026-09-25 02:33:47,375 - INFO - AOD: Opening All Offers...
+2026-09-25 02:33:47,569 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:33:47,679 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:33:49,297 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:33:49,370 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:33:50,975 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:33:51,046 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:33:52,656 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:33:52,687 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:33:54,310 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:33:55,922 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:33:55,979 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:33:57,635 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:33:57,694 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:33:59,310 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:33:59,335 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:00,959 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:02,561 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:34:02,639 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:04,240 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:34:04,296 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:05,906 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:34:05,931 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:07,573 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:09,172 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:34:09,274 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:10,869 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:34:10,921 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:12,509 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:34:12,536 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:14,158 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:15,751 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:34:15,808 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:17,402 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:34:17,460 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:19,072 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:34:19,101 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:20,756 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:22,357 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:34:22,422 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:24,022 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:34:24,078 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:25,692 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:34:25,731 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:27,376 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:28,990 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:34:29,057 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:30,656 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:34:30,725 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:32,325 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:34:32,352 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:33,977 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:35,587 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:34:35,645 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:37,254 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:34:37,318 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:38,922 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:34:38,945 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:40,589 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:42,191 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:34:42,241 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:43,826 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:34:43,885 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:45,482 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:34:45,506 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:47,109 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:48,715 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:34:48,822 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:50,424 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:34:50,473 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:52,069 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:34:52,092 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-25 02:34:53,689 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0B4BDK1N5 | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:34:53,689 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A8ZMEIUGQRIBD&asin=B0B4BDK1N5&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:34:54,747 - INFO - [3/10] Processing product ASIN: B0H6VKKHDB
+2026-09-25 02:34:54,785 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0H6VKKHDB
+2026-09-25 02:34:57,257 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:34:57,257 - INFO - ASIN: B0H6VKKHDB
+2026-09-25 02:34:57,420 - INFO - BUY BOX SELLER: Crosscut Lamps
+2026-09-25 02:34:57,420 - INFO - AOD: Opening All Offers...
+2026-09-25 02:34:57,531 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:34:58,695 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:34:59,813 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:35:00,919 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:35:00,968 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:35:00,978 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0H6VKKHDB | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:35:00,978 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3NSKKWV4P8IYC&asin=B0H6VKKHDB&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:35:01,971 - INFO - [4/10] Processing product ASIN: B0CVMZV4NN
+2026-09-25 02:35:02,009 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CVMZV4NN
+2026-09-25 02:35:04,688 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:35:04,688 - INFO - ASIN: B0CVMZV4NN
+2026-09-25 02:35:04,814 - INFO - BUY BOX SELLER: ETrade Online
+2026-09-25 02:35:04,815 - INFO - AOD: Opening All Offers...
+2026-09-25 02:35:05,059 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:35:06,240 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:35:07,340 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:35:08,469 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:35:08,528 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:35:08,540 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CVMZV4NN | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:35:08,540 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0CVMZV4NN&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:35:09,356 - INFO - [5/10] Processing product ASIN: B0GZKXDG7G
+2026-09-25 02:35:09,395 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GZKXDG7G
+2026-09-25 02:35:11,563 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:35:11,563 - INFO - ASIN: B0GZKXDG7G
+2026-09-25 02:35:11,587 - INFO - BUY BOX SELLER: JAYSHRI MAHAKAL FURNITURE
+2026-09-25 02:35:11,587 - INFO - AOD: Opening All Offers...
+2026-09-25 02:35:11,645 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:35:12,731 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:35:13,830 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:35:14,954 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:35:15,008 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:35:15,017 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GZKXDG7G | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:35:15,017 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ABHBJETF7Q56V&asin=B0GZKXDG7G&ref_=dp_merchant_link
+2026-09-25 02:35:15,859 - INFO - [6/10] Processing product ASIN: B0H2S2FJTV
+2026-09-25 02:35:15,902 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0H2S2FJTV
+2026-09-25 02:35:18,420 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:35:18,420 - INFO - ASIN: B0H2S2FJTV
+2026-09-25 02:35:18,454 - INFO - BUY BOX SELLER: Alpine Willow Pvt. Ltd.
+2026-09-25 02:35:18,454 - INFO - AOD: Opening All Offers...
+2026-09-25 02:35:18,673 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:35:19,885 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:35:21,037 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:35:22,219 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:35:22,282 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:35:22,294 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0H2S2FJTV | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:35:22,294 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ADGZ1QCHY0FLG&asin=B0H2S2FJTV&ref_=dp_merchant_link
+2026-09-25 02:35:23,173 - INFO - [7/10] Processing product ASIN: B0GTFJCDDY
+2026-09-25 02:35:23,207 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GTFJCDDY
+2026-09-25 02:35:25,611 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:35:25,611 - INFO - ASIN: B0GTFJCDDY
+2026-09-25 02:35:25,681 - INFO - BUY BOX SELLER: ETrade Online
+2026-09-25 02:35:25,682 - INFO - AOD: Opening All Offers...
+2026-09-25 02:35:26,887 - INFO - AOD: Initial offers found: 3
+2026-09-25 02:35:28,121 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:35:29,302 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:35:30,486 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:35:30,544 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:35:30,555 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GTFJCDDY | TOTAL UNIQUE SELLERS: 2
+2026-09-25 02:35:30,555 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0GTFJCDDY&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:35:31,378 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3HYW9TNK6UIA8&isAmazonFulfilled=1&asin=B0GTFJCDDY&ref_=olp_merch_name_1
+2026-09-25 02:35:32,185 - INFO - [8/10] Processing product ASIN: B0GZWBYPM4
+2026-09-25 02:35:32,221 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GZWBYPM4
+2026-09-25 02:35:34,860 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:35:34,860 - INFO - ASIN: B0GZWBYPM4
+2026-09-25 02:35:34,905 - INFO - BUY BOX SELLER: STEPn'SPACE
+2026-09-25 02:35:34,905 - INFO - AOD: Opening All Offers...
+2026-09-25 02:35:35,060 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:35:36,250 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:35:37,363 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:35:38,474 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:35:38,531 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:35:38,541 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GZWBYPM4 | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:35:38,541 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AG0W9YULVCPWQ&asin=B0GZWBYPM4&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:35:39,502 - INFO - [9/10] Processing product ASIN: B0H3V1TJ3G
+2026-09-25 02:35:39,541 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0H3V1TJ3G
+2026-09-25 02:35:41,704 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:35:41,704 - INFO - ASIN: B0H3V1TJ3G
+2026-09-25 02:35:41,835 - INFO - BUY BOX SELLER: SHIVAY ANANTAM
+2026-09-25 02:35:41,835 - INFO - AOD: Opening All Offers...
+2026-09-25 02:35:41,901 - INFO - AOD: Initial offers found: 0
+2026-09-25 02:35:42,996 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:35:44,094 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:35:45,255 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:35:45,298 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:35:45,306 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0H3V1TJ3G | TOTAL UNIQUE SELLERS: 1
+2026-09-25 02:35:45,306 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A28GIJCET6TE3X&asin=B0H3V1TJ3G&ref_=dp_merchant_link
+2026-09-25 02:35:46,287 - INFO - [10/10] Processing product ASIN: B0DWLV8NVQ
+2026-09-25 02:35:46,324 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0DWLV8NVQ
+2026-09-25 02:35:48,971 - INFO - PRODUCT: Product summary presents key product information
+2026-09-25 02:35:48,971 - INFO - ASIN: B0DWLV8NVQ
+2026-09-25 02:35:48,997 - INFO - BUY BOX SELLER: ETrade Online
+2026-09-25 02:35:48,997 - INFO - AOD: Opening All Offers...
+2026-09-25 02:35:50,258 - INFO - AOD: Initial offers found: 3
+2026-09-25 02:35:51,480 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-25 02:35:52,655 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-25 02:35:53,872 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-25 02:35:53,925 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-25 02:35:53,935 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0DWLV8NVQ | TOTAL UNIQUE SELLERS: 2
+2026-09-25 02:35:53,935 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0DWLV8NVQ&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-25 02:35:54,808 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A28YXBBKF3J3T0&isAmazonFulfilled=0&asin=B0DWLV8NVQ&ref_=olp_merch_name_1
+2026-09-25 02:35:55,900 - INFO - Top businesses requested: 100, found: 9 for 'Home Temple'
+2026-09-25 02:35:55,900 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 9 businesses...
+2026-09-25 02:35:55,901 - INFO - Starting Public Enrichment Waterfall for business 'ETrade Online'...
+2026-09-25 02:35:57,620 - INFO - Verifying website ownership candidate: https://www.etradeonline.com/
+2026-09-25 02:36:01,622 - WARNING - WEBSITE TIMEOUT during verification: https://www.etradeonline.com/
+2026-09-25 02:36:02,048 - INFO - Verifying website ownership candidate: https://www.etradeonline.in/
+2026-09-25 02:36:06,050 - WARNING - WEBSITE TIMEOUT during verification: https://www.etradeonline.in/
+2026-09-25 02:36:06,051 - INFO - ENRICHMENT HEARTBEAT: Seller = ETrade Online, Elapsed = 10s, Current field = Legal Entity Name (Attempt 1)
+2026-09-25 02:38:15,497 - WARNING - SELLER ENRICHMENT TIME LIMIT REACHED during Legal Entity Name.
+2026-09-25 02:38:15,497 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:38:15,497 - WARNING - SELLER ENRICHMENT TIME LIMIT REACHED (120s). Aborting remaining fields for 'ETrade Online'.
+2026-09-25 02:38:15,530 - INFO - Starting Public Enrichment Waterfall for business 'GOJEEVA INTERNET PRIVATE LIMITED'...
+2026-09-25 02:38:16,629 - INFO - Verifying website ownership candidate: https://www.gojeevainternetprivatelimited.com/
+2026-09-25 02:38:16,718 - INFO - Verifying website ownership candidate: https://www.gojeevainternetprivatelimited.in/
+2026-09-25 02:38:16,749 - INFO - Verifying website ownership candidate: https://www.cleverpoop.com/poop-sample-gallery
+2026-09-25 02:38:16,908 - INFO - Verifying website ownership candidate: https://news.christianacare.org/2023/05/the-scoop-on-poop/
+2026-09-25 02:38:18,588 - INFO - Fetching text from target page: https://www.gurleyleepgmgiant.com/
+2026-09-25 02:38:18,970 - INFO - Fetching text from target page: https://www.gurleyleepgmgiant.com/Last-Chance-Offers/
+2026-09-25 02:38:19,016 - INFO - Fetching text from target page: https://www.gurleyleepgmgiant.com/used-vehicles/
+2026-09-25 02:38:19,063 - INFO - Fetching text from target page: https://www.gurleyleepgmgiant.com/new-vehicles/buick/
+2026-09-25 02:38:22,483 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:38:23,541 - INFO - Fetching text from target page: https://www.marketbeat.com/stocks/NASDAQ/MSFT/news/
+2026-09-25 02:38:24,269 - INFO - Fetching text from target page: https://www.fool.com/investing/2026/09/03/why-microsoft-stock-is-up-today/?msockid=05de85d586f26b423180920a877e6a3a
+2026-09-25 02:38:25,363 - INFO - Fetching text from target page: https://financefeeds.com/microsoft-msft-stock-498-ai-rally-gap-bull-650-bear-440/
+2026-09-25 02:38:27,017 - INFO - Fetching text from target page: https://www.investing.com/equities/microsoft-corp
+2026-09-25 02:38:27,128 - INFO - ENRICHMENT HEARTBEAT: Seller = GOJEEVA INTERNET PRIVATE LIMITED, Elapsed = 12s, Current field = PAN (Attempt 2)
+2026-09-25 02:38:28,159 - INFO - Fetching text from target page: https://www.capitalone.com/bank/atm/?msockid=05de85d586f26b423180920a877e6a3a
+2026-09-25 02:38:29,209 - INFO - Fetching text from target page: https://locations.capitalone.com/
+2026-09-25 02:38:30,120 - INFO - Fetching text from target page: https://capitalone.banklocationmaps.com/en/usa/illinois/chicago
+2026-09-25 02:38:31,309 - INFO - Fetching text from target page: https://capitalone.banklocationmaps.com/en/usa/illinois/
+2026-09-25 02:38:31,488 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:38:32,434 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/vindicate
+2026-09-25 02:38:33,400 - INFO - Fetching text from target page: https://dictionary.cambridge.org/us/dictionary/english/vindicate
+2026-09-25 02:38:34,110 - INFO - Fetching text from target page: https://www.dictionary.com/browse/vindicate?misspelling=vendicaste&noredirect=true
+2026-09-25 02:38:34,901 - INFO - Fetching text from target page: https://englishwordchamps.com/vindicate-meaning-and-examples/
+2026-09-25 02:38:36,809 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:38:38,131 - INFO - Fetching text from target page: https://stackoverflow.com/questions/36871477/get-list-of-all-files-in-google-photos
+2026-09-25 02:38:38,232 - INFO - Fetching text from target page: https://stackoverflow.com/questions/51336701/location-data-google-photos-api
+2026-09-25 02:38:38,255 - INFO - ENRICHMENT HEARTBEAT: Seller = GOJEEVA INTERNET PRIVATE LIMITED, Elapsed = 23s, Current field = Owner (Attempt 2)
+2026-09-25 02:38:39,631 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:38:40,561 - INFO - Fetching text from target page: https://www.phoenixusedauto.com/
+2026-09-25 02:38:41,435 - INFO - Fetching text from target page: https://www.phoenixusedauto.com/newandusedcars
+2026-09-25 02:38:41,718 - INFO - Fetching text from target page: https://www.phoenixusedauto.com/new-deal-inventory
+2026-09-25 02:38:41,818 - INFO - Fetching text from target page: https://www.phoenixusedauto.com/sell-us-your-car
+2026-09-25 02:38:42,077 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:38:43,012 - INFO - Fetching text from target page: https://www.indeed.com/career-advice/career-development/private-sector
+2026-09-25 02:38:43,139 - INFO - Fetching text from target page: https://www.collinsdictionary.com/dictionary/english/private-sector-worker
+2026-09-25 02:38:43,940 - INFO - Fetching text from target page: https://www.investopedia.com/terms/p/private-sector.asp
+2026-09-25 02:38:44,329 - INFO - Fetching text from target page: https://climbtheladder.com/what-are-private-sector-jobs-industries-and-career-advantages/
+2026-09-25 02:38:46,042 - INFO - Fetching text from target page: https://www.getepic.com/sign-in
+2026-09-25 02:38:46,595 - INFO - Fetching text from target page: https://www.getepic.com/students
+2026-09-25 02:38:46,805 - INFO - Fetching text from target page: https://kids.getepic.com/students
+2026-09-25 02:38:47,368 - INFO - Fetching text from target page: https://www.getepic.com/educators
+2026-09-25 02:38:47,774 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:38:47,795 - INFO - Starting Public Enrichment Waterfall for business 'Cosmic String Enterprise LLP.'...
+2026-09-25 02:38:49,130 - INFO - Verifying website ownership candidate: https://www.cosmicstringenterprisellp.com/
+2026-09-25 02:38:49,357 - INFO - Verifying website ownership candidate: https://www.cosmicstringenterprisellp.in/
+2026-09-25 02:38:50,316 - INFO - Fetching text from target page: https://cosmicclothing.us/
+2026-09-25 02:38:52,389 - INFO - Fetching text from target page: https://cancer.sanger.ac.uk/cosmic
+2026-09-25 02:38:53,740 - INFO - Fetching text from target page: https://petsimulatorvalues.com/
+2026-09-25 02:38:54,894 - INFO - Fetching text from target page: https://www.dictionary.com/browse/cosmic
+2026-09-25 02:38:56,940 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:38:57,862 - INFO - Fetching text from target page: https://cosmicclothing.us/
+2026-09-25 02:38:59,799 - INFO - Fetching text from target page: https://cancer.sanger.ac.uk/cosmic
+2026-09-25 02:39:00,307 - INFO - Fetching text from target page: https://petsimulatorvalues.com/
+2026-09-25 02:39:01,204 - INFO - Fetching text from target page: https://www.dictionary.com/browse/cosmic
+2026-09-25 02:39:01,537 - INFO - ENRICHMENT HEARTBEAT: Seller = Cosmic String Enterprise LLP., Elapsed = 14s, Current field = PAN (Attempt 2)
+2026-09-25 02:39:02,676 - INFO - Fetching text from target page: https://cosmicclothing.us/
+2026-09-25 02:39:04,519 - INFO - Fetching text from target page: https://cancer.sanger.ac.uk/cosmic
+2026-09-25 02:39:05,045 - INFO - Fetching text from target page: https://petsimulatorvalues.com/
+2026-09-25 02:39:05,772 - INFO - Fetching text from target page: https://www.dictionary.com/browse/cosmic
+2026-09-25 02:39:06,119 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:39:07,436 - INFO - Fetching text from target page: https://cosmicclothing.us/
+2026-09-25 02:39:09,237 - INFO - Fetching text from target page: https://cancer.sanger.ac.uk/cosmic
+2026-09-25 02:39:09,749 - INFO - Fetching text from target page: https://petsimulatorvalues.com/
+2026-09-25 02:39:10,205 - INFO - Fetching text from target page: https://www.dictionary.com/browse/cosmic
+2026-09-25 02:39:12,145 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:39:12,145 - INFO - ENRICHMENT HEARTBEAT: Seller = Cosmic String Enterprise LLP., Elapsed = 24s, Current field = Owner (Attempt 1)
+2026-09-25 02:39:13,234 - INFO - Fetching text from target page: https://cosmicclothing.us/
+2026-09-25 02:39:15,033 - INFO - Fetching text from target page: https://cancer.sanger.ac.uk/cosmic
+2026-09-25 02:39:15,560 - INFO - Fetching text from target page: https://petsimulatorvalues.com/
+2026-09-25 02:39:16,346 - INFO - Fetching text from target page: https://www.dictionary.com/browse/cosmic
+2026-09-25 02:39:17,870 - INFO - Fetching text from target page: https://cosmicclothing.us/
+2026-09-25 02:39:19,760 - INFO - Fetching text from target page: https://cancer.sanger.ac.uk/cosmic
+2026-09-25 02:39:20,273 - INFO - Fetching text from target page: https://petsimulatorvalues.com/
+2026-09-25 02:39:21,050 - INFO - Fetching text from target page: https://www.dictionary.com/browse/cosmic
+2026-09-25 02:39:21,383 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:39:23,053 - INFO - ENRICHMENT HEARTBEAT: Seller = Cosmic String Enterprise LLP., Elapsed = 35s, Current field = Address (Attempt 2)
+2026-09-25 02:39:24,409 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:39:25,354 - INFO - Fetching text from target page: https://cosmicclothing.us/
+2026-09-25 02:39:27,049 - INFO - Fetching text from target page: https://cancer.sanger.ac.uk/cosmic
+2026-09-25 02:39:27,557 - INFO - Fetching text from target page: https://petsimulatorvalues.com/
+2026-09-25 02:39:28,354 - INFO - Fetching text from target page: https://www.dictionary.com/browse/cosmic
+2026-09-25 02:39:29,834 - INFO - Fetching text from target page: https://cosmicclothing.us/
+2026-09-25 02:39:31,538 - INFO - Fetching text from target page: https://cancer.sanger.ac.uk/cosmic
+2026-09-25 02:39:32,056 - INFO - Fetching text from target page: https://petsimulatorvalues.com/
+2026-09-25 02:39:32,823 - INFO - Fetching text from target page: https://www.dictionary.com/browse/cosmic
+2026-09-25 02:39:33,369 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:39:33,400 - INFO - Starting Public Enrichment Waterfall for business 'Crosscut Lamps'...
+2026-09-25 02:39:35,037 - INFO - Verifying website ownership candidate: https://www.crosscutlamps.com/
+2026-09-25 02:39:35,311 - INFO - Verifying website ownership candidate: https://www.crosscutlamps.in/
+2026-09-25 02:39:36,526 - INFO - Fetching text from target page: https://visitseattle.org/
+2026-09-25 02:39:37,825 - INFO - Fetching text from target page: https://visitseattle.org/things-to-do/sightseeing/top-25-attractions/
+2026-09-25 02:39:38,555 - INFO - Fetching text from target page: https://uploads.visitseattle.org/2018/06/20111426/VSMap_Pike-Place-Market.pdf
+2026-09-25 02:39:38,631 - INFO - Fetching text from target page: https://uploads.visitseattle.org/2023/03/07144235/Top_To_Dos_in_Seattle.pdf
+2026-09-25 02:39:39,709 - INFO - Fetching text from target page: https://home.myfantasyleague.com/
+2026-09-25 02:39:40,171 - INFO - Fetching text from target page: https://home.myfantasyleague.com/features.html
+2026-09-25 02:39:40,262 - INFO - Fetching text from target page: https://php01.myfantasyleague.com/
+2026-09-25 02:39:41,206 - INFO - Fetching text from target page: http://www53.myfantasyleague.com/secondary_ft.php
+2026-09-25 02:39:41,391 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:39:42,315 - INFO - Fetching text from target page: https://www.gucci.com/us/en/ca/women/shoes-for-women/slides-for-women-c-womens-shoes-slides-and-thongs
+2026-09-25 02:39:42,467 - INFO - Fetching text from target page: https://www.gucci.com/us/en/
+2026-09-25 02:39:42,513 - INFO - Fetching text from target page: https://www.gucci.com/us/en/ca/women/shoes-for-women-c-women-shoes
+2026-09-25 02:39:42,544 - INFO - Fetching text from target page: https://www.gucci.com/us/en/ca/women/handbags-c-women-handbags
+2026-09-25 02:39:43,340 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:39:44,643 - INFO - ENRICHMENT HEARTBEAT: Seller = Crosscut Lamps, Elapsed = 11s, Current field = GST (Attempt 2)
+2026-09-25 02:39:45,548 - INFO - Fetching text from target page: https://www.serenityf.com/obituaries
+2026-09-25 02:39:46,067 - INFO - Fetching text from target page: https://www.serenityf.com/
+2026-09-25 02:39:46,386 - INFO - Fetching text from target page: https://www.legacy.com/funeral-homes/mississippi/natchez/serenity-farewell-services-natchez/fh-44219
+2026-09-25 02:39:47,887 - INFO - Fetching text from target page: https://www.serenityfuneralhomeinc.com/obituaries/obituary-listings
+2026-09-25 02:39:48,126 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:39:49,122 - INFO - Fetching text from target page: https://www.net54baseball.com/faq.php?faq=vb3_board_usage
+2026-09-25 02:39:50,874 - INFO - Fetching text from target page: https://www.chegg.com/writing/features/apa-citation-generator?msockid=05de85d586f26b423180920a877e6a3a
+2026-09-25 02:39:51,030 - INFO - Fetching text from target page: https://www.chegg.com/about/working-at-chegg/jobs?msockid=05de85d586f26b423180920a877e6a3a
+2026-09-25 02:39:51,264 - INFO - Fetching text from target page: https://www.chegg.com/textbooks?msockid=05de85d586f26b423180920a877e6a3a
+2026-09-25 02:39:51,426 - INFO - Fetching text from target page: https://www.chegg.com/homework-help/questions-and-answers/r-atament-plan-wayesupen-hun-hulu-pondan-olamente-la-waynes-de-hule-huur-doen-printreading-q43799599?msockid=05de85d586f26b423180920a877e6a3a
+2026-09-25 02:39:51,583 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:39:54,619 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:39:55,683 - INFO - Fetching text from target page: https://outlook.office.com/mail/
+2026-09-25 02:39:56,023 - INFO - Fetching text from target page: https://signup.live.com/
+2026-09-25 02:39:57,357 - INFO - Fetching text from target page: https://m365.cloud.microsoft/?origindomain=microsoft365
+2026-09-25 02:39:57,721 - INFO - ENRICHMENT HEARTBEAT: Seller = Crosscut Lamps, Elapsed = 24s, Current field = Phone (Attempt 2)
+2026-09-25 02:39:59,472 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:39:59,489 - INFO - Starting Public Enrichment Waterfall for business 'JAYSHRI MAHAKAL FURNITURE'...
+2026-09-25 02:40:00,880 - INFO - Verifying website ownership candidate: https://www.jayshrimahakalfurniture.com/
+2026-09-25 02:40:00,969 - INFO - Verifying website ownership candidate: https://www.jayshrimahakalfurniture.in/
+2026-09-25 02:40:03,812 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:40:04,756 - INFO - Fetching text from target page: https://forum.fxsound.com/t/volume-boost-not-as-loud-anymore/6209
+2026-09-25 02:40:05,969 - INFO - Fetching text from target page: https://forum.fxsound.com/t/quiet-sound/3315
+2026-09-25 02:40:07,305 - INFO - Fetching text from target page: https://www.eventideaudio.com/forums/topic/volume-boost-for-solos/
+2026-09-25 02:40:08,706 - INFO - Fetching text from target page: https://www.eventideaudio.com/forums/topic/brian-may-patch-h90/
+2026-09-25 02:40:11,201 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:40:11,202 - INFO - ENRICHMENT HEARTBEAT: Seller = JAYSHRI MAHAKAL FURNITURE, Elapsed = 12s, Current field = GST (Attempt 1)
+2026-09-25 02:40:12,108 - INFO - Fetching text from target page: https://www.cosmetify.com/blog/how-to-use-olaplex-beginners-guide/
+2026-09-25 02:40:13,261 - INFO - Fetching text from target page: https://www.wikihow.com/Use-Olaplex
+2026-09-25 02:40:13,605 - INFO - Fetching text from target page: https://youprobablyneedahaircut.com/how-to-use-olaplex/
+2026-09-25 02:40:14,257 - INFO - Fetching text from target page: https://www.lovelyskin.com/blog/p/how-to-use-olaplex-hair-care-products-for-beginners
+2026-09-25 02:40:17,410 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:40:20,318 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:40:21,243 - INFO - Fetching text from target page: https://recipeteacher.com/best-damn-air-fryer-salmon/
+2026-09-25 02:40:21,497 - INFO - Fetching text from target page: https://www.simplyrecipes.com/air-fryer-salmon-recipe-5409236
+2026-09-25 02:40:22,290 - INFO - Fetching text from target page: https://feelgoodfoodie.net/recipe/air-fryer-salmon/
+2026-09-25 02:40:22,426 - INFO - Fetching text from target page: https://www.thepioneerwoman.com/food-cooking/recipes/a44775880/air-fryer-salmon-recipe/
+2026-09-25 02:40:23,464 - INFO - ENRICHMENT HEARTBEAT: Seller = JAYSHRI MAHAKAL FURNITURE, Elapsed = 24s, Current field = Address (Attempt 2)
+2026-09-25 02:40:24,506 - INFO - Fetching text from target page: https://www.oreillyauto.com/shop/b
+2026-09-25 02:40:24,636 - INFO - Fetching text from target page: https://www.oreillyauto.com/
+2026-09-25 02:40:24,786 - INFO - Fetching text from target page: https://careers.oreillyauto.com/
+2026-09-25 02:40:28,465 - INFO - Fetching text from target page: https://locations.oreillyauto.com/en-us/
+2026-09-25 02:40:29,162 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:40:31,908 - INFO - Fetching text from target page: https://uapb.edu/
+2026-09-25 02:40:32,629 - INFO - Fetching text from target page: https://uapb.edu/academics/all-degree-programs/
+2026-09-25 02:40:33,096 - INFO - Fetching text from target page: https://libguides.uapb.edu/c.php?g=1304602&p=9587512
+2026-09-25 02:40:33,522 - INFO - Fetching text from target page: https://libguides.uapb.edu/c.php?g=1257726&p=9249219
+2026-09-25 02:40:33,636 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:40:33,652 - INFO - Starting Public Enrichment Waterfall for business 'Alpine Willow Pvt. Ltd.'...
+2026-09-25 02:40:34,708 - INFO - Verifying website ownership candidate: https://www.alpinewillowpvtltd.com/
+2026-09-25 02:40:34,790 - INFO - Verifying website ownership candidate: https://www.alpinewillowpvtltd.in/
+2026-09-25 02:40:34,822 - INFO - Verifying website ownership candidate: https://www.alpine-usa.com/
+2026-09-25 02:40:35,078 - INFO - Verifying website ownership candidate: https://www.alpinecars.com/
+2026-09-25 02:40:37,831 - INFO - Fetching text from target page: https://www.alpine-usa.com/
+2026-09-25 02:40:37,931 - INFO - Fetching text from target page: https://www.alpinecars.com/
+2026-09-25 02:40:38,084 - INFO - Fetching text from target page: https://www.alpine-usa.com/products
+2026-09-25 02:40:38,174 - INFO - Fetching text from target page: https://www.alpinelinux.org/
+2026-09-25 02:40:38,617 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:40:40,945 - INFO - Fetching text from target page: https://www.alpine-usa.com/
+2026-09-25 02:40:41,045 - INFO - Fetching text from target page: https://www.alpinecars.com/
+2026-09-25 02:40:41,215 - INFO - Fetching text from target page: https://www.alpine-usa.com/products
+2026-09-25 02:40:41,306 - INFO - Fetching text from target page: https://www.alpinelinux.org/
+2026-09-25 02:40:41,378 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:40:42,344 - INFO - Fetching text from target page: https://www.alpine-usa.com/
+2026-09-25 02:40:42,443 - INFO - Fetching text from target page: https://www.alpinecars.com/
+2026-09-25 02:40:42,606 - INFO - Fetching text from target page: https://www.alpine-usa.com/products
+2026-09-25 02:40:42,695 - INFO - Fetching text from target page: https://www.alpinelinux.org/
+2026-09-25 02:40:44,196 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:40:44,196 - INFO - ENRICHMENT HEARTBEAT: Seller = Alpine Willow Pvt. Ltd., Elapsed = 11s, Current field = Owner (Attempt 1)
+2026-09-25 02:40:46,583 - INFO - Fetching text from target page: https://www.alpine-usa.com/
+2026-09-25 02:40:46,677 - INFO - Fetching text from target page: https://www.alpinecars.com/
+2026-09-25 02:40:46,843 - INFO - Fetching text from target page: https://www.alpine-usa.com/products
+2026-09-25 02:40:46,927 - INFO - Fetching text from target page: https://www.alpinelinux.org/
+2026-09-25 02:40:46,999 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:40:48,012 - INFO - Fetching text from target page: https://www.alpine-usa.com/
+2026-09-25 02:40:48,108 - INFO - Fetching text from target page: https://www.alpinecars.com/
+2026-09-25 02:40:48,257 - INFO - Fetching text from target page: https://www.alpine-usa.com/products
+2026-09-25 02:40:48,342 - INFO - Fetching text from target page: https://www.alpinelinux.org/
+2026-09-25 02:40:49,440 - INFO - Fetching text from target page: https://www.alpine-usa.com/
+2026-09-25 02:40:49,533 - INFO - Fetching text from target page: https://www.alpinecars.com/
+2026-09-25 02:40:49,703 - INFO - Fetching text from target page: https://www.alpine-usa.com/products
+2026-09-25 02:40:49,791 - INFO - Fetching text from target page: https://www.alpinelinux.org/
+2026-09-25 02:40:49,858 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:40:52,355 - INFO - Fetching text from target page: https://www.alpine-usa.com/
+2026-09-25 02:40:52,451 - INFO - Fetching text from target page: https://www.alpinecars.com/
+2026-09-25 02:40:52,620 - INFO - Fetching text from target page: https://www.alpine-usa.com/products
+2026-09-25 02:40:52,706 - INFO - Fetching text from target page: https://www.alpinelinux.org/
+2026-09-25 02:40:52,772 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:40:53,822 - INFO - Fetching text from target page: https://www.alpine-usa.com/
+2026-09-25 02:40:53,915 - INFO - Fetching text from target page: https://www.alpinecars.com/
+2026-09-25 02:40:54,079 - INFO - Fetching text from target page: https://www.alpine-usa.com/products
+2026-09-25 02:40:54,167 - INFO - Fetching text from target page: https://www.alpinelinux.org/
+2026-09-25 02:40:54,236 - INFO - ENRICHMENT HEARTBEAT: Seller = Alpine Willow Pvt. Ltd., Elapsed = 21s, Current field = Email (Attempt 2)
+2026-09-25 02:40:55,699 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-25 02:40:55,713 - INFO - Starting Public Enrichment Waterfall for business 'STEPn'SPACE'...
+2026-09-25 02:40:56,998 - INFO - Verifying website ownership candidate: https://www.stepnspace.com/
+2026-09-25 02:40:57,187 - INFO - Verifying website ownership candidate: https://www.stepnspace.in/
+2026-09-25 02:40:57,222 - INFO - Verifying website ownership candidate: https://outlook.office.com/mail/
+2026-09-25 02:40:57,341 - INFO - Verifying website ownership candidate: https://signup.live.com/
+2026-09-25 02:41:00,361 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:41:01,502 - INFO - Fetching text from target page: https://www.meta.com/en-gb/facebook-app/
+2026-09-25 02:41:02,527 - INFO - Fetching text from target page: https://m.me/@
+2026-09-25 02:41:03,052 - INFO - Fetching text from target page: https://www.meta.com/account-recovery-support/
+2026-09-25 02:41:04,185 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:41:05,494 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:41:06,144 - INFO - ENRICHMENT HEARTBEAT: Seller = STEPn'SPACE, Elapsed = 10s, Current field = Owner (Attempt 2)
+2026-09-25 02:41:06,791 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:41:07,546 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:41:08,287 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:41:08,527 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-25 02:41:08,554 - INFO - Starting Public Enrichment Waterfall for business 'SHIVAY ANANTAM'...
+2026-09-25 02:41:09,242 - INFO - Verifying website ownership candidate: https://www.shivayanantam.com/
+2026-09-25 02:41:09,871 - INFO - Successfully verified website candidate 'https://www.shivayanantam.com/' for business 'SHIVAY ANANTAM'
+2026-09-25 02:41:09,871 - INFO - Verified official website for 'SHIVAY ANANTAM': https://www.shivayanantam.com/
+2026-09-25 02:41:12,002 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:41:13,341 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:41:14,679 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:41:16,037 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:41:17,328 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:41:18,645 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:41:18,645 - INFO - ENRICHMENT HEARTBEAT: Seller = SHIVAY ANANTAM, Elapsed = 10s, Current field = Email (Attempt 1)
+2026-09-25 02:41:19,921 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-25 02:41:19,937 - INFO - Starting Public Enrichment Waterfall for business 'Goelite'...
+2026-09-25 02:41:20,610 - INFO - Verifying website ownership candidate: https://www.goelite.com/
+2026-09-25 02:41:22,706 - INFO - Successfully verified website candidate 'https://www.goelite.com/' for business 'Goelite'
+2026-09-25 02:41:22,707 - INFO - Verified official website for 'Goelite': https://www.goelite.com/
+2026-09-25 02:41:29,192 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-25 02:41:30,495 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-25 02:41:30,496 - INFO - ENRICHMENT HEARTBEAT: Seller = Goelite, Elapsed = 11s, Current field = GST (Attempt 1)
+2026-09-25 02:41:31,774 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-25 02:41:33,073 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-25 02:41:34,380 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-25 02:41:35,174 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-25 02:41:36,055 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-25 02:41:36,188 - INFO - Closed Playwright browser session safely
+2026-09-25 02:41:36,189 - INFO - Read 9 final verified records from SQLite for 'Home Temple'
+2026-09-25 02:41:36,892 - INFO - Created safety backup of master Excel at /home/runner/work/Amazon-scrap/Amazon-scrap/output/backups/Amazon_Seller_Master_Data_20260925_024136_backup.xlsx
+2026-09-25 02:41:38,001 - INFO - Master Excel updated: Added 9 rows for category 'Home Temple'. Total master rows=1385
+2026-09-25 02:41:38,014 - INFO - Target Category: 'Benches'
+2026-09-25 02:41:38,014 - INFO - Target URL: 'https://www.amazon.in/s?k=Benches'
+2026-09-25 02:41:38,414 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-25 02:41:38,414 - INFO - Discovering products for category 'Benches' from https://www.amazon.in/s?k=Benches...
+2026-09-25 02:41:38,456 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Benches
+2026-09-25 02:41:38,642 - ERROR - Error during category run 'Benches': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Benches", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9903, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 562, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 157, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Benches", waiting until "domcontentloaded"
+
+2026-09-25 02:41:38,688 - INFO - Closed Playwright browser session safely
+2026-09-25 02:41:38,703 - INFO - Target Category: 'Bunk Loft Beds'
+2026-09-25 02:41:38,703 - INFO - Target URL: 'https://www.amazon.in/s?k=Bunk+Loft+Beds'
+2026-09-25 02:41:39,092 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-25 02:41:39,092 - INFO - Discovering products for category 'Bunk Loft Beds' from https://www.amazon.in/s?k=Bunk+Loft+Beds...
+2026-09-25 02:41:39,137 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Bunk+Loft+Beds
+2026-09-25 02:41:39,301 - ERROR - Error during category run 'Bunk Loft Beds': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Bunk+Loft+Beds", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9903, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 562, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 157, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Bunk+Loft+Beds", waiting until "domcontentloaded"
+
+2026-09-25 02:41:39,347 - INFO - Closed Playwright browser session safely
+2026-09-25 02:41:39,359 - INFO - Target Category: 'Massage Beds'
+2026-09-25 02:41:39,360 - INFO - Target URL: 'https://www.amazon.in/s?k=Massage+Beds'
+2026-09-25 02:41:39,855 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-25 02:41:39,855 - INFO - Discovering products for category 'Massage Beds' from https://www.amazon.in/s?k=Massage+Beds...
+2026-09-25 02:41:39,903 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Massage+Beds
+2026-09-25 02:41:40,064 - ERROR - Error during category run 'Massage Beds': Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Beds", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/main.py", line 300, in process_category_run
+    products = discovery_source.discover_products(target_url, limit=product_limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_public.py", line 37, in discover_products
+    products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Amazon-scrap/Amazon-scrap/scraper/amazon_search.py", line 78, in discover_products
+    response = self.page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9903, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 562, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 157, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.amazon.in/s?k=Massage+Beds", waiting until "domcontentloaded"
+
+2026-09-25 02:41:40,107 - INFO - Closed Playwright browser session safely
