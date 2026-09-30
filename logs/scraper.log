@@ -127185,3 +127185,1049 @@ Call log:
 2026-09-26 02:40:21,342 - INFO - Read 10 final verified records from SQLite for 'Massage Beds'
 2026-09-26 02:40:22,025 - INFO - Created safety backup of master Excel at /home/runner/work/Amazon-scrap/Amazon-scrap/output/backups/Amazon_Seller_Master_Data_20260926_024021_backup.xlsx
 2026-09-26 02:40:23,123 - INFO - Master Excel updated: Added 10 rows for category 'Massage Beds'. Total master rows=1400
+2026-09-30 02:49:30,665 - INFO - Starting Amazon Multi-Category Batch Processing Mode
+2026-09-30 02:49:30,666 - INFO - Initialized SQLite database schema at amazon_sellers.db
+2026-09-30 02:49:30,676 - INFO - Target Category: 'Bunk Loft Beds'
+2026-09-30 02:49:30,676 - INFO - Target URL: 'https://www.amazon.in/s?k=Bunk+Loft+Beds'
+2026-09-30 02:49:31,232 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-30 02:49:31,232 - INFO - Discovering products for category 'Bunk Loft Beds' from https://www.amazon.in/s?k=Bunk+Loft+Beds...
+2026-09-30 02:49:31,281 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Bunk+Loft+Beds
+2026-09-30 02:49:31,549 - WARNING - Amazon access unavailable on attempt 1/3: 503 Service Unavailable
+2026-09-30 02:49:36,709 - INFO - Found 200 raw product links on page 1
+2026-09-30 02:49:36,894 - INFO - Discovered 10 total unique product URLs so far
+2026-09-30 02:49:36,912 - INFO - Discovered 10 products for category 'Bunk Loft Beds'
+2026-09-30 02:49:36,913 - INFO - [1/10] Processing product ASIN: B07K2VX9Y6
+2026-09-30 02:49:36,950 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B07K2VX9Y6
+2026-09-30 02:49:39,724 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:49:39,725 - INFO - ASIN: B07K2VX9Y6
+2026-09-30 02:49:39,892 - INFO - BUY BOX SELLER: A R CREATION Shop
+2026-09-30 02:49:39,893 - INFO - AOD: Opening All Offers...
+2026-09-30 02:49:41,260 - INFO - AOD: Initial offers found: 0
+2026-09-30 02:49:42,680 - INFO - AOD: Scroll 1 -> total unique sellers: 7
+2026-09-30 02:49:44,061 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:49:45,404 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:49:46,743 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:49:46,817 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:49:46,837 - INFO - AOD EXTRACTION COMPLETE | ASIN: B07K2VX9Y6 | TOTAL UNIQUE SELLERS: 7
+2026-09-30 02:49:46,837 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WV6UN2OHN2H&asin=B07K2VX9Y6&ref_=dp_merchant_link
+2026-09-30 02:49:47,778 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A1WV6UN2OHN2H&sshmPath=shipping-rates
+2026-09-30 02:49:48,659 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3VZK6CW4Z3SSM&isAmazonFulfilled=0&asin=B07K2VX9Y6&ref_=olp_merch_name_1
+2026-09-30 02:49:49,490 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1KAU4WI0Z0BY8&isAmazonFulfilled=0&asin=B07K2VX9Y6&ref_=olp_merch_name_2
+2026-09-30 02:49:50,288 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3S7K61KA6U3J1&isAmazonFulfilled=0&asin=B07K2VX9Y6&ref_=olp_merch_name_4
+2026-09-30 02:49:51,080 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3XIAFMYI8O36&isAmazonFulfilled=0&asin=B07K2VX9Y6&ref_=olp_merch_name_5
+2026-09-30 02:49:51,883 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3LV0Z2H6FARCP&isAmazonFulfilled=0&asin=B07K2VX9Y6&ref_=olp_merch_name_7
+2026-09-30 02:49:52,847 - INFO - [2/10] Processing product ASIN: B0DVGF2F53
+2026-09-30 02:49:52,892 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0DVGF2F53
+2026-09-30 02:49:55,012 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:49:55,012 - INFO - ASIN: B0DVGF2F53
+2026-09-30 02:49:55,040 - INFO - BUY BOX SELLER: Ironic House
+2026-09-30 02:49:55,040 - INFO - AOD: Opening All Offers...
+2026-09-30 02:49:55,243 - INFO - AOD: Initial offers found: 0
+2026-09-30 02:49:56,442 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:49:57,572 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:49:58,671 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:49:58,720 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:49:58,729 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0DVGF2F53 | TOTAL UNIQUE SELLERS: 1
+2026-09-30 02:49:58,730 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3XIAFMYI8O36&asin=B0DVGF2F53&ref_=dp_merchant_link
+2026-09-30 02:49:59,550 - INFO - [3/10] Processing product ASIN: B0DVPV4ZQ2
+2026-09-30 02:49:59,587 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0DVPV4ZQ2
+2026-09-30 02:50:01,928 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:50:01,928 - INFO - ASIN: B0DVPV4ZQ2
+2026-09-30 02:50:02,006 - INFO - BUY BOX SELLER: ADORN MART
+2026-09-30 02:50:02,006 - INFO - AOD: Opening All Offers...
+2026-09-30 02:50:02,203 - INFO - AOD: Initial offers found: 0
+2026-09-30 02:50:03,382 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:50:04,502 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:50:05,669 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:50:05,723 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:50:05,734 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0DVPV4ZQ2 | TOTAL UNIQUE SELLERS: 1
+2026-09-30 02:50:05,734 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1KAU4WI0Z0BY8&asin=B0DVPV4ZQ2&ref_=dp_merchant_link
+2026-09-30 02:50:06,568 - INFO - [4/10] Processing product ASIN: B0CQYY2DRG
+2026-09-30 02:50:06,603 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CQYY2DRG
+2026-09-30 02:50:09,761 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:50:09,761 - INFO - ASIN: B0CQYY2DRG
+2026-09-30 02:50:09,971 - INFO - BUY BOX SELLER: WOODSTAGE
+2026-09-30 02:50:09,971 - INFO - AOD: Opening All Offers...
+2026-09-30 02:50:10,110 - INFO - AOD: Initial offers found: 0
+2026-09-30 02:50:11,288 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:50:12,477 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:50:13,635 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:50:13,697 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:50:13,709 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CQYY2DRG | TOTAL UNIQUE SELLERS: 1
+2026-09-30 02:50:13,709 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1S2EJVB9BQQI3&asin=B0CQYY2DRG&ref_=dp_merchant_link
+2026-09-30 02:50:14,638 - INFO - [5/10] Processing product ASIN: B09PNXVSLR
+2026-09-30 02:50:14,674 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B09PNXVSLR
+2026-09-30 02:50:17,511 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:50:17,512 - INFO - ASIN: B09PNXVSLR
+2026-09-30 02:50:17,830 - INFO - BUY BOX SELLER: Z H HANDICRAFTS
+2026-09-30 02:50:17,830 - INFO - AOD: Opening All Offers...
+2026-09-30 02:50:19,260 - INFO - AOD: Initial offers found: 8
+2026-09-30 02:50:20,621 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:50:21,959 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:50:23,372 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:50:23,442 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:50:23,456 - INFO - AOD EXTRACTION COMPLETE | ASIN: B09PNXVSLR | TOTAL UNIQUE SELLERS: 6
+2026-09-30 02:50:23,456 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3VZK6CW4Z3SSM&asin=B09PNXVSLR&ref_=dp_merchant_link
+2026-09-30 02:50:24,252 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A2YXZ4DHULWSW9&sshmPath=shipping-rates
+2026-09-30 02:50:25,127 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2FGTKGVP6PCUF&isAmazonFulfilled=0&asin=B09PNXVSLR&ref_=olp_merch_name_2
+2026-09-30 02:50:25,885 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3S7K61KA6U3J1&isAmazonFulfilled=0&asin=B09PNXVSLR&ref_=olp_merch_name_3
+2026-09-30 02:50:26,592 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A38FBF0LDSCV4V&isAmazonFulfilled=0&asin=B09PNXVSLR&ref_=olp_merch_name_4
+2026-09-30 02:50:27,330 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1KAU4WI0Z0BY8&isAmazonFulfilled=0&asin=B09PNXVSLR&ref_=olp_merch_name_5
+2026-09-30 02:50:28,050 - INFO - [6/10] Processing product ASIN: B0FPQTB7X3
+2026-09-30 02:50:28,085 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0FPQTB7X3
+2026-09-30 02:50:30,872 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:50:30,872 - INFO - ASIN: B0FPQTB7X3
+2026-09-30 02:50:30,952 - INFO - BUY BOX SELLER: Jasmine Furn
+2026-09-30 02:50:30,953 - INFO - AOD: Opening All Offers...
+2026-09-30 02:50:31,089 - INFO - AOD: Initial offers found: 0
+2026-09-30 02:50:32,260 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:50:33,380 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:50:34,555 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:50:34,614 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:50:34,624 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0FPQTB7X3 | TOTAL UNIQUE SELLERS: 1
+2026-09-30 02:50:34,625 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FCY19ZRKPUFV&asin=B0FPQTB7X3&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-30 02:50:35,373 - INFO - [7/10] Processing product ASIN: B0CQXH9PNQ
+2026-09-30 02:50:35,408 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CQXH9PNQ
+2026-09-30 02:50:37,903 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:50:37,903 - INFO - ASIN: B0CQXH9PNQ
+2026-09-30 02:50:38,005 - INFO - BUY BOX SELLER: Z H HANDICRAFTS
+2026-09-30 02:50:38,006 - INFO - AOD: Opening All Offers...
+2026-09-30 02:50:39,301 - INFO - AOD: Initial offers found: 5
+2026-09-30 02:50:40,555 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:50:41,807 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:50:43,054 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:50:43,120 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:50:43,134 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CQXH9PNQ | TOTAL UNIQUE SELLERS: 4
+2026-09-30 02:50:43,134 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3VZK6CW4Z3SSM&asin=B0CQXH9PNQ&ref_=dp_merchant_link
+2026-09-30 02:50:43,916 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A2YXZ4DHULWSW9&sshmPath=shipping-rates
+2026-09-30 02:50:44,600 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1KAU4WI0Z0BY8&isAmazonFulfilled=0&asin=B0CQXH9PNQ&ref_=olp_merch_name_2
+2026-09-30 02:50:45,393 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2FGTKGVP6PCUF&isAmazonFulfilled=0&asin=B0CQXH9PNQ&ref_=olp_merch_name_3
+2026-09-30 02:50:46,212 - INFO - [8/10] Processing product ASIN: B0FYDBWD6Y
+2026-09-30 02:50:46,245 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0FYDBWD6Y
+2026-09-30 02:50:48,722 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:50:48,722 - INFO - ASIN: B0FYDBWD6Y
+2026-09-30 02:50:48,882 - INFO - BUY BOX SELLER: URKV MFG.& SALES CORPORATION
+2026-09-30 02:50:48,882 - INFO - AOD: Opening All Offers...
+2026-09-30 02:50:48,994 - INFO - AOD: Initial offers found: 0
+2026-09-30 02:50:50,151 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:50:51,311 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:50:52,425 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:50:52,484 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:50:52,496 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0FYDBWD6Y | TOTAL UNIQUE SELLERS: 1
+2026-09-30 02:50:52,496 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A218V84CVUZQUC&asin=B0FYDBWD6Y&ref_=dp_merchant_link
+2026-09-30 02:50:53,402 - INFO - [9/10] Processing product ASIN: B0F6N4XK7K
+2026-09-30 02:50:53,437 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0F6N4XK7K
+2026-09-30 02:50:55,878 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:50:55,878 - INFO - ASIN: B0F6N4XK7K
+2026-09-30 02:50:55,959 - INFO - BUY BOX SELLER: THE_BEST_CHOICE
+2026-09-30 02:50:55,959 - INFO - AOD: Opening All Offers...
+2026-09-30 02:50:56,062 - INFO - AOD: Initial offers found: 0
+2026-09-30 02:50:57,314 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:50:58,468 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:50:59,618 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:50:59,679 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:50:59,691 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0F6N4XK7K | TOTAL UNIQUE SELLERS: 1
+2026-09-30 02:50:59,691 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AW6KOEGSJJTXQ&asin=B0F6N4XK7K&ref_=dp_merchant_link
+2026-09-30 02:51:00,550 - INFO - [10/10] Processing product ASIN: B09PB3WGTH
+2026-09-30 02:51:00,587 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B09PB3WGTH
+2026-09-30 02:51:03,010 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:51:03,010 - INFO - ASIN: B09PB3WGTH
+2026-09-30 02:51:03,181 - INFO - BUY BOX SELLER: M S Creation center
+2026-09-30 02:51:03,181 - INFO - AOD: Opening All Offers...
+2026-09-30 02:51:04,428 - INFO - AOD: Initial offers found: 4
+2026-09-30 02:51:05,652 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:51:06,902 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:51:08,134 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:51:08,205 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:51:08,219 - INFO - AOD EXTRACTION COMPLETE | ASIN: B09PB3WGTH | TOTAL UNIQUE SELLERS: 3
+2026-09-30 02:51:08,219 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A38FBF0LDSCV4V&asin=B09PB3WGTH&ref_=dp_merchant_link
+2026-09-30 02:51:09,021 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A2YXZ4DHULWSW9&sshmPath=shipping-rates
+2026-09-30 02:51:09,789 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2FGTKGVP6PCUF&isAmazonFulfilled=0&asin=B09PB3WGTH&ref_=olp_merch_name_2
+2026-09-30 02:51:10,645 - INFO - Top businesses requested: 100, found: 12 for 'Bunk Loft Beds'
+2026-09-30 02:51:10,645 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 12 businesses...
+2026-09-30 02:51:10,645 - INFO - Starting Public Enrichment Waterfall for business 'Ironic House'...
+2026-09-30 02:51:11,840 - INFO - Verifying website ownership candidate: https://www.ironichouse.com/
+2026-09-30 02:51:12,057 - INFO - Verifying website ownership candidate: https://www.ironichouse.in/
+2026-09-30 02:51:12,116 - INFO - Verifying website ownership candidate: https://www.merriam-webster.com/dictionary/ironic
+2026-09-30 02:51:12,180 - INFO - Verifying website ownership candidate: https://www.dictionary.com/browse/ironic
+2026-09-30 02:51:13,698 - INFO - Fetching text from target page: https://entitysearch.us/
+2026-09-30 02:51:14,153 - INFO - Fetching text from target page: https://find-and-update.company-information.service.gov.uk/company/07779169
+2026-09-30 02:51:14,806 - INFO - Fetching text from target page: https://companycheck.co.uk/company/07779169/IRONIC-NAME-LIMITED/companies-house-data
+2026-09-30 02:51:15,058 - INFO - Fetching text from target page: https://companydata.com/company-registration-lookup/
+2026-09-30 02:51:16,672 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/ironic
+2026-09-30 02:51:17,243 - INFO - Fetching text from target page: https://www.dictionary.com/browse/ironic
+2026-09-30 02:51:17,740 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/ironic
+2026-09-30 02:51:18,487 - INFO - Fetching text from target page: https://www.vocabulary.com/dictionary/ironic
+2026-09-30 02:51:18,976 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:51:20,201 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/ironic
+2026-09-30 02:51:20,672 - INFO - Fetching text from target page: https://www.dictionary.com/browse/ironic
+2026-09-30 02:51:21,137 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/ironic
+2026-09-30 02:51:21,733 - INFO - Fetching text from target page: https://www.vocabulary.com/dictionary/ironic
+2026-09-30 02:51:22,201 - INFO - ENRICHMENT HEARTBEAT: Seller = Ironic House, Elapsed = 12s, Current field = PAN (Attempt 2)
+2026-09-30 02:51:23,261 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/ironic
+2026-09-30 02:51:23,816 - INFO - Fetching text from target page: https://www.dictionary.com/browse/ironic
+2026-09-30 02:51:24,286 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/ironic
+2026-09-30 02:51:24,896 - INFO - Fetching text from target page: https://www.vocabulary.com/dictionary/ironic
+2026-09-30 02:51:25,383 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:51:26,441 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/ironic
+2026-09-30 02:51:26,942 - INFO - Fetching text from target page: https://www.dictionary.com/browse/ironic
+2026-09-30 02:51:27,447 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/ironic
+2026-09-30 02:51:28,101 - INFO - Fetching text from target page: https://www.vocabulary.com/dictionary/ironic
+2026-09-30 02:51:29,496 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/ironic
+2026-09-30 02:51:29,980 - INFO - Fetching text from target page: https://www.dictionary.com/browse/ironic
+2026-09-30 02:51:30,481 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/ironic
+2026-09-30 02:51:31,077 - INFO - Fetching text from target page: https://www.vocabulary.com/dictionary/ironic
+2026-09-30 02:51:31,568 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:51:32,649 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/ironic
+2026-09-30 02:51:33,268 - INFO - Fetching text from target page: https://www.dictionary.com/browse/ironic
+2026-09-30 02:51:33,750 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/ironic
+2026-09-30 02:51:34,274 - INFO - Fetching text from target page: https://www.vocabulary.com/dictionary/ironic
+2026-09-30 02:51:34,721 - INFO - ENRICHMENT HEARTBEAT: Seller = Ironic House, Elapsed = 24s, Current field = Owner (Attempt 2)
+2026-09-30 02:51:35,828 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/ironic
+2026-09-30 02:51:36,384 - INFO - Fetching text from target page: https://www.dictionary.com/browse/ironic
+2026-09-30 02:51:36,836 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/ironic
+2026-09-30 02:51:37,462 - INFO - Fetching text from target page: https://www.vocabulary.com/dictionary/ironic
+2026-09-30 02:51:37,906 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:51:38,907 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/ironic
+2026-09-30 02:51:39,400 - INFO - Fetching text from target page: https://www.dictionary.com/browse/ironic
+2026-09-30 02:51:39,832 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/ironic
+2026-09-30 02:51:40,405 - INFO - Fetching text from target page: https://www.vocabulary.com/dictionary/ironic
+2026-09-30 02:51:41,993 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/ironic
+2026-09-30 02:51:42,477 - INFO - Fetching text from target page: https://www.dictionary.com/browse/ironic
+2026-09-30 02:51:42,931 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/ironic
+2026-09-30 02:51:43,539 - INFO - Fetching text from target page: https://www.vocabulary.com/dictionary/ironic
+2026-09-30 02:51:44,016 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 02:51:45,258 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/ironic
+2026-09-30 02:51:45,855 - INFO - Fetching text from target page: https://www.dictionary.com/browse/ironic
+2026-09-30 02:51:46,298 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/ironic
+2026-09-30 02:51:46,863 - INFO - Fetching text from target page: https://www.vocabulary.com/dictionary/ironic
+2026-09-30 02:51:47,326 - INFO - ENRICHMENT HEARTBEAT: Seller = Ironic House, Elapsed = 37s, Current field = Phone (Attempt 2)
+2026-09-30 02:51:48,278 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/ironic
+2026-09-30 02:51:48,921 - INFO - Fetching text from target page: https://www.dictionary.com/browse/ironic
+2026-09-30 02:51:49,371 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/ironic
+2026-09-30 02:51:49,954 - INFO - Fetching text from target page: https://www.vocabulary.com/dictionary/ironic
+2026-09-30 02:51:50,410 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:51:50,449 - INFO - Starting Public Enrichment Waterfall for business 'ADORN MART'...
+2026-09-30 02:51:51,361 - INFO - Verifying website ownership candidate: https://www.adornmart.com/
+2026-09-30 02:51:52,446 - INFO - Successfully verified website candidate 'https://www.adornmart.com/' for business 'ADORN MART'
+2026-09-30 02:51:52,446 - INFO - Verified official website for 'ADORN MART': https://www.adornmart.com/
+2026-09-30 02:51:54,279 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/adorn
+2026-09-30 02:51:54,806 - INFO - Fetching text from target page: https://www.adornrestaurant.com/location/adorn-bar-and-restaurant/
+2026-09-30 02:51:55,363 - INFO - Fetching text from target page: https://www.helloadorn.com/
+2026-09-30 02:51:57,654 - INFO - Fetching text from target page: https://adornnewyork.com/
+2026-09-30 02:51:59,300 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/adorn
+2026-09-30 02:51:59,819 - INFO - Fetching text from target page: https://www.adornrestaurant.com/location/adorn-bar-and-restaurant/
+2026-09-30 02:52:00,247 - INFO - Fetching text from target page: https://www.helloadorn.com/
+2026-09-30 02:52:02,221 - INFO - Fetching text from target page: https://adornnewyork.com/
+2026-09-30 02:52:02,843 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:52:02,843 - INFO - ENRICHMENT HEARTBEAT: Seller = ADORN MART, Elapsed = 12s, Current field = PAN (Attempt 1)
+2026-09-30 02:52:05,108 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/adorn
+2026-09-30 02:52:05,586 - INFO - Fetching text from target page: https://www.adornrestaurant.com/location/adorn-bar-and-restaurant/
+2026-09-30 02:52:06,032 - INFO - Fetching text from target page: https://www.helloadorn.com/
+2026-09-30 02:52:07,971 - INFO - Fetching text from target page: https://adornnewyork.com/
+2026-09-30 02:52:08,492 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:52:09,536 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/adorn
+2026-09-30 02:52:10,168 - INFO - Fetching text from target page: https://www.adornrestaurant.com/location/adorn-bar-and-restaurant/
+2026-09-30 02:52:10,569 - INFO - Fetching text from target page: https://www.helloadorn.com/
+2026-09-30 02:52:12,765 - INFO - Fetching text from target page: https://adornnewyork.com/
+2026-09-30 02:52:13,384 - INFO - ENRICHMENT HEARTBEAT: Seller = ADORN MART, Elapsed = 23s, Current field = GST (Attempt 2)
+2026-09-30 02:52:14,325 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/adorn
+2026-09-30 02:52:14,917 - INFO - Fetching text from target page: https://www.adornrestaurant.com/location/adorn-bar-and-restaurant/
+2026-09-30 02:52:15,379 - INFO - Fetching text from target page: https://www.helloadorn.com/
+2026-09-30 02:52:17,559 - INFO - Fetching text from target page: https://adornnewyork.com/
+2026-09-30 02:52:18,082 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:52:18,988 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/adorn
+2026-09-30 02:52:19,513 - INFO - Fetching text from target page: https://www.adornrestaurant.com/location/adorn-bar-and-restaurant/
+2026-09-30 02:52:19,976 - INFO - Fetching text from target page: https://www.helloadorn.com/
+2026-09-30 02:52:21,927 - INFO - Fetching text from target page: https://adornnewyork.com/
+2026-09-30 02:52:23,449 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/adorn
+2026-09-30 02:52:23,985 - INFO - Fetching text from target page: https://www.adornrestaurant.com/location/adorn-bar-and-restaurant/
+2026-09-30 02:52:24,405 - INFO - Fetching text from target page: https://www.helloadorn.com/
+2026-09-30 02:52:26,407 - INFO - Fetching text from target page: https://adornnewyork.com/
+2026-09-30 02:52:26,941 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:52:26,942 - INFO - ENRICHMENT HEARTBEAT: Seller = ADORN MART, Elapsed = 36s, Current field = Address (Attempt 1)
+2026-09-30 02:52:27,883 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/adorn
+2026-09-30 02:52:28,384 - INFO - Fetching text from target page: https://www.adornrestaurant.com/location/adorn-bar-and-restaurant/
+2026-09-30 02:52:28,901 - INFO - Fetching text from target page: https://www.helloadorn.com/
+2026-09-30 02:52:31,057 - INFO - Fetching text from target page: https://adornnewyork.com/
+2026-09-30 02:52:32,640 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/adorn
+2026-09-30 02:52:33,279 - INFO - Fetching text from target page: https://www.adornrestaurant.com/location/adorn-bar-and-restaurant/
+2026-09-30 02:52:33,736 - INFO - Fetching text from target page: https://www.helloadorn.com/
+2026-09-30 02:52:35,526 - INFO - Fetching text from target page: https://adornnewyork.com/
+2026-09-30 02:52:36,130 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 02:52:37,033 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/adorn
+2026-09-30 02:52:37,523 - INFO - Fetching text from target page: https://www.adornrestaurant.com/location/adorn-bar-and-restaurant/
+2026-09-30 02:52:38,011 - INFO - Fetching text from target page: https://www.helloadorn.com/
+2026-09-30 02:52:40,214 - INFO - Fetching text from target page: https://adornnewyork.com/
+2026-09-30 02:52:40,746 - INFO - ENRICHMENT HEARTBEAT: Seller = ADORN MART, Elapsed = 50s, Current field = Phone (Attempt 2)
+2026-09-30 02:52:41,678 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/adorn
+2026-09-30 02:52:42,333 - INFO - Fetching text from target page: https://www.adornrestaurant.com/location/adorn-bar-and-restaurant/
+2026-09-30 02:52:42,763 - INFO - Fetching text from target page: https://www.helloadorn.com/
+2026-09-30 02:52:44,761 - INFO - Fetching text from target page: https://adornnewyork.com/
+2026-09-30 02:52:45,276 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:52:47,767 - INFO - Fetching text from target page: https://apps.apple.com/ru/app/instagram/id389801252
+2026-09-30 02:52:49,048 - INFO - Fetching text from target page: https://apps.apple.com/us/app/instagram/id389801252
+2026-09-30 02:52:49,626 - INFO - Fetching text from target page: https://apps.apple.com/hk/app/instagram/id389801252
+2026-09-30 02:52:50,609 - INFO - Fetching text from target page: https://apps.apple.com/il/app/instagram/id389801252?l=he
+2026-09-30 02:52:51,564 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 02:52:51,638 - INFO - Starting Public Enrichment Waterfall for business 'Z H HANDICRAFTS'...
+2026-09-30 02:52:52,605 - INFO - Verifying website ownership candidate: https://www.zhhandicrafts.com/
+2026-09-30 02:52:52,736 - INFO - Verifying website ownership candidate: https://www.zhhandicrafts.in/
+2026-09-30 02:52:52,780 - INFO - Verifying website ownership candidate: https://z.ai/
+2026-09-30 02:52:56,532 - INFO - Verifying website ownership candidate: https://www.starfall.com/h/abcs/letter-z/
+2026-09-30 02:52:58,505 - INFO - Fetching text from target page: https://z.ai/
+2026-09-30 02:52:59,679 - INFO - Fetching text from target page: https://www.starfall.com/h/abcs/letter-z/
+2026-09-30 02:52:59,939 - INFO - Fetching text from target page: https://www.dailymotion.com/video/x28d3lz
+2026-09-30 02:53:00,665 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/z
+2026-09-30 02:53:02,216 - INFO - Fetching text from target page: https://z.ai/
+2026-09-30 02:53:03,774 - INFO - Fetching text from target page: https://www.starfall.com/h/abcs/letter-z/
+2026-09-30 02:53:04,014 - INFO - Fetching text from target page: https://www.dailymotion.com/video/x28d3lz
+2026-09-30 02:53:04,345 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/z
+2026-09-30 02:53:04,792 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:53:04,793 - INFO - ENRICHMENT HEARTBEAT: Seller = Z H HANDICRAFTS, Elapsed = 13s, Current field = PAN (Attempt 1)
+2026-09-30 02:53:05,929 - INFO - Fetching text from target page: https://z.ai/
+2026-09-30 02:53:07,195 - INFO - Fetching text from target page: https://www.starfall.com/h/abcs/letter-z/
+2026-09-30 02:53:07,443 - INFO - Fetching text from target page: https://www.dailymotion.com/video/x28d3lz
+2026-09-30 02:53:07,764 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/z
+2026-09-30 02:53:09,587 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:53:12,214 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:53:13,156 - INFO - Fetching text from target page: https://z.ai/
+2026-09-30 02:53:14,444 - INFO - Fetching text from target page: https://www.starfall.com/h/abcs/letter-z/
+2026-09-30 02:53:14,676 - INFO - Fetching text from target page: https://www.dailymotion.com/video/x28d3lz
+2026-09-30 02:53:15,134 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/z
+2026-09-30 02:53:15,601 - INFO - ENRICHMENT HEARTBEAT: Seller = Z H HANDICRAFTS, Elapsed = 24s, Current field = Owner (Attempt 2)
+2026-09-30 02:53:16,607 - INFO - Fetching text from target page: https://z.ai/
+2026-09-30 02:53:17,673 - INFO - Fetching text from target page: https://www.starfall.com/h/abcs/letter-z/
+2026-09-30 02:53:17,921 - INFO - Fetching text from target page: https://www.dailymotion.com/video/x28d3lz
+2026-09-30 02:53:18,329 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/z
+2026-09-30 02:53:18,799 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:53:19,903 - INFO - Fetching text from target page: https://z.ai/
+2026-09-30 02:53:21,011 - INFO - Fetching text from target page: https://www.starfall.com/h/abcs/letter-z/
+2026-09-30 02:53:21,263 - INFO - Fetching text from target page: https://www.dailymotion.com/video/x28d3lz
+2026-09-30 02:53:21,735 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/z
+2026-09-30 02:53:23,220 - INFO - Fetching text from target page: https://z.ai/
+2026-09-30 02:53:24,255 - INFO - Fetching text from target page: https://www.starfall.com/h/abcs/letter-z/
+2026-09-30 02:53:24,625 - INFO - Fetching text from target page: https://www.dailymotion.com/video/x28d3lz
+2026-09-30 02:53:24,949 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/z
+2026-09-30 02:53:25,414 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 02:53:26,422 - INFO - Fetching text from target page: https://z.ai/
+2026-09-30 02:53:27,463 - INFO - Fetching text from target page: https://www.starfall.com/h/abcs/letter-z/
+2026-09-30 02:53:27,742 - INFO - Fetching text from target page: https://www.dailymotion.com/video/x28d3lz
+2026-09-30 02:53:28,078 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/z
+2026-09-30 02:53:28,621 - INFO - ENRICHMENT HEARTBEAT: Seller = Z H HANDICRAFTS, Elapsed = 37s, Current field = Phone (Attempt 2)
+2026-09-30 02:53:29,699 - INFO - Fetching text from target page: https://z.ai/
+2026-09-30 02:53:30,843 - INFO - Fetching text from target page: https://www.starfall.com/h/abcs/letter-z/
+2026-09-30 02:53:31,045 - INFO - Fetching text from target page: https://www.dailymotion.com/video/x28d3lz
+2026-09-30 02:53:31,379 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/z
+2026-09-30 02:53:31,812 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:53:32,845 - INFO - Fetching text from target page: https://z.ai/
+2026-09-30 02:53:33,922 - INFO - Fetching text from target page: https://www.starfall.com/h/abcs/letter-z/
+2026-09-30 02:53:34,191 - INFO - Fetching text from target page: https://www.dailymotion.com/video/x28d3lz
+2026-09-30 02:53:34,637 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/z
+2026-09-30 02:53:36,206 - INFO - Fetching text from target page: https://z.ai/
+2026-09-30 02:53:37,297 - INFO - Fetching text from target page: https://www.starfall.com/h/abcs/letter-z/
+2026-09-30 02:53:37,509 - INFO - Fetching text from target page: https://www.dailymotion.com/video/x28d3lz
+2026-09-30 02:53:37,894 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/z
+2026-09-30 02:53:38,443 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 02:53:38,472 - INFO - Starting Public Enrichment Waterfall for business 'HeritageArt'...
+2026-09-30 02:53:39,399 - INFO - Verifying website ownership candidate: https://www.heritageart.com/
+2026-09-30 02:53:39,810 - INFO - Successfully verified website candidate 'https://www.heritageart.com/' for business 'HeritageArt'
+2026-09-30 02:53:39,810 - INFO - Verified official website for 'HeritageArt': https://www.heritageart.com/
+2026-09-30 02:53:43,582 - INFO - Fetching text from target page: https://www.kingsofleon.com/pages/tour%C2%A0
+2026-09-30 02:53:44,072 - INFO - Fetching text from target page: https://discover.ticketmaster.co.uk/news/kings-of-leon-announce-huge-uk-shows-for-summer-2026-74345/
+2026-09-30 02:53:44,460 - INFO - Fetching text from target page: https://www.scotsman.com/whats-on/glasgow-summer-sessions-kings-of-leon-timings-setlist-support-acts-weather-banned-items-tickets-8773964
+2026-09-30 02:53:44,975 - INFO - Fetching text from target page: https://www.scotsman.com/regions/glasgow-and-strathclyde/kings-of-leon-glasgow-summer-sessions-ticket-prices-presale-support-5406233
+2026-09-30 02:53:45,184 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:53:46,138 - INFO - Fetching text from target page: https://www.sbs.com.au/
+2026-09-30 02:53:46,838 - INFO - Fetching text from target page: https://www.sbs.com.au/ondemand/live
+2026-09-30 02:53:47,943 - INFO - Fetching text from target page: https://myaccount.sbs.com.au/
+2026-09-30 02:53:49,191 - INFO - Fetching text from target page: https://myaccount.sbs.com.au/connect
+2026-09-30 02:53:49,904 - INFO - ENRICHMENT HEARTBEAT: Seller = HeritageArt, Elapsed = 11s, Current field = PAN (Attempt 2)
+2026-09-30 02:53:49,953 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:53:51,191 - INFO - Fetching text from target page: https://business.columbia.edu/alumni/support-school/annual-giving
+2026-09-30 02:53:51,742 - INFO - Fetching text from target page: https://business.columbia.edu/alumni/support-cbs
+2026-09-30 02:53:51,874 - INFO - Fetching text from target page: https://execed.business.columbia.edu/interview/women-in-leadership-gender-diversity-matters
+2026-09-30 02:53:53,354 - INFO - Fetching text from target page: https://cbsai.business.columbia.edu/home/
+2026-09-30 02:53:53,474 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:53:54,489 - INFO - Fetching text from target page: https://unitemfg.com/us-manufacturing-directory
+2026-09-30 02:53:56,625 - INFO - Fetching text from target page: https://www.greatplacetowork.com/best-workplaces/manufacturing-production/2025
+2026-09-30 02:53:59,040 - INFO - Fetching text from target page: https://www.industryselect.com/blog/top-9-us-industrial-machinery-manufacturers
+2026-09-30 02:53:59,728 - INFO - Fetching text from target page: https://www.ibisworld.com/united-states/industry/manufacturing/210/
+2026-09-30 02:54:00,690 - INFO - ENRICHMENT HEARTBEAT: Seller = HeritageArt, Elapsed = 22s, Current field = Owner (Attempt 2)
+2026-09-30 02:54:02,100 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:54:03,004 - INFO - Fetching text from target page: https://www.usa.canon.com/support/p/pixma-mx922
+2026-09-30 02:54:03,107 - INFO - Fetching text from target page: https://support.usa.canon.com/kb/s/article/ART170972
+2026-09-30 02:54:04,288 - INFO - Fetching text from target page: https://support.usa.canon.com/kb/s/article/ART140340
+2026-09-30 02:54:05,068 - INFO - Fetching text from target page: https://www.usa.canon.com/support/software-and-drivers
+2026-09-30 02:54:06,717 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:54:07,667 - INFO - Fetching text from target page: https://www.target.com/store-locator/store-directory/new-york
+2026-09-30 02:54:08,710 - INFO - Fetching text from target page: https://www.target.com/sl/manhattan-herald-square/3277
+2026-09-30 02:54:09,697 - INFO - Fetching text from target page: https://www.storelocators.com/store-lists/target/new-york
+2026-09-30 02:54:10,228 - INFO - Fetching text from target page: https://placesguru.com/chains/target/new-york
+2026-09-30 02:54:12,402 - INFO - ENRICHMENT HEARTBEAT: Seller = HeritageArt, Elapsed = 34s, Current field = Email (Attempt 2)
+2026-09-30 02:54:13,455 - INFO - Fetching text from target page: https://laratranslate.com/translate
+2026-09-30 02:54:13,893 - INFO - Fetching text from target page: https://itranslate.com/
+2026-09-30 02:54:14,420 - INFO - Fetching text from target page: https://www.deepl.com/en/translator
+2026-09-30 02:54:15,197 - INFO - Fetching text from target page: https://translate.google.ca/details
+2026-09-30 02:54:15,771 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 02:54:15,945 - INFO - Starting Public Enrichment Waterfall for business 'A R CREATION Shop'...
+2026-09-30 02:54:16,856 - INFO - Verifying website ownership candidate: https://www.arcreationshop.com/
+2026-09-30 02:54:16,954 - INFO - Verifying website ownership candidate: https://www.arcreationshop.in/
+2026-09-30 02:54:17,014 - INFO - Verifying website ownership candidate: https://www.r-project.org/
+2026-09-30 02:54:18,206 - INFO - Verifying website ownership candidate: https://cran.r-project.org/bin/windows/base/
+2026-09-30 02:54:19,974 - INFO - Fetching text from target page: https://www.r-project.org/
+2026-09-30 02:54:20,089 - INFO - Fetching text from target page: https://cran.r-project.org/bin/windows/base/
+2026-09-30 02:54:20,122 - INFO - Fetching text from target page: https://www.r-project.org/?force_isolation=true
+2026-09-30 02:54:20,267 - INFO - Fetching text from target page: https://cran.r-project.org/
+2026-09-30 02:54:28,383 - WARNING - WEBSITE TIMEOUT: https://cran.r-project.org/
+2026-09-30 02:54:28,383 - INFO - ENRICHMENT HEARTBEAT: Seller = A R CREATION Shop, Elapsed = 12s, Current field = Legal Entity Name (Attempt 2)
+2026-09-30 02:54:29,743 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:54:30,713 - INFO - Fetching text from target page: https://www.r-project.org/
+2026-09-30 02:54:30,836 - INFO - Fetching text from target page: https://cran.r-project.org/bin/windows/base/
+2026-09-30 02:54:30,870 - INFO - Fetching text from target page: https://www.r-project.org/?force_isolation=true
+2026-09-30 02:54:30,918 - INFO - Fetching text from target page: https://cran.r-project.org/
+2026-09-30 02:54:38,933 - WARNING - WEBSITE TIMEOUT: https://cran.r-project.org/
+2026-09-30 02:54:38,933 - INFO - ENRICHMENT HEARTBEAT: Seller = A R CREATION Shop, Elapsed = 23s, Current field = PAN (Attempt 2)
+2026-09-30 02:54:40,222 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:54:41,150 - INFO - Fetching text from target page: https://www.r-project.org/
+2026-09-30 02:54:41,268 - INFO - Fetching text from target page: https://cran.r-project.org/bin/windows/base/
+2026-09-30 02:54:41,301 - INFO - Fetching text from target page: https://www.r-project.org/?force_isolation=true
+2026-09-30 02:54:41,349 - INFO - Fetching text from target page: https://cran.r-project.org/
+2026-09-30 02:54:49,365 - WARNING - WEBSITE TIMEOUT: https://cran.r-project.org/
+2026-09-30 02:54:49,365 - INFO - ENRICHMENT HEARTBEAT: Seller = A R CREATION Shop, Elapsed = 33s, Current field = GST (Attempt 2)
+2026-09-30 02:54:50,776 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:54:53,041 - INFO - Fetching text from target page: https://www.r-project.org/
+2026-09-30 02:54:53,165 - INFO - Fetching text from target page: https://cran.r-project.org/bin/windows/base/
+2026-09-30 02:54:53,200 - INFO - Fetching text from target page: https://www.r-project.org/?force_isolation=true
+2026-09-30 02:54:53,242 - INFO - Fetching text from target page: https://cran.r-project.org/
+2026-09-30 02:55:01,262 - WARNING - WEBSITE TIMEOUT: https://cran.r-project.org/
+2026-09-30 02:55:01,263 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:55:01,263 - INFO - ENRICHMENT HEARTBEAT: Seller = A R CREATION Shop, Elapsed = 45s, Current field = Address (Attempt 1)
+2026-09-30 02:55:02,242 - INFO - Fetching text from target page: https://www.r-project.org/
+2026-09-30 02:55:02,374 - INFO - Fetching text from target page: https://cran.r-project.org/bin/windows/base/
+2026-09-30 02:55:02,407 - INFO - Fetching text from target page: https://www.r-project.org/?force_isolation=true
+2026-09-30 02:55:02,454 - INFO - Fetching text from target page: https://cran.r-project.org/
+2026-09-30 02:55:10,473 - WARNING - WEBSITE TIMEOUT: https://cran.r-project.org/
+2026-09-30 02:55:11,922 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 02:55:11,922 - INFO - ENRICHMENT HEARTBEAT: Seller = A R CREATION Shop, Elapsed = 56s, Current field = Phone (Attempt 1)
+2026-09-30 02:55:12,754 - INFO - Fetching text from target page: https://www.r-project.org/
+2026-09-30 02:55:12,884 - INFO - Fetching text from target page: https://cran.r-project.org/bin/windows/base/
+2026-09-30 02:55:12,921 - INFO - Fetching text from target page: https://www.r-project.org/?force_isolation=true
+2026-09-30 02:55:12,964 - INFO - Fetching text from target page: https://cran.r-project.org/
+2026-09-30 02:55:20,981 - WARNING - WEBSITE TIMEOUT: https://cran.r-project.org/
+2026-09-30 02:55:21,952 - INFO - Fetching text from target page: https://www.r-project.org/
+2026-09-30 02:55:22,075 - INFO - Fetching text from target page: https://cran.r-project.org/bin/windows/base/
+2026-09-30 02:55:22,113 - INFO - Fetching text from target page: https://www.r-project.org/?force_isolation=true
+2026-09-30 02:55:22,156 - INFO - Fetching text from target page: https://cran.r-project.org/
+2026-09-30 02:55:30,175 - WARNING - WEBSITE TIMEOUT: https://cran.r-project.org/
+2026-09-30 02:55:30,176 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:55:30,176 - INFO - ENRICHMENT HEARTBEAT: Seller = A R CREATION Shop, Elapsed = 74s, Current field = Email (Attempt 1)
+2026-09-30 02:55:31,166 - INFO - Fetching text from target page: https://www.r-project.org/
+2026-09-30 02:55:31,287 - INFO - Fetching text from target page: https://cran.r-project.org/bin/windows/base/
+2026-09-30 02:55:31,318 - INFO - Fetching text from target page: https://www.r-project.org/?force_isolation=true
+2026-09-30 02:55:31,371 - INFO - Fetching text from target page: https://cran.r-project.org/
+2026-09-30 02:55:39,389 - WARNING - WEBSITE TIMEOUT: https://cran.r-project.org/
+2026-09-30 02:55:40,354 - INFO - Fetching text from target page: https://www.r-project.org/
+2026-09-30 02:55:40,478 - INFO - Fetching text from target page: https://cran.r-project.org/bin/windows/base/
+2026-09-30 02:55:40,512 - INFO - Fetching text from target page: https://www.r-project.org/?force_isolation=true
+2026-09-30 02:55:40,554 - INFO - Fetching text from target page: https://cran.r-project.org/
+2026-09-30 02:55:48,570 - WARNING - WEBSITE TIMEOUT: https://cran.r-project.org/
+2026-09-30 02:55:48,571 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 02:55:48,592 - INFO - Starting Public Enrichment Waterfall for business 'Furniture Store.'...
+2026-09-30 02:55:50,042 - INFO - Verifying website ownership candidate: https://www.furniturestore.com/
+2026-09-30 02:55:50,219 - INFO - Verifying website ownership candidate: https://www.furniturestore.in/
+2026-09-30 02:55:51,499 - INFO - Fetching text from target page: https://www.royalfurniture.com/stores/tuscaloosa-alabama/56128/
+2026-09-30 02:55:52,884 - INFO - Fetching text from target page: https://www.wayfair.com/?msockid=040e0aad7f87621e06ba1d497eff6364
+2026-09-30 02:55:53,069 - INFO - Fetching text from target page: https://www.ashleyfurniture.com/?msockid=040e0aad7f87621e06ba1d497eff6364
+2026-09-30 02:55:53,151 - INFO - Fetching text from target page: https://www.spillerfurniture.com/
+2026-09-30 02:55:55,603 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:55:56,883 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:55:57,589 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:55:58,922 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:55:58,922 - INFO - ENRICHMENT HEARTBEAT: Seller = Furniture Store., Elapsed = 10s, Current field = Address (Attempt 1)
+2026-09-30 02:55:59,097 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 02:56:00,346 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:56:01,589 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 02:56:01,603 - INFO - Starting Public Enrichment Waterfall for business 'M S Creation center'...
+2026-09-30 02:56:01,751 - INFO - Verifying website ownership candidate: https://www.mscreationcenter.com/
+2026-09-30 02:56:01,823 - INFO - Verifying website ownership candidate: https://www.mscreationcenter.in/
+2026-09-30 02:56:02,573 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:56:03,872 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:56:05,148 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:56:06,389 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:56:07,740 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 02:56:08,481 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:56:09,769 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 02:56:09,783 - INFO - Starting Public Enrichment Waterfall for business 'Martin Decor'...
+2026-09-30 02:56:10,422 - INFO - Verifying website ownership candidate: https://www.martindecor.com/
+2026-09-30 02:56:11,000 - INFO - Successfully verified website candidate 'https://www.martindecor.com/' for business 'Martin Decor'
+2026-09-30 02:56:11,000 - INFO - Verified official website for 'Martin Decor': https://www.martindecor.com/
+2026-09-30 02:56:14,128 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:56:15,503 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:56:16,335 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:56:17,558 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:56:18,279 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 02:56:19,567 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:56:19,586 - INFO - Starting Public Enrichment Waterfall for business 'WOODSTAGE'...
+2026-09-30 02:56:20,227 - INFO - Verifying website ownership candidate: https://www.woodstage.com/
+2026-09-30 02:56:21,040 - INFO - Successfully verified website candidate 'https://www.woodstage.com/' for business 'WOODSTAGE'
+2026-09-30 02:56:21,040 - INFO - Verified official website for 'WOODSTAGE': https://www.woodstage.com/
+2026-09-30 02:56:22,579 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:56:23,289 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:56:24,019 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:56:25,293 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:56:26,551 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 02:56:27,258 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:56:27,279 - INFO - Starting Public Enrichment Waterfall for business 'Jasmine Furn'...
+2026-09-30 02:56:27,432 - INFO - Verifying website ownership candidate: https://www.jasminefurn.com/
+2026-09-30 02:56:27,622 - INFO - Verifying website ownership candidate: https://www.jasminefurn.in/
+2026-09-30 02:56:27,867 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:56:28,587 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:56:29,863 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:56:30,593 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:56:31,338 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 02:56:32,054 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:56:33,334 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 02:56:33,349 - INFO - Starting Public Enrichment Waterfall for business 'URKV MFG.& SALES CORPORATION'...
+2026-09-30 02:56:34,014 - INFO - Verifying website ownership candidate: https://www.urkvmfgsalescorporation.com/
+2026-09-30 02:56:34,089 - INFO - Verifying website ownership candidate: https://www.urkvmfgsalescorporation.in/
+2026-09-30 02:56:34,875 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:56:36,121 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:56:36,822 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:56:37,517 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:56:38,314 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 02:56:38,504 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:56:39,796 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 02:56:39,814 - INFO - Starting Public Enrichment Waterfall for business 'THE_BEST_CHOICE'...
+2026-09-30 02:56:39,938 - INFO - Verifying website ownership candidate: https://www.thebestchoice.com/
+2026-09-30 02:56:43,943 - WARNING - WEBSITE TIMEOUT during verification: https://www.thebestchoice.com/
+2026-09-30 02:56:58,752 - INFO - Verifying website ownership candidate: https://www.thebestchoice.in/
+2026-09-30 02:56:59,331 - INFO - ENRICHMENT HEARTBEAT: Seller = THE_BEST_CHOICE, Elapsed = 20s, Current field = Legal Entity Name (Attempt 1)
+2026-09-30 02:57:00,627 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:57:01,934 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:57:02,687 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:57:03,967 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:57:04,666 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 02:57:04,846 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:57:06,087 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 02:57:06,210 - INFO - Closed Playwright browser session safely
+2026-09-30 02:57:06,211 - INFO - Read 12 final verified records from SQLite for 'Bunk Loft Beds'
+2026-09-30 02:57:06,909 - INFO - Created safety backup of master Excel at /home/runner/work/Amazon-scrap/Amazon-scrap/output/backups/Amazon_Seller_Master_Data_20260930_025706_backup.xlsx
+2026-09-30 02:57:08,039 - INFO - Master Excel updated: Added 12 rows for category 'Bunk Loft Beds'. Total master rows=1412
+2026-09-30 02:57:08,053 - INFO - Target Category: 'Massage Beds'
+2026-09-30 02:57:08,053 - INFO - Target URL: 'https://www.amazon.in/s?k=Massage+Beds'
+2026-09-30 02:57:08,446 - INFO - Started standard Playwright Chromium session (headless=True, timeout=30000ms)
+2026-09-30 02:57:08,446 - INFO - Discovering products for category 'Massage Beds' from https://www.amazon.in/s?k=Massage+Beds...
+2026-09-30 02:57:08,484 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Massage+Beds
+2026-09-30 02:57:08,667 - WARNING - Amazon access unavailable on attempt 1/3: 503 Service Unavailable
+2026-09-30 02:57:10,805 - WARNING - Amazon access unavailable on attempt 2/3: 503 Service Unavailable
+2026-09-30 02:57:18,680 - INFO - Found 216 raw product links on page 1
+2026-09-30 02:57:18,864 - INFO - Discovered 10 total unique product URLs so far
+2026-09-30 02:57:18,869 - INFO - Discovered 10 products for category 'Massage Beds'
+2026-09-30 02:57:18,869 - INFO - [1/10] Processing product ASIN: B0GNYYLZPG
+2026-09-30 02:57:18,905 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GNYYLZPG
+2026-09-30 02:57:21,336 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:57:21,336 - INFO - ASIN: B0GNYYLZPG
+2026-09-30 02:57:21,517 - INFO - BUY BOX SELLER: Tattoo Gizmo.
+2026-09-30 02:57:21,517 - INFO - AOD: Opening All Offers...
+2026-09-30 02:57:22,865 - INFO - AOD: Initial offers found: 4
+2026-09-30 02:57:24,137 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:57:25,326 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:57:26,663 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:57:26,734 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:57:26,746 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GNYYLZPG | TOTAL UNIQUE SELLERS: 3
+2026-09-30 02:57:26,746 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3MZ22WH2XR13I&asin=B0GNYYLZPG&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-30 02:57:27,583 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2NWL21N1AIKUU&isAmazonFulfilled=1&asin=B0GNYYLZPG&ref_=olp_merch_name_1
+2026-09-30 02:57:28,295 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2BZ2W2EKPCOCY&isAmazonFulfilled=0&asin=B0GNYYLZPG&ref_=olp_merch_name_2
+2026-09-30 02:57:29,143 - INFO - [2/10] Processing product ASIN: B0CL9R6TWL
+2026-09-30 02:57:29,182 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0CL9R6TWL
+2026-09-30 02:57:31,738 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:57:31,738 - INFO - ASIN: B0CL9R6TWL
+2026-09-30 02:57:31,951 - INFO - BUY BOX SELLER: Tattoo Gizmo.
+2026-09-30 02:57:31,952 - INFO - AOD: Opening All Offers...
+2026-09-30 02:57:33,283 - INFO - AOD: Initial offers found: 5
+2026-09-30 02:57:34,530 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:57:35,780 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:57:37,002 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:57:37,065 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:57:37,078 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0CL9R6TWL | TOTAL UNIQUE SELLERS: 4
+2026-09-30 02:57:37,078 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3MZ22WH2XR13I&asin=B0CL9R6TWL&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-30 02:57:37,854 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A213Z8B661B9J3&isAmazonFulfilled=1&asin=B0CL9R6TWL&ref_=olp_merch_name_1
+2026-09-30 02:57:38,601 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A16KW0AEN1K9G1&isAmazonFulfilled=1&asin=B0CL9R6TWL&ref_=olp_merch_name_2
+2026-09-30 02:57:39,416 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A2PQ9TUK44FBRK&sshmPath=shipping-rates
+2026-09-30 02:57:40,118 - INFO - [3/10] Processing product ASIN: B09R6Q2QZX
+2026-09-30 02:57:40,154 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B09R6Q2QZX
+2026-09-30 02:57:42,767 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:57:42,767 - INFO - ASIN: B09R6Q2QZX
+2026-09-30 02:57:42,944 - INFO - BUY BOX SELLER: veer teja enterprise ⭐⭐⭐⭐⭐
+2026-09-30 02:57:42,944 - INFO - AOD: Opening All Offers...
+2026-09-30 02:57:44,361 - INFO - AOD: Initial offers found: 3
+2026-09-30 02:57:45,576 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:57:46,775 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:57:48,050 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:57:48,116 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:57:48,129 - INFO - AOD EXTRACTION COMPLETE | ASIN: B09R6Q2QZX | TOTAL UNIQUE SELLERS: 2
+2026-09-30 02:57:48,129 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A213Z8B661B9J3&asin=B09R6Q2QZX&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-30 02:57:48,958 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A138MTVEJIKLMA&sshmPath=shipping-rates
+2026-09-30 02:57:49,736 - INFO - [4/10] Processing product ASIN: B0FL7PS4LP
+2026-09-30 02:57:49,771 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0FL7PS4LP
+2026-09-30 02:57:52,226 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:57:52,226 - INFO - ASIN: B0FL7PS4LP
+2026-09-30 02:57:52,260 - INFO - BUY BOX SELLER: Dr Choudhary
+2026-09-30 02:57:52,260 - INFO - AOD: Opening All Offers...
+2026-09-30 02:57:53,447 - INFO - AOD: Initial offers found: 3
+2026-09-30 02:57:54,637 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:57:55,834 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:57:57,047 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:57:57,104 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:57:57,115 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0FL7PS4LP | TOTAL UNIQUE SELLERS: 1
+2026-09-30 02:57:57,115 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1TLYMSQAB6TES&asin=B0FL7PS4LP&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-30 02:57:57,969 - INFO - [5/10] Processing product ASIN: B0FL7ZVLZ7
+2026-09-30 02:57:58,004 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0FL7ZVLZ7
+2026-09-30 02:58:00,302 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:58:00,302 - INFO - ASIN: B0FL7ZVLZ7
+2026-09-30 02:58:00,336 - INFO - BUY BOX SELLER: Dr Choudhary
+2026-09-30 02:58:00,336 - INFO - AOD: Opening All Offers...
+2026-09-30 02:58:00,510 - INFO - AOD: Initial offers found: 0
+2026-09-30 02:58:01,629 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:58:02,775 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:58:03,946 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:58:03,994 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:58:04,007 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0FL7ZVLZ7 | TOTAL UNIQUE SELLERS: 1
+2026-09-30 02:58:04,007 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1TLYMSQAB6TES&asin=B0FL7ZVLZ7&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-30 02:58:04,779 - INFO - [6/10] Processing product ASIN: B0F1DH3TCZ
+2026-09-30 02:58:04,817 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0F1DH3TCZ
+2026-09-30 02:58:07,366 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:58:07,366 - INFO - ASIN: B0F1DH3TCZ
+2026-09-30 02:58:07,581 - INFO - BUY BOX SELLER: Tattoo Gizmo.
+2026-09-30 02:58:07,581 - INFO - AOD: Opening All Offers...
+2026-09-30 02:58:07,687 - INFO - AOD: Initial offers found: 0
+2026-09-30 02:58:08,834 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:58:10,012 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:58:11,176 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:58:11,234 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:58:11,245 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0F1DH3TCZ | TOTAL UNIQUE SELLERS: 1
+2026-09-30 02:58:11,245 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3MZ22WH2XR13I&asin=B0F1DH3TCZ&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-30 02:58:12,043 - INFO - [7/10] Processing product ASIN: B00MHDCWFY
+2026-09-30 02:58:12,089 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B00MHDCWFY
+2026-09-30 02:58:14,619 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:58:14,619 - INFO - ASIN: B00MHDCWFY
+2026-09-30 02:58:14,703 - INFO - BUY BOX SELLER: Flex R Enterprises
+2026-09-30 02:58:14,703 - INFO - AOD: Opening All Offers...
+2026-09-30 02:58:16,122 - INFO - AOD: Initial offers found: 7
+2026-09-30 02:58:17,462 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:58:18,832 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:58:20,127 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:58:20,190 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:58:20,203 - INFO - AOD EXTRACTION COMPLETE | ASIN: B00MHDCWFY | TOTAL UNIQUE SELLERS: 6
+2026-09-30 02:58:20,203 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3GJMDZYVMFOQ0&asin=B00MHDCWFY&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-30 02:58:20,998 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3MZ22WH2XR13I&isAmazonFulfilled=1&asin=B00MHDCWFY&ref_=olp_merch_name_1
+2026-09-30 02:58:21,733 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AFZ23P5QX3HBW&isAmazonFulfilled=1&asin=B00MHDCWFY&ref_=olp_merch_name_2
+2026-09-30 02:58:22,479 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A28POZD050PIYG&isAmazonFulfilled=1&asin=B00MHDCWFY&ref_=olp_merch_name_3
+2026-09-30 02:58:23,307 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A213Z8B661B9J3&isAmazonFulfilled=1&asin=B00MHDCWFY&ref_=olp_merch_name_4
+2026-09-30 02:58:24,086 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A16KW0AEN1K9G1&isAmazonFulfilled=1&asin=B00MHDCWFY&ref_=olp_merch_name_5
+2026-09-30 02:58:24,828 - INFO - [8/10] Processing product ASIN: B06XSF9J2Y
+2026-09-30 02:58:24,868 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B06XSF9J2Y
+2026-09-30 02:58:27,454 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:58:27,454 - INFO - ASIN: B06XSF9J2Y
+2026-09-30 02:58:27,606 - INFO - BUY BOX SELLER: Acupressure®
+2026-09-30 02:58:27,606 - INFO - AOD: Opening All Offers...
+2026-09-30 02:58:28,822 - INFO - AOD: Initial offers found: 3
+2026-09-30 02:58:30,080 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:58:31,308 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:58:32,495 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:58:32,558 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:58:32,569 - INFO - AOD EXTRACTION COMPLETE | ASIN: B06XSF9J2Y | TOTAL UNIQUE SELLERS: 2
+2026-09-30 02:58:32,570 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A28POZD050PIYG&asin=B06XSF9J2Y&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-30 02:58:33,351 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A213Z8B661B9J3&isAmazonFulfilled=1&asin=B06XSF9J2Y&ref_=olp_merch_name_1
+2026-09-30 02:58:34,083 - INFO - [9/10] Processing product ASIN: B0FM88DLTM
+2026-09-30 02:58:34,118 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0FM88DLTM
+2026-09-30 02:58:36,524 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:58:36,524 - INFO - ASIN: B0FM88DLTM
+2026-09-30 02:58:36,614 - INFO - BUY BOX SELLER: Tattoo Gizmo.
+2026-09-30 02:58:36,614 - INFO - AOD: Opening All Offers...
+2026-09-30 02:58:36,697 - INFO - AOD: Initial offers found: 0
+2026-09-30 02:58:37,819 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:58:38,926 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:58:40,017 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:58:40,076 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:58:40,085 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0FM88DLTM | TOTAL UNIQUE SELLERS: 1
+2026-09-30 02:58:40,086 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3MZ22WH2XR13I&asin=B0FM88DLTM&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-30 02:58:40,975 - INFO - [10/10] Processing product ASIN: B07XG43GYL
+2026-09-30 02:58:41,018 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B07XG43GYL
+2026-09-30 02:58:43,615 - INFO - PRODUCT: Product summary presents key product information
+2026-09-30 02:58:43,615 - INFO - ASIN: B07XG43GYL
+2026-09-30 02:58:43,647 - INFO - BUY BOX SELLER: Acupressure®
+2026-09-30 02:58:43,647 - INFO - AOD: Opening All Offers...
+2026-09-30 02:58:44,962 - INFO - AOD: Initial offers found: 5
+2026-09-30 02:58:46,215 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-30 02:58:47,448 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-30 02:58:48,680 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-30 02:58:48,743 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-30 02:58:48,756 - INFO - AOD EXTRACTION COMPLETE | ASIN: B07XG43GYL | TOTAL UNIQUE SELLERS: 4
+2026-09-30 02:58:48,756 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A28POZD050PIYG&asin=B07XG43GYL&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-30 02:58:54,486 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A213Z8B661B9J3&isAmazonFulfilled=1&asin=B07XG43GYL&ref_=olp_merch_name_1
+2026-09-30 02:58:55,168 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/details/?seller=A213Z8B661B9J3&sshmPath=shipping-rates
+2026-09-30 02:58:55,814 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A16KW0AEN1K9G1&isAmazonFulfilled=1&asin=B07XG43GYL&ref_=olp_merch_name_3
+2026-09-30 02:58:56,650 - INFO - Top businesses requested: 100, found: 11 for 'Massage Beds'
+2026-09-30 02:58:56,651 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 11 businesses...
+2026-09-30 02:58:56,651 - INFO - Starting Public Enrichment Waterfall for business 'veer teja enterprise ⭐⭐⭐⭐⭐'...
+2026-09-30 02:58:57,877 - INFO - Verifying website ownership candidate: https://www.veertejaenterprise.com/
+2026-09-30 02:58:57,939 - INFO - Verifying website ownership candidate: https://www.veertejaenterprise.in/
+2026-09-30 02:58:57,974 - INFO - Verifying website ownership candidate: https://goveer.com/
+2026-09-30 02:58:59,653 - INFO - Verifying website ownership candidate: https://goveer.com/collections/all
+2026-09-30 02:59:01,266 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-30 02:59:02,843 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-30 02:59:03,655 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/veer
+2026-09-30 02:59:04,371 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-30 02:59:09,138 - INFO - ENRICHMENT HEARTBEAT: Seller = veer teja enterprise ⭐⭐⭐⭐⭐, Elapsed = 12s, Current field = Legal Entity Name (Attempt 2)
+2026-09-30 02:59:10,040 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-30 02:59:11,144 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-30 02:59:11,882 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/veer
+2026-09-30 02:59:12,545 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-30 02:59:12,987 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 02:59:13,914 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-30 02:59:15,899 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-30 02:59:16,639 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/veer
+2026-09-30 02:59:17,323 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-30 02:59:18,694 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-30 02:59:19,815 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-30 02:59:20,573 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/veer
+2026-09-30 02:59:21,223 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-30 02:59:21,653 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 02:59:21,653 - INFO - ENRICHMENT HEARTBEAT: Seller = veer teja enterprise ⭐⭐⭐⭐⭐, Elapsed = 25s, Current field = GST (Attempt 1)
+2026-09-30 02:59:22,542 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-30 02:59:23,786 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-30 02:59:24,983 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/veer
+2026-09-30 02:59:25,585 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-30 02:59:26,907 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-30 02:59:28,559 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-30 02:59:29,353 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/veer
+2026-09-30 02:59:30,068 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-30 02:59:30,504 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 02:59:31,455 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-30 02:59:32,639 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-30 02:59:34,043 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/veer
+2026-09-30 02:59:34,688 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-30 02:59:35,123 - INFO - ENRICHMENT HEARTBEAT: Seller = veer teja enterprise ⭐⭐⭐⭐⭐, Elapsed = 38s, Current field = Owner (Attempt 2)
+2026-09-30 02:59:36,028 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-30 02:59:37,380 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-30 02:59:38,548 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/veer
+2026-09-30 02:59:39,320 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-30 02:59:39,778 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 02:59:40,673 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-30 02:59:42,350 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-30 02:59:43,143 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/veer
+2026-09-30 02:59:43,892 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-30 02:59:45,218 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-30 02:59:46,564 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-30 02:59:48,176 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/veer
+2026-09-30 02:59:48,925 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-30 02:59:49,366 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 02:59:49,366 - INFO - ENRICHMENT HEARTBEAT: Seller = veer teja enterprise ⭐⭐⭐⭐⭐, Elapsed = 53s, Current field = Phone (Attempt 1)
+2026-09-30 02:59:50,288 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-30 02:59:51,633 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-30 02:59:53,245 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/veer
+2026-09-30 02:59:54,035 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-30 02:59:55,389 - INFO - Fetching text from target page: https://goveer.com/
+2026-09-30 02:59:57,310 - INFO - Fetching text from target page: https://goveer.com/collections/all
+2026-09-30 02:59:58,736 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/veer
+2026-09-30 02:59:59,421 - INFO - Fetching text from target page: https://www.veer.com/
+2026-09-30 02:59:59,848 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 02:59:59,848 - INFO - ENRICHMENT HEARTBEAT: Seller = veer teja enterprise ⭐⭐⭐⭐⭐, Elapsed = 63s, Current field = Email (Attempt 1)
+2026-09-30 03:00:02,017 - INFO - Fetching text from target page: https://www.dnb.com/business-directory/company-profiles.veer_teja_enterprises.fd1fbcba2599c75680c62f6e7b532a90.html
+2026-09-30 03:00:02,117 - INFO - Fetching text from target page: https://www.dnb.com/business-directory/company-profiles.veer_teja_enterprise.e485ecd1f793764ff2dac28d4d0c6b62.html
+2026-09-30 03:00:02,143 - INFO - Fetching text from target page: https://www.dnb.com/business-directory/company-profiles.veer_teja_enterprise.6b13a1e41b055bfa4d132ab723a5538f.html
+2026-09-30 03:00:02,167 - INFO - Fetching text from target page: https://veertejawatertech.store/contact
+2026-09-30 03:00:02,985 - INFO - Starting Public Enrichment Waterfall for business 'Tattoo Gizmo.'...
+2026-09-30 03:00:03,959 - INFO - Verifying website ownership candidate: https://www.tattoogizmo.com/
+2026-09-30 03:00:05,828 - INFO - Successfully verified website candidate 'https://www.tattoogizmo.com/' for business 'Tattoo Gizmo.'
+2026-09-30 03:00:05,828 - INFO - Verified official website for 'Tattoo Gizmo.': https://www.tattoogizmo.com/
+2026-09-30 03:00:10,574 - INFO - Fetching text from target page: https://twistedinkohio.com/
+2026-09-30 03:00:16,577 - WARNING - WEBSITE TIMEOUT: https://twistedinkohio.com/
+2026-09-30 03:00:19,265 - INFO - Fetching text from target page: https://www.visiontoinktattoos.com/
+2026-09-30 03:00:19,407 - INFO - Fetching text from target page: https://www.yelp.com/search?cflt=tattoo&find_loc=Wilmington%2C+OH+45177&msockid=051f0577f82d69690c671293f92b6872
+2026-09-30 03:00:19,496 - INFO - Fetching text from target page: https://twistedinkohio.com/contact-us/
+2026-09-30 03:00:24,624 - INFO - ENRICHMENT HEARTBEAT: Seller = Tattoo Gizmo., Elapsed = 22s, Current field = Legal Entity Name (Attempt 2)
+2026-09-30 03:00:25,575 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 03:00:26,388 - INFO - Fetching text from target page: https://twistedinkohio.com/
+2026-09-30 03:00:27,123 - INFO - Fetching text from target page: https://www.visiontoinktattoos.com/
+2026-09-30 03:00:27,396 - INFO - Fetching text from target page: https://www.yelp.com/search?cflt=tattoo&find_loc=Wilmington%2C+OH+45177&msockid=051f0577f82d69690c671293f92b6872
+2026-09-30 03:00:27,461 - INFO - Fetching text from target page: https://twistedinkohio.com/contact-us/
+2026-09-30 03:00:33,463 - WARNING - WEBSITE TIMEOUT: https://twistedinkohio.com/contact-us/
+2026-09-30 03:00:34,375 - INFO - Fetching text from target page: https://twistedinkohio.com/
+2026-09-30 03:00:40,378 - WARNING - WEBSITE TIMEOUT: https://twistedinkohio.com/
+2026-09-30 03:01:13,434 - INFO - Fetching text from target page: https://www.visiontoinktattoos.com/
+2026-09-30 03:01:13,538 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 03:01:13,539 - INFO - ENRICHMENT HEARTBEAT: Seller = Tattoo Gizmo., Elapsed = 71s, Current field = GST (Attempt 1)
+2026-09-30 03:01:14,537 - INFO - Fetching text from target page: https://twistedinkohio.com/
+2026-09-30 03:01:15,516 - INFO - Fetching text from target page: https://www.visiontoinktattoos.com/
+2026-09-30 03:01:15,798 - INFO - Fetching text from target page: https://www.yelp.com/search?cflt=tattoo&find_loc=Wilmington%2C+OH+45177&msockid=051f0577f82d69690c671293f92b6872
+2026-09-30 03:01:15,887 - INFO - Fetching text from target page: https://twistedinkohio.com/contact-us/
+2026-09-30 03:01:21,889 - WARNING - WEBSITE TIMEOUT: https://twistedinkohio.com/contact-us/
+2026-09-30 03:01:22,779 - INFO - Fetching text from target page: https://twistedinkohio.com/
+2026-09-30 03:01:23,540 - INFO - Fetching text from target page: https://www.visiontoinktattoos.com/
+2026-09-30 03:01:23,823 - INFO - Fetching text from target page: https://www.yelp.com/search?cflt=tattoo&find_loc=Wilmington%2C+OH+45177&msockid=051f0577f82d69690c671293f92b6872
+2026-09-30 03:01:23,903 - INFO - Fetching text from target page: https://twistedinkohio.com/contact-us/
+2026-09-30 03:01:29,904 - WARNING - WEBSITE TIMEOUT: https://twistedinkohio.com/contact-us/
+2026-09-30 03:01:29,905 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 03:01:29,905 - INFO - ENRICHMENT HEARTBEAT: Seller = Tattoo Gizmo., Elapsed = 87s, Current field = Owner (Attempt 1)
+2026-09-30 03:01:30,794 - INFO - Fetching text from target page: https://twistedinkohio.com/
+2026-09-30 03:01:31,609 - INFO - Fetching text from target page: https://www.visiontoinktattoos.com/
+2026-09-30 03:01:31,883 - INFO - Fetching text from target page: https://www.yelp.com/search?cflt=tattoo&find_loc=Wilmington%2C+OH+45177&msockid=051f0577f82d69690c671293f92b6872
+2026-09-30 03:01:31,969 - INFO - Fetching text from target page: https://twistedinkohio.com/contact-us/
+2026-09-30 03:01:37,972 - WARNING - WEBSITE TIMEOUT: https://twistedinkohio.com/contact-us/
+2026-09-30 03:01:38,860 - INFO - Fetching text from target page: https://twistedinkohio.com/
+2026-09-30 03:01:39,644 - INFO - Fetching text from target page: https://www.visiontoinktattoos.com/
+2026-09-30 03:01:39,915 - INFO - Fetching text from target page: https://www.yelp.com/search?cflt=tattoo&find_loc=Wilmington%2C+OH+45177&msockid=051f0577f82d69690c671293f92b6872
+2026-09-30 03:01:40,016 - INFO - Fetching text from target page: https://twistedinkohio.com/contact-us/
+2026-09-30 03:01:45,356 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 03:01:45,384 - INFO - Starting Public Enrichment Waterfall for business 'Acupressure Health Care India'...
+2026-09-30 03:01:46,267 - INFO - Verifying website ownership candidate: https://www.acupressurehealthcareindia.com/
+2026-09-30 03:01:46,347 - INFO - Verifying website ownership candidate: https://www.acupressurehealthcareindia.in/
+2026-09-30 03:01:46,393 - INFO - Verifying website ownership candidate: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:01:46,463 - INFO - Verifying website ownership candidate: https://www.healthline.com/health/acupressure
+2026-09-30 03:01:46,970 - INFO - Successfully verified website candidate 'https://www.healthline.com/health/acupressure' for business 'Acupressure Health Care India'
+2026-09-30 03:01:46,970 - INFO - Verified official website for 'Acupressure Health Care India': https://www.healthline.com/
+2026-09-30 03:01:50,378 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:01:50,750 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:01:51,634 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:01:52,178 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:01:53,467 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:01:53,839 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:01:54,739 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:01:55,002 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:01:55,174 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 03:01:56,607 - INFO - ENRICHMENT HEARTBEAT: Seller = Acupressure Health Care India, Elapsed = 11s, Current field = PAN (Attempt 2)
+2026-09-30 03:01:57,928 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 03:01:58,818 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:01:59,193 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:00,101 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:00,461 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:01,561 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:01,921 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:02,798 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:03,163 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:03,341 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 03:02:04,340 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:04,734 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:05,601 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:05,960 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:07,037 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:07,411 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:08,300 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:08,630 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:08,802 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 03:02:08,802 - INFO - ENRICHMENT HEARTBEAT: Seller = Acupressure Health Care India, Elapsed = 23s, Current field = Address (Attempt 1)
+2026-09-30 03:02:09,766 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:10,120 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:11,124 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:11,455 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:12,561 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:12,948 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:13,790 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:14,196 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:14,301 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 03:02:15,241 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:15,619 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:16,511 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:16,867 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:17,967 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:18,331 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:19,219 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:19,562 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:19,709 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 03:02:19,759 - INFO - Starting Public Enrichment Waterfall for business 'Acupressure®'...
+2026-09-30 03:02:20,658 - INFO - Verifying website ownership candidate: https://www.acupressure.com/
+2026-09-30 03:02:21,725 - INFO - Successfully verified website candidate 'https://www.acupressure.com/' for business 'Acupressure®'
+2026-09-30 03:02:21,726 - INFO - Verified official website for 'Acupressure®': https://www.acupressure.com/
+2026-09-30 03:02:28,138 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:28,508 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:29,401 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:29,744 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:29,850 - INFO - ENRICHMENT HEARTBEAT: Seller = Acupressure®, Elapsed = 10s, Current field = Legal Entity Name (Attempt 2)
+2026-09-30 03:02:30,784 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:31,161 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:32,026 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:32,372 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:32,483 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 03:02:33,430 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:33,792 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:34,653 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:34,930 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:36,149 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:36,503 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:37,381 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:37,717 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:37,833 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 03:02:38,755 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:39,118 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:39,991 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:40,332 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:40,433 - INFO - ENRICHMENT HEARTBEAT: Seller = Acupressure®, Elapsed = 21s, Current field = GST (Attempt 2)
+2026-09-30 03:02:41,381 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:41,753 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:42,623 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:42,922 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:43,117 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 03:02:44,134 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:44,511 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:45,426 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:45,689 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:46,868 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:47,202 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:48,054 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:48,335 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:48,593 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 03:02:49,610 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:49,982 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:50,869 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:51,225 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:51,349 - INFO - ENRICHMENT HEARTBEAT: Seller = Acupressure®, Elapsed = 32s, Current field = Phone (Attempt 2)
+2026-09-30 03:02:52,278 - INFO - Fetching text from target page: https://health.clevelandclinic.org/acupressure-points
+2026-09-30 03:02:52,658 - INFO - Fetching text from target page: https://www.healthline.com/health/acupressure
+2026-09-30 03:02:53,523 - INFO - Fetching text from target page: https://acupressure.com/articles/acupressure-points/
+2026-09-30 03:02:53,790 - INFO - Fetching text from target page: https://acupressure.com/acupressure-basics-fundamentals/
+2026-09-30 03:02:53,975 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 03:02:54,027 - INFO - Starting Public Enrichment Waterfall for business 'Dr Choudhary'...
+2026-09-30 03:02:54,879 - INFO - Verifying website ownership candidate: https://www.drchoudhary.com/
+2026-09-30 03:02:55,639 - INFO - Successfully verified website candidate 'https://www.drchoudhary.com/' for business 'Dr Choudhary'
+2026-09-30 03:02:55,639 - INFO - Verified official website for 'Dr Choudhary': https://www.drchoudhary.com/
+2026-09-30 03:02:57,467 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:02:58,560 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:00,196 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:01,616 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:03,779 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:04,642 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:05,591 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:06,852 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:08,098 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 03:03:08,098 - INFO - ENRICHMENT HEARTBEAT: Seller = Dr Choudhary, Elapsed = 14s, Current field = PAN (Attempt 1)
+2026-09-30 03:03:08,970 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:09,873 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:10,791 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:11,951 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:13,910 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:14,896 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:15,796 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:16,777 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:17,751 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 03:03:18,616 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:19,494 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:20,420 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:21,499 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:22,566 - INFO - ENRICHMENT HEARTBEAT: Seller = Dr Choudhary, Elapsed = 29s, Current field = GST (Attempt 2)
+2026-09-30 03:03:23,464 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:24,330 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:25,235 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:26,304 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:27,284 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 03:03:28,176 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:28,347 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:29,217 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:30,261 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:32,193 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:32,294 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:33,150 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:34,376 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:35,455 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 03:03:35,455 - INFO - ENRICHMENT HEARTBEAT: Seller = Dr Choudhary, Elapsed = 41s, Current field = Address (Attempt 1)
+2026-09-30 03:03:36,332 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:36,495 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:37,371 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:38,778 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:40,813 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:40,926 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:41,799 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:42,876 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:43,930 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 03:03:44,831 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:45,005 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:45,894 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:46,921 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:47,918 - INFO - ENRICHMENT HEARTBEAT: Seller = Dr Choudhary, Elapsed = 54s, Current field = Phone (Attempt 2)
+2026-09-30 03:03:48,815 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:48,971 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:49,876 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:50,900 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:51,914 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 03:03:52,829 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:52,981 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:53,883 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:55,190 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:03:57,360 - INFO - Fetching text from target page: https://www.healthgrades.com/physician/dr-joseph-daley-xms9g
+2026-09-30 03:03:57,524 - INFO - Fetching text from target page: https://www.leehealth.org/find-a-doctor/rachel-wykes
+2026-09-30 03:03:58,441 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/trevor-cox-do-cape-coral-primary-care-doctor-millennium/
+2026-09-30 03:03:59,682 - INFO - Fetching text from target page: https://millenniumphysician.com/doctor/jerry-lanza-md-primary-care-physician-cape-coral/
+2026-09-30 03:04:00,941 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 03:04:00,962 - INFO - Starting Public Enrichment Waterfall for business 'Flex R Enterprises'...
+2026-09-30 03:04:01,949 - INFO - Verifying website ownership candidate: https://www.flexrenterprises.com/
+2026-09-30 03:04:02,029 - INFO - Verifying website ownership candidate: https://www.flexrenterprises.in/
+2026-09-30 03:04:02,078 - INFO - Verifying website ownership candidate: https://flex.securly.com/login
+2026-09-30 03:04:02,195 - INFO - Verifying website ownership candidate: https://getflex.app.link/e/na2tfsRrGwb
+2026-09-30 03:04:04,581 - INFO - Fetching text from target page: https://flex.securly.com/login
+2026-09-30 03:04:05,080 - INFO - Fetching text from target page: https://getflex.app.link/e/na2tfsRrGwb
+2026-09-30 03:04:06,753 - INFO - Fetching text from target page: https://www.flexpowertools.com/
+2026-09-30 03:04:07,361 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 03:04:08,694 - INFO - Fetching text from target page: https://flex.securly.com/login
+2026-09-30 03:04:09,149 - INFO - Fetching text from target page: https://getflex.app.link/e/na2tfsRrGwb
+2026-09-30 03:04:10,871 - INFO - Fetching text from target page: https://www.flexpowertools.com/
+2026-09-30 03:04:11,218 - INFO - ENRICHMENT HEARTBEAT: Seller = Flex R Enterprises, Elapsed = 10s, Current field = PAN (Attempt 2)
+2026-09-30 03:04:12,246 - INFO - Fetching text from target page: https://flex.securly.com/login
+2026-09-30 03:04:12,754 - INFO - Fetching text from target page: https://getflex.app.link/e/na2tfsRrGwb
+2026-09-30 03:04:14,341 - INFO - Fetching text from target page: https://www.flexpowertools.com/
+2026-09-30 03:04:14,648 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 03:04:15,550 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 03:04:16,777 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 03:04:17,486 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 03:04:18,808 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 03:04:18,819 - INFO - Starting Public Enrichment Waterfall for business 'CrazyCart'...
+2026-09-30 03:04:19,466 - INFO - Verifying website ownership candidate: https://www.crazycart.com/
+2026-09-30 03:04:20,135 - INFO - Successfully verified website candidate 'https://www.crazycart.com/' for business 'CrazyCart'
+2026-09-30 03:04:20,135 - INFO - Verified official website for 'CrazyCart': https://www.crazycart.com/
+2026-09-30 03:04:21,625 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 03:04:22,328 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 03:04:23,026 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 03:04:23,798 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 03:04:24,538 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 03:04:25,773 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 03:04:27,070 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 03:04:27,080 - INFO - Starting Public Enrichment Waterfall for business 'E-corner.'...
+2026-09-30 03:04:27,751 - INFO - Verifying website ownership candidate: https://www.ecorner.com/
+2026-09-30 03:04:31,752 - WARNING - WEBSITE TIMEOUT during verification: https://www.ecorner.com/
+2026-09-30 03:06:41,742 - INFO - Verifying website ownership candidate: https://www.ecorner.in/
+2026-09-30 03:06:42,738 - WARNING - SELLER ENRICHMENT TIME LIMIT REACHED (120s). Aborting remaining fields for 'E-corner.'.
+2026-09-30 03:06:42,862 - INFO - Starting Public Enrichment Waterfall for business 'Violet US store'...
+2026-09-30 03:06:43,560 - INFO - Verifying website ownership candidate: https://www.violetusstore.com/
+2026-09-30 03:06:43,682 - INFO - Verifying website ownership candidate: https://www.violetusstore.in/
+2026-09-30 03:06:44,431 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 03:06:45,682 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 03:06:46,409 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 03:06:46,667 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 03:06:47,386 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 03:06:48,071 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 03:06:48,813 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 03:06:48,829 - INFO - Starting Public Enrichment Waterfall for business 'Trendora Global'...
+2026-09-30 03:06:49,493 - INFO - Verifying website ownership candidate: https://www.trendoraglobal.com/
+2026-09-30 03:06:49,897 - INFO - Successfully verified website candidate 'https://www.trendoraglobal.com/' for business 'Trendora Global'
+2026-09-30 03:06:49,897 - INFO - Verified official website for 'Trendora Global': https://www.trendoraglobal.com/
+2026-09-30 03:06:51,714 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 03:06:53,096 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 03:06:54,356 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 03:06:55,628 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 03:06:56,884 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 03:06:57,056 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 03:06:58,308 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 03:06:58,325 - INFO - Starting Public Enrichment Waterfall for business 'ENTERPRISES OM ⭐⭐⭐⭐⭐'...
+2026-09-30 03:06:59,000 - INFO - Verifying website ownership candidate: https://www.enterprisesom.com/
+2026-09-30 03:06:59,080 - INFO - Verifying website ownership candidate: https://www.enterprisesom.in/
+2026-09-30 03:06:59,330 - INFO - FIELD SEARCH EXHAUSTED: Legal Entity Name
+2026-09-30 03:07:00,033 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-30 03:07:01,283 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-30 03:07:02,566 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-30 03:07:03,356 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-30 03:07:04,040 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-30 03:07:05,290 - INFO - FIELD SEARCH EXHAUSTED: Email
+2026-09-30 03:07:05,403 - INFO - Closed Playwright browser session safely
+2026-09-30 03:07:05,404 - INFO - Read 12 final verified records from SQLite for 'Massage Beds'
+2026-09-30 03:07:06,132 - INFO - Created safety backup of master Excel at /home/runner/work/Amazon-scrap/Amazon-scrap/output/backups/Amazon_Seller_Master_Data_20260930_030705_backup.xlsx
