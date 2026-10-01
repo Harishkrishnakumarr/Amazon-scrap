@@ -128231,3 +128231,5 @@ Call log:
 2026-09-30 03:07:05,403 - INFO - Closed Playwright browser session safely
 2026-09-30 03:07:05,404 - INFO - Read 12 final verified records from SQLite for 'Massage Beds'
 2026-09-30 03:07:06,132 - INFO - Created safety backup of master Excel at /home/runner/work/Amazon-scrap/Amazon-scrap/output/backups/Amazon_Seller_Master_Data_20260930_030705_backup.xlsx
+2026-10-01 02:55:42,352 - INFO - Starting Amazon Multi-Category Batch Processing Mode
+2026-10-01 02:55:42,352 - INFO - Initialized SQLite database schema at amazon_sellers.db
