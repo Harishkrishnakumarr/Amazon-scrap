@@ -128279,3 +128279,5 @@ Call log:
 2026-10-23 02:23:35,212 - INFO - Initialized SQLite database schema at amazon_sellers.db
 2026-10-24 02:21:20,419 - INFO - Starting Amazon Multi-Category Batch Processing Mode
 2026-10-24 02:21:20,420 - INFO - Initialized SQLite database schema at amazon_sellers.db
+2026-10-25 02:08:30,273 - INFO - Starting Amazon Multi-Category Batch Processing Mode
+2026-10-25 02:08:30,275 - INFO - Initialized SQLite database schema at amazon_sellers.db
